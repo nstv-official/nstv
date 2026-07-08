@@ -1,7 +1,9 @@
 [
     {
         "id": 1,
-        "banner_url": "https://imgur.com",
+        "title": "Promo Live Sports",
+        "banner_mobile_url": "https://githubusercontent.com",
+        "banner_tv_url": "https://githubusercontent.com",
         "action_target": "event",
         "target_id": 1
     }
