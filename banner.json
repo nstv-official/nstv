@@ -2,8 +2,8 @@
     {
         "id": 1,
         "title": "Promo Live Sports",
-        "banner_mobile_url": "https://githubusercontent.com",
-        "banner_tv_url": "https://githubusercontent.com",
+        "banner_mobile_url": "https://raw.githubusercontent.com/nstv-official/nstv/main/bannerhd.png",
+        "banner_tv_url": "https://raw.githubusercontent.com/nstv-official/nstv/main/bannerfhd.png",
         "action_target": "event",
         "target_id": 1
     }
