@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "match_title": "Real Madrid vs Barcelona",
+        "competition": "La Liga Spain",
+        "kick_off": "2026-07-08 22:00:00",
+        "uri": "https://server-bola-anda.com_1/master.m3u8",
+        "status": "Upcoming"
+    },
+    {
+        "id": 2,
+        "match_title": "Manchester United vs Liverpool",
+        "competition": "English Premier League",
+        "kick_off": "2026-07-08 20:00:00",
+        "uri": "https://server-bola-anda.com_2/master.m3u8",
+        "status": "Upcoming"
+    },
+    {
+        "id": 3,
+        "match_title": "Indonesia vs Jepang",
+        "competition": "Kualifikasi Piala Dunia",
+        "kick_off": "2026-07-08 19:00:00",
+        "uri": "https://server-bola-anda.com_3/master.m3u8",
+        "status": "Upcoming"
+    }
+]
