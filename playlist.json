@@ -1,5 +1,743 @@
 [
     {
+      "name": "IDX 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/oZl4oNH.jpeg",
+      "headers": {
+        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd"
+    },
+    {
+      "name": "IDX 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/oZl4oNH.jpeg",
+      "headers": {
+        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8"
+    },
+    {
+      "name": "SINDONEWS 2",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/vLo0ZHI.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "SINDONEWS 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/vLo0ZHI.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd"
+    },
+    {
+      "name": "INDOSIAR BOLA  1 \u2705 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/bjNCrmL.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "http://103.148.44.38:8000/play/a05c/index.m3u8"
+    },
+    {
+      "name": "INDOSIAR BOLA  0 \u2705 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/bjNCrmL.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "http://202.169.224.202:8800/udp/239.9.1.25:1234"
+    },
+    {
+      "name": "INDOSIAR BOLA  2 \u2705 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/bjNCrmL.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "http://202.169.224.202:8800/udp/239.4.4.2:1234"
+    },
+    {
+      "name": "RCTI 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+    },
+    {
+      "name": "RCTI 2",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+    },
+    {
+      "name": "RCTI 3",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+    },
+    {
+      "name": "RCTI 4",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
+      "streamUrl": "https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+    },
+    {
+      "name": "RCTI 5",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
+      "streamUrl": "https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8"
+    },
+    {
+      "name": "RCTI 5",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/C0a9fdx.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
+      "streamUrl": "https://allcutv.rctiplus.id/rcti2023.m3u8"
+    },
+    {
+      "name": "MUJI 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/dSA83Hx.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "http://opplextv.cyou:8080/nasir6160/nasir/350997"
+    },
+    {
+      "name": "SCTV (\u2705) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/brh5EU7.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd"
+    },
+    {
+      "name": "SCTV 2 \u2705 ",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/brh5EU7.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "http://opplextv.cyou:8080/nasir6160/nasir/351030"
+    },
+    {
+      "name": "INDOSIAR 3(\u2705) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/bjNCrmL.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f",
+      "streamUrl": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd"
+    },
+    {
+      "name": "INDOSIAR 4(\u2705) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/bjNCrmL.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36"
+      },
+      "isLive": true,
+      "drmType": "org.w3.clearkey",
+      "drmKey": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0",
+      "streamUrl": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash"
+    },
+    {
+      "name": "INEWS 1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/NTYY97h.jpeg",
+      "headers": {
+        "User-Agent": "android-R+"
+      },
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "I Am Channel (R) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/lKH1wII.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+    },
+    {
+      "name": "Trans TV 2 ON (R) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/lKH1wII.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd"
+    },
+    {
+      "name": "TransTV HD 3 (AG) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/lKH1wII.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd"
+    },
+    {
+      "name": "TransTV HD 4 (AG) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/lKH1wII.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8"
+    },
+    {
+      "name": "\ud83c\udd95 TRANS 7 HD 1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/WSnhDLn.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/trs7.m3u8"
+    },
+    {
+      "name": "\ud83c\udd95 TRANS 7 HD 2\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/WSnhDLn.jpeg",
+      "headers": {
+        "User-Agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8"
+    },
+    {
+      "name": "MENTARI TV 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/xtbagd5.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "org.w3.clearkey",
+      "drmKey": "340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3",
+      "streamUrl": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd"
+    },
+    {
+      "name": "MNCTV1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/JXLOOxS.jpeg",
+      "headers": {
+        "User-Agent": "android-R+"
+      },
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
+    },
+    {
+      "name": "MNCTV2\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/JXLOOxS.jpeg",
+      "headers": {
+        "User-Agent": "android-R+"
+      },
+      "isLive": true,
+      "streamUrl": "https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
+    },
+    {
+      "name": "MNCTV (R+) 2\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
+    },
+    {
+      "name": "BTV 1 ON (RW) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/sHTGdK6.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8"
+    },
+    {
+      "name": "CNBC INDONESIA 2",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/yxjrNLR.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8"
+    },
+    {
+      "name": "CNN Indonesia 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/yxjrNLR.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8"
+    },
+    {
+      "name": "Garuda TV 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/YtOBEpp.jpeg",
+      "headers": {
+        "User-Agent": "VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8"
+    },
+    {
+      "name": "Magna Channel 2\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/d7hjhxi.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+    },
+    {
+      "name": "METRO TV 1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/ydZkp17.jpeg",
+      "headers": {
+        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "drmType": "org.w3.clearkey",
+      "drmKey": "c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4",
+      "streamUrl": "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd"
+    },
+    {
+      "name": "Moji (Dens) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/6y8Bum2.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8"
+    },
+    {
+      "name": "RTV1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/LoyaFMC.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
+    },
+    {
+      "name": "TVONE (HD) 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/0TDfyNw.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032",
+      "streamUrl": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd"
+    },
+    {
+      "name": "TVONE (HD) 2",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/0TDfyNw.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032",
+      "streamUrl": "https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd"
+    },
+    {
+      "name": "KOMPAS TV 1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/AE6rBhB.jpeg",
+      "headers": {
+        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd"
+    },
+    {
+      "name": "KOMPAS TV 2\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/AE6rBhB.jpeg",
+      "headers": {
+        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://fta4-cdn-flr.visionplus.id/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd"
+    },
+    {
+      "name": "KOMPAS TV 3\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/AE6rBhB.jpeg",
+      "headers": {
+        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd"
+    },
+    {
+      "name": "KOMPAS TV 4\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/AE6rBhB.jpeg",
+      "headers": {
+        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8"
+    },
+    {
+      "name": "KOMPAS TV 5\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/AE6rBhB.jpeg",
+      "headers": {
+        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "http://203.77.246.58:4500/udp/239.1.1.6:5000"
+    },
+    {
+      "name": "Nusantara TV1\ufe0f\u20e3 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/u3VyI5p.jpeg",
+      "headers": {
+        "User-Agent": "TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+    },
+    {
+      "name": "\ud83c\udd95TVRI NASIONAL 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/XZ1Y89G.jpeg",
+      "headers": {
+        "User-Agent": "TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "\ud83c\udd95TVRI WORLD 1",
+      "category": "NASIONAL",
+      "logo": "https://i.imgur.com/XZ1Y89G.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd"
+    },
+	{
+      "name": "WARNER TV 1",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/kSNGK5D.jpegg",
+      "headers": {
+        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "HBO 1",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/hgyPQif.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "HBO HITS 1",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/5lUGmy0.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd"
+    },
+	{
+      "name": "HBO HITS 2",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/5lUGmy0.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "HBO FAMILY",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/T5qTF1M.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd"
+    },
+    {
+      "name": "HBO SIGNATURE",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/1BefgAg.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "CINEMAX 1",
+      "category": "FILM",
+      "logo": "https://i.imgur.com/rP1bUsQ.png",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd"
+    },
+    {
+      "name": "CINEMAX 2",
+      "category": "HBO",
+      "logo": "https://i.imgur.com/rP1bUsQ.png",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd"
+    },
+    {
+      "name": "BIZNET KIDS 1 ON (R) 1",
+      "category": "ANAK",
+      "logo": "https://i.imgur.com/rzdTiDx.jpeg",
+      "headers": {
+        "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+      },
+      "isLive": true,
+      "streamUrl": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd"
+    },
+    {
+      "name": "Moonbug Kids 1",
+      "category": "ANAK",
+      "logo": "https://i.imgur.com/JVMAQA2.jpeg ",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "PBS Kids 1",
+      "category": "ANAK",
+      "logo": "https://i.imgur.com/qTN1GVJ.jpeg ",
+      "headers": {
+        "User-Agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    },
+    {
+      "name": "Zoo Moo 1",
+      "category": "ANAK",
+      "logo": "https://i.imgur.com/x7vBeiA.jpeg ",
+      "headers": {
+        "User-Agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "name": "EBS Kids 1",
+      "category": "ANAK",
+      "logo": "https://i.imgur.com/KqLYir2.jpeg ",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    },
+    {
+      "name": "beIN Sports 1 ID (R) \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "streamUrl": "http://41.205.70.146/BEINSPORT1/index.m3u8"
+    },
+    {
+      "name": "beIN Sports 2 ID (R) \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "streamUrl": "http://41.205.70.146/M6/index.m3u8"
+    },
+    {
+      "name": "beIN Sports 3 ID (R) \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b",
+      "streamUrl": "http://41.205.70.146/BEINSPORT1/index.m3u8\""
+    },
+	{
+      "name": "FOX_Sports 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8"
+    },
+	{
+      "name": "Sci-Fi World-Non Sub",
+      "category": "FILM",
+      "logo": "",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
+    },
+    {
+      "name": "NBA TV \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/K3FXClz.jpeg",
+      "headers": {},
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef",
+      "streamUrl": "http://212.102.60.231/NBA_TV/index.m3u8"
+    },
+    {
+      "name": "FIGHT SPORTS (AG) \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/mbW2EWt.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd"
+    },
+    {
+      "name": "Soccer Channel \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
+    },
+    {
+      "name": "Soccer Channel \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
+      "streamUrl": "https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
+    },
+    {
+      "name": "Sportstars 1 HD \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
+    },
+    {
+      "name": "Sportstars 2 HD \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "isLive": true,
+      "drmType": "clearkey",
+      "drmKey": "911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c",
+      "streamUrl": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
+    },
+    {
+      "name": "Sportstars 4 \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
+    },
+    {
+      "name": "SPOTV \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg group-title=",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119515.m3u8"
+    },
+    {
+      "name": "SPOTV 2 \u2705 1",
+      "category": "OLAHRAGA LOKAL",
+      "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "http://primestreams.tv:826/live/mookie22/49aV7nBsK4/119516.m3u8"
+    },
+    {
+      "name": "tvN \ud83c\uddf0\ud83c\uddf7 1",
+      "category": "DUNIA | KOREA NON SUB",
+      "logo": "https://i.imgur.com/e8w10pk.jpeg",
+      "headers": {
+        "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+      },
+      "isLive": true,
+      "streamUrl": "https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8"
+    },
+    {
+	  "name": "KBS WORLD 1",
+      "category": "DUNIA | KOREA NON SUB",
+      "logo": "https://i.imgur.com/e8w10pk.jpeg",
+      "headers": {},
+      "isLive": true,
+      "streamUrl": "http://125.227.210.55:17478/VideoInput/play.ts"
+    },
+    {
+      "name": "ABN TV 1",
+      "category": "DUNIA | KOREA NON SUB",
+      "logo": "https://i.imgur.com/e8w10pk.jpeg",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+      },
+      "isLive": true,
+      "streamUrl": "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+    },
+    {
         "id": 1,
         "title": "TVP Sports (Poland)",
         "category": "WorldCup 2026",
