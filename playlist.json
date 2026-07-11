@@ -664,36 +664,44 @@
     },
     {
         "id": 40,
-        "name": "beIN Sports 1 ID (R) ✅ 1",
-        "title": "beIN Sports 1 ID (R) ✅ 1",
-        "category": "WORLDCUP 2026",
-        "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
-        "uri": "http://41.205.70.146/BEINSPORT1/index.m3u8",
-        "streamUrl": "http://41.205.70.146/BEINSPORT1/index.m3u8",
+        "title": "TVN ID",
+        "category": "FILM",
+        "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isLive": true,
+        "resolution": "Dynamic / Auto",
+        "audio": "Default Track",
         "epg_metadata": {
-            "tvg_id": "auto.bein.sports.1.id.(r).✅.1",
-            "tvg_name": "beIN Sports 1 ID (R) ✅ 1",
-            "tvg_logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+            "tvg_id": "tvN.id",
+            "tvg_name": "TVN",
+            "tvg_logo": "https://i.imgur.com/IicKfBI.jpeg",
             "source_xml": "Embedded"
+        },
+        "current_program": {
+            "now_playing": "Live Stream",
+            "description": "",
+            "start_time": "N/A",
+            "stop_time": "N/A"
         }
     },
     {
         "id": 41,
-        "name": "beIN Sports 2 ID (R) ✅ 1",
-        "title": "beIN Sports 2 ID (R) ✅ 1",
-        "category": "WORLDCUP 2026",
-        "logo": "https://i.imgur.com/IQkwAXJ.jpeg",
-        "uri": "http://41.205.70.146/M6/index.m3u8",
-        "streamUrl": "http://41.205.70.146/M6/index.m3u8",
+        "title": "TVN MOVIES",
+        "category": "FILM",
+        "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "isLive": true,
+        "resolution": "Dynamic / Auto",
+        "audio": "Default Track",
         "epg_metadata": {
-            "tvg_id": "auto.bein.sports.2.id.(r).✅.1",
-            "tvg_name": "beIN Sports 2 ID (R) ✅ 1",
-            "tvg_logo": "https://i.imgur.com/IQkwAXJ.jpeg",
+            "tvg_id": "tvNMovies.id",
+            "tvg_name": "TVN MOVIES",
+            "tvg_logo": "https://i.imgur.com/SR1YPbD.jpeg",
             "source_xml": "Embedded"
+        },
+        "current_program": {
+            "now_playing": "Live Stream",
+            "description": "",
+            "start_time": "N/A",
+            "stop_time": "N/A"
         }
     },
     {
