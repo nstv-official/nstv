@@ -1,0 +1,47 @@
+[
+  {
+    "id": 9001,
+    "leagueId": 0,
+    "leagueName": "PROLIGA INDONESIA 2024",
+    "homeTeamName": "Jakarta LavAni",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/lavani.png",
+    "awayTeamName": "Surabaya Samator",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/samator.png",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT",
+    "elapsed": 0,
+    "date": "2024-07-20T19:00:00",
+    "sportType": "Voli"
+  },
+  {
+    "id": 9002,
+    "leagueId": 0,
+    "leagueName": "PROLIGA INDONESIA 2024",
+    "homeTeamName": "Jakarta STIN BIN",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/stinbin.png",
+    "awayTeamName": "Bhayangkara Presisi",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/bhayangkara.png",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NS",
+    "elapsed": 0,
+    "date": "2024-07-25T16:00:00",
+    "sportType": "Voli"
+  },
+  {
+    "id": 9003,
+    "leagueId": 0,
+    "leagueName": "LIVOLI DIVISI UTAMA",
+    "homeTeamName": "Indomaret Sidoarjo",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/indomaret.png",
+    "awayTeamName": "STIN BIN",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/stin_bin.png",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "Live",
+    "elapsed": 2,
+    "date": "2024-07-20T14:30:00",
+    "sportType": "Voli"
+  }
+]

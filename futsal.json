@@ -1,0 +1,47 @@
+[
+  {
+    "id": 8001,
+    "leagueId": 0,
+    "leagueName": "LIGA FUTSAL PROFESIONAL",
+    "homeTeamName": "Bintang Timur Surabaya",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/bts.png",
+    "awayTeamName": "Black Steel Papua",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/blacksteel.png",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT",
+    "elapsed": 40,
+    "date": "2024-07-19T15:00:00",
+    "sportType": "Futsal"
+  },
+  {
+    "id": 8002,
+    "leagueId": 0,
+    "leagueName": "LIGA FUTSAL PROFESIONAL",
+    "homeTeamName": "Kancil WHW Pontianak",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/kancil.png",
+    "awayTeamName": "Cosmo JNE",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/cosmo.png",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "Live",
+    "elapsed": 15,
+    "date": "2024-07-20T11:00:00",
+    "sportType": "Futsal"
+  },
+  {
+    "id": 8003,
+    "leagueId": 0,
+    "leagueName": "LIGA FUTSAL PROFESIONAL",
+    "homeTeamName": "Unggul FC Malang",
+    "homeTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/unggul.png",
+    "awayTeamName": "Fafage Banua",
+    "awayTeamLogo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/fafage.png",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "NS",
+    "elapsed": 0,
+    "date": "2024-07-26T19:00:00",
+    "sportType": "Futsal"
+  }
+]
