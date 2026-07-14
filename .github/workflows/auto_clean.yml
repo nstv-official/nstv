@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.json
-          git commit -m "Auto-clean: Removed dead links and updated playlist" || echo "No changes to commit"
+          git add playlist.json voli.json futsal.json
+          git commit -m "Total Auto-clean: Updated TV, Voli, and Futsal playlists" || echo "No changes to commit"
           git push
