@@ -25,8 +25,15 @@ def process_file(filename):
     try:
         with open(filename, 'r') as f:
             data = json.load(f)
-            # Menangani format object {"channels": []} atau format list []
-            items = data["channels"] if isinstance(data, dict) and "channels" in data else data
+        
+        # LOGIKA DETEKSI FORMAT (PENTING!)
+        is_obj_format = isinstance(data, dict) and "channels" in data
+        items = data["channels"] if is_obj_format else data
+        
+        if not isinstance(items, list):
+            print(f"Format di {filename} tidak didukung.")
+            return
+
     except Exception as e:
         print(f"Melewati {filename}: {e}")
         return
@@ -39,18 +46,23 @@ def process_file(filename):
         results = list(executor.map(check_link, items))
         valid_items = [i for i in results if i is not None]
 
-    # Simpan kembali sesuai format aslinya
-    output_data = {"channels": valid_items} if isinstance(data, dict) and "channels" in data else valid_items
+    # SIMPAN KEMBALI SESUAI FORMAT ASLINYA (TANPA MERUSAK STRUKTUR)
+    if is_obj_format:
+        output_data = data
+        output_data["channels"] = valid_items
+    else:
+        output_data = valid_items
+
     with open(filename, 'w') as f:
         json.dump(output_data, f, indent=2)
 
     print(f"Pembersihan {filename} Selesai. Item aktif: {len(valid_items)}\n")
 
 def main():
-    print("Memulai NSTV TOTAL CLEANER...\n")
+    print("Memulai NSTV TOTAL CLEANER (V2 - Smart Format)...\n")
     for file in FILES_TO_CLEAN:
         process_file(file)
-    print("Semua playlist telah dibersihkan!")
+    print("Semua playlist telah dibersihkan dan struktur tetap terjaga!")
 
 if __name__ == "__main__":
     main()
