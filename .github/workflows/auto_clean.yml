@@ -1,0 +1,33 @@
+name: NSTV Auto Clean Playlist
+
+on:
+  schedule:
+    # Berjalan otomatis setiap 12 jam (Jam 00:00 dan 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Supaya kamu bisa jalankan manual kapan saja lewat tab Actions
+
+jobs:
+  clean-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run cleaner script
+        run: python auto_clean_playlist.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.json
+          git commit -m "Auto-clean: Removed dead links and updated playlist" || echo "No changes to commit"
+          git push
