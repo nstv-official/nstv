@@ -291,23 +291,23 @@
         "id": "13",
         "title": "TRANS 7 TV",
         "category": "NASIONAL",
-        "uri": "https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/10.ts",
+        "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
-            "Referer": "https://tv.ngebutz.my.id:443/",
-            "Origin": "https://tv.ngebutz.my.id:443"
+            "Referer": "https://m.visionplus.id",
+            "Origin": "https://m.visionplus.id"
         },
         "drm_info": {
             "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
+            "drm_type": "org.w3.clearkey",
+            "drm_key": "78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf"
         },
         "epg_metadata": {
             "tvg_id": "auto.trans.7.tv",
             "tvg_name": "TRANS 7 TV",
-            "tvg_logo": "https://images.indihometv.com/images/channels/image_ch_trans7.png",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",
             "source_xml": "Embedded"
         }
     },
