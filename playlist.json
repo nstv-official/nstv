@@ -1,5 +1,29 @@
 [
     {
+        "id": "0",
+        "title": "MOJI TV",
+        "category": "Indonesia Channels",
+        "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Origin": "https://www.dens.tv",
+            "Referer": "https://op-flashcon-digdayahd-1.dens.tv/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "Moji",
+            "tvg_name": "MOJI TV",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "1",
         "title": "IDX",
         "category": "NASIONAL",
