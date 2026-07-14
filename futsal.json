@@ -1,1 +1,242 @@
-[]
+[
+    {
+        "id": "1",
+        "title": "T-Sports",
+        "category": "world cup",
+        "uri": "http://103.165.93.31:8095/tsports/video.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://103.165.93.31:8095/",
+            "Origin": "https://103.165.93.31:8095"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "t sports",
+            "tvg_name": "T-Sports",
+            "tvg_logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Unite8",
+        "category": "NASIONAL",
+        "uri": "http://103.165.93.31:8095/unt-s/video.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://103.165.93.31:8095/",
+            "Origin": "https://103.165.93.31:8095"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Unite8",
+            "tvg_logo": "https://i.imgur.com/yTl9XIh.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "3",
+        "title": "T-Sports",
+        "category": "world cup",
+        "uri": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://103.165.93.31:8095/",
+            "Origin": "https://103.165.93.31:8095"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "t sports",
+            "tvg_name": "T-Sports",
+            "tvg_logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "4",
+        "title": "FOX SPORTS",
+        "category": "FIFA WC 2026",
+        "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://otte.cache.aiv-cdn.net/",
+            "Origin": "https://otte.cache.aiv-cdn.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "FOX SPORTS",
+            "tvg_logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "5",
+        "title": "Caze TV Brazil 🇧🇷",
+        "category": "NASIONAL",
+        "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://dfr80qz435crc.cloudfront.net/",
+            "Origin": "https://dfr80qz435crc.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Caze TV Brazil 🇧🇷",
+            "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "6",
+        "title": "TSN1",
+        "category": "NASIONAL",
+        "uri": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://rgkkw.live/",
+            "Origin": "https://rgkkw.live"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "TSN1",
+            "tvg_logo": "https://i.imgur.com/N09UZWA.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "7",
+        "title": "DSPORTS",
+        "category": "NASIONAL",
+        "uri": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://otte.cache.aiv-cdn.net/",
+            "Origin": "https://otte.cache.aiv-cdn.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "DSPORTS",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "8",
+        "title": "DSPORTS",
+        "category": "NASIONAL",
+        "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://otte.cache.aiv-cdn.net/",
+            "Origin": "https://otte.cache.aiv-cdn.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a"
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "DSPORTS",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "9",
+        "title": "Bioscope",
+        "category": "NASIONAL",
+        "uri": "https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://fifa-stream-01.bioscopelive.com/",
+            "Origin": "https://fifa-stream-01.bioscopelive.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Bioscope",
+            "tvg_logo": "https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "10",
+        "title": "Fifa World Cup",
+        "category": "Sports Channels",
+        "uri": "http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=900&c=-2",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://fifabangladesh.top/",
+            "Origin": "https://fifabangladesh.top"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "toffee",
+            "tvg_name": "Fifa World Cup",
+            "tvg_logo": "https://i.imgur.com/53aSeDH.png",
+            "source_xml": "Embedded"
+        }
+    }
+]
