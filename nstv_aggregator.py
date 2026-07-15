@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 # KONFIGURASI AGGREGATOR
 # =================================================================
 SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
-LOCAL_PLAYLIST = "playlist.json"
+LOCAL_PLAYLIST = "system_config_v3.data"
 TIMEOUT = 12
 
 # Kategori yang di-BLOKIR (Kecuali Sports)
