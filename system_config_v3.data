@@ -8089,30 +8089,6 @@
     }
   },
   {
-    "id": "434",
-    "title": "TNT SPORT 3",
-    "category": "OLAHRAGA | UFC",
-    "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100777",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://lunar.pm:8080/",
-      "Origin": "https://lunar.pm:8080"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "TNT SPORT 3",
-      "tvg_logo": "https://i.imgur.com/ZJvXooj.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "435",
     "title": "SPOTV",
     "category": "OLAHRAGA | GOLF",
@@ -8492,30 +8468,6 @@
     "epg_metadata": {
       "tvg_id": "",
       "tvg_name": "TNT SPORT 1",
-      "tvg_logo": "https://i.imgur.com/1vqowr7.png",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": "466",
-    "title": "TNT SPORT 3",
-    "category": "OLAHRAGA POPULER 2",
-    "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100777",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://lunar.pm:8080/",
-      "Origin": "https://lunar.pm:8080"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "TNT SPORT 3",
       "tvg_logo": "https://i.imgur.com/1vqowr7.png",
       "source_xml": "Embedded"
     }
