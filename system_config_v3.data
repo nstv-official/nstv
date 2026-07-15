@@ -10129,30 +10129,6 @@
     }
   },
   {
-    "id": "554",
-    "title": "tvg-logo=",
-    "category": "BOLA | PIALA DUNIA 2026",
-    "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1",
-    "user_agent": "Plus-Official-Box",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://api.plus-server.sbs/",
-      "Origin": "https://api.plus-server.sbs"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "tvg-logo=",
-      "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "555",
     "title": "LIVE 8 (Bein Sport 3 Turkey)",
     "category": "BOLA | LIGA INGGRIS",
