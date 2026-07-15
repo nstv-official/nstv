@@ -50,9 +50,9 @@ def get_smart_headers(url, item):
     domain = urlparse(url).netloc.lower()
     if "visionplus.id" in domain or "cloudfront.net" in domain:
         if "Origin" not in headers:
-            headers["Origin"] = "https://www.visionplus.id"
+            headers["Origin"] = "https://visionplus.id"
         if "Referer" not in headers:
-            headers["Referer"] = "https://www.visionplus.id/"
+            headers["Referer"] = "https://visionplus.id/"
         headers.update({
             "X-Requested-With": "id.visionplus.android",
             "Sec-Fetch-Mode": "cors",
@@ -69,14 +69,17 @@ def check_link(item):
         return item
 
     headers = get_smart_headers(url, item)
+    
+    # Penulisan aman tanpa kurung siku agar tidak terhapus otomatis oleh sistem AI
+    status_geoblock = tuple((403, 451))
 
     # Coba verifikasi dengan 2 metode (HEAD terlebih dahulu, lalu GET jika gagal)
     try:
         # Metode 1: HEAD request (cepat dan tidak membebani server)
         response = requests.head(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
         
-        # Toleransi khusus IP luar negeri (GitHub): Jika 403 (Forbidden) atau 451 (Geoblock), amankan channel!
-        if response.status_code in:
+        # JIKA TERKENA GEOBLOCK (403/451) DI SERVER GITHUB, JANGAN DIHAPUS
+        if response.status_code in status_geoblock:
             print(f"[!] Geoblock Terdeteksi ({response.status_code}) pada: {item.get('title')} -> Dipertahankan")
             return item
             
@@ -90,7 +93,8 @@ def check_link(item):
         # Metode 2: GET request (Jika server menolak metode HEAD)
         response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
         
-        if response.status_code in:
+        # JIKA TERKENA GEOBLOCK (403/451) DI SERVER GITHUB, JANGAN DIHAPUS
+        if response.status_code in status_geoblock:
             print(f"[!] Geoblock Terdeteksi ({response.status_code}) pada: {item.get('title')} -> Dipertahankan")
             return item
             
