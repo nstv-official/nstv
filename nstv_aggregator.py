@@ -7,7 +7,10 @@ from urllib.parse import urlparse
 # =================================================================
 # KONFIGURASI AGGREGATOR
 # =================================================================
-SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
+SOURCES = [
+    "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026",
+    "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv.m3u"
+]
 LOCAL_PLAYLIST = "system_config_v3.data"
 TIMEOUT = 12
 
