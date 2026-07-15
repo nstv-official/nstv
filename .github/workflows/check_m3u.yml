@@ -25,5 +25,5 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
-        git add live_channels.m3u
+        git add system_data.dt
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update live channels playlist" && git push)
