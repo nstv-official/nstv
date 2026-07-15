@@ -21,12 +21,13 @@ jobs:
         run: pip install requests
 
       - name: Run cleaner script
-        run: python auto_clean_playlist.py
+        # Sesuaikan dengan nama file python Anda di GitHub
+        run: python nstv_cleaner.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.json voli.json futsal.json
-          git commit -m "Total Auto-clean (V3): Updated playlists safely" || echo "No changes to commit"
+          git add playlist.json voli.json
+          git commit -m "Total Auto-clean (V3): Updated playlists safely with Android headers" || echo "No changes to commit"
           git push
