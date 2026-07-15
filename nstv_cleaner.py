@@ -5,9 +5,8 @@ from urllib.parse import urlparse
 
 # =================================================================
 # DAFTAR FILE YANG AKAN DIBERSIHKAN
-# Catatan: Pastikan file JSON berada di folder yang sama dengan script ini.
 # =================================================================
-FILES_TO_CLEAN = ["playlist.json", "voli.json"]
+FILES_TO_CLEAN = ["system_config_v3.data"]
 TIMEOUT = 12
 
 def get_headers(url):
