@@ -2,15 +2,16 @@ import requests
 import json
 import concurrent.futures
 import re
+import random
 from urllib.parse import urlparse
 
 # =================================================================
 # KONFIGURASI AGGREGATOR
 # =================================================================
 SOURCES = [
-    "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026",
-    "https://raw.githubusercontent.com/apistech/project/main/playlists/events.m3u8",
-    "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv.m3u"
+    "https://githubusercontent.com",
+    "https://githubusercontent.com",
+    "https://githubusercontent.com"
 ]
 LOCAL_PLAYLIST = "system_config_v3.data"
 TIMEOUT = 12
@@ -20,143 +21,201 @@ BLACKLIST_GEO = ["MALAYSIA", "SINGAPORE", "SINGAPURA", "CHINA", "INDIA", "USA", 
 # Kategori yang SELALU DI-IZINKAN
 WHITELIST_TYPE = ["NASIONAL", "DAERAH", "LOKAL", "RELIGI", "HIBURAN", "MOVIES", "KIDS", "SPORTS"]
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
-}
+# Daftar User-Agent Default (Akan dipilih acak jika sumber M3U tidak menyediakan user-agent khusus)
+USER_AGENTS_POOL = [
+    "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+    "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+    "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1"
+]
 
-def get_headers_for_url(url):
-    headers = HEADERS.copy()
+def get_smart_headers(url, custom_ua=None):
+    """Menyusun headers pintar berdasarkan domain dan custom User-Agent jika ada"""
+    ua = custom_ua if custom_ua else random.choice(USER_AGENTS_POOL)
+    headers = {"User-Agent": ua}
+    
     domain = urlparse(url).netloc.lower()
     if "visionplus.id" in domain or "cloudfront.net" in domain:
         headers.update({
-            "Origin": "https://www.visionplus.id",
-            "Referer": "https://www.visionplus.id/",
+            "Origin": "https://visionplus.id",
+            "Referer": "https://visionplus.id/",
             "X-Requested-With": "id.visionplus.android"
         })
     return headers
 
-def is_link_alive(url):
+def is_link_alive(url, custom_ua=None):
+    """Mengecek status keaktifan URL"""
+    if not url:
+        return False
     try:
-        headers = get_headers_for_url(url)
+        headers = get_smart_headers(url, custom_ua)
         response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
         return response.status_code < 400
     except:
         return False
 
-def parse_m3u(content):
+def parse_m3u_advanced(content):
+    """Menganalisis M3U secara baris-per-baris untuk akurasi data (UA, DRM, Nama, URL)"""
     channels = []
-    # Regex untuk mengambil metadata M3U
-    items = re.findall(r'#EXTINF:.*group-title="([^"]*)".*tvg-logo="([^"]*)".*,(.*)\n(?:#KODIPROP:.*license_key=(.*)\n)?(.*)', content)
-
-    for group, logo, name, key, url in items:
-        group = group.upper().strip()
-        name = name.strip()
-        url = url.strip()
-
-        # FILTER 1: Lewati jika maintenance
-        if "MAINTENANCE" in name.upper() or "ORDER DISINI" in group:
+    lines = content.split('\n')
+    
+    current_extinf = None
+    current_ua = None
+    current_key = None
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
             continue
-
-        # FILTER 2: Geografis (Hanya blokir jika bukan kategori SPORTS)
-        is_sports = "SPORTS" in group
-        is_blacklisted = any(geo in group for geo in BLACKLIST_GEO)
-
-        if is_blacklisted and not is_sports:
+            
+        # 1. Deteksi Baris #EXTINF
+        if line.startswith("#EXTINF:"):
+            current_extinf = line
             continue
-
-        # FILTER 3: Hanya ambil Whitelist atau Sports
-        is_whitelisted = any(w in group for w in WHITELIST_TYPE)
-        if not (is_whitelisted or is_sports):
+            
+        # 2. Deteksi Baris User-Agent Khusus dari M3U
+        elif line.startswith("#EXTVLCOPT:http-user-agent="):
+            current_ua = line.split("=", 1)[1].strip()
             continue
+            
+        # 3. Deteksi Baris KODIPROP (DRM Clearkey)
+        elif line.startswith("#KODIPROP:status_key=") or line.startswith("#KODIPROP:license_key="):
+            current_key = line.split("=", 1)[1].strip()
+            continue
+            
+        # 4. Deteksi Baris URL (Bisa diawali '#' jika di-comment oleh pemiliknya)
+        elif line.startswith("http") or (line.startswith("#http") or line.startswith("# https")):
+            # Bersihkan url jika ada tanda pagar penonaktif di depannya
+            url = re.sub(r'^[#\s]+', '', line).strip()
+            
+            if current_extinf:
+                # Ekstrak Metadata menggunakan Regex
+                group_match = re.search(r'group-title="([^"]*)"', current_extinf, re.IGNORECASE)
+                logo_match = re.search(r'tvg-logo="([^"]*)"', current_extinf, re.IGNORECASE)
+                tvg_id_match = re.search(r'tvg-id="([^"]*)"', current_extinf, re.IGNORECASE)
+                tvg_name_match = re.search(r'tvg-name="([^"]*)"', current_extinf, re.IGNORECASE)
+                
+                # Nama channel berada di paling akhir setelah tanda koma terakhir
+                name_parts = current_extinf.split(',')
+                name = name_parts[-1].strip() if name_parts else "Unknown"
+                
+                group = group_match.group(1).upper().strip() if group_match else "LAINNYA"
+                logo = logo_match.group(1).strip() if logo_match else ""
+                tvg_id = tvg_id_match.group(1).strip() if tvg_id_match else ""
+                tvg_name = tvg_name_match.group(1).strip() if tvg_name_match else name
 
-        channels.append({
-            "title": name,
-            "category": group,
-            "uri": url,
-            "logo": logo,
-            "drm_key": key.strip() if key else None
-        })
+                # FILTER UTAMA
+                if "MAINTENANCE" in name.upper() or "ORDER DISINI" in group:
+                    # Reset data baris dan lewatin
+                    current_extinf = current_ua = current_key = None
+                    continue
+
+                is_sports = "SPORTS" in group
+                if any(geo in group for geo in BLACKLIST_GEO) and not is_sports:
+                    current_extinf = current_ua = current_key = None
+                    continue
+
+                if not (any(w in group for w in WHITELIST_TYPE) or is_sports):
+                    current_extinf = current_ua = current_key = None
+                    continue
+
+                # Gabungkan data ke struktur objek m3u sementara
+                channels.append({
+                    "title": name,
+                    "category": group,
+                    "uri": url,
+                    "user_agent": current_ua if current_ua else random.choice(USER_AGENTS_POOL),
+                    "drm_key": current_key,
+                    "tvg_id": tvg_id,
+                    "tvg_name": tvg_name,
+                    "tvg_logo": logo
+                })
+                
+            # Reset penampung data untuk baris channel berikutnya
+            current_extinf = current_ua = current_key = None
+            
     return channels
 
 def aggregate():
-    print("--- Memulai NSTV Aggregator & Smart Link Repair ---")
+    print("--- Memulai NSTV Smart Aggregator V3 ---")
 
-    # 1. Baca Playlist Lokal
+    # 1. Muat atau Buat Database Lokal
     try:
         with open(LOCAL_PLAYLIST, 'r', encoding='utf-8') as f:
             local_data = json.load(f)
         local_channels = local_data.get("channels", [])
     except Exception as e:
-        print(f"Error baca playlist lokal: {e}")
-        return
+        print(f"Menginisialisasi file playlist lokal baru.")
+        local_data = {"channels": []}
+        local_channels = []
 
-    # 2. Ambil Playlist Sumber (M3U)
-    print(f"Mengambil data dari sumber: {SOURCE_URL}")
-    try:
-        response = requests.get(SOURCE_URL, headers=HEADERS, timeout=20)
-        source_channels = parse_m3u(response.text)
-        print(f"Ditemukan {len(source_channels)} channel potensial di sumber.")
-    except Exception as e:
-        print(f"Gagal mengambil sumber: {e}")
-        return
+    # 2. Ambil & Parse Data Scraper dari Semua Sumber Internet
+    source_channels = []
+    for url in SOURCES:
+        print(f"Membaca internet sumber: {url}")
+        try:
+            response = requests.get(url, headers={"User-Agent": random.choice(USER_AGENTS_POOL)}, timeout=20)
+            parsed = parse_m3u_advanced(response.text)
+            source_channels.extend(parsed)
+            print(f"-> Berhasil memproses {len(parsed)} channel potensial.")
+        except Exception as e:
+            print(f"-> Gagal membaca url sumber: {e}")
 
-    # 3. Identifikasi Channel yang MATI di NSTV
-    print("Mengecek kesehatan playlist NSTV saat ini...")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        status_results = list(executor.map(lambda x: is_link_alive(x.get("uri", "")), local_channels))
+    # 3. Filter Validasi: Cek Kesehatan Channel Lokal Saat Ini
+    # Buang otomatis jika terbukti mati!
+    alive_local_channels = []
+    if local_channels:
+        print("\nMengecek kesehatan link lokal saat ini (Membuang link mati)...")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            local_status = list(executor.map(lambda x: is_link_alive(x.get("uri"), x.get("user_agent")), local_channels))
+        
+        for idx, is_alive in enumerate(local_status):
+            if is_alive:
+                alive_local_channels.append(local_channels[idx])
+            else:
+                print(f"[-] Dibuang (Lokal Mati): {local_channels[idx].get('title')}")
 
-    updated_count = 0
-    new_added_count = 0
+    # Map nama lokal yang sukses bertahan agar tidak duplikat saat disisipi data baru
+    local_names_set = {c.get("title", "").upper() for c in alive_local_channels}
 
-    # 4. Proses Perbaikan & Penambahan
-    for i, is_alive in enumerate(status_results):
-        if not is_alive:
-            target_name = local_channels[i].get("title", "")
-            print(f"Mencoba memperbaiki channel MATI: {target_name}")
-
-            # Cari pengganti di sumber
-            match = next((s for s in source_channels if s['title'].upper() == target_name.upper()), None)
-            if match and is_link_alive(match['uri']):
-                local_channels[i]['uri'] = match['uri']
-                if match['drm_key']:
-                    local_channels[i]['drm_info'] = {"is_protected": True, "drm_type": "clearkey", "drm_key": match['drm_key']}
-                print(f"  > BERHASIL diperbaiki dengan link baru!")
-                updated_count += 1
-
-    # 5. Tambahkan Channel Baru yang belum ada (Opsional: Hanya yang Hidup)
-    local_names = {c.get("title", "").upper() for c in local_channels}
-    new_candidates = [s for s in source_channels if s['title'].upper() not in local_names]
-
-    print(f"Mengecek {len(new_candidates)} calon channel baru...")
+    # 4. Analisis & Filter Channel Baru dari Internet (Hanya masukkan yang HIDUP)
+    new_candidates = [s for s in source_channels if s['title'].upper() not in local_names_set]
+    print(f"\nMengecek status keaktifan {len(new_candidates)} calon channel internet baru...")
+    
+    valid_new_channels = []
     if new_candidates:
         with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-            new_alive_results = list(executor.map(lambda x: is_link_alive(x['uri']), new_candidates))
-
-        for i, is_alive in enumerate(new_alive_results):
+            new_status = list(executor.map(lambda x: is_link_alive(x['uri'], x['user_agent']), new_candidates))
+            
+        for idx, is_alive in enumerate(new_status):
+            cand = new_candidates[idx]
             if is_alive:
-                cand = new_candidates[i]
-                new_item = {
+                # Susun struktur JSON sesuai template persis permintaan Anda
+                headers_data = get_smart_headers(cand['uri'], cand['user_agent'])
+                
+                # Susun objek JSON terstruktur
+                json_struct = {
+                    "id": 0, # Akan diurutkan cerdas di langkah akhir
                     "title": cand['title'],
                     "category": cand['category'],
                     "uri": cand['uri'],
-                    "epg_metadata": {"tvg_logo": cand['logo']},
-                    "is_live": True
+                    "user_agent": cand['user_agent'],
+                    "is_live": True,
+                    "match_id": "",
+                    "headers": {
+                        "Referer": headers_data.get("Referer", ""),
+                        "Origin": headers_data.get("Origin", "")
+                    },
+                    "drm_info": {
+                        "is_protected": True if cand['drm_key'] else False,
+                        "drm_type": "clearkey" if cand['drm_key'] else "",
+                        "drm_key": cand['drm_key'] if cand['drm_key'] else ""
+                    },
+                    "epg_metadata": {
+                        "tvg_id": cand['tvg_id'],
+                        "tvg_name": cand['tvg_name'],
+                        "tvg_logo": cand['tvg_logo'],
+                        "source_xml": ""
+                    }
                 }
-                if cand['drm_key']:
-                    new_item["drm_info"] = {"is_protected": True, "drm_type": "clearkey", "drm_key": cand['drm_key']}
-
-                local_channels.append(new_item)
-                new_added_count += 1
-
-    # 6. Simpan Hasil Akhir
-    local_data["channels"] = local_channels
-    with open(LOCAL_PLAYLIST, 'w', encoding='utf-8') as f:
-        json.dump(local_data, f, indent=2, ensure_ascii=False)
-
-    print(f"\n--- Selesai ---")
-    print(f"Channel diperbaiki: {updated_count}")
-    print(f"Channel baru ditambahkan: {new_added_count}")
-    print(f"Total channel sekarang: {len(local_channels)}")
-
-if __name__ == "__main__":
-    aggregate()
+                valid_new_channels.append(json_struct)
