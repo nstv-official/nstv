@@ -9,13 +9,16 @@ from urllib.parse import urlparse
 FILES_TO_CLEAN = ["system_config_v3.data"]
 TIMEOUT = 12
 
-def get_headers(url):
+def get_headers(url, custom_ua=None):
     """
     Menyamakan logika header dengan MainViewModel.kt di Android.
     Menghindari blokir (403 Forbidden) pada domain tertentu.
     """
+    # Jika channel memiliki user_agent khusus, gunakan itu. Jika tidak, pakai default.
+    ua = custom_ua if custom_ua else "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+    
     headers = {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        "User-Agent": ua
     }
 
     domain = urlparse(url).netloc.lower()
@@ -34,7 +37,7 @@ def get_headers(url):
 
 def check_link(item):
     """
-    Mengecek keaktifan link.
+    Mengecek keaktifan link dengan mendukung User-Agent spesifik milik channel.
     Mendukung key 'uri' (standar Android) atau 'streamUrl'.
     """
     # Mencari URL dengan prioritas: uri -> streamUrl -> url
@@ -44,7 +47,10 @@ def check_link(item):
         return item
 
     try:
-        headers = get_headers(url)
+        # Mengambil custom user_agent dari data channel jika ada
+        custom_ua = item.get("user_agent")
+        headers = get_headers(url, custom_ua)
+        
         # Gunakan stream=True agar hemat kuota
         response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
 
@@ -81,8 +87,13 @@ def process_file(filename):
         return
 
     if len(items) > 0 and len(valid_items) == 0:
-        print(f"Peringatan: Semua link di {filename} dianggap mati. Data TIDAK diubah.")
+        print(f"Peringatan: Semua link di {filename} dianggap mati. Data TIDAK diubah untuk keamanan.")
         return
+
+    # Fitur Cerdas: Mengurutkan kembali ID secara berurutan setelah ada channel yang dihapus
+    for index, item in enumerate(valid_items, start=1):
+        if "id" in item:
+            item["id"] = index
 
     if is_obj_format:
         data["channels"] = valid_items
@@ -92,9 +103,10 @@ def process_file(filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"Pembersihan {filename} Selesai. Item aktif: {len(valid_items)}\n")
+    print(f"Pembersihan {filename} Selesai.")
+    print(f"Item aktif tersisa: {len(valid_items)} (ID telah diurutkan ulang)\n")
 
 if __name__ == "__main__":
-    print("Memulai NSTV CLEANER V3 (Sesuai Logika Android)...\n")
+    print("Memulai NSTV CLEANER V3 + Smart Auto-ID (Sesuai Logika Android)...\n")
     for file in FILES_TO_CLEAN:
         process_file(file)
