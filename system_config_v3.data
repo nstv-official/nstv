@@ -5808,30 +5808,6 @@
     }
   },
   {
-    "id": "321",
-    "title": "CCTV3",
-    "category": "DUNIA | TAIWAN ETC",
-    "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://38.75.136.137:98/",
-      "Origin": "https://38.75.136.137:98"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "CCTV3",
-      "tvg_logo": "https://i.imgur.com/eCBAXse.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "322",
     "title": "CCTV4",
     "category": "DUNIA | TAIWAN ETC",
@@ -14113,30 +14089,6 @@
     }
   },
   {
-    "id": "819",
-    "title": "Action-3-Rush Hour 2",
-    "category": "VOD TRIAL",
-    "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d1ac086f-2eba-461b-a9a1-2d2d2814cea9&sub=t7",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://get.perfecttv.net/",
-      "Origin": "https://get.perfecttv.net"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://get.perfecttv.net/wvmax?editId=d1ac086f-2eba-461b-a9a1-2d2d2814cea9"
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "Action-3-Rush Hour 2",
-      "tvg_logo": "https://images.cdn.prd.api.discomax.com/2024/01/31/3743ff9f-50f8-3195-9103-9b873ca82a43.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "820",
     "title": "Action-3-Red 2",
     "category": "VOD TRIAL",
@@ -14209,30 +14161,6 @@
     }
   },
   {
-    "id": "823",
-    "title": "Action-3-S.W.A.T.",
-    "category": "VOD TRIAL",
-    "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=615e94a5-7085-44cd-80dc-58c42b8d78a3&sub=t2",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://get.perfecttv.net/",
-      "Origin": "https://get.perfecttv.net"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://get.perfecttv.net/wvmax?editId=615e94a5-7085-44cd-80dc-58c42b8d78a3"
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "Action-3-S.W.A.T.",
-      "tvg_logo": "https://images.cdn.prd.api.discomax.com/2025/01/13/e0505ef2-0933-3c30-83ed-999cee63ff45.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "824",
     "title": "Action-1-Shazam",
     "category": "VOD TRIAL",
@@ -14277,30 +14205,6 @@
       "tvg_id": "",
       "tvg_name": "Action-1-Sheroes",
       "tvg_logo": "https://images.cdn.prd.api.discomax.com/2024/11/11/ba5088aa-a6ef-32e1-85d8-843e5dcf3a85.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": "826",
-    "title": "Action-3-Shoot Em Up",
-    "category": "VOD TRIAL",
-    "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3&sub=t8",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://get.perfecttv.net/",
-      "Origin": "https://get.perfecttv.net"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://get.perfecttv.net/wvmax?editId=61d5e3d7-58c7-402d-9552-3d0c8aaafda3"
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "Action-3-Shoot Em Up",
-      "tvg_logo": "https://images.cdn.prd.api.discomax.com/2023/11/25/7fc95ab9-23a2-3efa-94b8-498fb08ee876.jpeg",
       "source_xml": "Embedded"
     }
   },
@@ -14377,30 +14281,6 @@
     }
   },
   {
-    "id": "830",
-    "title": "Action-3-Speed Racer",
-    "category": "VOD TRIAL",
-    "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=a9190bda-7079-4601-bec1-15f84215ef3d&sub=t2",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://get.perfecttv.net/",
-      "Origin": "https://get.perfecttv.net"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://get.perfecttv.net/wvmax?editId=a9190bda-7079-4601-bec1-15f84215ef3d"
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "Action-3-Speed Racer",
-      "tvg_logo": "https://images.cdn.prd.api.discomax.com/2023/09/30/e42504e1-0f62-3325-8130-baacfc438aef.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
     "id": "831",
     "title": "Action-1-Suicide Squad",
     "category": "VOD TRIAL",
@@ -14421,30 +14301,6 @@
       "tvg_id": "",
       "tvg_name": "Action-1-Suicide Squad",
       "tvg_logo": "https://images.cdn.prd.api.discomax.com/2023/09/14/7fb7602e-784b-3244-9ad1-2bdb8a479f2a.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": "832",
-    "title": "Action-2-Tenet",
-    "category": "VOD TRIAL",
-    "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bbca0ad6-2362-45cd-8a99-55707afc20c4&sub=t2",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://get.perfecttv.net/",
-      "Origin": "https://get.perfecttv.net"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://get.perfecttv.net/wvmax?editId=bbca0ad6-2362-45cd-8a99-55707afc20c4"
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "Action-2-Tenet",
-      "tvg_logo": "https://images.cdn.prd.api.discomax.com/2023/09/14/20f16e07-7be7-3920-85b8-9354ffc8ee4a.jpeg",
       "source_xml": "Embedded"
     }
   }
