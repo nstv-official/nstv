@@ -337,30 +337,6 @@
   },
   {
     "id": 15,
-    "title": "CNN INDONESIA",
-    "category": "NASIONAL",
-    "uri": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://live.cnnindonesia.com/",
-      "Origin": "https://live.cnnindonesia.com"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "CNN Indonesia",
-      "tvg_logo": "https://i.imgur.com/yxjrNLR.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 16,
     "title": "CNBC INDONESIA",
     "category": "NASIONAL",
     "uri": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8",
@@ -384,7 +360,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "TVONE (HD)",
     "category": "NASIONAL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd",
@@ -408,7 +384,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "NUSANARA TV",
     "category": "NASIONAL",
     "uri": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
@@ -432,7 +408,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "title": "🆕TVRI WORLD",
     "category": "NASIONAL",
     "uri": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
@@ -456,7 +432,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "title": "MDTV (V+)",
     "category": "NASIONAL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
@@ -480,7 +456,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "title": "RTV1️⃣",
     "category": "NASIONAL",
     "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
@@ -504,7 +480,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "title": "BANDUNG TV",
     "category": "DAERAH",
     "uri": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
@@ -528,7 +504,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "title": "JAKTV",
     "category": "DAERAH",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd",
@@ -552,7 +528,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "title": "Dhoho TV- Kediri",
     "category": "DAERAH",
     "uri": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com",
@@ -576,7 +552,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "title": "Bali TV",
     "category": "DAERAH",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd",
@@ -600,7 +576,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "JTV",
     "category": "DAERAH",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd",
@@ -624,7 +600,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "title": "TVKU",
     "category": "DAERAH",
     "uri": "https://tvku.tv/hlsstream/hls/live.m3u8",
@@ -648,7 +624,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "title": "Sakti TV",
     "category": "DAERAH",
     "uri": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
@@ -672,7 +648,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "title": "DAAI TV",
     "category": "DAERAH",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd",
@@ -696,7 +672,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "title": "Madu TV",
     "category": "DAERAH",
     "uri": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
@@ -720,7 +696,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "title": "Bungo TV",
     "category": "DAERAH",
     "uri": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
@@ -744,7 +720,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "title": "JOWO TV",
     "category": "DAERAH",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8",
@@ -768,7 +744,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "title": "BRTV",
     "category": "DAERAH",
     "uri": "https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8",
@@ -792,7 +768,7 @@
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "title": "HBO HITS (3️⃣✅)",
     "category": "HBO",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
@@ -816,7 +792,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "title": "HBO FAMILY (3️⃣✅)",
     "category": "HBO",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
@@ -840,7 +816,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "title": "BIZNET KIDS 1 ON (R)",
     "category": "ANAK",
     "uri": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd",
@@ -864,7 +840,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "title": "CINEMAX (3️⃣✅)",
     "category": "HBO",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
@@ -888,7 +864,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "title": "HBO (3️⃣✅)",
     "category": "HBO",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
@@ -912,7 +888,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "title": "Cartoonito",
     "category": "ANAK",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd",
@@ -936,7 +912,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "title": "Nickelodeon",
     "category": "ANAK",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd",
@@ -960,7 +936,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 40,
     "title": "Kids TV (JN)",
     "category": "ANAK",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd",
@@ -984,7 +960,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 41,
     "title": "RTV1️⃣",
     "category": "ANAK",
     "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
@@ -1008,7 +984,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 42,
     "title": "Dreamworks HD",
     "category": "ANAK",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd",
@@ -1032,7 +1008,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 43,
     "title": "CARTOON NETWORK",
     "category": "ANAK",
     "uri": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd",
@@ -1056,7 +1032,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 44,
     "title": "FIGHT SPORTS (AG) ✅",
     "category": "OLAHRAGA LOKAL",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd",
@@ -1080,7 +1056,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 45,
     "title": "Sportstars 1 HD ✅",
     "category": "OLAHRAGA LOKAL",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -1104,7 +1080,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 46,
     "title": "Sportstars 2 HD ✅",
     "category": "OLAHRAGA LOKAL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -1128,7 +1104,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 47,
     "title": "HBO SIGNATURE (3️⃣✅)",
     "category": "HBO",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
@@ -1152,7 +1128,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 48,
     "title": "SPOTV",
     "category": "OLAHRAGA LOKAL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -1176,7 +1152,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 49,
     "title": "SPOTV2",
     "category": "OLAHRAGA LOKAL",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -1200,7 +1176,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 50,
     "title": "Nick Jr.",
     "category": "ANAK",
     "uri": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts",
@@ -1224,7 +1200,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 51,
     "title": "HBO HITS (3️⃣✅)",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
@@ -1248,7 +1224,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 52,
     "title": "Moonbug Kids",
     "category": "ANAK",
     "uri": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
@@ -1272,7 +1248,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 53,
     "title": "EBS Kids",
     "category": "ANAK",
     "uri": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
@@ -1296,7 +1272,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 54,
     "title": "PBS Kids",
     "category": "ANAK",
     "uri": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
@@ -1320,7 +1296,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 55,
     "title": "ORIGINALS (JL)",
     "category": "FILM",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
@@ -1344,7 +1320,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 56,
     "title": "Zoo Moo",
     "category": "ANAK",
     "uri": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -1368,7 +1344,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 57,
     "title": "SUPERRIX",
     "category": "FILM",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd",
@@ -1392,7 +1368,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 58,
     "title": "Uniquest (JL)",
     "category": "FILM",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd",
@@ -1416,7 +1392,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 59,
     "title": "AXN",
     "category": "FILM",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd",
@@ -1440,7 +1416,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 60,
     "title": "🆕 Warner TV",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd",
@@ -1464,7 +1440,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 61,
     "title": "HBO FAMILY (3️⃣✅)",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
@@ -1488,7 +1464,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 62,
     "title": "KIX",
     "category": "FILM",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd",
@@ -1512,7 +1488,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 63,
     "title": "IMC",
     "category": "FILM",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd",
@@ -1536,7 +1512,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 64,
     "title": "THRILL",
     "category": "FILM",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
@@ -1560,7 +1536,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 65,
     "title": "HBO (3️⃣✅)",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
@@ -1584,7 +1560,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 66,
     "title": "ROCK Entertainment",
     "category": "FILM",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd",
@@ -1608,7 +1584,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 67,
     "title": "My Cinema Europe HD",
     "category": "FILM",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD",
@@ -1632,7 +1608,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 68,
     "title": "tvN",
     "category": "FILM",
     "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd",
@@ -1656,7 +1632,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 69,
     "title": "TVN MOVIES",
     "category": "FILM",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd",
@@ -1680,7 +1656,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 70,
     "title": "HBO SIGNATURE (3️⃣✅)",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
@@ -1704,7 +1680,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 71,
     "title": "CINEMAX (3️⃣✅)",
     "category": "FILM",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
@@ -1728,7 +1704,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 72,
     "title": "SBS",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
@@ -1752,7 +1728,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 73,
     "title": "Arirang TV",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd",
@@ -1776,7 +1752,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 74,
     "title": "MBC",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
@@ -1800,7 +1776,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 75,
     "title": "KBS World (HD)",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd",
@@ -1824,7 +1800,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 76,
     "title": "ABN TV",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
@@ -1848,7 +1824,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 77,
     "title": "CGNTV Japan (1080p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
@@ -1872,7 +1848,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 78,
     "title": "Arirang Radio",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
@@ -1896,7 +1872,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 79,
     "title": "SBS",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
@@ -1920,7 +1896,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 80,
     "title": "GSTV (720p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)",
@@ -1944,7 +1920,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 81,
     "title": "NHK WORLD JAPAN (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
@@ -1968,7 +1944,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 82,
     "title": "Weathernews (720p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
@@ -1992,7 +1968,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 83,
     "title": "tvN Movies",
     "category": "DUNIA | KOREA",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd",
@@ -2016,7 +1992,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 84,
     "title": "Arirang TV UN",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
@@ -2040,7 +2016,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 85,
     "title": "QVC (1080p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
@@ -2064,7 +2040,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 86,
     "title": "MNB World (1080p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd",
@@ -2088,7 +2064,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 87,
     "title": "KIX",
     "category": "DUNIA | KOREA",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd",
@@ -2112,7 +2088,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 88,
     "title": "JOAX-DTV (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://ntv5.mov3.co/hls/ntv.m3u8",
@@ -2136,7 +2112,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 89,
     "title": "🆕 K-PLUS",
     "category": "DUNIA | KOREA",
     "uri": "http://ogietv.biz.id:80/aqin/aqin168/301.ts",
@@ -2160,7 +2136,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 90,
     "title": "JOEX-DTV (540p) (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
@@ -2184,7 +2160,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 91,
     "title": "Arirang TV",
     "category": "DUNIA | KOREA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd",
@@ -2208,7 +2184,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 92,
     "title": "JOCX-DTV (🆕✅)",
     "category": "DUNIA | JEPANG NON SUB",
     "uri": "https://fujitv4.mov3.co/hls/fujitv.m3u8",
@@ -2232,7 +2208,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 93,
     "title": "Arirang TV",
     "category": "DUNIA | KOREA NON SUB",
     "uri": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
@@ -2256,7 +2232,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 94,
     "title": "CHANNEL 8 TH",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8",
@@ -2280,7 +2256,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 95,
     "title": "DLTV 2",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
@@ -2304,7 +2280,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 96,
     "title": "DLTV 1",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
@@ -2328,7 +2304,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 97,
     "title": "DLTV 3",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
@@ -2352,7 +2328,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 98,
     "title": "DLTV 4",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
@@ -2376,7 +2352,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 99,
     "title": "DLTV 5",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
@@ -2400,7 +2376,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 100,
     "title": "DLTV 6",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
@@ -2424,7 +2400,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 101,
     "title": "DLTV 7",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
@@ -2448,7 +2424,7 @@
     }
   },
   {
-    "id": 103,
+    "id": 102,
     "title": "DLTV 9",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
@@ -2472,7 +2448,7 @@
     }
   },
   {
-    "id": 104,
+    "id": 103,
     "title": "DLTV 8",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
@@ -2496,7 +2472,7 @@
     }
   },
   {
-    "id": 105,
+    "id": 104,
     "title": "DLTV 10",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
@@ -2520,7 +2496,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 105,
     "title": "KBS World (HD)",
     "category": "DUNIA | KOREA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd",
@@ -2544,7 +2520,7 @@
     }
   },
   {
-    "id": 107,
+    "id": 106,
     "title": "DLTV 11",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
@@ -2568,7 +2544,7 @@
     }
   },
   {
-    "id": 108,
+    "id": 107,
     "title": "DLTV 12",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
@@ -2592,7 +2568,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 108,
     "title": "DLTV 14",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
@@ -2616,7 +2592,7 @@
     }
   },
   {
-    "id": 110,
+    "id": 109,
     "title": "DLTV 15",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
@@ -2640,7 +2616,7 @@
     }
   },
   {
-    "id": 111,
+    "id": 110,
     "title": "ASTV NEWS 1",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "http://news1.live14.com/stream/news1.m3u8",
@@ -2664,7 +2640,7 @@
     }
   },
   {
-    "id": 112,
+    "id": 111,
     "title": "NEWS1",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "http://news1.live14.com/stream/news1.m3u8",
@@ -2688,7 +2664,7 @@
     }
   },
   {
-    "id": 113,
+    "id": 112,
     "title": "WHITE CHANNEL",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
@@ -2712,7 +2688,7 @@
     }
   },
   {
-    "id": 114,
+    "id": 113,
     "title": "DLTV 13",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
@@ -2736,7 +2712,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 114,
     "title": "POLICE TV",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
@@ -2760,7 +2736,7 @@
     }
   },
   {
-    "id": 116,
+    "id": 115,
     "title": "THAI PBS 3 FHD",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
@@ -2784,7 +2760,7 @@
     }
   },
   {
-    "id": 117,
+    "id": 116,
     "title": "THAI PBS 3 HD",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
@@ -2808,7 +2784,7 @@
     }
   },
   {
-    "id": 118,
+    "id": 117,
     "title": "TOP NEWS",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
@@ -2832,7 +2808,7 @@
     }
   },
   {
-    "id": 119,
+    "id": 118,
     "title": "CNA",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8",
@@ -2856,7 +2832,7 @@
     }
   },
   {
-    "id": 120,
+    "id": 119,
     "title": "YATEEM TV",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8",
@@ -2880,7 +2856,7 @@
     }
   },
   {
-    "id": 121,
+    "id": 120,
     "title": "&PICTURES HD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
@@ -2904,7 +2880,7 @@
     }
   },
   {
-    "id": 122,
+    "id": 121,
     "title": "CABLE CHANNEL 37",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
@@ -2928,7 +2904,7 @@
     }
   },
   {
-    "id": 123,
+    "id": 122,
     "title": "Z Cinema HD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
@@ -2952,7 +2928,7 @@
     }
   },
   {
-    "id": 124,
+    "id": 123,
     "title": "Z TV HD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
@@ -2976,7 +2952,7 @@
     }
   },
   {
-    "id": 125,
+    "id": 124,
     "title": "Zee Bollywood",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd",
@@ -3000,7 +2976,7 @@
     }
   },
   {
-    "id": 126,
+    "id": 125,
     "title": "&PICTURES SD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
@@ -3024,7 +3000,7 @@
     }
   },
   {
-    "id": 127,
+    "id": 126,
     "title": "&TV HD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd",
@@ -3048,7 +3024,7 @@
     }
   },
   {
-    "id": 128,
+    "id": 127,
     "title": "Z TV SD",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
@@ -3072,7 +3048,7 @@
     }
   },
   {
-    "id": 129,
+    "id": 128,
     "title": "Zee Anmol Cinema",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
@@ -3096,7 +3072,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 129,
     "title": "&TV",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd",
@@ -3120,7 +3096,7 @@
     }
   },
   {
-    "id": 131,
+    "id": 130,
     "title": "COOL CHANNEL",
     "category": "DUNIA | THAILAND NON SUB",
     "uri": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
@@ -3144,7 +3120,7 @@
     }
   },
   {
-    "id": 132,
+    "id": 131,
     "title": "bollywood-4u",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8",
@@ -3168,7 +3144,7 @@
     }
   },
   {
-    "id": 133,
+    "id": 132,
     "title": "bollywood-masala",
     "category": "DUNIA | INDIA NON SUB",
     "uri": "https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7451c147-8830-4959-8575-a1bcc0a79a13/manifest.m3u8",
@@ -3192,7 +3168,7 @@
     }
   },
   {
-    "id": 134,
+    "id": 133,
     "title": "James Bond 007! ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
@@ -3216,7 +3192,7 @@
     }
   },
   {
-    "id": 135,
+    "id": 134,
     "title": "MGM+ ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
@@ -3240,7 +3216,7 @@
     }
   },
   {
-    "id": 136,
+    "id": 135,
     "title": "MGM+ Marquee ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd",
@@ -3264,7 +3240,7 @@
     }
   },
   {
-    "id": 137,
+    "id": 136,
     "title": "Warner TV ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd",
@@ -3288,7 +3264,7 @@
     }
   },
   {
-    "id": 138,
+    "id": 137,
     "title": "MGM+ Drive In ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd",
@@ -3312,7 +3288,7 @@
     }
   },
   {
-    "id": 139,
+    "id": 138,
     "title": "MGM+ Hits ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd",
@@ -3336,7 +3312,7 @@
     }
   },
   {
-    "id": 140,
+    "id": 139,
     "title": "SHOWCASE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd",
@@ -3360,7 +3336,7 @@
     }
   },
   {
-    "id": 141,
+    "id": 140,
     "title": "Screenpix Action ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd",
@@ -3384,7 +3360,7 @@
     }
   },
   {
-    "id": 142,
+    "id": 141,
     "title": "Screenpix Westerns ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd",
@@ -3408,7 +3384,7 @@
     }
   },
   {
-    "id": 143,
+    "id": 142,
     "title": "REELZ ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd",
@@ -3432,7 +3408,7 @@
     }
   },
   {
-    "id": 144,
+    "id": 143,
     "title": "Screenpix ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd",
@@ -3456,7 +3432,7 @@
     }
   },
   {
-    "id": 145,
+    "id": 144,
     "title": "LG 1 Spotlight ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959",
@@ -3480,7 +3456,7 @@
     }
   },
   {
-    "id": 146,
+    "id": 145,
     "title": "LG 1 Film ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465",
@@ -3504,7 +3480,7 @@
     }
   },
   {
-    "id": 147,
+    "id": 146,
     "title": "MNX ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
@@ -3528,7 +3504,7 @@
     }
   },
   {
-    "id": 148,
+    "id": 147,
     "title": "LG 1 ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957",
@@ -3552,7 +3528,7 @@
     }
   },
   {
-    "id": 149,
+    "id": 148,
     "title": "MOVIES NOW ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
@@ -3576,7 +3552,7 @@
     }
   },
   {
-    "id": 150,
+    "id": 149,
     "title": "Viva One Movie ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://cdnone.vivamax.net/video/P02237_FF_FM_MECHANIC RESURRECTION/dash/hd.mpd",
@@ -3600,7 +3576,7 @@
     }
   },
   {
-    "id": 151,
+    "id": 150,
     "title": "MOVIE SPHERE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
@@ -3624,7 +3600,7 @@
     }
   },
   {
-    "id": 152,
+    "id": 151,
     "title": "CLASSIC ACTION ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8",
@@ -3648,7 +3624,7 @@
     }
   },
   {
-    "id": 153,
+    "id": 152,
     "title": "Movie Music ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/3291200/manifest.m3u8",
@@ -3672,7 +3648,7 @@
     }
   },
   {
-    "id": 154,
+    "id": 153,
     "title": "MYTIME MOVIE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
@@ -3696,7 +3672,7 @@
     }
   },
   {
-    "id": 155,
+    "id": 154,
     "title": "MGDRIVE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd",
@@ -3720,7 +3696,7 @@
     }
   },
   {
-    "id": 156,
+    "id": 155,
     "title": "MGHITS ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd",
@@ -3744,7 +3720,7 @@
     }
   },
   {
-    "id": 157,
+    "id": 156,
     "title": "CINEDAY LITE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
@@ -3768,7 +3744,7 @@
     }
   },
   {
-    "id": 158,
+    "id": 157,
     "title": "Z TV ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
@@ -3792,7 +3768,7 @@
     }
   },
   {
-    "id": 159,
+    "id": 158,
     "title": "Zee Cinema ᴴᴰ ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
@@ -3816,7 +3792,7 @@
     }
   },
   {
-    "id": 160,
+    "id": 159,
     "title": "SHEMAROO BOLLY ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -3840,7 +3816,7 @@
     }
   },
   {
-    "id": 161,
+    "id": 160,
     "title": "James Bond 007! ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
@@ -3864,7 +3840,7 @@
     }
   },
   {
-    "id": 162,
+    "id": 161,
     "title": "FILM4 ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd",
@@ -3888,7 +3864,7 @@
     }
   },
   {
-    "id": 163,
+    "id": 162,
     "title": "HBO Zone ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd",
@@ -3912,7 +3888,7 @@
     }
   },
   {
-    "id": 164,
+    "id": 163,
     "title": "Nat Geo Sharks",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd",
@@ -3936,7 +3912,7 @@
     }
   },
   {
-    "id": 165,
+    "id": 164,
     "title": "MGPLUS ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
@@ -3960,7 +3936,7 @@
     }
   },
   {
-    "id": 166,
+    "id": 165,
     "title": "MIRAMAX ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
@@ -3984,7 +3960,7 @@
     }
   },
   {
-    "id": 167,
+    "id": 166,
     "title": "AMC+ ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd",
@@ -4008,7 +3984,7 @@
     }
   },
   {
-    "id": 168,
+    "id": 167,
     "title": "Horror Machine ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8",
@@ -4032,7 +4008,7 @@
     }
   },
   {
-    "id": 169,
+    "id": 168,
     "title": "Cinemax West ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd",
@@ -4056,7 +4032,7 @@
     }
   },
   {
-    "id": 170,
+    "id": 169,
     "title": "HBO Comedy ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd",
@@ -4080,7 +4056,7 @@
     }
   },
   {
-    "id": 171,
+    "id": 170,
     "title": "HBO 2 - Eastern Feed (804).us",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd",
@@ -4104,7 +4080,7 @@
     }
   },
   {
-    "id": 172,
+    "id": 171,
     "title": "HBO West ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd",
@@ -4128,7 +4104,7 @@
     }
   },
   {
-    "id": 173,
+    "id": 172,
     "title": "Disc Film ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8",
@@ -4152,7 +4128,7 @@
     }
   },
   {
-    "id": 174,
+    "id": 173,
     "title": "HERSPHERE ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8",
@@ -4176,7 +4152,7 @@
     }
   },
   {
-    "id": 175,
+    "id": 174,
     "title": "MHz Choice ✅",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
@@ -4200,7 +4176,7 @@
     }
   },
   {
-    "id": 176,
+    "id": 175,
     "title": "Curiosity Now",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd",
@@ -4224,7 +4200,7 @@
     }
   },
   {
-    "id": 177,
+    "id": 176,
     "title": "Animal Planet",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://23.239.31.26:8989/animalplanet/index.m3u8",
@@ -4248,7 +4224,7 @@
     }
   },
   {
-    "id": 178,
+    "id": 177,
     "title": "ACC Network",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://23.239.31.26:8989/accnetwork/index.m3u8",
@@ -4272,7 +4248,7 @@
     }
   },
   {
-    "id": 179,
+    "id": 178,
     "title": "Bloomberg TV",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://41.205.93.154/BLOOMBERG/index.m3u8",
@@ -4296,7 +4272,7 @@
     }
   },
   {
-    "id": 180,
+    "id": 179,
     "title": "AMC",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://41.205.93.154/AMC/index.m3u8",
@@ -4320,7 +4296,7 @@
     }
   },
   {
-    "id": 181,
+    "id": 180,
     "title": "Bravo TV",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://41.205.93.154/BRAVO/index.m3u8",
@@ -4344,7 +4320,7 @@
     }
   },
   {
-    "id": 182,
+    "id": 181,
     "title": "The Walking Dead Channel",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd",
@@ -4368,7 +4344,7 @@
     }
   },
   {
-    "id": 183,
+    "id": 182,
     "title": "Lifetime",
     "category": "DUNIA | AMERIKA NON SUB",
     "uri": "http://41.205.93.154/LIFETIME/index.m3u8",
@@ -4392,7 +4368,7 @@
     }
   },
   {
-    "id": 184,
+    "id": 183,
     "title": "SPOTV",
     "category": "OLAHRAGA | TENNIS",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -4416,7 +4392,7 @@
     }
   },
   {
-    "id": 185,
+    "id": 184,
     "title": "SPOTV2",
     "category": "OLAHRAGA | TENNIS",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -4440,7 +4416,7 @@
     }
   },
   {
-    "id": 186,
+    "id": 185,
     "title": "Sportstars 1 HD (JN)",
     "category": "OLAHRAGA | TENNIS",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -4464,7 +4440,7 @@
     }
   },
   {
-    "id": 187,
+    "id": 186,
     "title": "Sportstars 2 HD (MJ)",
     "category": "OLAHRAGA | TENNIS",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -4488,7 +4464,7 @@
     }
   },
   {
-    "id": 188,
+    "id": 187,
     "title": "SPOTV",
     "category": "OLAHRAGA | MOTOR GP",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -4512,7 +4488,7 @@
     }
   },
   {
-    "id": 189,
+    "id": 188,
     "title": "SPOTV2",
     "category": "OLAHRAGA | MOTOR GP",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -4536,7 +4512,7 @@
     }
   },
   {
-    "id": 190,
+    "id": 189,
     "title": "🆕MotoGP Channel",
     "category": "OLAHRAGA | MOTOR GP",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
@@ -4560,7 +4536,7 @@
     }
   },
   {
-    "id": 191,
+    "id": 190,
     "title": "Hanacaraka TV (AG)",
     "category": "GAYA HIDUP",
     "uri": "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd",
@@ -4584,7 +4560,7 @@
     }
   },
   {
-    "id": 192,
+    "id": 191,
     "title": "HGTV (USA)",
     "category": "GAYA HIDUP",
     "uri": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd",
@@ -4608,7 +4584,7 @@
     }
   },
   {
-    "id": 193,
+    "id": 192,
     "title": "CelebritiesTV (AG)",
     "category": "GAYA HIDUP",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd",
@@ -4632,7 +4608,7 @@
     }
   },
   {
-    "id": 194,
+    "id": 193,
     "title": "AFN (English)",
     "category": "GAYA HIDUP",
     "uri": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd",
@@ -4656,7 +4632,7 @@
     }
   },
   {
-    "id": 195,
+    "id": 194,
     "title": "Vision Prime",
     "category": "GAYA HIDUP",
     "uri": "https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd",
@@ -4680,7 +4656,7 @@
     }
   },
   {
-    "id": 196,
+    "id": 195,
     "title": "JOWO TV",
     "category": "GAYA HIDUP",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8",
@@ -4704,7 +4680,7 @@
     }
   },
   {
-    "id": 197,
+    "id": 196,
     "title": "Food Network",
     "category": "GAYA HIDUP",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd",
@@ -4728,7 +4704,7 @@
     }
   },
   {
-    "id": 198,
+    "id": 197,
     "title": "Entertainment (AG)",
     "category": "GAYA HIDUP",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd",
@@ -4752,7 +4728,7 @@
     }
   },
   {
-    "id": 199,
+    "id": 198,
     "title": "CelebritiesTV (AG)",
     "category": "GAYA HIDUP",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd",
@@ -4776,7 +4752,7 @@
     }
   },
   {
-    "id": 200,
+    "id": 199,
     "title": "AXN",
     "category": "GAYA HIDUP",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd",
@@ -4800,7 +4776,7 @@
     }
   },
   {
-    "id": 201,
+    "id": 200,
     "title": "tvg-logo=",
     "category": "GAYA HIDUP",
     "uri": "https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8",
@@ -4824,7 +4800,7 @@
     }
   },
   {
-    "id": 202,
+    "id": 201,
     "title": "Dens Life & Style",
     "category": "GAYA HIDUP",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle",
@@ -4848,7 +4824,7 @@
     }
   },
   {
-    "id": 203,
+    "id": 202,
     "title": "DENS Food Channel.id",
     "category": "GAYA HIDUP",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel",
@@ -4872,7 +4848,7 @@
     }
   },
   {
-    "id": 204,
+    "id": 203,
     "title": "Dens Life & Style",
     "category": "GAYA HIDUP",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay",
@@ -4896,7 +4872,7 @@
     }
   },
   {
-    "id": 205,
+    "id": 204,
     "title": "ROCK Entertainment",
     "category": "GAYA HIDUP",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd",
@@ -4920,7 +4896,7 @@
     }
   },
   {
-    "id": 206,
+    "id": 205,
     "title": "TLC.id",
     "category": "GAYA HIDUP",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd",
@@ -4944,7 +4920,7 @@
     }
   },
   {
-    "id": 207,
+    "id": 206,
     "title": "KIX",
     "category": "GAYA HIDUP",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd",
@@ -4968,7 +4944,7 @@
     }
   },
   {
-    "id": 208,
+    "id": 207,
     "title": "THRILL",
     "category": "GAYA HIDUP",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
@@ -4992,7 +4968,7 @@
     }
   },
   {
-    "id": 209,
+    "id": 208,
     "title": "tvg-logo=",
     "category": "PENGETAHUAN",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd",
@@ -5016,7 +4992,7 @@
     }
   },
   {
-    "id": 210,
+    "id": 209,
     "title": "TRAVELXP (AG)",
     "category": "PENGETAHUAN",
     "uri": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
@@ -5040,7 +5016,7 @@
     }
   },
   {
-    "id": 211,
+    "id": 210,
     "title": "HISTORY HIT 1 ON (R)",
     "category": "PENGETAHUAN",
     "uri": "https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0",
@@ -5064,7 +5040,7 @@
     }
   },
   {
-    "id": 212,
+    "id": 211,
     "title": "HISTORY SD",
     "category": "PENGETAHUAN",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd",
@@ -5088,7 +5064,7 @@
     }
   },
   {
-    "id": 213,
+    "id": 212,
     "title": "Global Trekker",
     "category": "PENGETAHUAN",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd",
@@ -5112,7 +5088,7 @@
     }
   },
   {
-    "id": 214,
+    "id": 213,
     "title": "ANIMAL PLANET (US)",
     "category": "PENGETAHUAN",
     "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
@@ -5136,7 +5112,7 @@
     }
   },
   {
-    "id": 215,
+    "id": 214,
     "title": "HISTORY",
     "category": "PENGETAHUAN",
     "uri": "https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd",
@@ -5160,7 +5136,7 @@
     }
   },
   {
-    "id": 216,
+    "id": 215,
     "title": "DISCOVERY ASIA HD",
     "category": "PENGETAHUAN",
     "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd",
@@ -5184,7 +5160,7 @@
     }
   },
   {
-    "id": 217,
+    "id": 216,
     "title": "Viasat EXPLORE 🇬🇧 🇧🇦",
     "category": "PENGETAHUAN",
     "uri": "https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd",
@@ -5208,7 +5184,7 @@
     }
   },
   {
-    "id": 218,
+    "id": 217,
     "title": "DMAX",
     "category": "PENGETAHUAN",
     "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
@@ -5232,7 +5208,7 @@
     }
   },
   {
-    "id": 219,
+    "id": 218,
     "title": "Indonesiana TV",
     "category": "PENGETAHUAN",
     "uri": "https://tvstreamcast.com/indonesiana.m3u8",
@@ -5256,7 +5232,7 @@
     }
   },
   {
-    "id": 220,
+    "id": 219,
     "title": "Viasat HISTORY 🇬🇧 🇧🇦",
     "category": "PENGETAHUAN",
     "uri": "https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a",
@@ -5280,7 +5256,7 @@
     }
   },
   {
-    "id": 221,
+    "id": 220,
     "title": "Viasat NATURE 🇬🇧 🇧🇦",
     "category": "PENGETAHUAN",
     "uri": "https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284",
@@ -5304,7 +5280,7 @@
     }
   },
   {
-    "id": 222,
+    "id": 221,
     "title": "CNA",
     "category": "DUNIA | SINGAPURA",
     "uri": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
@@ -5328,7 +5304,7 @@
     }
   },
   {
-    "id": 223,
+    "id": 222,
     "title": "News Asia",
     "category": "DUNIA | SINGAPURA",
     "uri": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
@@ -5352,7 +5328,7 @@
     }
   },
   {
-    "id": 224,
+    "id": 223,
     "title": "Channel News Asia",
     "category": "CHANNEL | SINGAPORE",
     "uri": "https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd",
@@ -5376,7 +5352,7 @@
     }
   },
   {
-    "id": 225,
+    "id": 224,
     "title": "Dragon TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd",
@@ -5400,7 +5376,7 @@
     }
   },
   {
-    "id": 226,
+    "id": 225,
     "title": "Hunan TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd",
@@ -5424,7 +5400,7 @@
     }
   },
   {
-    "id": 227,
+    "id": 226,
     "title": "Outdoor Channel",
     "category": "PENGETAHUAN",
     "uri": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
@@ -5448,7 +5424,7 @@
     }
   },
   {
-    "id": 228,
+    "id": 227,
     "title": "Channel 8",
     "category": "DUNIA | SINGAPURA",
     "uri": "http://cdn6.163189.xyz/163189/ch8",
@@ -5472,7 +5448,7 @@
     }
   },
   {
-    "id": 229,
+    "id": 228,
     "title": "Jiangsu TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd",
@@ -5496,7 +5472,7 @@
     }
   },
   {
-    "id": 230,
+    "id": 229,
     "title": "Channel 5",
     "category": "DUNIA | SINGAPURA",
     "uri": "http://cdn6.163189.xyz/163189/ch5",
@@ -5520,7 +5496,7 @@
     }
   },
   {
-    "id": 231,
+    "id": 230,
     "title": "Zhejiang TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd",
@@ -5544,7 +5520,7 @@
     }
   },
   {
-    "id": 232,
+    "id": 231,
     "title": "CCTV4.id",
     "category": "DUNIA | CHINA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd",
@@ -5568,7 +5544,7 @@
     }
   },
   {
-    "id": 233,
+    "id": 232,
     "title": "Anhui TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd",
@@ -5592,7 +5568,7 @@
     }
   },
   {
-    "id": 234,
+    "id": 233,
     "title": "Shenzen TV",
     "category": "DUNIA | CHINA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd",
@@ -5616,7 +5592,7 @@
     }
   },
   {
-    "id": 235,
+    "id": 234,
     "title": "Lotus Macao 🇵🇭",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd",
@@ -5640,7 +5616,7 @@
     }
   },
   {
-    "id": 236,
+    "id": 235,
     "title": "REAL WILD",
     "category": "PENGETAHUAN",
     "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
@@ -5664,7 +5640,7 @@
     }
   },
   {
-    "id": 237,
+    "id": 236,
     "title": "HOY TV 77",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://php.jdshipin.com/TVOD/iptv.php?id=hoytv",
@@ -5688,7 +5664,7 @@
     }
   },
   {
-    "id": 238,
+    "id": 237,
     "title": "Lotus Macao Skygo",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
@@ -5712,7 +5688,7 @@
     }
   },
   {
-    "id": 239,
+    "id": 238,
     "title": "CHC Action Movies",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub",
@@ -5736,7 +5712,7 @@
     }
   },
   {
-    "id": 240,
+    "id": 239,
     "title": "CHC Movie Fans",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub",
@@ -5760,7 +5736,7 @@
     }
   },
   {
-    "id": 241,
+    "id": 240,
     "title": "CHC Home Theater",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub",
@@ -5784,7 +5760,7 @@
     }
   },
   {
-    "id": 242,
+    "id": 241,
     "title": "CCTV5",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009",
@@ -5808,7 +5784,7 @@
     }
   },
   {
-    "id": 243,
+    "id": 242,
     "title": "CCTV5+",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
@@ -5832,7 +5808,7 @@
     }
   },
   {
-    "id": 244,
+    "id": 243,
     "title": "CCTV6",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009",
@@ -5856,7 +5832,7 @@
     }
   },
   {
-    "id": 245,
+    "id": 244,
     "title": "CCTV1",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009",
@@ -5880,7 +5856,7 @@
     }
   },
   {
-    "id": 246,
+    "id": 245,
     "title": "CCTV7",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009",
@@ -5904,7 +5880,7 @@
     }
   },
   {
-    "id": 247,
+    "id": 246,
     "title": "CCTV9",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009",
@@ -5928,7 +5904,7 @@
     }
   },
   {
-    "id": 248,
+    "id": 247,
     "title": "CCTV10",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009",
@@ -5952,7 +5928,7 @@
     }
   },
   {
-    "id": 249,
+    "id": 248,
     "title": "CCTV11",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009",
@@ -5976,7 +5952,7 @@
     }
   },
   {
-    "id": 250,
+    "id": 249,
     "title": "CCTV12",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009",
@@ -6000,7 +5976,7 @@
     }
   },
   {
-    "id": 251,
+    "id": 250,
     "title": "CCTV13",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009",
@@ -6024,7 +6000,7 @@
     }
   },
   {
-    "id": 252,
+    "id": 251,
     "title": "CCTV14",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009",
@@ -6048,7 +6024,7 @@
     }
   },
   {
-    "id": 253,
+    "id": 252,
     "title": "CCTV8",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009",
@@ -6072,7 +6048,7 @@
     }
   },
   {
-    "id": 254,
+    "id": 253,
     "title": "CCTV17",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009",
@@ -6096,7 +6072,7 @@
     }
   },
   {
-    "id": 255,
+    "id": 254,
     "title": "CCTV15",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009",
@@ -6120,7 +6096,7 @@
     }
   },
   {
-    "id": 256,
+    "id": 255,
     "title": "CCTV16",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009",
@@ -6144,7 +6120,7 @@
     }
   },
   {
-    "id": 257,
+    "id": 256,
     "title": "CCTV Weapon Technology",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
@@ -6168,7 +6144,7 @@
     }
   },
   {
-    "id": 258,
+    "id": 257,
     "title": "CCTV Health and Wellness",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub",
@@ -6192,7 +6168,7 @@
     }
   },
   {
-    "id": 259,
+    "id": 258,
     "title": "CCTV Billiards",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
@@ -6216,7 +6192,7 @@
     }
   },
   {
-    "id": 260,
+    "id": 259,
     "title": "CCTV Fengyun Theater",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
@@ -6240,7 +6216,7 @@
     }
   },
   {
-    "id": 261,
+    "id": 260,
     "title": "CCTV First Theater",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
@@ -6264,7 +6240,7 @@
     }
   },
   {
-    "id": 262,
+    "id": 261,
     "title": "CCTV Nostalgia Theater",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
@@ -6288,7 +6264,7 @@
     }
   },
   {
-    "id": 263,
+    "id": 262,
     "title": "CCTV Sports Football",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
@@ -6312,7 +6288,7 @@
     }
   },
   {
-    "id": 264,
+    "id": 263,
     "title": "CCTV Sports Music",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
@@ -6336,7 +6312,7 @@
     }
   },
   {
-    "id": 265,
+    "id": 264,
     "title": "CCTV World Geography",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
@@ -6360,7 +6336,7 @@
     }
   },
   {
-    "id": 266,
+    "id": 265,
     "title": "CCTV TV Guide",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub",
@@ -6384,7 +6360,7 @@
     }
   },
   {
-    "id": 267,
+    "id": 266,
     "title": "CCTB Golf & Tennis",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
@@ -6408,7 +6384,7 @@
     }
   },
   {
-    "id": 268,
+    "id": 267,
     "title": "CCTV Cultural Masterpieces",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
@@ -6432,7 +6408,7 @@
     }
   },
   {
-    "id": 269,
+    "id": 268,
     "title": "CCTV Women's Fashion",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
@@ -6456,7 +6432,7 @@
     }
   },
   {
-    "id": 270,
+    "id": 269,
     "title": "Dragon TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009",
@@ -6480,7 +6456,7 @@
     }
   },
   {
-    "id": 271,
+    "id": 270,
     "title": "Channel U",
     "category": "DUNIA | SINGAPURA",
     "uri": "http://cdn6.163189.xyz/163189/chu",
@@ -6504,7 +6480,7 @@
     }
   },
   {
-    "id": 272,
+    "id": 271,
     "title": "Jiangsu TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009",
@@ -6528,7 +6504,7 @@
     }
   },
   {
-    "id": 273,
+    "id": 272,
     "title": "Zhejiang TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub",
@@ -6552,7 +6528,7 @@
     }
   },
   {
-    "id": 274,
+    "id": 273,
     "title": "Beijing TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub",
@@ -6576,7 +6552,7 @@
     }
   },
   {
-    "id": 275,
+    "id": 274,
     "title": "Shandong TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub",
@@ -6600,7 +6576,7 @@
     }
   },
   {
-    "id": 276,
+    "id": 275,
     "title": "Sichuan TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub",
@@ -6624,7 +6600,7 @@
     }
   },
   {
-    "id": 277,
+    "id": 276,
     "title": "Shenzhen TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
@@ -6648,7 +6624,7 @@
     }
   },
   {
-    "id": 278,
+    "id": 277,
     "title": "Guangdong TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub",
@@ -6672,7 +6648,7 @@
     }
   },
   {
-    "id": 279,
+    "id": 278,
     "title": "Jilin TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub",
@@ -6696,7 +6672,7 @@
     }
   },
   {
-    "id": 280,
+    "id": 279,
     "title": "Hubei TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub",
@@ -6720,7 +6696,7 @@
     }
   },
   {
-    "id": 281,
+    "id": 280,
     "title": "Heilongjiang TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub",
@@ -6744,7 +6720,7 @@
     }
   },
   {
-    "id": 282,
+    "id": 281,
     "title": "Shaanxi TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub",
@@ -6768,7 +6744,7 @@
     }
   },
   {
-    "id": 283,
+    "id": 282,
     "title": "Tianjin TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub",
@@ -6792,7 +6768,7 @@
     }
   },
   {
-    "id": 284,
+    "id": 283,
     "title": "Yunnan TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub",
@@ -6816,7 +6792,7 @@
     }
   },
   {
-    "id": 285,
+    "id": 284,
     "title": "Guizhou TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub",
@@ -6840,7 +6816,7 @@
     }
   },
   {
-    "id": 286,
+    "id": 285,
     "title": "Guangxi TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub",
@@ -6864,7 +6840,7 @@
     }
   },
   {
-    "id": 287,
+    "id": 286,
     "title": "Southeast TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub",
@@ -6888,7 +6864,7 @@
     }
   },
   {
-    "id": 288,
+    "id": 287,
     "title": "Tianjin News",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub",
@@ -6912,7 +6888,7 @@
     }
   },
   {
-    "id": 289,
+    "id": 288,
     "title": "Tianjin Literature and Art",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub",
@@ -6936,7 +6912,7 @@
     }
   },
   {
-    "id": 290,
+    "id": 289,
     "title": "Longhua Japanese & Korean",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhrh",
@@ -6960,7 +6936,7 @@
     }
   },
   {
-    "id": 291,
+    "id": 290,
     "title": "Longhua Cartoons",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhkt",
@@ -6984,7 +6960,7 @@
     }
   },
   {
-    "id": 292,
+    "id": 291,
     "title": "Longhua Drama",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhxj",
@@ -7008,7 +6984,7 @@
     }
   },
   {
-    "id": 293,
+    "id": 292,
     "title": "Longhua Movies",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhdy",
@@ -7032,7 +7008,7 @@
     }
   },
   {
-    "id": 294,
+    "id": 293,
     "title": "Tianjin Film and Television",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub",
@@ -7056,7 +7032,7 @@
     }
   },
   {
-    "id": 295,
+    "id": 294,
     "title": "Tianjin Urban",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub",
@@ -7080,7 +7056,7 @@
     }
   },
   {
-    "id": 296,
+    "id": 295,
     "title": "Tianjin Sports",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub",
@@ -7104,7 +7080,7 @@
     }
   },
   {
-    "id": 297,
+    "id": 296,
     "title": "Tianjin Education",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub",
@@ -7128,7 +7104,7 @@
     }
   },
   {
-    "id": 298,
+    "id": 297,
     "title": "Longhua Idols",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhox",
@@ -7152,7 +7128,7 @@
     }
   },
   {
-    "id": 299,
+    "id": 298,
     "title": "Longhua Classics",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://cdn8.163189.xyz/163189/lhjd",
@@ -7176,7 +7152,7 @@
     }
   },
   {
-    "id": 300,
+    "id": 299,
     "title": "Jackie Chan movies",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub",
@@ -7200,7 +7176,7 @@
     }
   },
   {
-    "id": 301,
+    "id": 300,
     "title": "Shaw Brothers martial arts films",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub",
@@ -7224,7 +7200,7 @@
     }
   },
   {
-    "id": 302,
+    "id": 301,
     "title": "Jiangxi TV",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub",
@@ -7248,7 +7224,7 @@
     }
   },
   {
-    "id": 303,
+    "id": 302,
     "title": "Shaw Brothers comedies",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub",
@@ -7272,7 +7248,7 @@
     }
   },
   {
-    "id": 304,
+    "id": 303,
     "title": "Shaw Brothers action films",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub",
@@ -7296,7 +7272,7 @@
     }
   },
   {
-    "id": 305,
+    "id": 304,
     "title": "APETITO",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
@@ -7320,7 +7296,7 @@
     }
   },
   {
-    "id": 306,
+    "id": 305,
     "title": "JR.",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
@@ -7344,7 +7320,7 @@
     }
   },
   {
-    "id": 307,
+    "id": 306,
     "title": "AURA",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
@@ -7368,7 +7344,7 @@
     }
   },
   {
-    "id": 308,
+    "id": 307,
     "title": "LEAD",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
@@ -7392,7 +7368,7 @@
     }
   },
   {
-    "id": 309,
+    "id": 308,
     "title": "ROLL",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
@@ -7416,7 +7392,7 @@
     }
   },
   {
-    "id": 310,
+    "id": 309,
     "title": "SNAP",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
@@ -7440,7 +7416,7 @@
     }
   },
   {
-    "id": 311,
+    "id": 310,
     "title": "Shaw Brothers films",
     "category": "DUNIA | TAIWAN ETC",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub",
@@ -7464,7 +7440,7 @@
     }
   },
   {
-    "id": 312,
+    "id": 311,
     "title": "FITRAH",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
@@ -7488,7 +7464,7 @@
     }
   },
   {
-    "id": 313,
+    "id": 312,
     "title": "AOD",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://o11.163189.xyz/stream/live/aod/",
@@ -7512,7 +7488,7 @@
     }
   },
   {
-    "id": 314,
+    "id": 313,
     "title": "AEC",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://o11.163189.xyz/stream/live/aec/",
@@ -7536,7 +7512,7 @@
     }
   },
   {
-    "id": 315,
+    "id": 314,
     "title": "Astro Awani",
     "category": "DUNIA | MALAYSIA",
     "uri": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
@@ -7560,7 +7536,7 @@
     }
   },
   {
-    "id": 316,
+    "id": 315,
     "title": "AlQuran Kareem",
     "category": "AGAMA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd",
@@ -7584,7 +7560,7 @@
     }
   },
   {
-    "id": 317,
+    "id": 316,
     "title": "DMI TV",
     "category": "AGAMA",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd",
@@ -7608,7 +7584,7 @@
     }
   },
   {
-    "id": 318,
+    "id": 317,
     "title": "Sunna TV",
     "category": "AGAMA",
     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8?app_type=web&userid=lite&chname=Sunna_TV",
@@ -7632,7 +7608,7 @@
     }
   },
   {
-    "id": 319,
+    "id": 318,
     "title": "RodjaTV 1",
     "category": "AGAMA",
     "uri": "https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8",
@@ -7656,7 +7632,7 @@
     }
   },
   {
-    "id": 320,
+    "id": 319,
     "title": "TBN.id",
     "category": "AGAMA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd",
@@ -7680,7 +7656,7 @@
     }
   },
   {
-    "id": 321,
+    "id": 320,
     "title": "MQTV",
     "category": "AGAMA",
     "uri": "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8",
@@ -7704,7 +7680,7 @@
     }
   },
   {
-    "id": 322,
+    "id": 321,
     "title": "GMS",
     "category": "AGAMA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd",
@@ -7728,7 +7704,7 @@
     }
   },
   {
-    "id": 323,
+    "id": 322,
     "title": "Hijrah TV",
     "category": "AGAMA",
     "uri": "https://flv.intechmedia.net/live/ch8.m3u8",
@@ -7753,7 +7729,7 @@
     }
   },
   {
-    "id": 324,
+    "id": 323,
     "title": "MTATV",
     "category": "AGAMA",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/mtatv/mtatv-avc1_2500000=7-3277707030000000.mpd",
@@ -7777,7 +7753,7 @@
     }
   },
   {
-    "id": 325,
+    "id": 324,
     "title": "EWTN.id",
     "category": "AGAMA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd",
@@ -7801,7 +7777,7 @@
     }
   },
   {
-    "id": 326,
+    "id": 325,
     "title": "Reformed 21.id",
     "category": "AGAMA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd",
@@ -7825,7 +7801,7 @@
     }
   },
   {
-    "id": 327,
+    "id": 326,
     "title": "Makkah TV.ar",
     "category": "AGAMA",
     "uri": "http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8",
@@ -7849,7 +7825,7 @@
     }
   },
   {
-    "id": 328,
+    "id": 327,
     "title": "U-CHANNEL (KRISTEN)",
     "category": "AGAMA",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/uchannel/uchannel-avc1_2500000=7-3277707030000000.mpd",
@@ -7873,7 +7849,7 @@
     }
   },
   {
-    "id": 329,
+    "id": 328,
     "title": "Kairos",
     "category": "AGAMA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd",
@@ -7897,7 +7873,7 @@
     }
   },
   {
-    "id": 330,
+    "id": 329,
     "title": "Citra Muslim",
     "category": "AGAMA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd",
@@ -7921,7 +7897,7 @@
     }
   },
   {
-    "id": 331,
+    "id": 330,
     "title": "MUI TV.id",
     "category": "AGAMA",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/muitv/muitv-avc1_2500000=7-3277707030000000.mpd",
@@ -7945,7 +7921,7 @@
     }
   },
   {
-    "id": 332,
+    "id": 331,
     "title": "TV 9 Nusantara",
     "category": "AGAMA",
     "uri": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
@@ -7969,7 +7945,7 @@
     }
   },
   {
-    "id": 333,
+    "id": 332,
     "title": "Saudi Sunna HD.ae",
     "category": "AGAMA",
     "uri": "https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8",
@@ -7993,7 +7969,7 @@
     }
   },
   {
-    "id": 334,
+    "id": 333,
     "title": "TNT SPORT 1",
     "category": "OLAHRAGA | UFC",
     "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100775",
@@ -8017,7 +7993,7 @@
     }
   },
   {
-    "id": 335,
+    "id": 334,
     "title": "SPOTV",
     "category": "OLAHRAGA | GOLF",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -8041,7 +8017,7 @@
     }
   },
   {
-    "id": 336,
+    "id": 335,
     "title": "SPOTV2",
     "category": "OLAHRAGA | GOLF",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -8065,7 +8041,7 @@
     }
   },
   {
-    "id": 337,
+    "id": 336,
     "title": "SPOTV2",
     "category": "OLAHRAGA | VOLLYBALL",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -8089,7 +8065,7 @@
     }
   },
   {
-    "id": 338,
+    "id": 337,
     "title": "SPOTV",
     "category": "OLAHRAGA | VOLLYBALL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -8113,7 +8089,7 @@
     }
   },
   {
-    "id": 339,
+    "id": 338,
     "title": "Sportstars 1 HD (JN)",
     "category": "OLAHRAGA | VOLLYBALL",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -8137,7 +8113,7 @@
     }
   },
   {
-    "id": 340,
+    "id": 339,
     "title": "Sportstars 2 HD (MJ)",
     "category": "OLAHRAGA | VOLLYBALL",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -8161,7 +8137,7 @@
     }
   },
   {
-    "id": 341,
+    "id": 340,
     "title": "✅GOLF CHANNEL (Bhs Slowakia)",
     "category": "OLAHRAGA | GOLF",
     "uri": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8",
@@ -8185,7 +8161,7 @@
     }
   },
   {
-    "id": 342,
+    "id": 341,
     "title": "Sportstars 1 HD (MJ)",
     "category": "OLAHRAGA | BADMINTON",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -8209,7 +8185,7 @@
     }
   },
   {
-    "id": 343,
+    "id": 342,
     "title": "Sportstars 2 HD (MJ)",
     "category": "OLAHRAGA | BADMINTON",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -8233,7 +8209,7 @@
     }
   },
   {
-    "id": 344,
+    "id": 343,
     "title": "SPOTV",
     "category": "OLAHRAGA | BADMINTON",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -8257,7 +8233,7 @@
     }
   },
   {
-    "id": 345,
+    "id": 344,
     "title": "SPOTV2",
     "category": "OLAHRAGA | BADMINTON",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -8281,7 +8257,7 @@
     }
   },
   {
-    "id": 346,
+    "id": 345,
     "title": "🆕W-SPORT",
     "category": "OLAHRAGA POPULER 2",
     "uri": "https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd",
@@ -8305,7 +8281,7 @@
     }
   },
   {
-    "id": 347,
+    "id": 346,
     "title": "🆕MotoGP Channel",
     "category": "OLAHRAGA POPULER 2",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
@@ -8329,7 +8305,7 @@
     }
   },
   {
-    "id": 348,
+    "id": 347,
     "title": "CCTB Golf & Tennis(Bhs China) ✅",
     "category": "OLAHRAGA | GOLF",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub",
@@ -8353,7 +8329,7 @@
     }
   },
   {
-    "id": 349,
+    "id": 348,
     "title": "🆕 F1 TV US",
     "category": "OLAHRAGA POPULER 2",
     "uri": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
@@ -8377,7 +8353,7 @@
     }
   },
   {
-    "id": 350,
+    "id": 349,
     "title": "TNT SPORT 1",
     "category": "OLAHRAGA POPULER 2",
     "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100775",
@@ -8401,7 +8377,7 @@
     }
   },
   {
-    "id": 351,
+    "id": 350,
     "title": "Sportstars 1 HD",
     "category": "OLAHRAGA POPULER",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -8425,7 +8401,7 @@
     }
   },
   {
-    "id": 352,
+    "id": 351,
     "title": "Sportstars 2 HD",
     "category": "OLAHRAGA POPULER",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -8449,7 +8425,7 @@
     }
   },
   {
-    "id": 353,
+    "id": 352,
     "title": "SPOTV",
     "category": "OLAHRAGA POPULER",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -8473,7 +8449,7 @@
     }
   },
   {
-    "id": 354,
+    "id": 353,
     "title": "SPOTV2",
     "category": "OLAHRAGA POPULER",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -8497,7 +8473,7 @@
     }
   },
   {
-    "id": 355,
+    "id": 354,
     "title": "FIGHT SPORTS 1 ON",
     "category": "OLAHRAGA POPULER",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd",
@@ -8521,7 +8497,7 @@
     }
   },
   {
-    "id": 356,
+    "id": 355,
     "title": "Eurosport 1 HD",
     "category": "OLAHRAGA POPULER",
     "uri": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
@@ -8545,7 +8521,7 @@
     }
   },
   {
-    "id": 357,
+    "id": 356,
     "title": "Eurosport 2 HD",
     "category": "OLAHRAGA POPULER",
     "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
@@ -8569,7 +8545,7 @@
     }
   },
   {
-    "id": 358,
+    "id": 357,
     "title": "Golazo Network",
     "category": "OLAHRAGA | FORMULA 1",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
@@ -8593,7 +8569,7 @@
     }
   },
   {
-    "id": 359,
+    "id": 358,
     "title": "🆕F1 TV US✅",
     "category": "OLAHRAGA | FORMULA 1",
     "uri": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
@@ -8617,7 +8593,7 @@
     }
   },
   {
-    "id": 360,
+    "id": 359,
     "title": "NHK World Japan",
     "category": "BERITA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd",
@@ -8641,7 +8617,7 @@
     }
   },
   {
-    "id": 361,
+    "id": 360,
     "title": "Golazo Network",
     "category": "OLAHRAGA | FORMULA 1",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
@@ -8665,7 +8641,7 @@
     }
   },
   {
-    "id": 362,
+    "id": 361,
     "title": "IDX",
     "category": "BERITA",
     "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
@@ -8689,31 +8665,7 @@
     }
   },
   {
-    "id": 363,
-    "title": "CNN Indonesia",
-    "category": "BERITA",
-    "uri": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://live.cnnindonesia.com/",
-      "Origin": "https://live.cnnindonesia.com"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "CNN Indonesia",
-      "tvg_logo": "https://i.imgur.com/5iu6wvo.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 364,
+    "id": 362,
     "title": "CNBC Asia",
     "category": "BERITA",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd",
@@ -8737,7 +8689,7 @@
     }
   },
   {
-    "id": 365,
+    "id": 363,
     "title": "tvg-id=",
     "category": "MUSIC",
     "uri": "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8",
@@ -8761,7 +8713,7 @@
     }
   },
   {
-    "id": 366,
+    "id": 364,
     "title": "CNBC INDONESIA",
     "category": "BERITA",
     "uri": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8",
@@ -8785,7 +8737,7 @@
     }
   },
   {
-    "id": 367,
+    "id": 365,
     "title": "tvg-id=",
     "category": "MUSIC",
     "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
@@ -8809,7 +8761,7 @@
     }
   },
   {
-    "id": 368,
+    "id": 366,
     "title": "FOX NEWS",
     "category": "BERITA",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd",
@@ -8833,7 +8785,7 @@
     }
   },
   {
-    "id": 369,
+    "id": 367,
     "title": "tvg-id=",
     "category": "MUSIC",
     "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
@@ -8857,7 +8809,7 @@
     }
   },
   {
-    "id": 370,
+    "id": 368,
     "title": "DW English",
     "category": "BERITA",
     "uri": "https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd",
@@ -8881,7 +8833,7 @@
     }
   },
   {
-    "id": 371,
+    "id": 369,
     "title": "TRT World",
     "category": "BERITA",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd",
@@ -8905,7 +8857,7 @@
     }
   },
   {
-    "id": 372,
+    "id": 370,
     "title": "BBC News",
     "category": "BERITA",
     "uri": "https://cdnbal1.indihometv.com/atm/DASH/bbcnews/bbcnews-avc1_2500000=7-3277707030000000.mpd",
@@ -8929,7 +8881,7 @@
     }
   },
   {
-    "id": 373,
+    "id": 371,
     "title": "CNBC Asia",
     "category": "BERITA",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd",
@@ -8953,7 +8905,7 @@
     }
   },
   {
-    "id": 374,
+    "id": 372,
     "title": "CGTN",
     "category": "BERITA",
     "uri": "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
@@ -8977,7 +8929,7 @@
     }
   },
   {
-    "id": 375,
+    "id": 373,
     "title": "Astro Awani",
     "category": "BERITA",
     "uri": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
@@ -9001,7 +8953,7 @@
     }
   },
   {
-    "id": 376,
+    "id": 374,
     "title": "ABC NEWS AUSTRALIA",
     "category": "BERITA",
     "uri": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8",
@@ -9025,7 +8977,7 @@
     }
   },
   {
-    "id": 377,
+    "id": 375,
     "title": "SPOTV",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
@@ -9049,7 +9001,7 @@
     }
   },
   {
-    "id": 378,
+    "id": 376,
     "title": "Al Jazeera Arabic.id",
     "category": "BERITA",
     "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd",
@@ -9073,7 +9025,7 @@
     }
   },
   {
-    "id": 379,
+    "id": 377,
     "title": "SPOTV2",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd",
@@ -9097,7 +9049,7 @@
     }
   },
   {
-    "id": 380,
+    "id": 378,
     "title": "Sportstars 1 HD (JN)",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -9121,7 +9073,7 @@
     }
   },
   {
-    "id": 381,
+    "id": 379,
     "title": "Sportstars 2 HD (MJ)",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -9145,7 +9097,7 @@
     }
   },
   {
-    "id": 382,
+    "id": 380,
     "title": "CBS NEWS",
     "category": "BERITA",
     "uri": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
@@ -9169,7 +9121,7 @@
     }
   },
   {
-    "id": 383,
+    "id": 381,
     "title": "Eurosport 2 HD",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
@@ -9193,7 +9145,7 @@
     }
   },
   {
-    "id": 384,
+    "id": 382,
     "title": "CCTV Billiards",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
@@ -9217,7 +9169,7 @@
     }
   },
   {
-    "id": 385,
+    "id": 383,
     "title": "Eurosport 1 HD",
     "category": "OLAHRAGA | BILLIARD",
     "uri": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
@@ -9241,7 +9193,7 @@
     }
   },
   {
-    "id": 386,
+    "id": 384,
     "title": "🆕⚽✅ LIVE 0  United Sports 2",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
@@ -9265,7 +9217,7 @@
     }
   },
   {
-    "id": 387,
+    "id": 385,
     "title": "🆕⚽ LIVE 1 T Sports",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1",
@@ -9289,79 +9241,7 @@
     }
   },
   {
-    "id": 388,
-    "title": "🆕⚽ LIVE 0 FUSSBALL TV 1 HD",
-    "category": "BOLA | PIALA DUNIA 2026",
-    "uri": "https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://raw.githubusercontent.com/",
-      "Origin": "https://raw.githubusercontent.com"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "",
-      "tvg_name": "🆕⚽ LIVE 0 FUSSBALL TV 1 HD",
-      "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 389,
-    "title": "🆕⚽✅ LIVE 0  TSN 1 🇨🇦",
-    "category": "BOLA | PIALA DUNIA 2026",
-    "uri": "https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/tsn1.m3u8",
-    "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://raw.githubusercontent.com/",
-      "Origin": "https://raw.githubusercontent.com"
-    },
-    "drm_info": {
-      "is_protected": false,
-      "drm_type": "",
-      "drm_key": ""
-    },
-    "epg_metadata": {
-      "tvg_id": "TSN1 HD.ca",
-      "tvg_name": "🆕⚽✅ LIVE 0  TSN 1 🇨🇦",
-      "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 390,
-    "title": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
-    "category": "BOLA | FA CUP",
-    "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash",
-    "user_agent": "VidioPlayer/6.41.11",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://ratuvidio.adptv.workers.dev/",
-      "Origin": "https://ratuvidio.adptv.workers.dev"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm"
-    },
-    "epg_metadata": {
-      "tvg_id": "Champions.TV.6.id",
-      "tvg_name": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
-      "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 391,
+    "id": 386,
     "title": "FIFA World Cup",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
@@ -9385,7 +9265,7 @@
     }
   },
   {
-    "id": 392,
+    "id": 387,
     "title": "🆕⚽ LIVE 3 (TIPIK 1)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd",
@@ -9409,7 +9289,7 @@
     }
   },
   {
-    "id": 393,
+    "id": 388,
     "title": "⚽Caze TV Channel 1 - BRA 🇧🇷 ✅",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
@@ -9433,7 +9313,7 @@
     }
   },
   {
-    "id": 394,
+    "id": 389,
     "title": "🆕⚽✅ LIVE 0 SS",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts",
@@ -9457,7 +9337,7 @@
     }
   },
   {
-    "id": 395,
+    "id": 390,
     "title": "⚽Caze TV Channel 2 - BRA 🇧🇷 ✅",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -9481,7 +9361,7 @@
     }
   },
   {
-    "id": 396,
+    "id": 391,
     "title": "🆕⚽ LIVE 1 (Caze)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -9505,7 +9385,7 @@
     }
   },
   {
-    "id": 397,
+    "id": 392,
     "title": "🆕⚽ LIVE 1 (Sport)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd",
@@ -9529,7 +9409,7 @@
     }
   },
   {
-    "id": 398,
+    "id": 393,
     "title": "🆕⚽✅ WCTV",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
@@ -9553,7 +9433,7 @@
     }
   },
   {
-    "id": 399,
+    "id": 394,
     "title": "🆕⚽ LIVE 2 (CT SPORT 🇸🇰)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
@@ -9577,7 +9457,7 @@
     }
   },
   {
-    "id": 400,
+    "id": 395,
     "title": "🆕⚽ LIVE 2 (JOJ SPORT 🇸🇰)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
@@ -9601,7 +9481,7 @@
     }
   },
   {
-    "id": 401,
+    "id": 396,
     "title": "🆕⚽ LIVE2 (JOJ SPORT 2 🇸🇰)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
@@ -9625,7 +9505,7 @@
     }
   },
   {
-    "id": 402,
+    "id": 397,
     "title": "🆕⚽ LIVE 3 (TELEMUNDO)✅",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts",
@@ -9649,7 +9529,7 @@
     }
   },
   {
-    "id": 403,
+    "id": 398,
     "title": "⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
@@ -9673,7 +9553,7 @@
     }
   },
   {
-    "id": 404,
+    "id": 399,
     "title": "CCTV5+",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
@@ -9697,7 +9577,7 @@
     }
   },
   {
-    "id": 405,
+    "id": 400,
     "title": "🆕⚽ LIVE 1  BBC 1 (UNITED KINGDOM)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://xemzi.short.gy/1000001",
@@ -9721,7 +9601,7 @@
     }
   },
   {
-    "id": 406,
+    "id": 401,
     "title": "🆕⚽ LIVE 0  iTV 1 (United Kingdom)",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://xemzi.short.gy/1000011",
@@ -9745,7 +9625,7 @@
     }
   },
   {
-    "id": 407,
+    "id": 402,
     "title": "🆕⚽ LIVE 3 (CCTV5) ✅",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "http://107.150.60.122/live/cctv5hd.m3u8",
@@ -9769,7 +9649,7 @@
     }
   },
   {
-    "id": 408,
+    "id": 403,
     "title": "FIFA+",
     "category": "BOLA | PIALA DUNIA 2026",
     "uri": "https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd",
@@ -9793,55 +9673,7 @@
     }
   },
   {
-    "id": 409,
-    "title": "✅ LIVE 2",
-    "category": "BOLA | LIGA INGGRIS",
-    "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash",
-    "user_agent": "VidioPlayer/6.41.11",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://ratuvidio.adptv.workers.dev/",
-      "Origin": "https://ratuvidio.adptv.workers.dev"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm"
-    },
-    "epg_metadata": {
-      "tvg_id": "Champions.TV.6.id",
-      "tvg_name": "✅ LIVE 2",
-      "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 410,
-    "title": "✅LIVE 1",
-    "category": "BOLA | LIGA INGGRIS",
-    "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash",
-    "user_agent": "VidioPlayer/6.41.11",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://ratuvidio.adptv.workers.dev/",
-      "Origin": "https://ratuvidio.adptv.workers.dev"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm"
-    },
-    "epg_metadata": {
-      "tvg_id": "Champions.TV.5.id",
-      "tvg_name": "✅LIVE 1",
-      "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 411,
+    "id": 404,
     "title": "⚽☑(Universo)✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
@@ -9865,7 +9697,7 @@
     }
   },
   {
-    "id": 412,
+    "id": 405,
     "title": "⚽☑ (TELEMUNDO)✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd",
@@ -9889,7 +9721,7 @@
     }
   },
   {
-    "id": 413,
+    "id": 406,
     "title": "⚽☑ (BST) ✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
@@ -9913,7 +9745,7 @@
     }
   },
   {
-    "id": 414,
+    "id": 407,
     "title": "MUTV ✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://get.perfecttv.net/mutv.mpd",
@@ -9937,7 +9769,7 @@
     }
   },
   {
-    "id": 415,
+    "id": 408,
     "title": "(ESPN 1 Brazil HD)",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/803",
@@ -9961,7 +9793,7 @@
     }
   },
   {
-    "id": 416,
+    "id": 409,
     "title": "USA NETWORK",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/3694",
@@ -9985,7 +9817,7 @@
     }
   },
   {
-    "id": 417,
+    "id": 410,
     "title": "(ESPN 4 Brazil HD)",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/803",
@@ -10009,7 +9841,7 @@
     }
   },
   {
-    "id": 418,
+    "id": 411,
     "title": "LIVE 8 (Bein Sport 3 Turkey)",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
@@ -10033,7 +9865,7 @@
     }
   },
   {
-    "id": 419,
+    "id": 412,
     "title": "SKY SPORT MAX ✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
@@ -10057,7 +9889,7 @@
     }
   },
   {
-    "id": 420,
+    "id": 413,
     "title": "SKY SPORT F1 ✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
@@ -10081,7 +9913,7 @@
     }
   },
   {
-    "id": 421,
+    "id": 414,
     "title": "SKY_CALCIO ✅",
     "category": "BOLA | LIGA INGGRIS",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
@@ -10105,7 +9937,7 @@
     }
   },
   {
-    "id": 422,
+    "id": 415,
     "title": "Sportstars 1 HD (MJ) ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -10129,7 +9961,7 @@
     }
   },
   {
-    "id": 423,
+    "id": 416,
     "title": "Sportstars 2 HD (MJ) ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -10153,7 +9985,7 @@
     }
   },
   {
-    "id": 424,
+    "id": 417,
     "title": "SKY_CALCIO ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
@@ -10177,7 +10009,7 @@
     }
   },
   {
-    "id": 425,
+    "id": 418,
     "title": "SKY SPORT MAX ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
@@ -10201,7 +10033,7 @@
     }
   },
   {
-    "id": 426,
+    "id": 419,
     "title": "SKY SPORT F1 ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
@@ -10225,7 +10057,7 @@
     }
   },
   {
-    "id": 427,
+    "id": 420,
     "title": "DAZN FAST (BUNDESLIGA) ✅",
     "category": "BOLA | BUNDESLIGA",
     "uri": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
@@ -10249,7 +10081,7 @@
     }
   },
   {
-    "id": 428,
+    "id": 421,
     "title": "SKY_CALCIO ✅",
     "category": "BOLA | LALIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
@@ -10273,7 +10105,7 @@
     }
   },
   {
-    "id": 429,
+    "id": 422,
     "title": "SKY SPORT F1 ✅",
     "category": "BOLA | LALIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
@@ -10297,7 +10129,7 @@
     }
   },
   {
-    "id": 430,
+    "id": 423,
     "title": "SKY SPORT MAX ✅",
     "category": "BOLA | LALIGA",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
@@ -10321,7 +10153,7 @@
     }
   },
   {
-    "id": 431,
+    "id": 424,
     "title": "Serie A ✅",
     "category": "BOLA | SERIE A",
     "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -10345,31 +10177,7 @@
     }
   },
   {
-    "id": 432,
-    "title": "LIVE 1 ✅",
-    "category": "BOLA | SERIE A",
-    "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash",
-    "user_agent": "VidioPlayer/6.41.11",
-    "is_live": true,
-    "match_id": "",
-    "headers": {
-      "Referer": "https://ratuvidio.adptv.workers.dev/",
-      "Origin": "https://ratuvidio.adptv.workers.dev"
-    },
-    "drm_info": {
-      "is_protected": true,
-      "drm_type": "com.widevine.alpha",
-      "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm"
-    },
-    "epg_metadata": {
-      "tvg_id": "Champions.TV.1.id",
-      "tvg_name": "LIVE 1 ✅",
-      "tvg_logo": "https://i.imgur.com/m2PHbsg.jpeg",
-      "source_xml": "Embedded"
-    }
-  },
-  {
-    "id": 433,
+    "id": 425,
     "title": "SKY SPORT F1 ✅",
     "category": "BOLA | SERIE A",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
@@ -10393,7 +10201,7 @@
     }
   },
   {
-    "id": 434,
+    "id": 426,
     "title": "SKY_CALCIO ✅",
     "category": "BOLA | SERIE A",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
@@ -10417,7 +10225,7 @@
     }
   },
   {
-    "id": 435,
+    "id": 427,
     "title": "SKY SPORT MAX ✅",
     "category": "BOLA | SERIE A",
     "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
@@ -10441,7 +10249,7 @@
     }
   },
   {
-    "id": 436,
+    "id": 428,
     "title": "SportDigital FUSSBALL DE",
     "category": "BOLA | SUPERCOPA DE ESPANA",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
@@ -10465,7 +10273,7 @@
     }
   },
   {
-    "id": 437,
+    "id": 429,
     "title": "SportDigital FUSSBALL DE",
     "category": "BOLA | PRO LEAGUE",
     "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
@@ -10489,7 +10297,7 @@
     }
   },
   {
-    "id": 438,
+    "id": 430,
     "title": "070. ElevenSport1",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8",
@@ -10513,7 +10321,7 @@
     }
   },
   {
-    "id": 439,
+    "id": 431,
     "title": "071. ElevenSport2",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8",
@@ -10537,7 +10345,7 @@
     }
   },
   {
-    "id": 440,
+    "id": 432,
     "title": "072. ElevenSport3",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8",
@@ -10561,7 +10369,7 @@
     }
   },
   {
-    "id": 441,
+    "id": 433,
     "title": "Sportstars 2 HD (MJ)",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -10585,7 +10393,7 @@
     }
   },
   {
-    "id": 442,
+    "id": 434,
     "title": "100. SonySports1",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8",
@@ -10609,7 +10417,7 @@
     }
   },
   {
-    "id": 443,
+    "id": 435,
     "title": "Sportstars 1 HD (MJ)",
     "category": "BOLA | UEFA NATIONS LEAGUE",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -10633,7 +10441,7 @@
     }
   },
   {
-    "id": 444,
+    "id": 436,
     "title": "072. ElevenSport3",
     "category": "BOLA | UEFA EROPA LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8",
@@ -10657,7 +10465,7 @@
     }
   },
   {
-    "id": 445,
+    "id": 437,
     "title": "070. ElevenSport1",
     "category": "BOLA | UEFA EROPA LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8",
@@ -10681,7 +10489,7 @@
     }
   },
   {
-    "id": 446,
+    "id": 438,
     "title": "071. ElevenSport2",
     "category": "BOLA | UEFA EROPA LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8",
@@ -10705,7 +10513,7 @@
     }
   },
   {
-    "id": 447,
+    "id": 439,
     "title": "100. SonySports1",
     "category": "BOLA | UEFA EROPA LEAGUE",
     "uri": "https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8",
@@ -10729,7 +10537,7 @@
     }
   },
   {
-    "id": 448,
+    "id": 440,
     "title": "Sportstars 4",
     "category": "BOLA | AFC U23 ASIAN CUP SAUDI ARABIA 2026",
     "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8",
@@ -10753,7 +10561,7 @@
     }
   },
   {
-    "id": 449,
+    "id": 441,
     "title": "Sportstars 1 HD ✅",
     "category": "BOLA | FRIENDLY MATCH",
     "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -10777,7 +10585,7 @@
     }
   },
   {
-    "id": 450,
+    "id": 442,
     "title": "Sportstars 2 HD ✅",
     "category": "BOLA | FRIENDLY MATCH",
     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -10801,7 +10609,7 @@
     }
   },
   {
-    "id": 451,
+    "id": 443,
     "title": "976-Jurassic World Rebirth",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f153371-fbcf-43f9-b4d1-2621049230e6&sub=t2",
@@ -10825,7 +10633,7 @@
     }
   },
   {
-    "id": 452,
+    "id": 444,
     "title": "DAZN1",
     "category": "BOLA | FRIENDLY MATCH",
     "uri": "http://50.7.120.34:8080/DAZN1/index.m3u8",
@@ -10849,7 +10657,7 @@
     }
   },
   {
-    "id": 453,
+    "id": 445,
     "title": "977-M3GAN 2.0",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2addc96b-2fb5-44d1-9521-a7922103980a&sub=t2",
@@ -10873,7 +10681,7 @@
     }
   },
   {
-    "id": 454,
+    "id": 446,
     "title": "978-Wifelike",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ce79d007-6a30-4c82-8c09-cbee79db30b7&sub=t2",
@@ -10897,7 +10705,7 @@
     }
   },
   {
-    "id": 455,
+    "id": 447,
     "title": "979-The Ruins",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d19a2275-12b2-4423-8a3f-2a0ae7cb73bd&sub=t2",
@@ -10921,7 +10729,7 @@
     }
   },
   {
-    "id": 456,
+    "id": 448,
     "title": "Mortal combat 2",
     "category": "VOD TRIAL",
     "uri": "https://drive.usercontent.google.com/download?id=172OrmiCEuZ11EzJzHZbNszSnG7pUC4t-&export=download&authuser=0",
@@ -10945,7 +10753,7 @@
     }
   },
   {
-    "id": 457,
+    "id": 449,
     "title": "981-No Strings Attached",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8eaae56e-21ad-4e26-be8e-d0539fadce0d&sub=t2",
@@ -10969,7 +10777,7 @@
     }
   },
   {
-    "id": 458,
+    "id": 450,
     "title": "982-Drop",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1c54dc08-89e1-4fe3-8f8f-47f0479cd8de&sub=t2",
@@ -10993,7 +10801,7 @@
     }
   },
   {
-    "id": 459,
+    "id": 451,
     "title": "983-The Phoenician Scheme",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=165ba6b1-56dd-4132-9971-d60cd98956d8&sub=t2",
@@ -11017,7 +10825,7 @@
     }
   },
   {
-    "id": 460,
+    "id": 452,
     "title": "984-All the Devils Are Here",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6e1e75a1-8603-4efb-910d-5abf71964383&sub=t2",
@@ -11041,7 +10849,7 @@
     }
   },
   {
-    "id": 461,
+    "id": 453,
     "title": "985-The Stranger In My Home",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8678d4da-8626-489b-855e-c337c2bdf14b&sub=t2",
@@ -11065,7 +10873,7 @@
     }
   },
   {
-    "id": 462,
+    "id": 454,
     "title": "986-Trust",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8eeac6d3-83ad-4fc3-bdcd-c31861a630da&sub=t2",
@@ -11089,7 +10897,7 @@
     }
   },
   {
-    "id": 463,
+    "id": 455,
     "title": "987-Oblivion",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bcecca31-e728-4439-86db-94a478409d97&sub=t2",
@@ -11113,7 +10921,7 @@
     }
   },
   {
-    "id": 464,
+    "id": 456,
     "title": "988-The Legend of Tarzan",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=87360973-c358-4b4f-862f-afd03ad38f17&sub=t2",
@@ -11137,7 +10945,7 @@
     }
   },
   {
-    "id": 465,
+    "id": 457,
     "title": "989-Black Bag 2025",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=207069a1-3057-46d0-b6ae-c2e3b3567df3&sub=t2",
@@ -11161,7 +10969,7 @@
     }
   },
   {
-    "id": 466,
+    "id": 458,
     "title": "990-Novocaine 2025",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=81da3b31-654b-4119-a12a-57b185f77f93&sub=t2",
@@ -11185,7 +10993,7 @@
     }
   },
   {
-    "id": 467,
+    "id": 459,
     "title": "991-Spell 2020 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=37a7bd63-e753-4c76-acd7-14df2dfdd081&sub=t2",
@@ -11209,7 +11017,7 @@
     }
   },
   {
-    "id": 468,
+    "id": 460,
     "title": "992-Spin The Bottle 2024 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f75b4af4-36f6-4050-b244-7c77ce6c96b5&sub=t2",
@@ -11233,7 +11041,7 @@
     }
   },
   {
-    "id": 469,
+    "id": 461,
     "title": "993-The Woman in the Yard 2025 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b6874bb6-d4b8-497c-8b57-b02e2c534b99&sub=t2",
@@ -11257,7 +11065,7 @@
     }
   },
   {
-    "id": 470,
+    "id": 462,
     "title": "994-Final Destination 1 2000 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8903cf57-b222-4b9b-b58b-2a5a6cc1588f&sub=t2",
@@ -11281,7 +11089,7 @@
     }
   },
   {
-    "id": 471,
+    "id": 463,
     "title": "995-Final Destination 2 2003 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=787f950b-0fe3-4a95-911d-2553f3db9a77&sub=t2",
@@ -11305,7 +11113,7 @@
     }
   },
   {
-    "id": 472,
+    "id": 464,
     "title": "996-Final Destination 3 2006 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29056e15-a4c2-42aa-9241-a032fde4451c&sub=t2",
@@ -11329,7 +11137,7 @@
     }
   },
   {
-    "id": 473,
+    "id": 465,
     "title": "997-Final Destination 4 2009 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fb0ead35-932f-490a-85a3-c88140152a33&sub=t2",
@@ -11353,7 +11161,7 @@
     }
   },
   {
-    "id": 474,
+    "id": 466,
     "title": "998-Final Destination 5 2011 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=47667ba9-6ded-44b9-8514-66c3637621cf&sub=t2",
@@ -11377,7 +11185,7 @@
     }
   },
   {
-    "id": 475,
+    "id": 467,
     "title": "999-Final Destination Bloodlines 2025 (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=18b140b1-220c-4a45-b784-ffffa0293ff8&sub=t2",
@@ -11401,7 +11209,7 @@
     }
   },
   {
-    "id": 476,
+    "id": 468,
     "title": "The Punisher: One Last Kill",
     "category": "VOD TRIAL",
     "uri": "https://drive.usercontent.google.com/download?id=1FdSw0_cQ-xmZHS7dMOu1L0duwJZRLIIV&export=download&authuser=0&confirm=t&uuid=4863689e-2773-498f-8b3f-272379861211&at=ALBwUgmqYTxXXRfAfgKzlPRhrd91%3A1779451590411",
@@ -11425,7 +11233,7 @@
     }
   },
   {
-    "id": 477,
+    "id": 469,
     "title": "Action-02-Fall Guy",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b997fe1d-3218-44cd-bdbb-2661f279afde&sub=t6",
@@ -11449,7 +11257,7 @@
     }
   },
   {
-    "id": 478,
+    "id": 470,
     "title": "Action-01-Run All Night",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c5c76757-7f59-4878-9e97-73722da7c099&sub=t7",
@@ -11473,7 +11281,7 @@
     }
   },
   {
-    "id": 479,
+    "id": 471,
     "title": "980-Anora",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=96292bec-4fb5-4a35-b1da-6b9e7f83cf99&sub=t2",
@@ -11497,7 +11305,7 @@
     }
   },
   {
-    "id": 480,
+    "id": 472,
     "title": "Kids-Harry Potter 1",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=16e04231-69f4-4865-8538-69407a3b7711&sub=t12",
@@ -11521,7 +11329,7 @@
     }
   },
   {
-    "id": 481,
+    "id": 473,
     "title": "Kids-Harry Potter 2",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2c3a13a2-7b9e-4e98-9db5-26d7e727ec18&sub=t42",
@@ -11545,7 +11353,7 @@
     }
   },
   {
-    "id": 482,
+    "id": 474,
     "title": "Kids-Harry Potter 3",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=22dcb0f6-3351-4e1b-aced-9b8cb0b569b2&sub=t0",
@@ -11569,7 +11377,7 @@
     }
   },
   {
-    "id": 483,
+    "id": 475,
     "title": "Panor 2",
     "category": "VOD TRIAL",
     "uri": "https://drive.usercontent.google.com/download?id=1XMRjE9ZCOcmSlVU1PQZX-1ZssSunUeAu&export=download&authuser=0&confirm=t&uuid=5c1f61e4-43be-4a75-b8d2-19444cdd3f8f&at=ALBwUgmCUoTW7LzW43UXomthPjVI%3A1779451833963",
@@ -11593,7 +11401,7 @@
     }
   },
   {
-    "id": 484,
+    "id": 476,
     "title": "Rise of the Conqueror",
     "category": "VOD TRIAL",
     "uri": "https://drive.usercontent.google.com/download?id=1315lDSg8l5BmZASi6VZCRG9VhRKkdftW&export=download&authuser=0&confirm=t&uuid=3d1bec1e-5257-48b5-8ebd-452297ad8dfc&at=ALBwUgngMb09SYaj3mkHVHr-69Mo%3A1777559816113",
@@ -11617,7 +11425,7 @@
     }
   },
   {
-    "id": 485,
+    "id": 477,
     "title": "Kids-Harry Potter 5",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=03a29f9d-b292-4ef8-861d-c911c0398447&sub=t30",
@@ -11641,7 +11449,7 @@
     }
   },
   {
-    "id": 486,
+    "id": 478,
     "title": "Kids-Harry Potter 6",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97214560-494d-4180-887d-cdd66664bc9e&sub=t44",
@@ -11665,7 +11473,7 @@
     }
   },
   {
-    "id": 487,
+    "id": 479,
     "title": "Kids-Harry Potter 7 Pt2",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9b9d9055-3638-468b-9889-096b22566f7b&sub=t32",
@@ -11689,7 +11497,7 @@
     }
   },
   {
-    "id": 488,
+    "id": 480,
     "title": "Kids-Harry Potter 4",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f0c79c62-0e8a-420a-bbab-35ad3587b683&sub=t32",
@@ -11713,7 +11521,7 @@
     }
   },
   {
-    "id": 489,
+    "id": 481,
     "title": "Action-Khunpan 3",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=08adb58b-b75a-42fe-bccb-41c27f622686&sub=t6",
@@ -11737,7 +11545,7 @@
     }
   },
   {
-    "id": 490,
+    "id": 482,
     "title": "Kids-Transformers One",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ef20e448-43cf-4da2-8730-671a933f3216&sub=t5",
@@ -11761,7 +11569,7 @@
     }
   },
   {
-    "id": 491,
+    "id": 483,
     "title": "Action-The Grant Heist",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3cd8bb4c-a585-4661-bde7-e312cb938008&sub=t0",
@@ -11785,7 +11593,7 @@
     }
   },
   {
-    "id": 492,
+    "id": 484,
     "title": "Kids-Harry Potter 7 Pt1",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69c502cb-f393-47b3-96e5-bfe2c4cf3b65&sub=t4",
@@ -11809,7 +11617,7 @@
     }
   },
   {
-    "id": 493,
+    "id": 485,
     "title": "Action-1-Ready Player One",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6",
@@ -11833,7 +11641,7 @@
     }
   },
   {
-    "id": 494,
+    "id": 486,
     "title": "The Lord of the Rings: The War of the Rohirrim",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09&sub=t12",
@@ -11857,7 +11665,7 @@
     }
   },
   {
-    "id": 495,
+    "id": 487,
     "title": "Action-1-Self Reliance",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=01e9a174-615d-48a9-93f5-d6c337c70ccc&sub=t3",
@@ -11881,7 +11689,7 @@
     }
   },
   {
-    "id": 496,
+    "id": 488,
     "title": "Action-3-Pacific Rim",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907&sub=t6",
@@ -11905,7 +11713,7 @@
     }
   },
   {
-    "id": 497,
+    "id": 489,
     "title": "Action-Jurassic World: Fallen Kingdom",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c85774c4-ae06-45e3-b2d3-0854ee02591d&sub=t4",
@@ -11929,7 +11737,7 @@
     }
   },
   {
-    "id": 498,
+    "id": 490,
     "title": "Kids-How to Train Your Dragon",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bd0a8a14-4c41-4aa9-a80e-3f60353756ef&sub=t6",
@@ -11953,7 +11761,7 @@
     }
   },
   {
-    "id": 499,
+    "id": 491,
     "title": "Action-Dune: Part One",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3424844c-05db-4cab-9bed-2825e231de94&sub=t36",
@@ -11977,7 +11785,7 @@
     }
   },
   {
-    "id": 500,
+    "id": 492,
     "title": "Action-The Lord of the Rings: The Fellowship of the Ring Extended Edition",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c99d6146-ac31-4dc9-9957-bd99e95a48d8&sub=t3",
@@ -12001,7 +11809,7 @@
     }
   },
   {
-    "id": 501,
+    "id": 493,
     "title": "Action-Jurassic Park",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=de1a2f04-6b7b-446a-b567-f9b96ce4064f&sub=t2",
@@ -12025,7 +11833,7 @@
     }
   },
   {
-    "id": 502,
+    "id": 494,
     "title": "Action-10000 B.C.",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c13817b1-eac1-47bb-a445-1bf94cc8540b&sub=t3",
@@ -12049,7 +11857,7 @@
     }
   },
   {
-    "id": 503,
+    "id": 495,
     "title": "Action-Dune: Part Two",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3c3df515-93b8-4410-b10a-414079529821&sub=t3",
@@ -12073,7 +11881,7 @@
     }
   },
   {
-    "id": 504,
+    "id": 496,
     "title": "Action-300: Rise of an Empire",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=90265e94-8a28-46d5-8437-07031debbd78&sub=t9",
@@ -12097,7 +11905,7 @@
     }
   },
   {
-    "id": 505,
+    "id": 497,
     "title": "Action-A Man Apart",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f3bc5bd3-9c92-4fca-a952-d2182f51c02d&sub=t6",
@@ -12121,7 +11929,7 @@
     }
   },
   {
-    "id": 506,
+    "id": 498,
     "title": "Action-3-Edge Of Tomorrow",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=aca5ada1-4417-4019-97f7-018d6954c6c0&sub=t10",
@@ -12145,7 +11953,7 @@
     }
   },
   {
-    "id": 507,
+    "id": 499,
     "title": "Action-Apollo 13",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=44692baf-c276-4f3a-86a1-96884949846f&sub=t6",
@@ -12169,7 +11977,7 @@
     }
   },
   {
-    "id": 508,
+    "id": 500,
     "title": "Action-Ambushed",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e15abb07-171c-4361-b6ed-f8cbab4b5634&sub=t2",
@@ -12193,7 +12001,7 @@
     }
   },
   {
-    "id": 509,
+    "id": 501,
     "title": "Action-Agent Recon (2024)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=02f8940b-60b1-4271-8858-7ab6408a2cda&sub=t4",
@@ -12217,7 +12025,7 @@
     }
   },
   {
-    "id": 510,
+    "id": 502,
     "title": "Action-American Sniper",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c6a7381a-c57a-4b56-982d-bf89c5fde065&sub=t7",
@@ -12241,7 +12049,7 @@
     }
   },
   {
-    "id": 511,
+    "id": 503,
     "title": "999-Companion (Horror)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=40d869a9-7622-400d-a069-4e79d10540eb&sub=t2",
@@ -12265,7 +12073,7 @@
     }
   },
   {
-    "id": 512,
+    "id": 504,
     "title": "Action-1-Batman Begins",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=614107f2-d504-48fe-a64b-e8986432ba32&sub=t8",
@@ -12289,7 +12097,7 @@
     }
   },
   {
-    "id": 513,
+    "id": 505,
     "title": "Action-Assassin Club (2023)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=96ef77bc-ac39-4eab-a5d1-ab99e350bb58&sub=t8",
@@ -12313,7 +12121,7 @@
     }
   },
   {
-    "id": 514,
+    "id": 506,
     "title": "Action-1-Batman Returns",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ffb6310a-71fe-4015-9ffa-eed56f10eaca&sub=t10",
@@ -12337,7 +12145,7 @@
     }
   },
   {
-    "id": 515,
+    "id": 507,
     "title": "Action-1-Batman Forever",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=db16133d-e355-4b2f-a3da-d34126dd8f89&sub=t14",
@@ -12361,7 +12169,7 @@
     }
   },
   {
-    "id": 516,
+    "id": 508,
     "title": "Action-Blade II",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=94c552f0-9776-4c3e-8e8d-607d9164ad8a&sub=t2",
@@ -12385,7 +12193,7 @@
     }
   },
   {
-    "id": 517,
+    "id": 509,
     "title": "Action-Blade of the 47 Ronin",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=549d7f5a-0d28-47c5-8275-5d51ffdd2706&sub=t4",
@@ -12409,7 +12217,7 @@
     }
   },
   {
-    "id": 518,
+    "id": 510,
     "title": "Action-1-Aquaman and the Lost Kingdom",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d09acd40-f3e3-4c15-9561-4d5478595229&sub=t11",
@@ -12433,7 +12241,7 @@
     }
   },
   {
-    "id": 519,
+    "id": 511,
     "title": "Action-Blade Runner 2049",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ddd6fca9-04ea-4c96-b03e-b2468e89902b&sub=t1",
@@ -12457,7 +12265,7 @@
     }
   },
   {
-    "id": 520,
+    "id": 512,
     "title": "Action-Blade: Trinity",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2f42d592-b13f-4278-b5ac-2e1b5d1d515f&sub=t1",
@@ -12481,7 +12289,7 @@
     }
   },
   {
-    "id": 521,
+    "id": 513,
     "title": "Action-1-Blue Beetle",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ad8df3d4-ccc7-410b-90ad-2f94dea72351&sub=t17",
@@ -12505,7 +12313,7 @@
     }
   },
   {
-    "id": 522,
+    "id": 514,
     "title": "Action-Blind Justice",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=02daf139-6148-4f02-b4cd-cd86755f8470&sub=t1",
@@ -12529,7 +12337,7 @@
     }
   },
   {
-    "id": 523,
+    "id": 515,
     "title": "Action-Body of Lies",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=38ede28d-eb3a-41bf-804d-842fd3b20f85&sub=t5",
@@ -12553,7 +12361,7 @@
     }
   },
   {
-    "id": 524,
+    "id": 516,
     "title": "Action-Border: Shokuzai",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=808a3efd-fe73-4290-a9a9-40689761b6e9&sub=t0",
@@ -12577,7 +12385,7 @@
     }
   },
   {
-    "id": 525,
+    "id": 517,
     "title": "Action-Central Intelligence",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=a150ba86-1bad-481f-a5e6-af533c45e241&sub=t1",
@@ -12601,7 +12409,7 @@
     }
   },
   {
-    "id": 526,
+    "id": 518,
     "title": "Action-Charlies Angels",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=00825ee0-99ed-4c08-802b-2912a0933df4&sub=t3",
@@ -12625,7 +12433,7 @@
     }
   },
   {
-    "id": 527,
+    "id": 519,
     "title": "Action-Charlies Angels: Full Throttle",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ab8c590d-9df1-490d-825d-322d06e1819d&sub=t2",
@@ -12649,7 +12457,7 @@
     }
   },
   {
-    "id": 528,
+    "id": 520,
     "title": "Action-Christmas Carol (2022)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=687be511-e443-4f89-8f0d-58820c130bb4&sub=t3",
@@ -12673,7 +12481,7 @@
     }
   },
   {
-    "id": 529,
+    "id": 521,
     "title": "Action-Civil War",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=24a3c0ad-05d9-49c5-83ea-8891476b587d&sub=t1",
@@ -12697,7 +12505,7 @@
     }
   },
   {
-    "id": 530,
+    "id": 522,
     "title": "Action-1-Batman & Robin",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ddb779e0-3f76-4033-b534-4e660f7bd904&sub=t9",
@@ -12721,7 +12529,7 @@
     }
   },
   {
-    "id": 531,
+    "id": 523,
     "title": "Action-Clash of the Titans",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=80c8d109-e7bc-483a-bf46-4b8676beee95&sub=t4",
@@ -12745,7 +12553,7 @@
     }
   },
   {
-    "id": 532,
+    "id": 524,
     "title": "Action-Cobra",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=db7fb3f0-5a4a-4135-90a7-4fc6135463b9&sub=t0",
@@ -12769,7 +12577,7 @@
     }
   },
   {
-    "id": 533,
+    "id": 525,
     "title": "Action-1-Aquaman",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2854e755-ee28-4b91-ad82-0384200b0c86&sub=t24",
@@ -12793,7 +12601,7 @@
     }
   },
   {
-    "id": 534,
+    "id": 526,
     "title": "Action-Collateral Damage",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2a136d92-4a85-4719-8a00-99e795a9db9a&sub=t11",
@@ -12817,7 +12625,7 @@
     }
   },
   {
-    "id": 535,
+    "id": 527,
     "title": "Action-1-Batman v. Superman: Dawn of Justice",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=97f8755b-cfbe-41f9-ac03-f952ab4ed89b&sub=t23",
@@ -12841,7 +12649,7 @@
     }
   },
   {
-    "id": 536,
+    "id": 528,
     "title": "Action-Congo",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e34c2a2f-acf2-4e94-877f-d903bedc42d3&sub=t5",
@@ -12865,7 +12673,7 @@
     }
   },
   {
-    "id": 537,
+    "id": 529,
     "title": "Action-Code Name: Wolverine",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=04d06af1-56ca-4794-b773-c16e4f051617&sub=t2",
@@ -12889,7 +12697,7 @@
     }
   },
   {
-    "id": 538,
+    "id": 530,
     "title": "Action-Constantine",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c6212da1-a5f5-4d1d-98da-459071244e65&sub=t7",
@@ -12913,7 +12721,7 @@
     }
   },
   {
-    "id": 539,
+    "id": 531,
     "title": "Action-Dead Mine",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6bf231ab-e569-4c69-b071-16d2270626dd&sub=t3",
@@ -12937,7 +12745,7 @@
     }
   },
   {
-    "id": 540,
+    "id": 532,
     "title": "Action-2-Expend4bles",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b3514d38-d9fe-4e54-b7b9-75cafa58aabc&sub=t1",
@@ -12961,7 +12769,7 @@
     }
   },
   {
-    "id": 541,
+    "id": 533,
     "title": "Action-Dunkirk",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b01dd896-026e-4c67-975e-40281af7b62c&sub=t26",
@@ -12985,7 +12793,7 @@
     }
   },
   {
-    "id": 542,
+    "id": 534,
     "title": "Action-Eraser",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=26775ffb-904d-4035-b846-eae5681feabb&sub=t8",
@@ -13009,7 +12817,7 @@
     }
   },
   {
-    "id": 543,
+    "id": 535,
     "title": "Action-1-Fantastic Beasts: The Crimes of Grindelwald",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=76a3cb10-3921-4864-a7db-c87b69f5c4ee&sub=t10",
@@ -13033,7 +12841,7 @@
     }
   },
   {
-    "id": 544,
+    "id": 536,
     "title": "Action-1-Fantastic Beasts: The Secrets of Dumbledore",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=6a2c050c-4bcd-4e57-bb4e-25f940de688a&sub=t10",
@@ -13057,7 +12865,7 @@
     }
   },
   {
-    "id": 545,
+    "id": 537,
     "title": "Action-2-Freelance",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=9dad03d0-0baa-473a-be5c-502691f5e1c9&sub=t6",
@@ -13081,7 +12889,7 @@
     }
   },
   {
-    "id": 546,
+    "id": 538,
     "title": "Action-3-Get Smart",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e37031db-640e-4c98-947e-573ee0ae02ed&sub=t2",
@@ -13105,7 +12913,7 @@
     }
   },
   {
-    "id": 547,
+    "id": 539,
     "title": "Action-3-Gangster Squad",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4ff96f87-4103-4fdc-89e6-d9877753e879&sub=t3",
@@ -13129,7 +12937,7 @@
     }
   },
   {
-    "id": 548,
+    "id": 540,
     "title": "Action-2-Furiosa: A Mad Max Saga",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=e75523fc-2ff8-44f4-925d-b412328371ef&sub=t5",
@@ -13153,7 +12961,7 @@
     }
   },
   {
-    "id": 549,
+    "id": 541,
     "title": "Action-3-Getaway",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=75ada09c-439f-4103-ba54-699c70ddf7f5&sub=t5",
@@ -13177,7 +12985,7 @@
     }
   },
   {
-    "id": 550,
+    "id": 542,
     "title": "Action-3-Gladiator",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=99b5c340-bf4f-4f6a-9bd5-a55f38542e33&sub=t5",
@@ -13201,7 +13009,7 @@
     }
   },
   {
-    "id": 551,
+    "id": 543,
     "title": "Action-1-Godzilla x Kong: The New Empire",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b325f888-b2d5-4662-802a-2ad829a7a5d6&sub=t38",
@@ -13225,7 +13033,7 @@
     }
   },
   {
-    "id": 552,
+    "id": 544,
     "title": "Action-1-Godzilla vs. Kong",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=eb664895-939a-467f-ae7b-707ccab7c599&sub=t26",
@@ -13249,7 +13057,7 @@
     }
   },
   {
-    "id": 553,
+    "id": 545,
     "title": "Action-2-Gunner (2024)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4379f4d4-4de9-4d0f-bca2-08d008dcaf1f&sub=t4",
@@ -13273,7 +13081,7 @@
     }
   },
   {
-    "id": 554,
+    "id": 546,
     "title": "Action-Inception",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c2972955-194c-4542-9ebd-2d6fafeeb6da&sub=t32",
@@ -13297,7 +13105,7 @@
     }
   },
   {
-    "id": 555,
+    "id": 547,
     "title": "Action-1-Fantastic Beasts and Where to Find Them",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18",
@@ -13321,7 +13129,7 @@
     }
   },
   {
-    "id": 556,
+    "id": 548,
     "title": "Action-Jack the Giant Slayer",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b99ed619-edb7-4eff-b52d-27a381ac2117&sub=t32",
@@ -13345,7 +13153,7 @@
     }
   },
   {
-    "id": 557,
+    "id": 549,
     "title": "Action-Jonah Hex",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5f5080fe-e67e-4177-8d0c-87c84593e0d2&sub=t3",
@@ -13369,7 +13177,7 @@
     }
   },
   {
-    "id": 558,
+    "id": 550,
     "title": "Action-Jarhead",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=f9039564-a8f9-4739-af10-47870eb73d4a&sub=t3",
@@ -13393,7 +13201,7 @@
     }
   },
   {
-    "id": 559,
+    "id": 551,
     "title": "Action-1-Justice League",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=326a002c-d0fb-4499-95f0-41e5cf5189e7&sub=t16",
@@ -13417,7 +13225,7 @@
     }
   },
   {
-    "id": 560,
+    "id": 552,
     "title": "Action-Kaiji: Final Game",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=83f6923b-7552-4ded-8704-efca99f0b353&sub=t4",
@@ -13441,7 +13249,7 @@
     }
   },
   {
-    "id": 561,
+    "id": 553,
     "title": "Action-King Arthur: Legend of the Sword",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bec2a125-d98d-4dbd-927f-7ab2cfe0eb0a&sub=t2",
@@ -13465,7 +13273,7 @@
     }
   },
   {
-    "id": 562,
+    "id": 554,
     "title": "Action-Deadwood: The Movie",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fc7262a5-a72b-4887-9f18-4b8723a43f67&sub=t24",
@@ -13489,7 +13297,7 @@
     }
   },
   {
-    "id": 563,
+    "id": 555,
     "title": "Action-2-Little Dixie",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=46405943-476b-4686-9681-e763ef6321a4&sub=t5",
@@ -13513,7 +13321,7 @@
     }
   },
   {
-    "id": 564,
+    "id": 556,
     "title": "Action-2-Mad Max: Fury Road",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=fba5c86f-e6b1-439f-9480-6ca19441ccf4&sub=t5",
@@ -13537,7 +13345,7 @@
     }
   },
   {
-    "id": 565,
+    "id": 557,
     "title": "Action-1-Man of Steel",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5f466bc9-f391-491d-8f4d-fc7807f234fc&sub=t7",
@@ -13561,7 +13369,7 @@
     }
   },
   {
-    "id": 566,
+    "id": 558,
     "title": "Action-Max",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1ef50830-63cc-47c4-8393-624658fad805&sub=t3",
@@ -13585,7 +13393,7 @@
     }
   },
   {
-    "id": 567,
+    "id": 559,
     "title": "Action-2-Meg",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=144be5db-47b9-490a-b1dd-309b8fc4db2f&sub=t17",
@@ -13609,7 +13417,7 @@
     }
   },
   {
-    "id": 568,
+    "id": 560,
     "title": "Action-2-Meg 2: The Trench",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=17aa1016-9609-4c0b-b7ed-1a687000e876&sub=t5",
@@ -13633,7 +13441,7 @@
     }
   },
   {
-    "id": 569,
+    "id": 561,
     "title": "Action-2-Maximum Ride",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3820c501-a093-4247-bfe9-efd51d0daf3e&sub=t3",
@@ -13657,7 +13465,7 @@
     }
   },
   {
-    "id": 570,
+    "id": 562,
     "title": "Action-2-Mission: Impossible - Dead Reckoning Part One",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2e977119-2714-49cc-a63d-e38d65494f20&sub=t2",
@@ -13681,7 +13489,7 @@
     }
   },
   {
-    "id": 571,
+    "id": 563,
     "title": "Action-2-Mercy",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=533834e5-2706-41cf-9f35-c251ca519ba5&sub=t1",
@@ -13705,7 +13513,7 @@
     }
   },
   {
-    "id": 572,
+    "id": 564,
     "title": "Action-2-Mission: Impossible -- Fallout",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1967b0a5-3002-4bfb-86ce-ada958074d2e&sub=t1",
@@ -13729,7 +13537,7 @@
     }
   },
   {
-    "id": 573,
+    "id": 565,
     "title": "Action-Mistrial",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=888393e5-d987-4941-b7c4-7dd122187481&sub=t3",
@@ -13753,7 +13561,7 @@
     }
   },
   {
-    "id": 574,
+    "id": 566,
     "title": "Action-1-Godzilla",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3b178798-d9b7-42ad-8f7a-a961b1b789f6&sub=t21",
@@ -13777,7 +13585,7 @@
     }
   },
   {
-    "id": 575,
+    "id": 567,
     "title": "Action-1-Mortal Kombat 1995",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=d9c78382-59bb-4f62-8750-00b4c1eaeac1&sub=t1",
@@ -13801,7 +13609,7 @@
     }
   },
   {
-    "id": 576,
+    "id": 568,
     "title": "Action-1-Cash Out",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c56a9f88-56e8-44df-aec1-02a713d92a20&sub=t0",
@@ -13825,7 +13633,7 @@
     }
   },
   {
-    "id": 577,
+    "id": 569,
     "title": "Action-2-Overlord",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0ea4fd07-f9a4-402a-be1f-ba1f22c359b0&sub=t2",
@@ -13849,7 +13657,7 @@
     }
   },
   {
-    "id": 578,
+    "id": 570,
     "title": "Action-1-Mortal Kombat 1997",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=434fb2f8-c3c8-4c44-aed3-6492a9cd12ae&sub=t9",
@@ -13873,7 +13681,7 @@
     }
   },
   {
-    "id": 579,
+    "id": 571,
     "title": "Action-3-Red",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=3234663a-6335-4c53-94b3-14201055afc8&sub=t1",
@@ -13897,7 +13705,7 @@
     }
   },
   {
-    "id": 580,
+    "id": 572,
     "title": "Action-2-Pan",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c1be7fec-9fdb-4f1b-82f6-97da86830046&sub=t13",
@@ -13921,7 +13729,7 @@
     }
   },
   {
-    "id": 581,
+    "id": 573,
     "title": "Action-3-Poseidon",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=c3d5f89a-75cc-4b58-8cc9-f066b4df7633&sub=t11",
@@ -13945,7 +13753,7 @@
     }
   },
   {
-    "id": 582,
+    "id": 574,
     "title": "Action-2-Phantom (2022)",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bc3203b6-6158-48e4-bb6b-9240654ec3bc&sub=t4",
@@ -13969,7 +13777,7 @@
     }
   },
   {
-    "id": 583,
+    "id": 575,
     "title": "Action-1-Mortal Kombat",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=4d82f31a-ffac-49c9-bc5d-db32a97818d9&sub=t25",
@@ -13993,7 +13801,7 @@
     }
   },
   {
-    "id": 584,
+    "id": 576,
     "title": "Action-1-Hellboy: The Crooked Man",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=107f601e-735b-427a-b009-e9f09d0d6068&sub=t5",
@@ -14017,7 +13825,7 @@
     }
   },
   {
-    "id": 585,
+    "id": 577,
     "title": "Action-3-Rush Hour",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=beedf959-65a5-4007-9c79-09bf9c0d14be&sub=t10",
@@ -14041,7 +13849,7 @@
     }
   },
   {
-    "id": 586,
+    "id": 578,
     "title": "Action-3-Red 2",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ccd21c4b-26d4-499c-88c0-178ffb043104&sub=t5",
@@ -14065,7 +13873,7 @@
     }
   },
   {
-    "id": 587,
+    "id": 579,
     "title": "Action-3-Rush Hour 3",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b581570c-ce82-468b-b961-636b5b537dfb&sub=t3",
@@ -14089,7 +13897,7 @@
     }
   },
   {
-    "id": 588,
+    "id": 580,
     "title": "Action-1-Shazam Fury of the Gods",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=b4f32bde-d67d-4399-a495-28526b5bb441&sub=t15",
@@ -14113,7 +13921,7 @@
     }
   },
   {
-    "id": 589,
+    "id": 581,
     "title": "Action-1-Shazam",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=0eac76ad-e576-4123-b621-2a41771553ae&sub=t1",
@@ -14137,7 +13945,7 @@
     }
   },
   {
-    "id": 590,
+    "id": 582,
     "title": "Action-1-Sheroes",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=29724bac-b2fa-4fd9-b08c-2b8567129eeb&sub=t3",
@@ -14161,7 +13969,7 @@
     }
   },
   {
-    "id": 591,
+    "id": 583,
     "title": "Action-1-Snow White and the Huntsman",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=2846be55-242c-42bd-9819-fffb5edc1564&sub=t4",
@@ -14185,7 +13993,7 @@
     }
   },
   {
-    "id": 592,
+    "id": 584,
     "title": "Action-2-Skyscraper",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=ed8ee561-0b79-47a1-8dc7-c42c48b27dd8&sub=t0",
@@ -14209,7 +14017,7 @@
     }
   },
   {
-    "id": 593,
+    "id": 585,
     "title": "Action-1-Pacific Rim",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=cf40b9a3-23b2-49b6-a6ea-7c6870226907&sub=t0",
@@ -14233,7 +14041,7 @@
     }
   },
   {
-    "id": 594,
+    "id": 586,
     "title": "Action-1-Suicide Squad",
     "category": "VOD TRIAL",
     "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=69a74f34-12ff-4d9d-89b8-885316401128&sub=t13",
