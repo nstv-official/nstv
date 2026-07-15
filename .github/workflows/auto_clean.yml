@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.json voli.json
+          git add system_config_v3.data
           git commit -m "Total Auto-clean (V3): Updated playlists safely with Android headers" || echo "No changes to commit"
           git push
