@@ -2,9 +2,8 @@ name: NSTV Auto Clean Playlist
 
 on:
   schedule:
-    # Berjalan otomatis setiap 12 jam (Jam 00:00 dan 12:00 UTC)
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Supaya kamu bisa jalankan manual kapan saja lewat tab Actions
+  workflow_dispatch:
 
 jobs:
   clean-playlist:
@@ -29,5 +28,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.json voli.json futsal.json
-          git commit -m "Total Auto-clean: Updated TV, Voli, and Futsal playlists" || echo "No changes to commit"
+          git commit -m "Total Auto-clean (V3): Updated playlists safely" || echo "No changes to commit"
           git push
