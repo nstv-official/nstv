@@ -3,7 +3,7 @@ import re
 import concurrent.futures
 
 # Ganti dengan URL m3u Anda sendiri
-SOURCE_M3U_URL = "https://githubusercontent.com/dhasap/dhanytv/main/update-script/extra_channels.m3u"
+SOURCE_M3U_URL = "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/update-script/extra_channels.m3u"
 OUTPUT_FILE = "system_data.dt"
 
 def fetch_m3u(url):
