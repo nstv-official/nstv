@@ -1,69 +1,115 @@
 import requests
 import json
 import concurrent.futures
+import os
+import shutil
+from datetime import datetime
 from urllib.parse import urlparse
 
 # =================================================================
-# DAFTAR FILE YANG AKAN DIBERSIHKAN
+# DAFTAR FILE YANG AKAN DIBERSIHKAN & PENGATURAN BACKUP
 # =================================================================
 FILES_TO_CLEAN = ["system_config_v3.data"]
+BACKUP_DIR = "backup_NSTV"
 TIMEOUT = 12
 
-def get_headers(url, custom_ua=None):
-    """
-    Menyamakan logika header dengan MainViewModel.kt di Android.
-    Menghindari blokir (403 Forbidden) pada domain tertentu.
-    """
-    # Jika channel memiliki user_agent khusus, gunakan itu. Jika tidak, pakai default.
-    ua = custom_ua if custom_ua else "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
-    
-    headers = {
-        "User-Agent": ua
-    }
+def create_backup(filename):
+    """Membuat cadangan file playlist sebelum dimodifikasi."""
+    if not os.path.exists(filename):
+        return False
+    try:
+        if not os.path.exists(BACKUP_DIR):
+            os.makedirs(BACKUP_DIR)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        name_part, ext_part = os.path.splitext(filename)
+        backup_path = os.path.join(BACKUP_DIR, f"{name_part}_backup_{timestamp}{ext_part}")
+        shutil.copy2(filename, backup_path)
+        print(f"[✓] Backup berhasil dibuat: {backup_path}")
+        return True
+    except Exception as e:
+        print(f"[X] Gagal membuat backup: {e}")
+        return False
 
+def get_smart_headers(url, item):
+    """
+    Menyusun header pintar dengan memprioritaskan data asli di JSON channel,
+    lalu digabungkan dengan logika anti-blocking Android.
+    """
+    # 1. Tentukan User-Agent (Prioritas bawaan item)
+    ua = item.get("user_agent") or "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+    headers = {"User-Agent": ua}
+
+    # 2. Ambil data headers bawaan dari database JSON jika ada
+    item_headers = item.get("headers", {})
+    if isinstance(item_headers, dict):
+        for key, val in item_headers.items():
+            if val:
+                headers[key] = val
+
+    # 3. Logika Tambahan Otomatis jika headers bawaan kosong
     domain = urlparse(url).netloc.lower()
-
-    # Logika khusus untuk VisionPlus/Cloudfront
     if "visionplus.id" in domain or "cloudfront.net" in domain:
+        if "Origin" not in headers:
+            headers["Origin"] = "https://www.visionplus.id"
+        if "Referer" not in headers:
+            headers["Referer"] = "https://www.visionplus.id/"
         headers.update({
-            "Origin": "https://www.visionplus.id",
-            "Referer": "https://www.visionplus.id/",
             "X-Requested-With": "id.visionplus.android",
             "Sec-Fetch-Mode": "cors",
             "Sec-Fetch-Site": "cross-site",
             "Sec-Fetch-Dest": "empty"
         })
+        
     return headers
 
 def check_link(item):
-    """
-    Mengecek keaktifan link dengan mendukung User-Agent spesifik milik channel.
-    Mendukung key 'uri' (standar Android) atau 'streamUrl'.
-    """
-    # Mencari URL dengan prioritas: uri -> streamUrl -> url
+    """Mengecek keaktifan link dengan toleransi Geoblocking khusus GitHub Actions."""
     url = item.get("uri") or item.get("streamUrl") or item.get("url")
-
     if not url:
         return item
 
-    try:
-        # Mengambil custom user_agent dari data channel jika ada
-        custom_ua = item.get("user_agent")
-        headers = get_headers(url, custom_ua)
-        
-        # Gunakan stream=True agar hemat kuota
-        response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
+    headers = get_smart_headers(url, item)
 
-        # Jika status code di bawah 400, link HIDUP
+    # Coba verifikasi dengan 2 metode (HEAD terlebih dahulu, lalu GET jika gagal)
+    try:
+        # Metode 1: HEAD request (cepat dan tidak membebani server)
+        response = requests.head(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
+        
+        # Toleransi khusus IP luar negeri (GitHub): Jika 403 (Forbidden) atau 451 (Geoblock), amankan channel!
+        if response.status_code in:
+            print(f"[!] Geoblock Terdeteksi ({response.status_code}) pada: {item.get('title')} -> Dipertahankan")
+            return item
+            
+        if response.status_code < 400:
+            return item
+            
+    except:
+        pass
+
+    try:
+        # Metode 2: GET request (Jika server menolak metode HEAD)
+        response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True, allow_redirects=True)
+        
+        if response.status_code in:
+            print(f"[!] Geoblock Terdeteksi ({response.status_code}) pada: {item.get('title')} -> Dipertahankan")
+            return item
+            
         if response.status_code < 400:
             return item
     except:
         pass
 
+    # Jika benar-benar timeout atau merespon 404/500 ke atas, tandai mati
+    print(f"[-] Link MATI/RTO: {item.get('title')}")
     return None
 
 def process_file(filename):
     print(f"--- Memproses File: {filename} ---")
+    
+    if not create_backup(filename):
+        print(f"[!] Pembersihan {filename} dibatalkan karena backup gagal.\n")
+        return
+
     try:
         with open(filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -78,7 +124,8 @@ def process_file(filename):
         print(f"Mengecek {len(items)} item di {filename}...")
 
         valid_items = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+        # Batasi max_workers ke 10 agar server IPTV tidak mencurigai spam request dari GitHub
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
             results = list(executor.map(check_link, items))
             valid_items = [i for i in results if i is not None]
 
@@ -87,10 +134,10 @@ def process_file(filename):
         return
 
     if len(items) > 0 and len(valid_items) == 0:
-        print(f"Peringatan: Semua link di {filename} dianggap mati. Data TIDAK diubah untuk keamanan.")
+        print(f"Peringatan: Semua link dianggap mati (Kemungkinan internet server putus). Data TIDAK diubah.")
         return
 
-    # Fitur Cerdas: Mengurutkan kembali ID secara berurutan setelah ada channel yang dihapus
+    # Urutkan kembali ID dari angka 1 secara rapi
     for index, item in enumerate(valid_items, start=1):
         if "id" in item:
             item["id"] = index
@@ -107,6 +154,6 @@ def process_file(filename):
     print(f"Item aktif tersisa: {len(valid_items)} (ID telah diurutkan ulang)\n")
 
 if __name__ == "__main__":
-    print("Memulai NSTV CLEANER V3 + Smart Auto-ID (Sesuai Logika Android)...\n")
+    print("Memulai NSTV CLEANER V3 PRO (GitHub Actions Optimized)...\n")
     for file in FILES_TO_CLEAN:
         process_file(file)
