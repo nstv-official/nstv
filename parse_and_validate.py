@@ -5,17 +5,29 @@ import requests
 
 def check_url_status(url, user_agent, headers_dict):
     """
-    Fungsi untuk mengecek status URL.
-    Memaksa encode string ke UTF-8 (latin-1 fallback) untuk mencegah eror karakter emoji/unik.
+    Fungsi untuk mengecek status URL dengan membersihkan seluruh karakter khusus/emoji
+    dari komponen headers agar tidak memicu UnicodeEncodeError pada internal Python.
     """
-    # Mengamankan header dengan encoding latin-1 yang dipaksa dari representasi UTF-8
+    # Fungsi lokal untuk membuang karakter non-ASCII (seperti emoji bumi, centang, dll)
+    def clean_ascii(text):
+        if not text:
+            return ""
+        # Hanya menyisakan karakter standar alfabet, angka, dan tanda baca umum (ASCII 32-126)
+        return "".join(c for c in text if 32 <= ord(c) <= 126)
+
+    # Bersihkan setiap teks yang akan masuk ke dalam HTTP Headers
+    clean_ua = clean_ascii(user_agent)
+    clean_referer = clean_ascii(headers_dict.get("Referer", ""))
+    clean_origin = clean_ascii(headers_dict.get("Origin", ""))
+
     custom_headers = {
-        "User-Agent": user_agent,
-        "Referer": headers_dict.get("Referer", "").encode('utf-8').decode('latin-1'),
-        "Origin": headers_dict.get("Origin", "").encode('utf-8').decode('latin-1')
+        "User-Agent": clean_ua if clean_ua else "Mozilla/5.0",
+        "Referer": clean_referer,
+        "Origin": clean_origin
     }
+    
     try:
-        # Lakukan HTTP HEAD dengan header yang telah diamankan
+        # Lakukan pemeriksaan HTTP HEAD menggunakan header yang sudah bersih total
         response = requests.head(url, headers=custom_headers, timeout=3, allow_redirects=True)
         if response.status_code == 200:
             return True
