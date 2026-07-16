@@ -7947,6 +7947,32 @@
         "sources": [
             {
                 "type": "primary",
+                "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
+                "headers": {
+                    "Referer": "https://thaipbs-live.cdn.byteark.com/",
+                    "Origin": "https://thaipbs-live.cdn.byteark.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+                "headers": {
+                    "Referer": "https://thaipbs-live.cdn.byteark.com/",
+                    "Origin": "https://thaipbs-live.cdn.byteark.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
                 "uri": "http://news1.live14.com/stream/news1.m3u8",
                 "headers": {
                     "Referer": "http://news1.live14.com/",
@@ -11483,19 +11509,6 @@
             {
                 "type": "primary",
                 "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
-                "headers": {
-                    "Referer": "https://cdnbal1.indihometv.com/",
-                    "Origin": "https://cdnbal1.indihometv.com"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
                 "headers": {
                     "Referer": "https://cdnbal1.indihometv.com/",
                     "Origin": "https://cdnbal1.indihometv.com"
@@ -21983,7 +21996,7 @@
             },
             {
                 "type": "backup",
-                "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2",
+                "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5",
                 "headers": {
                     "Referer": "http://api.plus-server.sbs/",
                     "Origin": "http://api.plus-server.sbs"
@@ -23309,35 +23322,6 @@
     },
     {
         "id": 733,
-        "title": "🆕⚽✅ LIVE 0  FS1",
-        "category": "BOLA | PIALA DUNIA 2026",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-                "headers": {
-                    "Referer": "https://otte.cache.aiv-cdn.net/",
-                    "Origin": "https://otte.cache.aiv-cdn.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "b",
-            "tvg_name": "🆕⚽✅ LIVE 0  FS1",
-            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 734,
         "title": "🆕⚽✅ LIVE 0  ITV 1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23366,7 +23350,7 @@
         }
     },
     {
-        "id": 735,
+        "id": 734,
         "title": "🆕⚽✅ LIVE 0  PTV Sports (Pakistan)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23395,7 +23379,7 @@
         }
     },
     {
-        "id": 736,
+        "id": 735,
         "title": "🆕⚽✅ LIVE 0  TSN 4 🇨🇦",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23424,7 +23408,7 @@
         }
     },
     {
-        "id": 737,
+        "id": 736,
         "title": "🆕⚽✅ LIVE 0  United Sports 2",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23453,7 +23437,7 @@
         }
     },
     {
-        "id": 738,
+        "id": 737,
         "title": "🆕⚽✅ LIVE 0 (TSN 5)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23477,6 +23461,35 @@
         "epg_metadata": {
             "tvg_id": "",
             "tvg_name": "🆕⚽✅ LIVE 0 (TSN 5)",
+            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 738,
+        "title": "🆕⚽✅ LIVE 0 FOX",
+        "category": "BOLA | PIALA DUNIA 2026",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                "headers": {
+                    "Referer": "https://otte.cache.aiv-cdn.net/",
+                    "Origin": "https://otte.cache.aiv-cdn.net"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "b",
+            "tvg_name": "🆕⚽✅ LIVE 0 FOX",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
@@ -23512,35 +23525,6 @@
     },
     {
         "id": 740,
-        "title": "🆕⚽✅ LIVE 0 FOX",
-        "category": "BOLA | PIALA DUNIA 2026",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                "headers": {
-                    "Referer": "https://otte.cache.aiv-cdn.net/",
-                    "Origin": "https://otte.cache.aiv-cdn.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "b",
-            "tvg_name": "🆕⚽✅ LIVE 0 FOX",
-            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 741,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23569,7 +23553,7 @@
         }
     },
     {
-        "id": 742,
+        "id": 741,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina  (Fox One)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23598,7 +23582,7 @@
         }
     },
     {
-        "id": 743,
+        "id": 742,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina  (TSN4)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23627,7 +23611,7 @@
         }
     },
     {
-        "id": 744,
+        "id": 743,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina (TSN 5)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23656,36 +23640,7 @@
         }
     },
     {
-        "id": 745,
-        "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina (TSN1 s2)",
-        "category": "BOLA | PIALA DUNIA 2026",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                "headers": {
-                    "Referer": "https://otte.cache.aiv-cdn.net/",
-                    "Origin": "https://otte.cache.aiv-cdn.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "TSN1 HD.ca",
-            "tvg_name": "🆕⚽✅ LIVE 0 Inggris Vs Argentina (TSN1 s2)",
-            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 746,
+        "id": 744,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina LIVE 0 (FOX)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23714,7 +23669,7 @@
         }
     },
     {
-        "id": 747,
+        "id": 745,
         "title": "🆕⚽✅ LIVE 0 SS",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23743,7 +23698,7 @@
         }
     },
     {
-        "id": 748,
+        "id": 746,
         "title": "🆕⚽✅ LIVE 0 TSN1 s2",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
