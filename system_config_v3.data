@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "&PICTURES HD",
+        "title": "PICTURES HD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
             {
@@ -30,7 +30,7 @@
     },
     {
         "id": 2,
-        "title": "&PICTURES SD",
+        "title": "PICTURES SD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
             {
@@ -59,7 +59,7 @@
     },
     {
         "id": 3,
-        "title": "&TV",
+        "title": "TV",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
             {
@@ -88,7 +88,7 @@
     },
     {
         "id": 4,
-        "title": "&TV HD",
+        "title": "TV HD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
             {
@@ -117,7 +117,7 @@
     },
     {
         "id": 5,
-        "title": "(ESPN 4 Brazil HD)",
+        "title": "ESPN 4 Brazil HD",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -159,7 +159,7 @@
     },
     {
         "id": 6,
-        "title": "070. ElevenSport1",
+        "title": "ElevenSport1",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
             {
@@ -188,7 +188,7 @@
     },
     {
         "id": 7,
-        "title": "070. ElevenSport1",
+        "title": "ElevenSport1",
         "category": "BOLA | UEFA EROPA LEAGUE",
         "sources": [
             {
@@ -217,7 +217,7 @@
     },
     {
         "id": 8,
-        "title": "071. ElevenSport2",
+        "title": "ElevenSport2",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
             {
@@ -246,7 +246,7 @@
     },
     {
         "id": 9,
-        "title": "071. ElevenSport2",
+        "title": "ElevenSport2",
         "category": "BOLA | UEFA EROPA LEAGUE",
         "sources": [
             {
@@ -275,7 +275,7 @@
     },
     {
         "id": 10,
-        "title": "072. ElevenSport3",
+        "title": "ElevenSport3",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
             {
@@ -304,7 +304,7 @@
     },
     {
         "id": 11,
-        "title": "072. ElevenSport3",
+        "title": "ElevenSport3",
         "category": "BOLA | UEFA EROPA LEAGUE",
         "sources": [
             {
@@ -333,7 +333,7 @@
     },
     {
         "id": 12,
-        "title": "100. SonySports1",
+        "title": "SonySports1",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
             {
@@ -362,7 +362,7 @@
     },
     {
         "id": 13,
-        "title": "100. SonySports1",
+        "title": "SonySports1",
         "category": "BOLA | UEFA EROPA LEAGUE",
         "sources": [
             {
@@ -420,7 +420,7 @@
     },
     {
         "id": 15,
-        "title": "976-Jurassic World Rebirth",
+        "title": "Jurassic World Rebirth",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -449,7 +449,7 @@
     },
     {
         "id": 16,
-        "title": "977-M3GAN 2.0",
+        "title": "M3GAN 2.0",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -478,7 +478,7 @@
     },
     {
         "id": 17,
-        "title": "978-Wifelike",
+        "title": "Wifelike",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -507,7 +507,7 @@
     },
     {
         "id": 18,
-        "title": "979-The Ruins",
+        "title": "The Ruins",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -536,7 +536,7 @@
     },
     {
         "id": 19,
-        "title": "980-Anora",
+        "title": "Anora",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -565,7 +565,7 @@
     },
     {
         "id": 20,
-        "title": "981-No Strings Attached",
+        "title": "No Strings Attached",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -594,7 +594,7 @@
     },
     {
         "id": 21,
-        "title": "982-Drop",
+        "title": "Drop",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -623,7 +623,7 @@
     },
     {
         "id": 22,
-        "title": "983-The Phoenician Scheme",
+        "title": "The Phoenician Scheme",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -652,7 +652,7 @@
     },
     {
         "id": 23,
-        "title": "984-All the Devils Are Here",
+        "title": "All the Devils Are Here",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -681,7 +681,7 @@
     },
     {
         "id": 24,
-        "title": "985-The Stranger In My Home",
+        "title": "The Stranger In My Home",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -710,7 +710,7 @@
     },
     {
         "id": 25,
-        "title": "986-Trust",
+        "title": "Trust",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -739,7 +739,7 @@
     },
     {
         "id": 26,
-        "title": "987-Oblivion",
+        "title": "Oblivion",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -768,7 +768,7 @@
     },
     {
         "id": 27,
-        "title": "988-The Legend of Tarzan",
+        "title": "The Legend of Tarzan",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -797,7 +797,7 @@
     },
     {
         "id": 28,
-        "title": "989-Black Bag 2025",
+        "title": "Black Bag 2025",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -826,7 +826,7 @@
     },
     {
         "id": 29,
-        "title": "990-Novocaine 2025",
+        "title": "Novocaine 2025",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -855,7 +855,7 @@
     },
     {
         "id": 30,
-        "title": "991-Spell 2020 (Horror)",
+        "title": "Spell 2020 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -884,7 +884,7 @@
     },
     {
         "id": 31,
-        "title": "992-Spin The Bottle 2024 (Horror)",
+        "title": "Spin The Bottle 2024 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -913,7 +913,7 @@
     },
     {
         "id": 32,
-        "title": "993-The Woman in the Yard 2025 (Horror)",
+        "title": "The Woman in the Yard 2025 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -942,7 +942,7 @@
     },
     {
         "id": 33,
-        "title": "994-Final Destination 1 2000 (Horror)",
+        "title": "Final Destination 1 2000 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -971,7 +971,7 @@
     },
     {
         "id": 34,
-        "title": "995-Final Destination 2 2003 (Horror)",
+        "title": "Final Destination 2 2003 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -1000,7 +1000,7 @@
     },
     {
         "id": 35,
-        "title": "996-Final Destination 3 2006 (Horror)",
+        "title": "Final Destination 3 2006 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -1029,7 +1029,7 @@
     },
     {
         "id": 36,
-        "title": "997-Final Destination 4 2009 (Horror)",
+        "title": "Final Destination 4 2009 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -1058,7 +1058,7 @@
     },
     {
         "id": 37,
-        "title": "998-Final Destination 5 2011 (Horror)",
+        "title": "Final Destination 5 2011 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -1087,7 +1087,7 @@
     },
     {
         "id": 38,
-        "title": "999-Companion (Horror)",
+        "title": "Companion (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -1116,7 +1116,7 @@
     },
     {
         "id": 39,
-        "title": "999-Final Destination Bloodlines 2025 (Horror)",
+        "title": "Final Destination Bloodlines 2025 (Horror)",
         "category": "VOD TRIAL",
         "sources": [
             {
@@ -7575,7 +7575,7 @@
     },
     {
         "id": 255,
-        "title": "BEIN SPORTS 2 🇦🇺 ✅(15 JANUARI 2026 Chelsea vs Arsenal 03.00)",
+        "title": "BEIN SPORTS 2 🇦🇺 ✅",
         "category": "BOLA | LEAGUE CUP",
         "sources": [
             {
@@ -7597,7 +7597,7 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "BEIN SPORTS 2 🇦🇺 ✅(15 JANUARI 2026 Chelsea vs Arsenal 03.00)",
+            "tvg_name": "BEIN SPORTS 2 🇦🇺 ✅",
             "tvg_logo": "https://i.imgur.com/81w3AhI.jpeg",
             "source_xml": "Embedded"
         }
@@ -7749,7 +7749,7 @@
     },
     {
         "id": 261,
-        "title": "BEIN SPORTS 3 🇦🇺 ✅ (14 JANUARI 2026 Newcastle United vs Manchester City 03.00)",
+        "title": "BEIN SPORTS 3 🇦🇺 ✅",
         "category": "BOLA | LEAGUE CUP",
         "sources": [
             {
@@ -7771,7 +7771,7 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "BEIN SPORTS 3 🇦🇺 ✅ (14 JANUARI 2026 Newcastle United vs Manchester City 03.00)",
+            "tvg_name": "BEIN SPORTS 3 🇦🇺 ✅",
             "tvg_logo": "https://i.imgur.com/81w3AhI.jpeg",
             "source_xml": "Embedded"
         }
@@ -22507,7 +22507,7 @@
     },
     {
         "id": 704,
-        "title": "⚽ Chelsea vs Manchester City (ARENA 1 KROASIA)✅",
+        "title": "ARENA SPORT 1 HD (HR)",
         "category": "BOLA | FA CUP",
         "sources": [
             {
@@ -22536,7 +22536,7 @@
     },
     {
         "id": 705,
-        "title": "⚽ Chelsea vs Manchester City (FUBO SPORTS 1)✅",
+        "title": "FUBO SPORTS 1",
         "category": "BOLA | FA CUP",
         "sources": [
             {
@@ -22557,15 +22557,15 @@
         "is_live": true,
         "match_id": "",
         "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "⚽ Chelsea vs Manchester City (FUBO SPORTS 1)✅",
+            "tvg_id": "FUBO SPORTS 1",
+            "tvg_name": "FUBO SPORTS 1",
             "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 706,
-        "title": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
+        "title": "LIVE 2",
         "category": "BOLA | FA CUP",
         "sources": [
             {
@@ -22587,14 +22587,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "Champions.TV.6.id",
-            "tvg_name": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
+            "tvg_name": "LIVE 2",
             "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 707,
-        "title": "⚽ Chelsea vs Manchester City ✅LIVE 1",
+        "title": "LIVE 1",
         "category": "BOLA | FA CUP",
         "sources": [
             {
@@ -22616,14 +22616,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "Champions.TV.5.id",
-            "tvg_name": "⚽ Chelsea vs Manchester City ✅LIVE 1",
+            "tvg_name": "LIVE 1",
             "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 708,
-        "title": "⚽Caze TV Channel 1 - BRA 🇧🇷 ✅",
+        "title": "Caze TV Channel 1 - BRA 🇧🇷",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -22645,14 +22645,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽Caze TV Channel 1 - BRA 🇧🇷 ✅",
+            "tvg_name": "Caze TV Channel 1 - BRA 🇧🇷",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 709,
-        "title": "⚽Caze TV Channel 2 - BRA 🇧🇷 ✅",
+        "title": "Caze TV Channel 2 - BRA 🇧🇷",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -22674,14 +22674,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽Caze TV Channel 2 - BRA 🇧🇷 ✅",
+            "tvg_name": "Caze TV Channel 2 - BRA 🇧🇷",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 710,
-        "title": "⚽MONOMAX 8",
+        "title": "MONOMAX 8",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -22703,14 +22703,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": " tvg-logo=",
+            "tvg_name": "MONOMAX 8",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 711,
-        "title": "⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅",
+        "title": "Tyc Sports Channel 1 - ARG 🇦🇷",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -22732,14 +22732,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅",
+            "tvg_name": "Tyc Sports Channel 1 - ARG 🇦🇷",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 712,
-        "title": "⚽☑ (BST) ✅",
+        "title": "BST",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -22761,14 +22761,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽☑ (BST) ✅",
+            "tvg_name": "BST",
             "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 713,
-        "title": "⚽☑ (FUBO SPORTS 1)✅",
+        "title": "FUBO SPORTS 1",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -22790,14 +22790,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽☑ (FUBO SPORTS 1)✅",
+            "tvg_name": "FUBO SPORTS 1",
             "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 714,
-        "title": "⚽☑ (FUBO SPORTS 1)✅",
+        "title": "FUBO SPORTS 1 HD",
         "category": "BOLA | UEFA CHAMPIONS LEAGUE",
         "sources": [
             {
@@ -22819,14 +22819,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "⚽☑ (FUBO SPORTS 1)✅",
+            "tvg_name": "FUBO SPORTS 1 HD",
             "tvg_logo": "https://i.imgur.com/2jYyFR2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 715,
-        "title": "⚽☑ (TELEMUNDO)✅",
+        "title": "TELEMUNDO",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -22848,14 +22848,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "ESPN 2",
-            "tvg_name": "⚽☑ (TELEMUNDO)✅",
+            "tvg_name": "TELEMUNDO",
             "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 716,
-        "title": "⚽☑ ✅(HUB PREMIER 01 FHD)",
+        "title": "HUB PREMIER 01 FHD",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -22876,7 +22876,7 @@
         "is_live": true,
         "match_id": "",
         "epg_metadata": {
-            "tvg_id": "ukhubpremier01fhd",
+            "tvg_id": "",
             "tvg_name": "UK - HUB PREMIER 01 FHD",
             "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
             "source_xml": "Embedded"
@@ -22884,7 +22884,7 @@
     },
     {
         "id": 717,
-        "title": "⚽☑(ARENA 1 KROASIA)✅",
+        "title": "ARENA 1 KROASIA",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
             {
@@ -24157,7 +24157,7 @@
     },
     {
         "id": 760,
-        "title": "🆕⚽✅ LIVE 0  FS1",
+        "title": "LIVE 0  FS1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -24179,14 +24179,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "b",
-            "tvg_name": "🆕⚽✅ LIVE 0  FS1",
+            "tvg_name": "LIVE 0  FS1",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 761,
-        "title": "🆕⚽✅ LIVE 0  ITV 1",
+        "title": "LIVE 0  ITV 1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -24208,14 +24208,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "🆕⚽✅ LIVE 0  ITV 1",
+            "tvg_name": "LIVE 0  ITV 1",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 762,
-        "title": "🆕⚽✅ LIVE 0  PTV Sports (Pakistan)",
+        "title": "LIVE 0  PTV Sports (Pakistan)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -24237,14 +24237,14 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "auto.ptv.sports.pakistan",
-            "tvg_name": "🆕⚽✅ LIVE 0  PTV Sports (Pakistan)",
+            "tvg_name": "LIVE 0  PTV Sports (Pakistan)",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 763,
-        "title": "🆕⚽✅ LIVE 0  TSN 4 🇨🇦",
+        "title": "LIVE 0  TSN 4 🇨🇦",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
             {
@@ -24266,7 +24266,7 @@
         "match_id": "",
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "🆕⚽✅ LIVE 0  TSN 4 🇨🇦",
+            "tvg_name": "LIVE 0  TSN 4 🇨🇦",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
         }
