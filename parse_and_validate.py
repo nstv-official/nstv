@@ -4,39 +4,28 @@ from urllib.parse import urlparse
 import requests
 
 def check_url_status(url, user_agent, headers_dict):
-    """
-    Fungsi untuk mengecek status URL dengan membersihkan seluruh karakter khusus/emoji
-    dari komponen headers agar tidak memicu UnicodeEncodeError pada internal Python.
-    """
-    # Fungsi lokal untuk membuang karakter non-ASCII (seperti emoji bumi, centang, dll)
-    def clean_ascii(text):
-        if not text:
-            return ""
-        # Hanya menyisakan karakter standar alfabet, angka, dan tanda baca umum (ASCII 32-126)
-        return "".join(c for c in text if 32 <= ord(c) <= 126)
-
-    # Bersihkan setiap teks yang akan masuk ke dalam HTTP Headers
-    clean_ua = clean_ascii(user_agent)
-    clean_referer = clean_ascii(headers_dict.get("Referer", ""))
-    clean_origin = clean_ascii(headers_dict.get("Origin", ""))
-
     custom_headers = {
-        "User-Agent": clean_ua if clean_ua else "Mozilla/5.0",
-        "Referer": clean_referer,
-        "Origin": clean_origin
+        "User-Agent": user_agent,
+        "Referer": headers_dict.get("Referer", ""),
+        "Origin": headers_dict.get("Origin", ""),
+        "Range": "bytes=0-0"  # PENTING: Hanya minta 1 byte agar hemat kuota & cepat
     }
-    
     try:
-        # Lakukan pemeriksaan HTTP HEAD menggunakan header yang sudah bersih total
-        response = requests.head(url, headers=custom_headers, timeout=3, allow_redirects=True)
-        if response.status_code == 200:
+        # Gunakan requests.get bukan requests.head
+        # timeout ditingkatkan sedikit ke 5 detik karena server proteksi kadang lambat merespon
+        response = requests.get(url, headers=custom_headers, timeout=5, stream=True, allow_redirects=True)
+        
+        # Status 200 (OK) atau 206 (Partial Content karena kita pakai Range) dianggap HIDUP
+        if response.status_code in [200, 206]:
             return True
         else:
-            print(f"   [MATI] Status {response.status_code} untuk URL: {url}")
+            # Jika tetap gagal, print statusnya untuk debugging
+            print(f"   [Gagal] Status {response.status_code} - Link ini mungkin butuh login/cookie khusus.")
             return False
-    except requests.RequestException:
-        print(f"   [MATI] Timeout/Gagal tersambung ke URL: {url}")
+    except Exception as e:
+        print(f"   [Error] {e}")
         return False
+
 
 def parse_and_validate_m3u(input_text):
     raw_blocks = re.split(r'\n\s*\+\s*\+\s*\+\s*\+\s*\n|\n\s*\n', input_text)
@@ -125,19 +114,15 @@ def parse_and_validate_m3u(input_text):
             print(f" -> [DILEWATI] Channel '{title}' dihapus karena semua link mati.\n")
             continue
 
-        # Susun ulang sources berdasarkan URL yang selamat/aktif
+                # Susun ulang sources berdasarkan URL yang selamat/aktif
         sources_structure = []
         for idx, (url, hdrs) in enumerate(active_sources):
             is_primary = (idx == 0)
-            drm_active = False
-            current_key = ""
-            current_type = ""
             
-            # DRM Clearkey dilekatkan hanya jika URL pertama asal (indeks 0 teks) masih hidup dan membawa kunci
-            if is_primary and license_key and url == urls[0]:
-                drm_active = True
-                current_key = license_key
-                current_type = "clearkey" if "clearkey" in license_type.lower() else license_type
+            # Selama ada license_key di blok M3U ini, pasang ke semua source aktif
+            drm_active = True if license_key else False
+            current_key = license_key if license_key else ""
+            current_type = "clearkey" if "clearkey" in license_type.lower() else license_type
 
             sources_structure.append({
                 "type": "primary" if is_primary else "backup",
@@ -181,7 +166,7 @@ def parse_and_validate_m3u(input_text):
 # --- EKSEKUSI UTAMA (Gunakan ini jika sumber data berbentuk URL) ---
 
 # GANTI DENGAN URL M3U ANDA
-SUNDER_DATA_URL = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" 
+SUNDER_DATA_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026" 
 
 try:
     print(f"Mengunduh data mentah dari URL: {SUNDER_DATA_URL} ...")
