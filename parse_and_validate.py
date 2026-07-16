@@ -181,7 +181,7 @@ def parse_and_validate_m3u(input_text):
 # --- EKSEKUSI UTAMA (Gunakan ini jika sumber data berbentuk URL) ---
 
 # GANTI DENGAN URL M3U ANDA
-SUNDER_DATA_URL = "https://iptv-org.github.io/iptv/categories/sports.m3u" 
+SUNDER_DATA_URL = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" 
 
 try:
     print(f"Mengunduh data mentah dari URL: {SUNDER_DATA_URL} ...")
