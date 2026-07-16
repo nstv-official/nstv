@@ -1622,6 +1622,35 @@
     },
     {
         "id": 56,
+        "title": "Action-1-Fantastic Beasts and Where to Find Them",
+        "category": "VOD TRIAL",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=bacb14b5-0815-4d9f-a781-11c8ecf6dfff&sub=t18",
+                "headers": {
+                    "Referer": "https://get.perfecttv.net/",
+                    "Origin": "https://get.perfecttv.net"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "com.widevine.alpha",
+                    "drm_key": "bacb14b5-0815-4d9f-a781-11c8ecf6dfff"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Action-1-Fantastic Beasts and Where to Find Them",
+            "tvg_logo": "https://images.cdn.prd.api.discomax.com/2024/04/04/5146eee0-92d5-3e75-81d9-4f92a896806f.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 57,
         "title": "Action-1-Fantastic Beasts: The Crimes of Grindelwald",
         "category": "VOD TRIAL",
         "sources": [
@@ -1650,7 +1679,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 58,
         "title": "Action-1-Fantastic Beasts: The Secrets of Dumbledore",
         "category": "VOD TRIAL",
         "sources": [
@@ -1679,7 +1708,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 59,
         "title": "Action-1-Godzilla",
         "category": "VOD TRIAL",
         "sources": [
@@ -1708,7 +1737,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 60,
         "title": "Action-1-Godzilla vs. Kong",
         "category": "VOD TRIAL",
         "sources": [
@@ -1737,7 +1766,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 61,
         "title": "Action-1-Godzilla x Kong: The New Empire",
         "category": "VOD TRIAL",
         "sources": [
@@ -1766,7 +1795,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 62,
         "title": "Action-1-Godzilla: King of the Monsters",
         "category": "VOD TRIAL",
         "sources": [
@@ -1795,7 +1824,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 63,
         "title": "Action-1-Green Lantern",
         "category": "VOD TRIAL",
         "sources": [
@@ -1824,7 +1853,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 64,
         "title": "Action-1-Hellboy: The Crooked Man",
         "category": "VOD TRIAL",
         "sources": [
@@ -1853,7 +1882,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 65,
         "title": "Action-1-Joker",
         "category": "VOD TRIAL",
         "sources": [
@@ -1882,7 +1911,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 66,
         "title": "Action-1-Joker: Folie a Deux",
         "category": "VOD TRIAL",
         "sources": [
@@ -1911,7 +1940,7 @@
         }
     },
     {
-        "id": 66,
+        "id": 67,
         "title": "Action-1-Justice League",
         "category": "VOD TRIAL",
         "sources": [
@@ -1936,35 +1965,6 @@
             "tvg_id": "",
             "tvg_name": "Action-1-Justice League",
             "tvg_logo": "https://images.cdn.prd.api.discomax.com/2024/03/28/a4b4b308-4d38-340b-a456-563efab44b68.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 67,
-        "title": "Action-1-Man of Steel",
-        "category": "VOD TRIAL",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=5f466bc9-f391-491d-8f4d-fc7807f234fc&sub=t7",
-                "headers": {
-                    "Referer": "https://get.perfecttv.net/",
-                    "Origin": "https://get.perfecttv.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "com.widevine.alpha",
-                    "drm_key": "5f466bc9-f391-491d-8f4d-fc7807f234fc"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "Action-1-Man of Steel",
-            "tvg_logo": "https://images.cdn.prd.api.discomax.com/2024/10/16/2697defb-9ad8-37c4-9c18-34189f472b10.jpeg",
             "source_xml": "Embedded"
         }
     },
@@ -8991,35 +8991,6 @@
     },
     {
         "id": 298,
-        "title": "CCTV3",
-        "category": "DUNIA | TAIWAN ETC",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009",
-                "headers": {
-                    "Referer": "http://38.75.136.137:98/",
-                    "Origin": "http://38.75.136.137:98"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "CCTV3",
-            "tvg_logo": "https://i.imgur.com/eCBAXse.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 299,
         "title": "CCTV4",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -9048,7 +9019,7 @@
         }
     },
     {
-        "id": 300,
+        "id": 299,
         "title": "CCTV4",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9077,7 +9048,7 @@
         }
     },
     {
-        "id": 301,
+        "id": 300,
         "title": "CCTV5",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9106,7 +9077,7 @@
         }
     },
     {
-        "id": 302,
+        "id": 301,
         "title": "CCTV5+",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9135,7 +9106,7 @@
         }
     },
     {
-        "id": 303,
+        "id": 302,
         "title": "CCTV6",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9164,7 +9135,7 @@
         }
     },
     {
-        "id": 304,
+        "id": 303,
         "title": "CCTV7",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9193,7 +9164,7 @@
         }
     },
     {
-        "id": 305,
+        "id": 304,
         "title": "CCTV8",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9222,7 +9193,7 @@
         }
     },
     {
-        "id": 306,
+        "id": 305,
         "title": "CCTV9",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9251,7 +9222,7 @@
         }
     },
     {
-        "id": 307,
+        "id": 306,
         "title": "CelebritiesTV (AG)",
         "category": "GAYA HIDUP",
         "sources": [
@@ -9280,7 +9251,7 @@
         }
     },
     {
-        "id": 308,
+        "id": 307,
         "title": "CelebritiesTV (AG)",
         "category": "GAYA HIDUP",
         "sources": [
@@ -9309,7 +9280,7 @@
         }
     },
     {
-        "id": 309,
+        "id": 308,
         "title": "Channel 5",
         "category": "DUNIA | SINGAPURA ",
         "sources": [
@@ -9338,7 +9309,7 @@
         }
     },
     {
-        "id": 310,
+        "id": 309,
         "title": "Channel 8",
         "category": "DUNIA | SINGAPURA ",
         "sources": [
@@ -9367,7 +9338,7 @@
         }
     },
     {
-        "id": 311,
+        "id": 310,
         "title": "CHANNEL 8 TH",
         "category": "DUNIA | THAILAND NON SUB",
         "sources": [
@@ -9396,7 +9367,7 @@
         }
     },
     {
-        "id": 312,
+        "id": 311,
         "title": "Channel News Asia",
         "category": "CHANNEL | SINGAPORE",
         "sources": [
@@ -9425,7 +9396,7 @@
         }
     },
     {
-        "id": 313,
+        "id": 312,
         "title": "Channel U",
         "category": "DUNIA | SINGAPURA ",
         "sources": [
@@ -9454,7 +9425,7 @@
         }
     },
     {
-        "id": 314,
+        "id": 313,
         "title": "CHC Action Movies",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9483,7 +9454,7 @@
         }
     },
     {
-        "id": 315,
+        "id": 314,
         "title": "CHC Home Theater",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9512,7 +9483,7 @@
         }
     },
     {
-        "id": 316,
+        "id": 315,
         "title": "CHC Movie Fans",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -9541,7 +9512,7 @@
         }
     },
     {
-        "id": 317,
+        "id": 316,
         "title": "CINEDAY LITE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9570,7 +9541,7 @@
         }
     },
     {
-        "id": 318,
+        "id": 317,
         "title": "CINEMAX (3️⃣✅)",
         "category": "HBO",
         "sources": [
@@ -9612,7 +9583,7 @@
         }
     },
     {
-        "id": 319,
+        "id": 318,
         "title": "CINEMAX (3️⃣✅)",
         "category": "FILM",
         "sources": [
@@ -9654,7 +9625,7 @@
         }
     },
     {
-        "id": 320,
+        "id": 319,
         "title": "Cinemax HD East ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9683,7 +9654,7 @@
         }
     },
     {
-        "id": 321,
+        "id": 320,
         "title": "Cinemax West ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9712,7 +9683,7 @@
         }
     },
     {
-        "id": 322,
+        "id": 321,
         "title": "CITRA MUSLIM",
         "category": "AGAMA",
         "sources": [
@@ -9741,7 +9712,7 @@
         }
     },
     {
-        "id": 323,
+        "id": 322,
         "title": "CLASSIC ACTION ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9770,7 +9741,7 @@
         }
     },
     {
-        "id": 324,
+        "id": 323,
         "title": "CNA 1 On (R)",
         "category": "DUNIA | SINGAPURA",
         "sources": [
@@ -9812,7 +9783,7 @@
         }
     },
     {
-        "id": 325,
+        "id": 324,
         "title": "CNA HD",
         "category": "DUNIA | SINGAPURA ",
         "sources": [
@@ -9841,7 +9812,7 @@
         }
     },
     {
-        "id": 326,
+        "id": 325,
         "title": "CNBC INDONESIA",
         "category": "NASIONAL",
         "sources": [
@@ -9870,7 +9841,7 @@
         }
     },
     {
-        "id": 327,
+        "id": 326,
         "title": "CNBC INDONESIA",
         "category": "BERITA",
         "sources": [
@@ -9899,7 +9870,7 @@
         }
     },
     {
-        "id": 328,
+        "id": 327,
         "title": "CNN International",
         "category": "BERITA",
         "sources": [
@@ -9928,7 +9899,7 @@
         }
     },
     {
-        "id": 329,
+        "id": 328,
         "title": "COMEDY CENTRAL ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9957,7 +9928,7 @@
         }
     },
     {
-        "id": 330,
+        "id": 329,
         "title": "Curiosity Now ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -9986,7 +9957,7 @@
         }
     },
     {
-        "id": 331,
+        "id": 330,
         "title": "CW Forever ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -10015,7 +9986,7 @@
         }
     },
     {
-        "id": 332,
+        "id": 331,
         "title": "CW Gold ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -10044,7 +10015,7 @@
         }
     },
     {
-        "id": 333,
+        "id": 332,
         "title": "DAAI TV 1",
         "category": "DAERAH",
         "sources": [
@@ -10073,7 +10044,7 @@
         }
     },
     {
-        "id": 334,
+        "id": 333,
         "title": "DAAI TV 2",
         "category": "DAERAH",
         "sources": [
@@ -10102,7 +10073,7 @@
         }
     },
     {
-        "id": 335,
+        "id": 334,
         "title": "DAZN FAST (BUNDESLIGA) ✅",
         "category": "BOLA | BUNDESLIGA",
         "sources": [
@@ -10131,7 +10102,7 @@
         }
     },
     {
-        "id": 336,
+        "id": 335,
         "title": "DAZN1",
         "category": "BOLA | FRIENDLY MATCH",
         "sources": [
@@ -10160,7 +10131,7 @@
         }
     },
     {
-        "id": 337,
+        "id": 336,
         "title": "DENS LIFESTYLE",
         "category": "GAYA HIDUP",
         "sources": [
@@ -10189,7 +10160,7 @@
         }
     },
     {
-        "id": 338,
+        "id": 337,
         "title": "DENS PLAY",
         "category": "GAYA HIDUP",
         "sources": [
@@ -10218,7 +10189,7 @@
         }
     },
     {
-        "id": 339,
+        "id": 338,
         "title": "DENSFOOD",
         "category": "GAYA HIDUP",
         "sources": [
@@ -10247,7 +10218,7 @@
         }
     },
     {
-        "id": 340,
+        "id": 339,
         "title": "Dhoho TV- Kediri",
         "category": "DAERAH",
         "sources": [
@@ -10276,7 +10247,7 @@
         }
     },
     {
-        "id": 341,
+        "id": 340,
         "title": "Disc Film ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -10305,7 +10276,7 @@
         }
     },
     {
-        "id": 342,
+        "id": 341,
         "title": "DISCOVERY ASIA HD",
         "category": "PENGETAHUAN",
         "sources": [
@@ -10334,7 +10305,7 @@
         }
     },
     {
-        "id": 343,
+        "id": 342,
         "title": "Discovery Channel (US)",
         "category": "PENGETAHUAN",
         "sources": [
@@ -10363,7 +10334,7 @@
         }
     },
     {
-        "id": 344,
+        "id": 343,
         "title": "Discovery Turbo (AG)",
         "category": "PENGETAHUAN",
         "sources": [
@@ -10392,7 +10363,7 @@
         }
     },
     {
-        "id": 345,
+        "id": 344,
         "title": "DLTV 15",
         "category": "DUNIA | THAILAND NON SUB",
         "sources": [
@@ -10603,7 +10574,7 @@
         }
     },
     {
-        "id": 346,
+        "id": 345,
         "title": "DMAX",
         "category": "PENGETAHUAN",
         "sources": [
@@ -10632,7 +10603,7 @@
         }
     },
     {
-        "id": 347,
+        "id": 346,
         "title": "DRAGON TV",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -10687,7 +10658,7 @@
         }
     },
     {
-        "id": 348,
+        "id": 347,
         "title": "Dragon TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -10716,7 +10687,7 @@
         }
     },
     {
-        "id": 349,
+        "id": 348,
         "title": "Drama Hebat",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -10745,7 +10716,7 @@
         }
     },
     {
-        "id": 350,
+        "id": 349,
         "title": "Drama Hotpot ON",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -10774,7 +10745,7 @@
         }
     },
     {
-        "id": 351,
+        "id": 350,
         "title": "DW ENGLISH",
         "category": "BERITA",
         "sources": [
@@ -10829,7 +10800,7 @@
         }
     },
     {
-        "id": 352,
+        "id": 351,
         "title": "EBS Kids",
         "category": "ANAK",
         "sources": [
@@ -10858,7 +10829,7 @@
         }
     },
     {
-        "id": 353,
+        "id": 352,
         "title": "Eurosport 1 HD",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -10887,7 +10858,7 @@
         }
     },
     {
-        "id": 354,
+        "id": 353,
         "title": "Eurosport 1 HD",
         "category": "OLAHRAGA | BILLIARD",
         "sources": [
@@ -10912,41 +10883,41 @@
             "tvg_id": "",
             "tvg_name": "Eurosport 1 HD",
             "tvg_logo": "https://i.imgur.com/t9ZxbQH.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 354,
+        "title": "Eurosport 2 HD",
+        "category": "OLAHRAGA POPULER",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+                "headers": {
+                    "Referer": "https://dash2.antik.sk/",
+                    "Origin": "https://dash2.antik.sk"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Eurosport 2 HD",
+            "tvg_logo": "https://i.imgur.com/XDDHZzi.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 355,
         "title": "Eurosport 2 HD",
-        "category": "OLAHRAGA POPULER",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-                "headers": {
-                    "Referer": "https://dash2.antik.sk/",
-                    "Origin": "https://dash2.antik.sk"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "Eurosport 2 HD",
-            "tvg_logo": "https://i.imgur.com/XDDHZzi.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 356,
-        "title": "Eurosport 2 HD",
         "category": "OLAHRAGA | BILLIARD",
         "sources": [
             {
@@ -10974,7 +10945,7 @@
         }
     },
     {
-        "id": 357,
+        "id": 356,
         "title": "EWTN (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -11003,7 +10974,7 @@
         }
     },
     {
-        "id": 358,
+        "id": 357,
         "title": "FIFA+",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -11032,7 +11003,7 @@
         }
     },
     {
-        "id": 359,
+        "id": 358,
         "title": "FIGHT SPORTS (AG) ✅",
         "category": "OLAHRAGA LOKAL",
         "sources": [
@@ -11061,7 +11032,7 @@
         }
     },
     {
-        "id": 360,
+        "id": 359,
         "title": "FIGHT SPORTS 1 ON",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -11090,7 +11061,7 @@
         }
     },
     {
-        "id": 361,
+        "id": 360,
         "title": "Filem Mantap",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -11119,7 +11090,7 @@
         }
     },
     {
-        "id": 362,
+        "id": 361,
         "title": "FILM4 ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -11148,7 +11119,7 @@
         }
     },
     {
-        "id": 363,
+        "id": 362,
         "title": "FITRAH",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -11177,7 +11148,7 @@
         }
     },
     {
-        "id": 364,
+        "id": 363,
         "title": "FOOD NETWORK (English)",
         "category": "GAYA HIDUP",
         "sources": [
@@ -11206,7 +11177,7 @@
         }
     },
     {
-        "id": 365,
+        "id": 364,
         "title": "FOX NEWS",
         "category": "BERITA",
         "sources": [
@@ -11235,7 +11206,7 @@
         }
     },
     {
-        "id": 366,
+        "id": 365,
         "title": "FOXSPORTS 2",
         "category": "BOLA | PRO LEAGUE",
         "sources": [
@@ -11264,7 +11235,7 @@
         }
     },
     {
-        "id": 367,
+        "id": 366,
         "title": "Garuda TV",
         "category": "NASIONAL",
         "sources": [
@@ -11293,7 +11264,7 @@
         }
     },
     {
-        "id": 368,
+        "id": 367,
         "title": "GLOBAL TREKKER",
         "category": "PENGETAHUAN",
         "sources": [
@@ -11322,7 +11293,7 @@
         }
     },
     {
-        "id": 369,
+        "id": 368,
         "title": "GMS (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -11364,7 +11335,7 @@
         }
     },
     {
-        "id": 370,
+        "id": 369,
         "title": "Golazo Network",
         "category": "OLAHRAGA | FORMULA 1",
         "sources": [
@@ -11393,7 +11364,7 @@
         }
     },
     {
-        "id": 371,
+        "id": 370,
         "title": "Golazo Network",
         "category": "OLAHRAGA | FORMULA 1",
         "sources": [
@@ -11422,7 +11393,7 @@
         }
     },
     {
-        "id": 372,
+        "id": 371,
         "title": "GTV 1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -11451,7 +11422,7 @@
         }
     },
     {
-        "id": 373,
+        "id": 372,
         "title": "Guangdong TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -11480,7 +11451,7 @@
         }
     },
     {
-        "id": 374,
+        "id": 373,
         "title": "Guangxi TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -11509,7 +11480,7 @@
         }
     },
     {
-        "id": 375,
+        "id": 374,
         "title": "Guizhou TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -11538,9 +11509,51 @@
         }
     },
     {
-        "id": 376,
+        "id": 375,
         "title": "HBO (3️⃣✅)",
         "category": "HBO",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
+                "headers": {
+                    "Referer": "https://cdnbal1.indihometv.com/",
+                    "Origin": "https://cdnbal1.indihometv.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
+                "headers": {
+                    "Referer": "https://cdnbal1.indihometv.com/",
+                    "Origin": "https://cdnbal1.indihometv.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "HBO.HD.id",
+            "tvg_name": "HBO (3️⃣✅)",
+            "tvg_logo": "https://i.imgur.com/hgyPQif.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 376,
+        "title": "HBO (3️⃣✅)",
+        "category": "FILM",
         "sources": [
             {
                 "type": "primary",
@@ -11581,48 +11594,6 @@
     },
     {
         "id": 377,
-        "title": "HBO (3️⃣✅)",
-        "category": "FILM",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
-                "headers": {
-                    "Referer": "https://cdnbal1.indihometv.com/",
-                    "Origin": "https://cdnbal1.indihometv.com"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
-                "headers": {
-                    "Referer": "https://cdnbal1.indihometv.com/",
-                    "Origin": "https://cdnbal1.indihometv.com"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "HBO.HD.id",
-            "tvg_name": "HBO (3️⃣✅)",
-            "tvg_logo": "https://i.imgur.com/hgyPQif.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 378,
         "title": "HBO 2 ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -11651,7 +11622,7 @@
         }
     },
     {
-        "id": 379,
+        "id": 378,
         "title": "HBO Comedy ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -11680,7 +11651,7 @@
         }
     },
     {
-        "id": 380,
+        "id": 379,
         "title": "HBO East ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -11709,9 +11680,51 @@
         }
     },
     {
-        "id": 381,
+        "id": 380,
         "title": "HBO FAMILY (3️⃣✅)",
         "category": "HBO",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
+                "headers": {
+                    "Referer": "https://cdnbal1.indihometv.com/",
+                    "Origin": "https://cdnbal1.indihometv.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
+                "headers": {
+                    "Referer": "https://cdnbal1.indihometv.com/",
+                    "Origin": "https://cdnbal1.indihometv.com"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "HBO.Family.HD.id",
+            "tvg_name": "HBO FAMILY (3️⃣✅)",
+            "tvg_logo": "https://i.imgur.com/T5qTF1M.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 381,
+        "title": "HBO FAMILY (3️⃣✅)",
+        "category": "FILM",
         "sources": [
             {
                 "type": "primary",
@@ -11752,12 +11765,12 @@
     },
     {
         "id": 382,
-        "title": "HBO FAMILY (3️⃣✅)",
-        "category": "FILM",
+        "title": "HBO HITS (3️⃣✅)",
+        "category": "HBO",
         "sources": [
             {
                 "type": "primary",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
                 "headers": {
                     "Referer": "https://cdnbal1.indihometv.com/",
                     "Origin": "https://cdnbal1.indihometv.com"
@@ -11770,7 +11783,7 @@
             },
             {
                 "type": "backup",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
+                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd",
                 "headers": {
                     "Referer": "https://cdnbal1.indihometv.com/",
                     "Origin": "https://cdnbal1.indihometv.com"
@@ -11786,16 +11799,16 @@
         "is_live": true,
         "match_id": "",
         "epg_metadata": {
-            "tvg_id": "HBO.Family.HD.id",
-            "tvg_name": "HBO FAMILY (3️⃣✅)",
-            "tvg_logo": "https://i.imgur.com/T5qTF1M.png",
+            "tvg_id": "HBO.Hits.HD.id",
+            "tvg_name": "HBO HITS (3️⃣✅)",
+            "tvg_logo": "https://i.imgur.com/5lUGmy0.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 383,
         "title": "HBO HITS (3️⃣✅)",
-        "category": "HBO",
+        "category": "FILM",
         "sources": [
             {
                 "type": "primary",
@@ -11836,48 +11849,6 @@
     },
     {
         "id": 384,
-        "title": "HBO HITS (3️⃣✅)",
-        "category": "FILM",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
-                "headers": {
-                    "Referer": "https://cdnbal1.indihometv.com/",
-                    "Origin": "https://cdnbal1.indihometv.com"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd",
-                "headers": {
-                    "Referer": "https://cdnbal1.indihometv.com/",
-                    "Origin": "https://cdnbal1.indihometv.com"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "HBO.Hits.HD.id",
-            "tvg_name": "HBO HITS (3️⃣✅)",
-            "tvg_logo": "https://i.imgur.com/5lUGmy0.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 385,
         "title": "HBO SIGNATURE (3️⃣✅)",
         "category": "HBO",
         "sources": [
@@ -11919,7 +11890,7 @@
         }
     },
     {
-        "id": 386,
+        "id": 385,
         "title": "HBO SIGNATURE (3️⃣✅)",
         "category": "FILM",
         "sources": [
@@ -11961,7 +11932,7 @@
         }
     },
     {
-        "id": 387,
+        "id": 386,
         "title": "HBO Signature ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -11990,7 +11961,7 @@
         }
     },
     {
-        "id": 388,
+        "id": 387,
         "title": "HBO West ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -12019,7 +11990,7 @@
         }
     },
     {
-        "id": 389,
+        "id": 388,
         "title": "HBO Zone ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -12048,7 +12019,7 @@
         }
     },
     {
-        "id": 390,
+        "id": 389,
         "title": "Heilongjiang TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -12077,7 +12048,7 @@
         }
     },
     {
-        "id": 391,
+        "id": 390,
         "title": "HERSPHERE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -12106,7 +12077,7 @@
         }
     },
     {
-        "id": 392,
+        "id": 391,
         "title": "HGTV",
         "category": "GAYA HIDUP",
         "sources": [
@@ -12135,7 +12106,7 @@
         }
     },
     {
-        "id": 393,
+        "id": 392,
         "title": "HISTORY HIT 1 ON (R)",
         "category": "PENGETAHUAN",
         "sources": [
@@ -12164,7 +12135,7 @@
         }
     },
     {
-        "id": 394,
+        "id": 393,
         "title": "HISTORY SD",
         "category": "PENGETAHUAN",
         "sources": [
@@ -12193,7 +12164,7 @@
         }
     },
     {
-        "id": 395,
+        "id": 394,
         "title": "HISTORY US",
         "category": "PENGETAHUAN",
         "sources": [
@@ -12222,7 +12193,7 @@
         }
     },
     {
-        "id": 396,
+        "id": 395,
         "title": "Horror Machine ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -12251,7 +12222,7 @@
         }
     },
     {
-        "id": 397,
+        "id": 396,
         "title": "Horror-1-A Quiet Place: Day One",
         "category": "VOD TRIAL",
         "sources": [
@@ -12280,7 +12251,7 @@
         }
     },
     {
-        "id": 398,
+        "id": 397,
         "title": "Horror-1-Abigail",
         "category": "VOD TRIAL",
         "sources": [
@@ -12309,7 +12280,7 @@
         }
     },
     {
-        "id": 399,
+        "id": 398,
         "title": "Horror-1-Caddo Lake",
         "category": "VOD TRIAL",
         "sources": [
@@ -12338,7 +12309,7 @@
         }
     },
     {
-        "id": 400,
+        "id": 399,
         "title": "Horror-1-Cuckoo",
         "category": "VOD TRIAL",
         "sources": [
@@ -12367,7 +12338,7 @@
         }
     },
     {
-        "id": 401,
+        "id": 400,
         "title": "Horror-1-Detention",
         "category": "VOD TRIAL",
         "sources": [
@@ -12396,7 +12367,7 @@
         }
     },
     {
-        "id": 402,
+        "id": 401,
         "title": "Horror-1-Doctor Sleep",
         "category": "VOD TRIAL",
         "sources": [
@@ -12425,7 +12396,7 @@
         }
     },
     {
-        "id": 403,
+        "id": 402,
         "title": "Horror-1-Evil Dead Rise",
         "category": "VOD TRIAL",
         "sources": [
@@ -12454,7 +12425,7 @@
         }
     },
     {
-        "id": 404,
+        "id": 403,
         "title": "Horror-1-Five Nights At Freddy",
         "category": "VOD TRIAL",
         "sources": [
@@ -12483,7 +12454,7 @@
         }
     },
     {
-        "id": 405,
+        "id": 404,
         "title": "Horror-1-Get Out",
         "category": "VOD TRIAL",
         "sources": [
@@ -12512,7 +12483,7 @@
         }
     },
     {
-        "id": 406,
+        "id": 405,
         "title": "Horror-1-Lisa Frankenstein",
         "category": "VOD TRIAL",
         "sources": [
@@ -12541,7 +12512,7 @@
         }
     },
     {
-        "id": 407,
+        "id": 406,
         "title": "Horror-1-Malignant",
         "category": "VOD TRIAL",
         "sources": [
@@ -12570,7 +12541,7 @@
         }
     },
     {
-        "id": 408,
+        "id": 407,
         "title": "Horror-1-Night Swim",
         "category": "VOD TRIAL",
         "sources": [
@@ -12599,7 +12570,7 @@
         }
     },
     {
-        "id": 409,
+        "id": 408,
         "title": "Horror-1-Salem Lot (2024)",
         "category": "VOD TRIAL",
         "sources": [
@@ -12628,7 +12599,7 @@
         }
     },
     {
-        "id": 410,
+        "id": 409,
         "title": "Horror-1-Tastes of Horror",
         "category": "VOD TRIAL",
         "sources": [
@@ -12657,7 +12628,7 @@
         }
     },
     {
-        "id": 411,
+        "id": 410,
         "title": "Horror-1-The Blackening",
         "category": "VOD TRIAL",
         "sources": [
@@ -12686,7 +12657,7 @@
         }
     },
     {
-        "id": 412,
+        "id": 411,
         "title": "Horror-1-The Curse of La Llorona",
         "category": "VOD TRIAL",
         "sources": [
@@ -12715,7 +12686,7 @@
         }
     },
     {
-        "id": 413,
+        "id": 412,
         "title": "Horror-1-The Exorcist: Believer (2023)",
         "category": "VOD TRIAL",
         "sources": [
@@ -12744,7 +12715,7 @@
         }
     },
     {
-        "id": 414,
+        "id": 413,
         "title": "Horror-1-The Last Voyage of the Demeter",
         "category": "VOD TRIAL",
         "sources": [
@@ -12773,7 +12744,7 @@
         }
     },
     {
-        "id": 415,
+        "id": 414,
         "title": "Horror-1-The Nun (2018)",
         "category": "VOD TRIAL",
         "sources": [
@@ -12802,7 +12773,7 @@
         }
     },
     {
-        "id": 416,
+        "id": 415,
         "title": "Horror-1-The Nun II",
         "category": "VOD TRIAL",
         "sources": [
@@ -12831,7 +12802,7 @@
         }
     },
     {
-        "id": 417,
+        "id": 416,
         "title": "Horror-1-The Rite",
         "category": "VOD TRIAL",
         "sources": [
@@ -12860,7 +12831,7 @@
         }
     },
     {
-        "id": 418,
+        "id": 417,
         "title": "Horror-1-The Visitor",
         "category": "VOD TRIAL",
         "sources": [
@@ -12889,7 +12860,7 @@
         }
     },
     {
-        "id": 419,
+        "id": 418,
         "title": "Horror-1-The Watchers",
         "category": "VOD TRIAL",
         "sources": [
@@ -12918,7 +12889,7 @@
         }
     },
     {
-        "id": 420,
+        "id": 419,
         "title": "Horror-1-There is Something Wrong With The Children",
         "category": "VOD TRIAL",
         "sources": [
@@ -12947,7 +12918,7 @@
         }
     },
     {
-        "id": 421,
+        "id": 420,
         "title": "Horror-1-Torn Hearts",
         "category": "VOD TRIAL",
         "sources": [
@@ -12976,7 +12947,7 @@
         }
     },
     {
-        "id": 422,
+        "id": 421,
         "title": "Horror-1-Trap",
         "category": "VOD TRIAL",
         "sources": [
@@ -13005,7 +12976,7 @@
         }
     },
     {
-        "id": 423,
+        "id": 422,
         "title": "Horror-1-Unhuman",
         "category": "VOD TRIAL",
         "sources": [
@@ -13034,7 +13005,7 @@
         }
     },
     {
-        "id": 424,
+        "id": 423,
         "title": "Horror-1-Unseen",
         "category": "VOD TRIAL",
         "sources": [
@@ -13063,7 +13034,7 @@
         }
     },
     {
-        "id": 425,
+        "id": 424,
         "title": "Horror-1-Vindicta",
         "category": "VOD TRIAL",
         "sources": [
@@ -13092,7 +13063,7 @@
         }
     },
     {
-        "id": 426,
+        "id": 425,
         "title": "Horror-10 Cloverfield Lane",
         "category": "VOD TRIAL",
         "sources": [
@@ -13121,7 +13092,7 @@
         }
     },
     {
-        "id": 427,
+        "id": 426,
         "title": "Horror-A Nightmare on Elm Street",
         "category": "VOD TRIAL",
         "sources": [
@@ -13150,7 +13121,7 @@
         }
     },
     {
-        "id": 428,
+        "id": 427,
         "title": "Horror-Annabelle",
         "category": "VOD TRIAL",
         "sources": [
@@ -13179,7 +13150,7 @@
         }
     },
     {
-        "id": 429,
+        "id": 428,
         "title": "Horror-Annabelle Comes Home",
         "category": "VOD TRIAL",
         "sources": [
@@ -13208,7 +13179,7 @@
         }
     },
     {
-        "id": 430,
+        "id": 429,
         "title": "Horror-Annabelle: Creation",
         "category": "VOD TRIAL",
         "sources": [
@@ -13237,7 +13208,7 @@
         }
     },
     {
-        "id": 431,
+        "id": 430,
         "title": "Horror-Beneath",
         "category": "VOD TRIAL",
         "sources": [
@@ -13266,7 +13237,7 @@
         }
     },
     {
-        "id": 432,
+        "id": 431,
         "title": "Horror-Blumhouse is Truth or Dare",
         "category": "VOD TRIAL",
         "sources": [
@@ -13295,7 +13266,7 @@
         }
     },
     {
-        "id": 433,
+        "id": 432,
         "title": "Horror-Circle Of Eight",
         "category": "VOD TRIAL",
         "sources": [
@@ -13324,7 +13295,7 @@
         }
     },
     {
-        "id": 434,
+        "id": 433,
         "title": "Horror-Cloverfield (2008)",
         "category": "VOD TRIAL",
         "sources": [
@@ -13353,7 +13324,7 @@
         }
     },
     {
-        "id": 435,
+        "id": 434,
         "title": "Horror-Event Horizon (1997)",
         "category": "VOD TRIAL",
         "sources": [
@@ -13382,7 +13353,7 @@
         }
     },
     {
-        "id": 436,
+        "id": 435,
         "title": "Horror-Finders Keepers",
         "category": "VOD TRIAL",
         "sources": [
@@ -13411,7 +13382,7 @@
         }
     },
     {
-        "id": 437,
+        "id": 436,
         "title": "Horror-Ghost Child",
         "category": "VOD TRIAL",
         "sources": [
@@ -13440,7 +13411,7 @@
         }
     },
     {
-        "id": 438,
+        "id": 437,
         "title": "Horror-Interview with the Vampire",
         "category": "VOD TRIAL",
         "sources": [
@@ -13469,7 +13440,7 @@
         }
     },
     {
-        "id": 439,
+        "id": 438,
         "title": "Horror-IT",
         "category": "VOD TRIAL",
         "sources": [
@@ -13498,7 +13469,7 @@
         }
     },
     {
-        "id": 440,
+        "id": 439,
         "title": "Horror-It Chapter Two",
         "category": "VOD TRIAL",
         "sources": [
@@ -13527,7 +13498,7 @@
         }
     },
     {
-        "id": 441,
+        "id": 440,
         "title": "Horror-One Cut of the Dead",
         "category": "VOD TRIAL",
         "sources": [
@@ -13556,7 +13527,7 @@
         }
     },
     {
-        "id": 442,
+        "id": 441,
         "title": "Horror-Orphan",
         "category": "VOD TRIAL",
         "sources": [
@@ -13585,7 +13556,7 @@
         }
     },
     {
-        "id": 443,
+        "id": 442,
         "title": "Horror-Sadako",
         "category": "VOD TRIAL",
         "sources": [
@@ -13614,7 +13585,7 @@
         }
     },
     {
-        "id": 444,
+        "id": 443,
         "title": "Horror-Scouts Guide to the Zombie Apocalypse",
         "category": "VOD TRIAL",
         "sources": [
@@ -13643,7 +13614,7 @@
         }
     },
     {
-        "id": 445,
+        "id": 444,
         "title": "Horror-Spawn",
         "category": "VOD TRIAL",
         "sources": [
@@ -13672,7 +13643,7 @@
         }
     },
     {
-        "id": 446,
+        "id": 445,
         "title": "Horror-The Conjuring",
         "category": "VOD TRIAL",
         "sources": [
@@ -13701,7 +13672,7 @@
         }
     },
     {
-        "id": 447,
+        "id": 446,
         "title": "Horror-The Conjuring 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -13730,7 +13701,7 @@
         }
     },
     {
-        "id": 448,
+        "id": 447,
         "title": "Horror-The Conjuring: The Devil Made Me Do It",
         "category": "VOD TRIAL",
         "sources": [
@@ -13759,7 +13730,7 @@
         }
     },
     {
-        "id": 449,
+        "id": 448,
         "title": "Horror-The Haunting",
         "category": "VOD TRIAL",
         "sources": [
@@ -13788,7 +13759,7 @@
         }
     },
     {
-        "id": 450,
+        "id": 449,
         "title": "Horror-The Unborn",
         "category": "VOD TRIAL",
         "sources": [
@@ -13817,7 +13788,7 @@
         }
     },
     {
-        "id": 451,
+        "id": 450,
         "title": "Horror-The Uninvited",
         "category": "VOD TRIAL",
         "sources": [
@@ -13846,7 +13817,7 @@
         }
     },
     {
-        "id": 452,
+        "id": 451,
         "title": "Horror-The Wolfman",
         "category": "VOD TRIAL",
         "sources": [
@@ -13875,7 +13846,7 @@
         }
     },
     {
-        "id": 453,
+        "id": 452,
         "title": "HOY TV 77",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -13904,7 +13875,7 @@
         }
     },
     {
-        "id": 454,
+        "id": 453,
         "title": "Hubei TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -13933,7 +13904,7 @@
         }
     },
     {
-        "id": 455,
+        "id": 454,
         "title": "HUNAN TV",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -13975,7 +13946,7 @@
         }
     },
     {
-        "id": 456,
+        "id": 455,
         "title": "IDX",
         "category": "NASIONAL",
         "sources": [
@@ -14004,7 +13975,7 @@
         }
     },
     {
-        "id": 457,
+        "id": 456,
         "title": "Indonesiana TV",
         "category": "PENGETAHUAN",
         "sources": [
@@ -14033,7 +14004,7 @@
         }
     },
     {
-        "id": 458,
+        "id": 457,
         "title": "INDOSIAR BOLA  0 ✅",
         "category": "NASIONAL",
         "sources": [
@@ -14075,7 +14046,7 @@
         }
     },
     {
-        "id": 459,
+        "id": 458,
         "title": "INEWS 1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -14104,36 +14075,7 @@
         }
     },
     {
-        "id": 460,
-        "title": "Inter TV ✅",
-        "category": "BOLA | SERIE A",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8",
-                "headers": {
-                    "Referer": "https://ilglobotv-live.akamaized.net/",
-                    "Origin": "https://ilglobotv-live.akamaized.net"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "Inter TV ✅",
-            "tvg_logo": "https://i.imgur.com/m2PHbsg.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 461,
+        "id": 459,
         "title": "Jackie Chan movies",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -14162,7 +14104,7 @@
         }
     },
     {
-        "id": 462,
+        "id": 460,
         "title": "JAKTV",
         "category": "DAERAH",
         "sources": [
@@ -14204,65 +14146,65 @@
         }
     },
     {
+        "id": 461,
+        "title": "James Bond 007! ✅",
+        "category": "DUNIA | AMERIKA NON SUB",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
+                "headers": {
+                    "Referer": "https://otte.live.fly.ww.aiv-cdn.net/",
+                    "Origin": "https://otte.live.fly.ww.aiv-cdn.net"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "James Bond 007! ✅",
+            "tvg_logo": "https://i.imgur.com/EKWsOFQ.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 462,
+        "title": "James Bond 007! ✅",
+        "category": "DUNIA | AMERIKA NON SUB",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
+                "headers": {
+                    "Referer": "https://otte.live.fly.ww.aiv-cdn.net/",
+                    "Origin": "https://otte.live.fly.ww.aiv-cdn.net"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "James Bond 007! ✅",
+            "tvg_logo": "https://i.imgur.com/EKWsOFQ.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": 463,
-        "title": "James Bond 007! ✅",
-        "category": "DUNIA | AMERIKA NON SUB",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
-                "headers": {
-                    "Referer": "https://otte.live.fly.ww.aiv-cdn.net/",
-                    "Origin": "https://otte.live.fly.ww.aiv-cdn.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "James Bond 007! ✅",
-            "tvg_logo": "https://i.imgur.com/EKWsOFQ.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 464,
-        "title": "James Bond 007! ✅",
-        "category": "DUNIA | AMERIKA NON SUB",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
-                "headers": {
-                    "Referer": "https://otte.live.fly.ww.aiv-cdn.net/",
-                    "Origin": "https://otte.live.fly.ww.aiv-cdn.net"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "James Bond 007! ✅",
-            "tvg_logo": "https://i.imgur.com/EKWsOFQ.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 465,
         "title": "JIANGSU TV",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -14317,7 +14259,7 @@
         }
     },
     {
-        "id": 466,
+        "id": 464,
         "title": "Jiangsu TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -14346,7 +14288,7 @@
         }
     },
     {
-        "id": 467,
+        "id": 465,
         "title": "Jiangxi TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -14375,7 +14317,7 @@
         }
     },
     {
-        "id": 468,
+        "id": 466,
         "title": "Jilin TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -14404,7 +14346,7 @@
         }
     },
     {
-        "id": 469,
+        "id": 467,
         "title": "JOWO TV",
         "category": "DAERAH",
         "sources": [
@@ -14433,7 +14375,7 @@
         }
     },
     {
-        "id": 470,
+        "id": 468,
         "title": "JOWO TV",
         "category": "GAYA HIDUP",
         "sources": [
@@ -14462,7 +14404,7 @@
         }
     },
     {
-        "id": 471,
+        "id": 469,
         "title": "JR.",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -14491,7 +14433,7 @@
         }
     },
     {
-        "id": 472,
+        "id": 470,
         "title": "JTV",
         "category": "DAERAH",
         "sources": [
@@ -14533,7 +14475,7 @@
         }
     },
     {
-        "id": 473,
+        "id": 471,
         "title": "KAIROS (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -14562,7 +14504,7 @@
         }
     },
     {
-        "id": 474,
+        "id": 472,
         "title": "KBS WORLD",
         "category": "DUNIA | KOREA NON SUB",
         "sources": [
@@ -14604,7 +14546,7 @@
         }
     },
     {
-        "id": 475,
+        "id": 473,
         "title": "KBS WORLD",
         "category": "DUNIA | KOREA",
         "sources": [
@@ -14646,7 +14588,7 @@
         }
     },
     {
-        "id": 476,
+        "id": 474,
         "title": "Kids-Bee Movie",
         "category": "VOD TRIAL",
         "sources": [
@@ -14675,7 +14617,7 @@
         }
     },
     {
-        "id": 477,
+        "id": 475,
         "title": "Kids-Despicable Me",
         "category": "VOD TRIAL",
         "sources": [
@@ -14704,7 +14646,7 @@
         }
     },
     {
-        "id": 478,
+        "id": 476,
         "title": "Kids-Despicable Me 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -14733,7 +14675,7 @@
         }
     },
     {
-        "id": 479,
+        "id": 477,
         "title": "Kids-Despicable Me 4",
         "category": "VOD TRIAL",
         "sources": [
@@ -14762,7 +14704,7 @@
         }
     },
     {
-        "id": 480,
+        "id": 478,
         "title": "Kids-Detective Pikachu",
         "category": "VOD TRIAL",
         "sources": [
@@ -14791,7 +14733,7 @@
         }
     },
     {
-        "id": 481,
+        "id": 479,
         "title": "Kids-Harry Potter 1",
         "category": "VOD TRIAL",
         "sources": [
@@ -14820,7 +14762,7 @@
         }
     },
     {
-        "id": 482,
+        "id": 480,
         "title": "Kids-Harry Potter 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -14849,7 +14791,7 @@
         }
     },
     {
-        "id": 483,
+        "id": 481,
         "title": "Kids-Harry Potter 3",
         "category": "VOD TRIAL",
         "sources": [
@@ -14878,7 +14820,7 @@
         }
     },
     {
-        "id": 484,
+        "id": 482,
         "title": "Kids-Harry Potter 4",
         "category": "VOD TRIAL",
         "sources": [
@@ -14907,7 +14849,7 @@
         }
     },
     {
-        "id": 485,
+        "id": 483,
         "title": "Kids-Harry Potter 5",
         "category": "VOD TRIAL",
         "sources": [
@@ -14936,7 +14878,7 @@
         }
     },
     {
-        "id": 486,
+        "id": 484,
         "title": "Kids-Harry Potter 6",
         "category": "VOD TRIAL",
         "sources": [
@@ -14965,7 +14907,7 @@
         }
     },
     {
-        "id": 487,
+        "id": 485,
         "title": "Kids-Harry Potter 7 Pt1",
         "category": "VOD TRIAL",
         "sources": [
@@ -14994,7 +14936,7 @@
         }
     },
     {
-        "id": 488,
+        "id": 486,
         "title": "Kids-Harry Potter 7 Pt2",
         "category": "VOD TRIAL",
         "sources": [
@@ -15023,7 +14965,7 @@
         }
     },
     {
-        "id": 489,
+        "id": 487,
         "title": "Kids-How to Train Your Dragon",
         "category": "VOD TRIAL",
         "sources": [
@@ -15052,7 +14994,7 @@
         }
     },
     {
-        "id": 490,
+        "id": 488,
         "title": "Kids-Hugo",
         "category": "VOD TRIAL",
         "sources": [
@@ -15081,7 +15023,7 @@
         }
     },
     {
-        "id": 491,
+        "id": 489,
         "title": "Kids-IF",
         "category": "VOD TRIAL",
         "sources": [
@@ -15110,7 +15052,7 @@
         }
     },
     {
-        "id": 492,
+        "id": 490,
         "title": "Kids-Kung Fu Panda",
         "category": "VOD TRIAL",
         "sources": [
@@ -15139,7 +15081,7 @@
         }
     },
     {
-        "id": 493,
+        "id": 491,
         "title": "Kids-Kung Fu Panda 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -15168,7 +15110,7 @@
         }
     },
     {
-        "id": 494,
+        "id": 492,
         "title": "Kids-Kung Fu Panda 4",
         "category": "VOD TRIAL",
         "sources": [
@@ -15197,7 +15139,7 @@
         }
     },
     {
-        "id": 495,
+        "id": 493,
         "title": "Kids-Migration",
         "category": "VOD TRIAL",
         "sources": [
@@ -15226,7 +15168,7 @@
         }
     },
     {
-        "id": 496,
+        "id": 494,
         "title": "Kids-Mr. Bean is Holiday",
         "category": "VOD TRIAL",
         "sources": [
@@ -15255,7 +15197,7 @@
         }
     },
     {
-        "id": 497,
+        "id": 495,
         "title": "Kids-Tom & Jerry",
         "category": "VOD TRIAL",
         "sources": [
@@ -15284,7 +15226,7 @@
         }
     },
     {
-        "id": 498,
+        "id": 496,
         "title": "Kids-Transformers One",
         "category": "VOD TRIAL",
         "sources": [
@@ -15313,7 +15255,7 @@
         }
     },
     {
-        "id": 499,
+        "id": 497,
         "title": "Kids-Wonka",
         "category": "VOD TRIAL",
         "sources": [
@@ -15342,7 +15284,7 @@
         }
     },
     {
-        "id": 500,
+        "id": 498,
         "title": "Kilisuci TV Kediri",
         "category": "DAERAH",
         "sources": [
@@ -15371,7 +15313,7 @@
         }
     },
     {
-        "id": 501,
+        "id": 499,
         "title": "KOMPAS TV 1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -15400,7 +15342,7 @@
         }
     },
     {
-        "id": 502,
+        "id": 500,
         "title": "Lawak Sentral",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -15429,7 +15371,7 @@
         }
     },
     {
-        "id": 503,
+        "id": 501,
         "title": "LEAD",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -15458,7 +15400,7 @@
         }
     },
     {
-        "id": 504,
+        "id": 502,
         "title": "LG 1 Film ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -15487,7 +15429,7 @@
         }
     },
     {
-        "id": 505,
+        "id": 503,
         "title": "LG 1 Spotlight ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -15516,7 +15458,7 @@
         }
     },
     {
-        "id": 506,
+        "id": 504,
         "title": "LG 1 ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -15545,7 +15487,7 @@
         }
     },
     {
-        "id": 507,
+        "id": 505,
         "title": "LIVE 0 ✅",
         "category": "BOLA | BRI LIGA 1",
         "sources": [
@@ -15587,7 +15529,7 @@
         }
     },
     {
-        "id": 508,
+        "id": 506,
         "title": "LIVE 1 CBS Sports Golazo✅",
         "category": "BOLA | SERIE A",
         "sources": [
@@ -15616,7 +15558,7 @@
         }
     },
     {
-        "id": 509,
+        "id": 507,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | BUNDESLIGA",
         "sources": [
@@ -15645,7 +15587,7 @@
         }
     },
     {
-        "id": 510,
+        "id": 508,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | LALIGA",
         "sources": [
@@ -15674,7 +15616,7 @@
         }
     },
     {
-        "id": 511,
+        "id": 509,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | SERIE A",
         "sources": [
@@ -15703,7 +15645,7 @@
         }
     },
     {
-        "id": 512,
+        "id": 510,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
@@ -15732,7 +15674,7 @@
         }
     },
     {
-        "id": 513,
+        "id": 511,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | UEFA EROPA LEAGUE",
         "sources": [
@@ -15761,7 +15703,7 @@
         }
     },
     {
-        "id": 514,
+        "id": 512,
         "title": "live 1 Fubo Sports",
         "category": "BOLA | UEFA CHAMPIONS LEAGUE",
         "sources": [
@@ -15790,7 +15732,7 @@
         }
     },
     {
-        "id": 515,
+        "id": 513,
         "title": "LIVE 1 ✅ (CEK INI)",
         "category": "BOLA | BRI LIGA 1",
         "sources": [
@@ -15832,7 +15774,7 @@
         }
     },
     {
-        "id": 516,
+        "id": 514,
         "title": "LIVE 3",
         "category": "BOLA | AFC U23 ASIAN CUP SAUDI ARABIA 2026",
         "sources": [
@@ -15861,7 +15803,7 @@
         }
     },
     {
-        "id": 517,
+        "id": 515,
         "title": "LIVE 8 (Bein Sport 3 Turkey)",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -15890,7 +15832,7 @@
         }
     },
     {
-        "id": 518,
+        "id": 516,
         "title": "LIVE ✅",
         "category": "BOLA | FRIENDLY MATCH",
         "sources": [
@@ -15932,7 +15874,7 @@
         }
     },
     {
-        "id": 519,
+        "id": 517,
         "title": "LIVE ✅",
         "category": "BOLA | ASEAN U19 Championship 2026",
         "sources": [
@@ -15974,7 +15916,7 @@
         }
     },
     {
-        "id": 520,
+        "id": 518,
         "title": "Longhua Cartoons",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16003,7 +15945,7 @@
         }
     },
     {
-        "id": 521,
+        "id": 519,
         "title": "Longhua Classics",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16032,7 +15974,7 @@
         }
     },
     {
-        "id": 522,
+        "id": 520,
         "title": "Longhua Drama",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16061,7 +16003,7 @@
         }
     },
     {
-        "id": 523,
+        "id": 521,
         "title": "Longhua Idols",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16090,7 +16032,7 @@
         }
     },
     {
-        "id": 524,
+        "id": 522,
         "title": "Longhua Japanese & Korean",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16119,7 +16061,7 @@
         }
     },
     {
-        "id": 525,
+        "id": 523,
         "title": "Longhua Movies",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16148,7 +16090,7 @@
         }
     },
     {
-        "id": 526,
+        "id": 524,
         "title": "Lotus Macao Skygo",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -16177,7 +16119,7 @@
         }
     },
     {
-        "id": 527,
+        "id": 525,
         "title": "Madu TV",
         "category": "DAERAH",
         "sources": [
@@ -16206,7 +16148,7 @@
         }
     },
     {
-        "id": 528,
+        "id": 526,
         "title": "Magna Channel 2️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -16235,7 +16177,7 @@
         }
     },
     {
-        "id": 529,
+        "id": 527,
         "title": "MAGNA TV 🇮🇩1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -16264,7 +16206,7 @@
         }
     },
     {
-        "id": 530,
+        "id": 528,
         "title": "Makkah TV",
         "category": "AGAMA",
         "sources": [
@@ -16293,7 +16235,7 @@
         }
     },
     {
-        "id": 531,
+        "id": 529,
         "title": "MBC",
         "category": "DUNIA | KOREA NON SUB",
         "sources": [
@@ -16322,7 +16264,7 @@
         }
     },
     {
-        "id": 532,
+        "id": 530,
         "title": "MGDRIVE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16351,7 +16293,7 @@
         }
     },
     {
-        "id": 533,
+        "id": 531,
         "title": "MGHITS ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16380,7 +16322,7 @@
         }
     },
     {
-        "id": 534,
+        "id": 532,
         "title": "MGM+ Drive In ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16409,7 +16351,7 @@
         }
     },
     {
-        "id": 535,
+        "id": 533,
         "title": "MGM+ Hits ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16438,7 +16380,7 @@
         }
     },
     {
-        "id": 536,
+        "id": 534,
         "title": "MGM+ Marquee ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16467,7 +16409,7 @@
         }
     },
     {
-        "id": 537,
+        "id": 535,
         "title": "MGM+ ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16496,7 +16438,7 @@
         }
     },
     {
-        "id": 538,
+        "id": 536,
         "title": "MGPLUS ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16525,7 +16467,7 @@
         }
     },
     {
-        "id": 539,
+        "id": 537,
         "title": "MHz Choice ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16554,7 +16496,7 @@
         }
     },
     {
-        "id": 540,
+        "id": 538,
         "title": "MIRAMAX ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16583,7 +16525,7 @@
         }
     },
     {
-        "id": 541,
+        "id": 539,
         "title": "MNX ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16612,7 +16554,7 @@
         }
     },
     {
-        "id": 542,
+        "id": 540,
         "title": "Moonbug Kids",
         "category": "ANAK",
         "sources": [
@@ -16641,7 +16583,7 @@
         }
     },
     {
-        "id": 543,
+        "id": 541,
         "title": "More MAX HD East ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16670,7 +16612,7 @@
         }
     },
     {
-        "id": 544,
+        "id": 542,
         "title": "Mortal combat 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -16699,7 +16641,7 @@
         }
     },
     {
-        "id": 545,
+        "id": 543,
         "title": "Movie Music ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16728,7 +16670,7 @@
         }
     },
     {
-        "id": 546,
+        "id": 544,
         "title": "MOVIE SPHERE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16757,7 +16699,7 @@
         }
     },
     {
-        "id": 547,
+        "id": 545,
         "title": "MOVIES NOW ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16786,7 +16728,7 @@
         }
     },
     {
-        "id": 548,
+        "id": 546,
         "title": "MQTV",
         "category": "AGAMA",
         "sources": [
@@ -16815,7 +16757,7 @@
         }
     },
     {
-        "id": 549,
+        "id": 547,
         "title": "MTATV",
         "category": "AGAMA",
         "sources": [
@@ -16857,7 +16799,7 @@
         }
     },
     {
-        "id": 550,
+        "id": 548,
         "title": "MUITV",
         "category": "AGAMA",
         "sources": [
@@ -16899,7 +16841,7 @@
         }
     },
     {
-        "id": 551,
+        "id": 549,
         "title": "MUTV ✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -16928,7 +16870,7 @@
         }
     },
     {
-        "id": 552,
+        "id": 550,
         "title": "MY CINEMA EUROPE",
         "category": "FILM",
         "sources": [
@@ -16957,7 +16899,7 @@
         }
     },
     {
-        "id": 553,
+        "id": 551,
         "title": "MYTIME MOVIE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -16986,7 +16928,7 @@
         }
     },
     {
-        "id": 554,
+        "id": 552,
         "title": "Nat Geo Sharks ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -17015,7 +16957,7 @@
         }
     },
     {
-        "id": 555,
+        "id": 553,
         "title": "National Geographic",
         "category": "PENGETAHUAN",
         "sources": [
@@ -17044,7 +16986,7 @@
         }
     },
     {
-        "id": 556,
+        "id": 554,
         "title": "NBA TV ✅",
         "category": "OLAHRAGA LOKAL",
         "sources": [
@@ -17073,7 +17015,7 @@
         }
     },
     {
-        "id": 557,
+        "id": 555,
         "title": "NHK WORLD JAPAN",
         "category": "BERITA",
         "sources": [
@@ -17115,7 +17057,7 @@
         }
     },
     {
-        "id": 558,
+        "id": 556,
         "title": "NICK JR US",
         "category": "ANAK",
         "sources": [
@@ -17144,7 +17086,7 @@
         }
     },
     {
-        "id": 559,
+        "id": 557,
         "title": "NOW 80",
         "category": "MUSIC",
         "sources": [
@@ -17186,7 +17128,7 @@
         }
     },
     {
-        "id": 560,
+        "id": 558,
         "title": "NOW ROCK",
         "category": "MUSIC",
         "sources": [
@@ -17215,7 +17157,7 @@
         }
     },
     {
-        "id": 561,
+        "id": 559,
         "title": "Nusantara TV1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -17244,7 +17186,7 @@
         }
     },
     {
-        "id": 562,
+        "id": 560,
         "title": "Oh My Ceria!",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -17273,7 +17215,7 @@
         }
     },
     {
-        "id": 563,
+        "id": 561,
         "title": "ONE",
         "category": "GAYA HIDUP",
         "sources": [
@@ -17302,7 +17244,7 @@
         }
     },
     {
-        "id": 564,
+        "id": 562,
         "title": "ONE (❌ UNDER MAINTENANCE)",
         "category": "DUNIA | KOREA",
         "sources": [
@@ -17331,7 +17273,7 @@
         }
     },
     {
-        "id": 565,
+        "id": 563,
         "title": "Outdoor Channel",
         "category": "PENGETAHUAN",
         "sources": [
@@ -17360,7 +17302,7 @@
         }
     },
     {
-        "id": 566,
+        "id": 564,
         "title": "OUTERSPHERE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -17389,7 +17331,7 @@
         }
     },
     {
-        "id": 567,
+        "id": 565,
         "title": "Panor 2",
         "category": "VOD TRIAL",
         "sources": [
@@ -17418,7 +17360,7 @@
         }
     },
     {
-        "id": 568,
+        "id": 566,
         "title": "PBS Kids",
         "category": "ANAK",
         "sources": [
@@ -17447,7 +17389,7 @@
         }
     },
     {
-        "id": 569,
+        "id": 567,
         "title": "PHOENIX CHINESE (MAX)",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -17489,7 +17431,7 @@
         }
     },
     {
-        "id": 570,
+        "id": 568,
         "title": "PHOENIX INFONEWS (MAX)",
         "category": "WORLD TV",
         "sources": [
@@ -17531,7 +17473,7 @@
         }
     },
     {
-        "id": 571,
+        "id": 569,
         "title": "RAKUTEN TOP ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -17560,7 +17502,7 @@
         }
     },
     {
-        "id": 572,
+        "id": 570,
         "title": "RCTI (+)",
         "category": "NASIONAL",
         "sources": [
@@ -17589,7 +17531,7 @@
         }
     },
     {
-        "id": 573,
+        "id": 571,
         "title": "REAL WILD 🇬🇧",
         "category": "PENGETAHUAN",
         "sources": [
@@ -17618,7 +17560,7 @@
         }
     },
     {
-        "id": 574,
+        "id": 572,
         "title": "REELZ ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -17647,7 +17589,7 @@
         }
     },
     {
-        "id": 575,
+        "id": 573,
         "title": "REFORMED 21 (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -17676,7 +17618,7 @@
         }
     },
     {
-        "id": 576,
+        "id": 574,
         "title": "Rise of the Conqueror",
         "category": "VOD TRIAL",
         "sources": [
@@ -17705,7 +17647,7 @@
         }
     },
     {
-        "id": 577,
+        "id": 575,
         "title": "ROCK ACTION",
         "category": "FILM",
         "sources": [
@@ -17734,7 +17676,7 @@
         }
     },
     {
-        "id": 578,
+        "id": 576,
         "title": "ROCK ACTION",
         "category": "GAYA HIDUP",
         "sources": [
@@ -17763,7 +17705,7 @@
         }
     },
     {
-        "id": 579,
+        "id": 577,
         "title": "ROCK ENTERTAINMENT",
         "category": "FILM",
         "sources": [
@@ -17792,7 +17734,7 @@
         }
     },
     {
-        "id": 580,
+        "id": 578,
         "title": "ROCK ENTERTAINMENT",
         "category": "GAYA HIDUP",
         "sources": [
@@ -17821,7 +17763,7 @@
         }
     },
     {
-        "id": 581,
+        "id": 579,
         "title": "RodjaTV 1",
         "category": "AGAMA",
         "sources": [
@@ -17850,7 +17792,7 @@
         }
     },
     {
-        "id": 582,
+        "id": 580,
         "title": "ROLL",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -17879,7 +17821,7 @@
         }
     },
     {
-        "id": 583,
+        "id": 581,
         "title": "RTV1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -17908,7 +17850,7 @@
         }
     },
     {
-        "id": 584,
+        "id": 582,
         "title": "RTV1️⃣",
         "category": "ANAK",
         "sources": [
@@ -17937,7 +17879,7 @@
         }
     },
     {
-        "id": 585,
+        "id": 583,
         "title": "Sakti TV",
         "category": "DAERAH",
         "sources": [
@@ -17979,7 +17921,7 @@
         }
     },
     {
-        "id": 586,
+        "id": 584,
         "title": "Sakti TV",
         "category": "DAERAH",
         "sources": [
@@ -18008,7 +17950,7 @@
         }
     },
     {
-        "id": 587,
+        "id": 585,
         "title": "Saudi Sunna (Medina)",
         "category": "AGAMA ",
         "sources": [
@@ -18037,65 +17979,65 @@
         }
     },
     {
+        "id": 586,
+        "title": "SBS",
+        "category": "DUNIA | KOREA NON SUB",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+                "headers": {
+                    "Referer": "http://1.222.207.80:1935/",
+                    "Origin": "http://1.222.207.80:1935"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "SBS",
+            "tvg_name": "SBS",
+            "tvg_logo": "https://i.imgur.com/e8w10pk.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 587,
+        "title": "SBS",
+        "category": "DUNIA | KOREA NON SUB",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+                "headers": {
+                    "Referer": "http://1.222.207.80:1935/",
+                    "Origin": "http://1.222.207.80:1935"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "SBS",
+            "tvg_name": "SBS",
+            "tvg_logo": "https://i.imgur.com/e8w10pk.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": 588,
-        "title": "SBS",
-        "category": "DUNIA | KOREA NON SUB",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
-                "headers": {
-                    "Referer": "http://1.222.207.80:1935/",
-                    "Origin": "http://1.222.207.80:1935"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "SBS",
-            "tvg_name": "SBS",
-            "tvg_logo": "https://i.imgur.com/e8w10pk.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 589,
-        "title": "SBS",
-        "category": "DUNIA | KOREA NON SUB",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
-                "headers": {
-                    "Referer": "http://1.222.207.80:1935/",
-                    "Origin": "http://1.222.207.80:1935"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "SBS",
-            "tvg_name": "SBS",
-            "tvg_logo": "https://i.imgur.com/e8w10pk.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 590,
         "title": "Screenpix Action ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -18124,7 +18066,7 @@
         }
     },
     {
-        "id": 591,
+        "id": 589,
         "title": "Screenpix Westerns ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -18153,7 +18095,7 @@
         }
     },
     {
-        "id": 592,
+        "id": 590,
         "title": "Screenpix ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -18182,7 +18124,7 @@
         }
     },
     {
-        "id": 593,
+        "id": 591,
         "title": "Serie A ✅",
         "category": "BOLA | SERIE A",
         "sources": [
@@ -18211,7 +18153,7 @@
         }
     },
     {
-        "id": 594,
+        "id": 592,
         "title": "Shaanxi TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18240,7 +18182,7 @@
         }
     },
     {
-        "id": 595,
+        "id": 593,
         "title": "Shandong TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18269,7 +18211,7 @@
         }
     },
     {
-        "id": 596,
+        "id": 594,
         "title": "Shaw Brothers action films",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18298,7 +18240,7 @@
         }
     },
     {
-        "id": 597,
+        "id": 595,
         "title": "Shaw Brothers comedies",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18327,7 +18269,7 @@
         }
     },
     {
-        "id": 598,
+        "id": 596,
         "title": "Shaw Brothers films",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18356,7 +18298,7 @@
         }
     },
     {
-        "id": 599,
+        "id": 597,
         "title": "Shaw Brothers martial arts films",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18385,7 +18327,7 @@
         }
     },
     {
-        "id": 600,
+        "id": 598,
         "title": "SHEMAROO BOLLY ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -18414,7 +18356,7 @@
         }
     },
     {
-        "id": 601,
+        "id": 599,
         "title": "SHENZEN TV",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -18456,7 +18398,7 @@
         }
     },
     {
-        "id": 602,
+        "id": 600,
         "title": "Shenzhen TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18485,7 +18427,7 @@
         }
     },
     {
-        "id": 603,
+        "id": 601,
         "title": "SHOWCASE ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -18514,7 +18456,7 @@
         }
     },
     {
-        "id": 604,
+        "id": 602,
         "title": "Sichuan TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18543,7 +18485,7 @@
         }
     },
     {
-        "id": 605,
+        "id": 603,
         "title": "SINDONEWS",
         "category": "NASIONAL",
         "sources": [
@@ -18585,9 +18527,119 @@
         }
     },
     {
-        "id": 606,
+        "id": 604,
         "title": "SKY SPORT TOP EVENT ✅",
         "category": "BOLA | LIGA INGGRIS",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "SKY_CALCIO ✅",
+            "tvg_logo": "https://i.imgur.com/74fJPlk.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 605,
+        "title": "SKY SPORT TOP EVENT ✅",
+        "category": "BOLA | BUNDESLIGA",
+        "sources": [
+            {
+                "type": "primary",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
+                "headers": {
+                    "Referer": "https://raw.githubusercontent.com/",
+                    "Origin": "https://raw.githubusercontent.com"
+                },
+                "drm_info": {
+                    "is_protected": true,
+                    "drm_type": "clearkey",
+                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
+                }
+            }
+        ],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "SKY_CALCIO ✅",
+            "tvg_logo": "https://i.imgur.com/74fJPlk.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 606,
+        "title": "SKY SPORT TOP EVENT ✅",
+        "category": "BOLA | LALIGA",
         "sources": [
             {
                 "type": "primary",
@@ -18642,116 +18694,6 @@
     {
         "id": 607,
         "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | BUNDESLIGA",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "SKY_CALCIO ✅",
-            "tvg_logo": "https://i.imgur.com/74fJPlk.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 608,
-        "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | LALIGA",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            },
-            {
-                "type": "backup",
-                "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
-                "headers": {
-                    "Referer": "https://raw.githubusercontent.com/",
-                    "Origin": "https://raw.githubusercontent.com"
-                },
-                "drm_info": {
-                    "is_protected": true,
-                    "drm_type": "clearkey",
-                    "drm_key": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1"
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "SKY_CALCIO ✅",
-            "tvg_logo": "https://i.imgur.com/74fJPlk.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 609,
-        "title": "SKY SPORT TOP EVENT ✅",
         "category": "BOLA | SERIE A",
         "sources": [
             {
@@ -18805,7 +18747,7 @@
         }
     },
     {
-        "id": 610,
+        "id": 608,
         "title": "SNAP",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -18834,7 +18776,7 @@
         }
     },
     {
-        "id": 611,
+        "id": 609,
         "title": "Southeast TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -18863,7 +18805,7 @@
         }
     },
     {
-        "id": 612,
+        "id": 610,
         "title": "SportDigital FUSSBALL DE",
         "category": "BOLA | PRO LEAGUE",
         "sources": [
@@ -18892,7 +18834,7 @@
         }
     },
     {
-        "id": 613,
+        "id": 611,
         "title": "SportDigital FUSSBALL DE (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)",
         "category": "BOLA | SUPERCOPA DE ESPANA",
         "sources": [
@@ -18921,7 +18863,7 @@
         }
     },
     {
-        "id": 614,
+        "id": 612,
         "title": "SPORTS - STAR SPORTS SELECT 2 HD✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -18963,7 +18905,7 @@
         }
     },
     {
-        "id": 615,
+        "id": 613,
         "title": "Sportstars 2 HD",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -18992,7 +18934,7 @@
         }
     },
     {
-        "id": 616,
+        "id": 614,
         "title": "Sportstars 2 HD (MJ)",
         "category": "OLAHRAGA | TENNIS",
         "sources": [
@@ -19021,7 +18963,7 @@
         }
     },
     {
-        "id": 617,
+        "id": 615,
         "title": "Sportstars 2 HD (MJ)",
         "category": "OLAHRAGA | VOLLYBALL",
         "sources": [
@@ -19050,7 +18992,7 @@
         }
     },
     {
-        "id": 618,
+        "id": 616,
         "title": "Sportstars 2 HD (MJ)",
         "category": "OLAHRAGA | BADMINTON",
         "sources": [
@@ -19079,7 +19021,7 @@
         }
     },
     {
-        "id": 619,
+        "id": 617,
         "title": "Sportstars 2 HD (MJ)",
         "category": "OLAHRAGA | BILLIARD",
         "sources": [
@@ -19108,7 +19050,7 @@
         }
     },
     {
-        "id": 620,
+        "id": 618,
         "title": "Sportstars 2 HD (MJ)",
         "category": "BOLA | UEFA NATIONS LEAGUE",
         "sources": [
@@ -19137,7 +19079,7 @@
         }
     },
     {
-        "id": 621,
+        "id": 619,
         "title": "Sportstars 2 HD (MJ) ✅",
         "category": "BOLA | BUNDESLIGA",
         "sources": [
@@ -19166,7 +19108,7 @@
         }
     },
     {
-        "id": 622,
+        "id": 620,
         "title": "Sportstars 2 HD ✅",
         "category": "OLAHRAGA LOKAL",
         "sources": [
@@ -19195,7 +19137,7 @@
         }
     },
     {
-        "id": 623,
+        "id": 621,
         "title": "Sportstars 2 HD ✅",
         "category": "BOLA | FRIENDLY MATCH",
         "sources": [
@@ -19224,7 +19166,7 @@
         }
     },
     {
-        "id": 624,
+        "id": 622,
         "title": "SPOTV",
         "category": "OLAHRAGA | BILLIARD",
         "sources": [
@@ -19253,7 +19195,7 @@
         }
     },
     {
-        "id": 625,
+        "id": 623,
         "title": "SPOTV (NOV)",
         "category": "OLAHRAGA | TENNIS",
         "sources": [
@@ -19282,7 +19224,7 @@
         }
     },
     {
-        "id": 626,
+        "id": 624,
         "title": "SPOTV (NOV)",
         "category": "OLAHRAGA | MOTOR GP",
         "sources": [
@@ -19311,7 +19253,7 @@
         }
     },
     {
-        "id": 627,
+        "id": 625,
         "title": "SPOTV (NOV)",
         "category": "OLAHRAGA | VOLLYBALL",
         "sources": [
@@ -19340,7 +19282,7 @@
         }
     },
     {
-        "id": 628,
+        "id": 626,
         "title": "SPOTV (NOV)",
         "category": "OLAHRAGA | BADMINTON",
         "sources": [
@@ -19369,7 +19311,7 @@
         }
     },
     {
-        "id": 629,
+        "id": 627,
         "title": "SPOTV (NOV)",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -19398,7 +19340,7 @@
         }
     },
     {
-        "id": 630,
+        "id": 628,
         "title": "SPOTV 2",
         "category": "OLAHRAGA | BILLIARD",
         "sources": [
@@ -19427,7 +19369,7 @@
         }
     },
     {
-        "id": 631,
+        "id": 629,
         "title": "SPOTV 2 (NOV)",
         "category": "OLAHRAGA | TENNIS",
         "sources": [
@@ -19456,7 +19398,7 @@
         }
     },
     {
-        "id": 632,
+        "id": 630,
         "title": "SPOTV 2 (NOV)",
         "category": "OLAHRAGA | MOTOR GP",
         "sources": [
@@ -19485,7 +19427,7 @@
         }
     },
     {
-        "id": 633,
+        "id": 631,
         "title": "SPOTV 2 (NOV)",
         "category": "OLAHRAGA | VOLLYBALL",
         "sources": [
@@ -19514,7 +19456,7 @@
         }
     },
     {
-        "id": 634,
+        "id": 632,
         "title": "SPOTV 2 (NOV)",
         "category": "OLAHRAGA | BADMINTON",
         "sources": [
@@ -19543,7 +19485,7 @@
         }
     },
     {
-        "id": 635,
+        "id": 633,
         "title": "SPOTV 2 (NOV)",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -19572,7 +19514,7 @@
         }
     },
     {
-        "id": 636,
+        "id": 634,
         "title": "SPOTV 2 ✅",
         "category": "OLAHRAGA LOKAL",
         "sources": [
@@ -19601,7 +19543,7 @@
         }
     },
     {
-        "id": 637,
+        "id": 635,
         "title": "SPOTV 2 ✅",
         "category": "OLAHRAGA | GOLF",
         "sources": [
@@ -19630,7 +19572,7 @@
         }
     },
     {
-        "id": 638,
+        "id": 636,
         "title": "SPOTV ✅",
         "category": "OLAHRAGA LOKAL",
         "sources": [
@@ -19659,7 +19601,7 @@
         }
     },
     {
-        "id": 639,
+        "id": 637,
         "title": "SPOTV ✅",
         "category": "OLAHRAGA | GOLF",
         "sources": [
@@ -19688,7 +19630,7 @@
         }
     },
     {
-        "id": 640,
+        "id": 638,
         "title": "SS MotoGP",
         "category": "OLAHRAGA | MOTOR GP",
         "sources": [
@@ -19717,7 +19659,7 @@
         }
     },
     {
-        "id": 641,
+        "id": 639,
         "title": "STRONGMAN CHAMPIONS LEAGUE",
         "category": "OLAHRAGA POPULER",
         "sources": [
@@ -19746,7 +19688,7 @@
         }
     },
     {
-        "id": 642,
+        "id": 640,
         "title": "SUNNA TV",
         "category": "AGAMA",
         "sources": [
@@ -19775,7 +19717,7 @@
         }
     },
     {
-        "id": 643,
+        "id": 641,
         "title": "SUPERRIX",
         "category": "FILM",
         "sources": [
@@ -19804,7 +19746,7 @@
         }
     },
     {
-        "id": 644,
+        "id": 642,
         "title": "TBN ASIA (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -19833,7 +19775,7 @@
         }
     },
     {
-        "id": 645,
+        "id": 643,
         "title": "The Lord of the Rings: The War of the Rohirrim",
         "category": "VOD TRIAL",
         "sources": [
@@ -19862,7 +19804,7 @@
         }
     },
     {
-        "id": 646,
+        "id": 644,
         "title": "The Punisher: One Last Kill",
         "category": "VOD TRIAL",
         "sources": [
@@ -19891,7 +19833,7 @@
         }
     },
     {
-        "id": 647,
+        "id": 645,
         "title": "The Walking Dead Channel",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -19920,7 +19862,7 @@
         }
     },
     {
-        "id": 648,
+        "id": 646,
         "title": "This Old House (AG)",
         "category": "GAYA HIDUP",
         "sources": [
@@ -19949,7 +19891,7 @@
         }
     },
     {
-        "id": 649,
+        "id": 647,
         "title": "THRILL",
         "category": "FILM",
         "sources": [
@@ -19978,7 +19920,7 @@
         }
     },
     {
-        "id": 650,
+        "id": 648,
         "title": "THRILL",
         "category": "GAYA HIDUP",
         "sources": [
@@ -20007,7 +19949,7 @@
         }
     },
     {
-        "id": 651,
+        "id": 649,
         "title": "Tianjin Education",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20036,7 +19978,7 @@
         }
     },
     {
-        "id": 652,
+        "id": 650,
         "title": "Tianjin Film and Television",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20065,7 +20007,7 @@
         }
     },
     {
-        "id": 653,
+        "id": 651,
         "title": "Tianjin Literature and Art",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20094,7 +20036,7 @@
         }
     },
     {
-        "id": 654,
+        "id": 652,
         "title": "Tianjin News",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20123,7 +20065,7 @@
         }
     },
     {
-        "id": 655,
+        "id": 653,
         "title": "Tianjin Sports",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20152,7 +20094,7 @@
         }
     },
     {
-        "id": 656,
+        "id": 654,
         "title": "Tianjin TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20181,7 +20123,7 @@
         }
     },
     {
-        "id": 657,
+        "id": 655,
         "title": "Tianjin Urban",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -20210,7 +20152,7 @@
         }
     },
     {
-        "id": 658,
+        "id": 656,
         "title": "TLC INDO",
         "category": "GAYA HIDUP",
         "sources": [
@@ -20239,13 +20181,26 @@
         }
     },
     {
-        "id": 659,
+        "id": 657,
         "title": "TNT SPORT 3",
         "category": "OLAHRAGA | UFC",
         "sources": [
             {
                 "type": "primary",
                 "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100775",
+                "headers": {
+                    "Referer": "http://lunar.pm:8080/",
+                    "Origin": "http://lunar.pm:8080"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
+                "uri": "http://lunar.pm:8080/Cynthiab/Travel66/100777",
                 "headers": {
                     "Referer": "http://lunar.pm:8080/",
                     "Origin": "http://lunar.pm:8080"
@@ -20268,7 +20223,7 @@
         }
     },
     {
-        "id": 660,
+        "id": 658,
         "title": "TNT SPORT 4",
         "category": "OLAHRAGA POPULER 2",
         "sources": [
@@ -20310,7 +20265,7 @@
         }
     },
     {
-        "id": 661,
+        "id": 659,
         "title": "Travel&Taste",
         "category": "DUNIA | MALAYSIA",
         "sources": [
@@ -20339,7 +20294,7 @@
         }
     },
     {
-        "id": 662,
+        "id": 660,
         "title": "TRAVELXP (AG)",
         "category": "PENGETAHUAN",
         "sources": [
@@ -20368,7 +20323,7 @@
         }
     },
     {
-        "id": 663,
+        "id": 661,
         "title": "Treehouse (JNUS)",
         "category": "ANAK",
         "sources": [
@@ -20397,7 +20352,7 @@
         }
     },
     {
-        "id": 664,
+        "id": 662,
         "title": "TRT WORLD",
         "category": "BERITA",
         "sources": [
@@ -20439,7 +20394,7 @@
         }
     },
     {
-        "id": 665,
+        "id": 663,
         "title": "TV 9 Nusantara",
         "category": "AGAMA",
         "sources": [
@@ -20468,7 +20423,7 @@
         }
     },
     {
-        "id": 666,
+        "id": 664,
         "title": "TVBS NEWS",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -20497,7 +20452,7 @@
         }
     },
     {
-        "id": 667,
+        "id": 665,
         "title": "TVKU",
         "category": "DAERAH",
         "sources": [
@@ -20539,7 +20494,7 @@
         }
     },
     {
-        "id": 668,
+        "id": 666,
         "title": "TVN",
         "category": "FILM",
         "sources": [
@@ -20568,7 +20523,7 @@
         }
     },
     {
-        "id": 669,
+        "id": 667,
         "title": "TVN",
         "category": "GAYA HIDUP",
         "sources": [
@@ -20597,7 +20552,7 @@
         }
     },
     {
-        "id": 670,
+        "id": 668,
         "title": "tvN 🇰🇷",
         "category": "DUNIA | KOREA NON SUB",
         "sources": [
@@ -20626,7 +20581,7 @@
         }
     },
     {
-        "id": 671,
+        "id": 669,
         "title": "TVRI Jawa Timur",
         "category": "DAERAH",
         "sources": [
@@ -20668,7 +20623,7 @@
         }
     },
     {
-        "id": 672,
+        "id": 670,
         "title": "TVRI Papua Barat❌(UNDER MAINTENANCE)",
         "category": "DAERAH",
         "sources": [
@@ -21074,7 +21029,7 @@
         }
     },
     {
-        "id": 673,
+        "id": 671,
         "title": "U-CHANNEL (KRISTEN)",
         "category": "AGAMA",
         "sources": [
@@ -21116,7 +21071,7 @@
         }
     },
     {
-        "id": 674,
+        "id": 672,
         "title": "USA NETWORK",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -21145,7 +21100,7 @@
         }
     },
     {
-        "id": 675,
+        "id": 673,
         "title": "Viasat EXPLORE 🇬🇧 🇧🇦",
         "category": "PENGETAHUAN",
         "sources": [
@@ -21174,7 +21129,7 @@
         }
     },
     {
-        "id": 676,
+        "id": 674,
         "title": "Viasat HISTORY 🇬🇧 🇧🇦",
         "category": "PENGETAHUAN",
         "sources": [
@@ -21203,7 +21158,7 @@
         }
     },
     {
-        "id": 677,
+        "id": 675,
         "title": "Viasat NATURE 🇬🇧 🇧🇦",
         "category": "PENGETAHUAN",
         "sources": [
@@ -21232,7 +21187,7 @@
         }
     },
     {
-        "id": 678,
+        "id": 676,
         "title": "Viva One Movie ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -21261,7 +21216,7 @@
         }
     },
     {
-        "id": 679,
+        "id": 677,
         "title": "Warner TV ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -21290,7 +21245,7 @@
         }
     },
     {
-        "id": 680,
+        "id": 678,
         "title": "WION",
         "category": "BERITA",
         "sources": [
@@ -21345,7 +21300,7 @@
         }
     },
     {
-        "id": 681,
+        "id": 679,
         "title": "XING KONG",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -21374,7 +21329,7 @@
         }
     },
     {
-        "id": 682,
+        "id": 680,
         "title": "YES Network 🎯",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -21783,6 +21738,19 @@
             },
             {
                 "type": "backup",
+                "uri": "http://41.205.93.154/SYFY/index.m3u8",
+                "headers": {
+                    "Referer": "http://41.205.93.154/",
+                    "Origin": "http://41.205.93.154"
+                },
+                "drm_info": {
+                    "is_protected": false,
+                    "drm_type": "",
+                    "drm_key": ""
+                }
+            },
+            {
+                "type": "backup",
                 "uri": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
                 "headers": {
                     "Referer": "http://23.237.104.106:8080/",
@@ -21845,7 +21813,7 @@
         }
     },
     {
-        "id": 683,
+        "id": 681,
         "title": "YTV (JNUS)",
         "category": "ANAK",
         "sources": [
@@ -21874,7 +21842,7 @@
         }
     },
     {
-        "id": 684,
+        "id": 682,
         "title": "Yunnan TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -21903,7 +21871,7 @@
         }
     },
     {
-        "id": 685,
+        "id": 683,
         "title": "Z Cinema HD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
@@ -21932,7 +21900,7 @@
         }
     },
     {
-        "id": 686,
+        "id": 684,
         "title": "Z TV HD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
@@ -21961,7 +21929,7 @@
         }
     },
     {
-        "id": 687,
+        "id": 685,
         "title": "Z TV SD",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
@@ -21990,7 +21958,7 @@
         }
     },
     {
-        "id": 688,
+        "id": 686,
         "title": "Z TV ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -22019,7 +21987,7 @@
         }
     },
     {
-        "id": 689,
+        "id": 687,
         "title": "Zee Anmol Cinema",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
@@ -22048,7 +22016,7 @@
         }
     },
     {
-        "id": 690,
+        "id": 688,
         "title": "Zee Bollywood",
         "category": "DUNIA | INDIA NON SUB",
         "sources": [
@@ -22077,7 +22045,7 @@
         }
     },
     {
-        "id": 691,
+        "id": 689,
         "title": "Zee Cinema ᴴᴰ ✅",
         "category": "DUNIA | AMERIKA NON SUB",
         "sources": [
@@ -22106,7 +22074,7 @@
         }
     },
     {
-        "id": 692,
+        "id": 690,
         "title": "ZHEJIANG TV",
         "category": "DUNIA | CHINA",
         "sources": [
@@ -22148,7 +22116,7 @@
         }
     },
     {
-        "id": 693,
+        "id": 691,
         "title": "Zhejiang TV",
         "category": "DUNIA | TAIWAN ETC",
         "sources": [
@@ -22177,7 +22145,7 @@
         }
     },
     {
-        "id": 694,
+        "id": 692,
         "title": "Zoo Moo",
         "category": "ANAK",
         "sources": [
@@ -22206,7 +22174,7 @@
         }
     },
     {
-        "id": 695,
+        "id": 693,
         "title": "⚽ Chelsea vs Manchester City (ARENA 1 KROASIA)✅",
         "category": "BOLA | FA CUP",
         "sources": [
@@ -22235,7 +22203,7 @@
         }
     },
     {
-        "id": 696,
+        "id": 694,
         "title": "⚽ Chelsea vs Manchester City (FUBO SPORTS 1)✅",
         "category": "BOLA | FA CUP",
         "sources": [
@@ -22264,7 +22232,7 @@
         }
     },
     {
-        "id": 697,
+        "id": 695,
         "title": "⚽Caze TV Channel 1 - BRA 🇧🇷 ✅",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -22293,7 +22261,7 @@
         }
     },
     {
-        "id": 698,
+        "id": 696,
         "title": "⚽Caze TV Channel 2 - BRA 🇧🇷 ✅",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -22322,7 +22290,7 @@
         }
     },
     {
-        "id": 699,
+        "id": 697,
         "title": "⚽MONOMAX 8",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -22364,7 +22332,7 @@
         }
     },
     {
-        "id": 700,
+        "id": 698,
         "title": "⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -22393,7 +22361,7 @@
         }
     },
     {
-        "id": 701,
+        "id": 699,
         "title": "⚽☑ (BST) ✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22422,7 +22390,7 @@
         }
     },
     {
-        "id": 702,
+        "id": 700,
         "title": "⚽☑ (FUBO SPORTS 1)✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22451,7 +22419,7 @@
         }
     },
     {
-        "id": 703,
+        "id": 701,
         "title": "⚽☑ (FUBO SPORTS 1)✅",
         "category": "BOLA | UEFA CHAMPIONS LEAGUE",
         "sources": [
@@ -22480,7 +22448,7 @@
         }
     },
     {
-        "id": 704,
+        "id": 702,
         "title": "⚽☑ (TELEMUNDO)✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22509,7 +22477,7 @@
         }
     },
     {
-        "id": 705,
+        "id": 703,
         "title": "⚽☑ ✅(HUB PREMIER 01 FHD)",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22538,7 +22506,7 @@
         }
     },
     {
-        "id": 706,
+        "id": 704,
         "title": "⚽☑(ARENA 1 KROASIA)✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22567,36 +22535,7 @@
         }
     },
     {
-        "id": 707,
-        "title": "⚽☑(ARENA 1 SERBIA)✅",
-        "category": "BOLA | LIGA INGGRIS",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/74893.ts",
-                "headers": {
-                    "Referer": "http://ysift55.xyz:80/",
-                    "Origin": "http://ysift55.xyz:80"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "exyuarenasport1hdsr",
-            "tvg_name": "EXYU - ARENA SPORT 1 HD (SR)",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 708,
+        "id": 705,
         "title": "⚽☑(Universo)✅",
         "category": "BOLA | LIGA INGGRIS",
         "sources": [
@@ -22625,7 +22564,7 @@
         }
     },
     {
-        "id": 709,
+        "id": 706,
         "title": "✅GOLF CHANNEL (Bhs Slowakia)",
         "category": "OLAHRAGA | GOLF",
         "sources": [
@@ -22654,36 +22593,7 @@
         }
     },
     {
-        "id": 710,
-        "title": "✅SKY SPORT PREMIER LEAGUE DE",
-        "category": "BOLA | LIGA INGGRIS",
-        "sources": [
-            {
-                "type": "primary",
-                "uri": "http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts",
-                "headers": {
-                    "Referer": "http://ysift55.xyz:80/",
-                    "Origin": "http://ysift55.xyz:80"
-                },
-                "drm_info": {
-                    "is_protected": false,
-                    "drm_type": "",
-                    "drm_key": ""
-                }
-            }
-        ],
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "epg_metadata": {
-            "tvg_id": "deskysportpremierleague4k²",
-            "tvg_name": "DE - SKY SPORT PREMIER LEAGUE 4K²",
-            "tvg_logo": "https://i.imgur.com/Qdc13L4.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 711,
+        "id": 707,
         "title": "🆕 AXN 1",
         "category": "FILM",
         "sources": [
@@ -22712,7 +22622,7 @@
         }
     },
     {
-        "id": 712,
+        "id": 708,
         "title": "🆕 F1 TV US",
         "category": "OLAHRAGA POPULER 2",
         "sources": [
@@ -22741,7 +22651,7 @@
         }
     },
     {
-        "id": 713,
+        "id": 709,
         "title": "🆕 F1 TV US",
         "category": "OLAHRAGA POPULER 2",
         "sources": [
@@ -22770,7 +22680,7 @@
         }
     },
     {
-        "id": 714,
+        "id": 710,
         "title": "🆕 K-PLUS",
         "category": "DUNIA | KOREA",
         "sources": [
@@ -22799,7 +22709,7 @@
         }
     },
     {
-        "id": 715,
+        "id": 711,
         "title": "🆕 TRANS 7 HD 1️⃣",
         "category": "NASIONAL",
         "sources": [
@@ -22828,7 +22738,7 @@
         }
     },
     {
-        "id": 716,
+        "id": 712,
         "title": "🆕 UFC TV",
         "category": "OLAHRAGA | UFC",
         "sources": [
@@ -22857,7 +22767,7 @@
         }
     },
     {
-        "id": 717,
+        "id": 713,
         "title": "🆕 Warner TV",
         "category": "FILM",
         "sources": [
@@ -22886,7 +22796,7 @@
         }
     },
     {
-        "id": 718,
+        "id": 714,
         "title": "🆕AXN 1",
         "category": "GAYA HIDUP",
         "sources": [
@@ -22915,7 +22825,7 @@
         }
     },
     {
-        "id": 719,
+        "id": 715,
         "title": "🆕CCTV5+",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -22944,7 +22854,7 @@
         }
     },
     {
-        "id": 720,
+        "id": 716,
         "title": "🆕CNN Indonesia",
         "category": "NASIONAL",
         "sources": [
@@ -22973,7 +22883,7 @@
         }
     },
     {
-        "id": 721,
+        "id": 717,
         "title": "🆕CNN Indonesia",
         "category": "BERITA",
         "sources": [
@@ -23002,7 +22912,7 @@
         }
     },
     {
-        "id": 722,
+        "id": 718,
         "title": "🆕F1 TV US✅",
         "category": "OLAHRAGA | FORMULA 1",
         "sources": [
@@ -23031,7 +22941,7 @@
         }
     },
     {
-        "id": 723,
+        "id": 719,
         "title": "🆕F1 TV US✅",
         "category": "OLAHRAGA | FORMULA 1",
         "sources": [
@@ -23060,7 +22970,7 @@
         }
     },
     {
-        "id": 724,
+        "id": 720,
         "title": "🆕IDX",
         "category": "BERITA",
         "sources": [
@@ -23089,7 +22999,7 @@
         }
     },
     {
-        "id": 725,
+        "id": 721,
         "title": "🆕MD TV",
         "category": "NASIONAL",
         "sources": [
@@ -23118,7 +23028,7 @@
         }
     },
     {
-        "id": 726,
+        "id": 722,
         "title": "🆕METRO TV",
         "category": "NASIONAL",
         "sources": [
@@ -23147,7 +23057,7 @@
         }
     },
     {
-        "id": 727,
+        "id": 723,
         "title": "🆕MotoGP Channel",
         "category": "OLAHRAGA | MOTOR GP",
         "sources": [
@@ -23176,7 +23086,7 @@
         }
     },
     {
-        "id": 728,
+        "id": 724,
         "title": "🆕MotoGP Channel",
         "category": "OLAHRAGA POPULER 2",
         "sources": [
@@ -23205,7 +23115,7 @@
         }
     },
     {
-        "id": 729,
+        "id": 725,
         "title": "🆕NFL Network CA",
         "category": "NASIONAL",
         "sources": [
@@ -23234,7 +23144,7 @@
         }
     },
     {
-        "id": 730,
+        "id": 726,
         "title": "🆕SCTV (✅)",
         "category": "NASIONAL",
         "sources": [
@@ -23263,7 +23173,7 @@
         }
     },
     {
-        "id": 731,
+        "id": 727,
         "title": "🆕TVN MOVIES",
         "category": "FILM",
         "sources": [
@@ -23292,7 +23202,7 @@
         }
     },
     {
-        "id": 732,
+        "id": 728,
         "title": "🆕TVN MOVIES",
         "category": "DUNIA | KOREA",
         "sources": [
@@ -23321,7 +23231,7 @@
         }
     },
     {
-        "id": 733,
+        "id": 729,
         "title": "🆕TVRI NASIONAL",
         "category": "NASIONAL",
         "sources": [
@@ -23363,7 +23273,7 @@
         }
     },
     {
-        "id": 734,
+        "id": 730,
         "title": "🆕TVRI WORLD",
         "category": "NASIONAL",
         "sources": [
@@ -23405,7 +23315,7 @@
         }
     },
     {
-        "id": 735,
+        "id": 731,
         "title": "🆕W-SPORT",
         "category": "OLAHRAGA POPULER 2",
         "sources": [
@@ -23434,7 +23344,7 @@
         }
     },
     {
-        "id": 736,
+        "id": 732,
         "title": "🆕⚽ LIVE 0  iTV 1 (United Kingdom)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23463,7 +23373,7 @@
         }
     },
     {
-        "id": 737,
+        "id": 733,
         "title": "🆕⚽ LIVE 1  BBC 1 (UNITED KINGDOM)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23492,7 +23402,7 @@
         }
     },
     {
-        "id": 738,
+        "id": 734,
         "title": "🆕⚽ LIVE 1  CANAL 5",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23521,7 +23431,7 @@
         }
     },
     {
-        "id": 739,
+        "id": 735,
         "title": "🆕⚽ LIVE 1  RTE",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23550,7 +23460,7 @@
         }
     },
     {
-        "id": 740,
+        "id": 736,
         "title": "🆕⚽ LIVE 1  TUDN (Mexico)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23579,7 +23489,7 @@
         }
     },
     {
-        "id": 741,
+        "id": 737,
         "title": "🆕⚽ LIVE 1  TVE La 1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23608,7 +23518,7 @@
         }
     },
     {
-        "id": 742,
+        "id": 738,
         "title": "🆕⚽ LIVE 1 (Caze)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23637,7 +23547,7 @@
         }
     },
     {
-        "id": 743,
+        "id": 739,
         "title": "🆕⚽ LIVE 1 (D SPORTS 🇦🇷)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23666,7 +23576,7 @@
         }
     },
     {
-        "id": 744,
+        "id": 740,
         "title": "🆕⚽ LIVE 1 (Mono 29 Thai)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23695,7 +23605,7 @@
         }
     },
     {
-        "id": 745,
+        "id": 741,
         "title": "🆕⚽ LIVE 1 (Sport)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23724,7 +23634,7 @@
         }
     },
     {
-        "id": 746,
+        "id": 742,
         "title": "🆕⚽ LIVE 1 CTV",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23753,7 +23663,7 @@
         }
     },
     {
-        "id": 747,
+        "id": 743,
         "title": "🆕⚽ LIVE 1 SPORTV BRA 1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23782,7 +23692,7 @@
         }
     },
     {
-        "id": 748,
+        "id": 744,
         "title": "🆕⚽ LIVE 1 T Sports",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23811,7 +23721,7 @@
         }
     },
     {
-        "id": 749,
+        "id": 745,
         "title": "🆕⚽ LIVE 2 (CT SPORT 🇸🇰)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23840,7 +23750,7 @@
         }
     },
     {
-        "id": 750,
+        "id": 746,
         "title": "🆕⚽ LIVE 2 (JOJ SPORT 🇸🇰)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23869,7 +23779,7 @@
         }
     },
     {
-        "id": 751,
+        "id": 747,
         "title": "🆕⚽ LIVE 3 (CCTV5) ✅",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23898,7 +23808,7 @@
         }
     },
     {
-        "id": 752,
+        "id": 748,
         "title": "🆕⚽ LIVE 3 (TELEMUNDO)✅",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23927,7 +23837,7 @@
         }
     },
     {
-        "id": 753,
+        "id": 749,
         "title": "🆕⚽ LIVE 3 (TIPIK 1)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23956,7 +23866,7 @@
         }
     },
     {
-        "id": 754,
+        "id": 750,
         "title": "🆕⚽ LIVE2 (JOJ SPORT 2 🇸🇰)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -23985,7 +23895,7 @@
         }
     },
     {
-        "id": 755,
+        "id": 751,
         "title": "🆕⚽LIVE 1 (TVP Sports)---",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24014,7 +23924,7 @@
         }
     },
     {
-        "id": 756,
+        "id": 752,
         "title": "🆕⚽✅ LIVE 0  Fox One",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24043,7 +23953,7 @@
         }
     },
     {
-        "id": 757,
+        "id": 753,
         "title": "🆕⚽✅ LIVE 0  FS1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24072,7 +23982,7 @@
         }
     },
     {
-        "id": 758,
+        "id": 754,
         "title": "🆕⚽✅ LIVE 0  ITV 1",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24101,7 +24011,7 @@
         }
     },
     {
-        "id": 759,
+        "id": 755,
         "title": "🆕⚽✅ LIVE 0  PTV Sports (Pakistan)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24130,7 +24040,7 @@
         }
     },
     {
-        "id": 760,
+        "id": 756,
         "title": "🆕⚽✅ LIVE 0  TSN 4 🇨🇦",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24159,7 +24069,7 @@
         }
     },
     {
-        "id": 761,
+        "id": 757,
         "title": "🆕⚽✅ LIVE 0  United Sports 2",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24188,7 +24098,7 @@
         }
     },
     {
-        "id": 762,
+        "id": 758,
         "title": "🆕⚽✅ LIVE 0 (TSN 5)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24217,7 +24127,7 @@
         }
     },
     {
-        "id": 763,
+        "id": 759,
         "title": "🆕⚽✅ LIVE 0 FOX",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24246,7 +24156,7 @@
         }
     },
     {
-        "id": 764,
+        "id": 760,
         "title": "🆕⚽✅ LIVE 0 FOX",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24275,7 +24185,7 @@
         }
     },
     {
-        "id": 765,
+        "id": 761,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24304,7 +24214,7 @@
         }
     },
     {
-        "id": 766,
+        "id": 762,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina  (Fox One)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24333,7 +24243,7 @@
         }
     },
     {
-        "id": 767,
+        "id": 763,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina  (TSN4)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24362,7 +24272,7 @@
         }
     },
     {
-        "id": 768,
+        "id": 764,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina (TSN 5)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24391,7 +24301,7 @@
         }
     },
     {
-        "id": 769,
+        "id": 765,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina (TSN1 s2)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24420,7 +24330,7 @@
         }
     },
     {
-        "id": 770,
+        "id": 766,
         "title": "🆕⚽✅ LIVE 0 Inggris Vs Argentina LIVE 0 (FOX)",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24449,7 +24359,7 @@
         }
     },
     {
-        "id": 771,
+        "id": 767,
         "title": "🆕⚽✅ LIVE 0 SS",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
@@ -24478,7 +24388,7 @@
         }
     },
     {
-        "id": 772,
+        "id": 768,
         "title": "🆕⚽✅ LIVE 0 TSN1 s2",
         "category": "BOLA | PIALA DUNIA 2026",
         "sources": [
