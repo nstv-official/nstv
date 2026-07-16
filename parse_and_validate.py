@@ -5,18 +5,18 @@ import requests
 
 def check_url_status(url, user_agent, headers_dict):
     """
-    Fungsi untuk mengecek apakah URL video masih aktif atau sudah mati.
-    Menggunakan HTTP HEAD agar hemat kuota dan proses verifikasi berjalan cepat.
+    Fungsi untuk mengecek status URL.
+    Memaksa encode string ke UTF-8 (latin-1 fallback) untuk mencegah eror karakter emoji/unik.
     """
+    # Mengamankan header dengan encoding latin-1 yang dipaksa dari representasi UTF-8
     custom_headers = {
         "User-Agent": user_agent,
-        "Referer": headers_dict.get("Referer", ""),
-        "Origin": headers_dict.get("Origin", "")
+        "Referer": headers_dict.get("Referer", "").encode('utf-8').decode('latin-1'),
+        "Origin": headers_dict.get("Origin", "").encode('utf-8').decode('latin-1')
     }
     try:
-        # Melakukan HTTP HEAD request dengan timeout 3 detik demi efisiensi waktu
+        # Lakukan HTTP HEAD dengan header yang telah diamankan
         response = requests.head(url, headers=custom_headers, timeout=3, allow_redirects=True)
-        # Jika status code 200, artinya link aktif dan siap diputar
         if response.status_code == 200:
             return True
         else:
@@ -169,7 +169,7 @@ def parse_and_validate_m3u(input_text):
 # --- EKSEKUSI UTAMA (Gunakan ini jika sumber data berbentuk URL) ---
 
 # GANTI DENGAN URL M3U ANDA
-SUNDER_DATA_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026" 
+SUNDER_DATA_URL = "https://example.com" 
 
 try:
     print(f"Mengunduh data mentah dari URL: {SUNDER_DATA_URL} ...")
