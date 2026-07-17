@@ -3,196 +3,168 @@ import re
 from urllib.parse import urlparse
 import requests
 
+# URL SUMBER M3U DARI GITHUB BODYSLAM
+SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
+# OUTPUT FILE DI REPO NSTV
+OUTPUT_FILE = "system_config_v3.data"
+
+def clean_channel_name(name):
+    """
+    Membersihkan nama dari emoji, simbol, dan karakter spesial.
+    Contoh: '🆕⚽✅RCTI ✅' -> 'RCTI'
+    """
+    # 1. Hapus karakter non-alfanumerik (termasuk emoji) tapi sisakan spasi dan angka
+    clean = re.sub(r'[^\w\s]', '', name)
+    # 2. Hapus spasi berlebih dan ubah ke Uppercase
+    clean = " ".join(clean.split())
+    return clean.strip().upper()
+
 def check_url_status(url, user_agent, headers_dict):
+    """
+    Cek link aktif dengan GET Range 1 byte (Sangat Cepat & Hemat Kuota)
+    """
     custom_headers = {
         "User-Agent": user_agent,
         "Referer": headers_dict.get("Referer", ""),
         "Origin": headers_dict.get("Origin", ""),
-        "Range": "bytes=0-0"  # PENTING: Hanya minta 1 byte agar hemat kuota & cepat
+        "Range": "bytes=0-0"
     }
     try:
-        # Gunakan requests.get bukan requests.head
-        # timeout ditingkatkan sedikit ke 5 detik karena server proteksi kadang lambat merespon
+        # Gunakan stream=True agar tidak mendownload konten video
         response = requests.get(url, headers=custom_headers, timeout=5, stream=True, allow_redirects=True)
-        
-        # Status 200 (OK) atau 206 (Partial Content karena kita pakai Range) dianggap HIDUP
-        if response.status_code in [200, 206]:
-            return True
-        else:
-            # Jika tetap gagal, print statusnya untuk debugging
-            print(f"   [Gagal] Status {response.status_code} - Link ini mungkin butuh login/cookie khusus.")
-            return False
-    except Exception as e:
-        print(f"   [Error] {e}")
+        # Status 200 atau 206 (Partial Content) dianggap HIDUP
+        return response.status_code in [200, 206]
+    except:
         return False
 
+def run_automation():
+    print(f"--- MENGAMBIL DATA SUMBER DARI GITHUB ---")
+    try:
+        response = requests.get(SOURCE_URL)
+        if response.status_code != 200:
+            print(f"Gagal mengambil data. Status: {response.status_code}")
+            return
+        input_text = response.text
+    except Exception as e:
+        print(f"Error Koneksi: {e}")
+        return
 
-def parse_and_validate_m3u(input_text):
+    # Pecah blok M3U berdasarkan baris kosong atau pemisah ++++
     raw_blocks = re.split(r'\n\s*\+\s*\+\s*\+\s*\+\s*\n|\n\s*\n', input_text)
-    temporary_channels = []
-    
+    unique_channels = {}
+    channel_order = []
+
+    print(f"Memproses {len(raw_blocks)} blok data...")
+
     for block in raw_blocks:
         block = block.strip()
         if not block or "#EXTINF" not in block:
             continue
             
         lines = block.split('\n')
-        
-        license_type = ""
-        license_key = ""
-        referrer = ""
-        user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
-        tvg_id = ""
-        tvg_name = ""
-        tvg_logo = ""
-        group_title = "NASIONAL"
-        title = "Unknown Channel"
-        urls = []
+        data = {
+            "license_type": "", "license_key": "", "referrer": "",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "tvg_id": "", "tvg_logo": "", "group_title": "NASIONAL", "original_title": "Unknown", "urls": []
+        }
         
         for line in lines:
             line = line.strip()
-            if not line:
-                continue
-                
-            if "license_type" in line:
-                license_type = line.split('=')[-1].replace("org.w3.", "").strip()
-            elif "license_key" in line:
-                license_key = line.split('=')[-1].strip()
-            elif "http-referrer" in line:
-                referrer = line.split('=')[-1].strip()
-            elif "http-user-agent" in line:
-                user_agent = line.split('=')[-1].strip()
+            if not line: continue
+            if "license_type" in line: data["license_type"] = line.split('=')[-1].replace("org.w3.", "").strip()
+            elif "license_key" in line: data["license_key"] = line.split('=')[-1].strip()
+            elif "http-referrer" in line: data["referrer"] = line.split('=')[-1].strip()
+            elif "http-user-agent" in line: data["user_agent"] = line.split('=')[-1].strip()
             elif line.startswith("#EXTINF"):
-                id_match = re.search(r'tvg-id="([^"]+)"', line)
-                if id_match: tvg_id = id_match.group(1)
-                
-                name_match = re.search(r'tvg-name="([^"]*)"', line)
-                if name_match: tvg_name = name_match.group(1)
-                
-                logo_match = re.search(r'tvg-logo="([^"]+)"', line)
-                if logo_match: tvg_logo = logo_match.group(1)
-                
-                group_match = re.search(r'group-title="([^"]+)"', line)
-                if group_match: group_title = group_match.group(1)
-                
-                title = line.split(',')[-1].strip()
-                if not tvg_name: 
-                    tvg_name = title
-                    
-            elif line.startswith("http://") or line.startswith("https://"):
-                urls.append(line)
-                
-        if not urls:
-            continue
-            
-        if referrer:
-            ref_parsed = urlparse(referrer)
-            origin = f"{ref_parsed.scheme}://{ref_parsed.netloc}"
-        else:
-            prim_parsed = urlparse(urls[0])
-            referrer = f"{prim_parsed.scheme}://{prim_parsed.netloc}/"
-            origin = f"{prim_parsed.scheme}://{prim_parsed.netloc}"
-
-        print(f"Memeriksa Channel: {title}...")
+                data["tvg_id"] = (re.search(r'tvg-id="([^"]+)"', line) or re.search(r'', '')).group(1) if 'tvg-id="' in line else ""
+                data["tvg_logo"] = (re.search(r'tvg-logo="([^"]+)"', line) or re.search(r'', '')).group(1) if 'tvg-logo="' in line else ""
+                data["group_title"] = (re.search(r'group-title="([^"]+)"', line) or re.search(r'', '')).group(1) if 'group-title="' in line else "NASIONAL"
+                data["original_title"] = line.split(',')[-1].strip()
+            elif line.startswith("http"):
+                data["urls"].append(line)
         
-        # Proses penyaringan URL yang AKTIF saja
-        active_sources = []
-        for url in urls:
-            # Siapkan header sementara khusus untuk testing domain ini
-            url_parsed = urlparse(url)
-            test_headers = {
-                "Referer": referrer if url == urls[0] else f"{url_parsed.scheme}://{url_parsed.netloc}/",
-                "Origin": origin if url == urls[0] else f"{url_parsed.scheme}://{url_parsed.netloc}"
-            }
-            
-            # Lakukan Validasi Ping HTTP
-            if check_url_status(url, user_agent, test_headers):
-                active_sources.append((url, test_headers))
+        if not data["urls"]: continue
 
-        # Jika TIDAK ADA SATUPUN URL yang aktif dari channel ini, buang channel dari playlist
-        if not active_sources:
-            print(f" -> [DILEWATI] Channel '{title}' dihapus karena semua link mati.\n")
-            continue
+        # --- LOGIKA SMART NAME & MERGE ---
+        clean_name = clean_channel_name(data["original_title"])
+        
+        # Penentuan Header Dasar
+        prim_url = data["urls"][0]
+        parsed_uri = urlparse(prim_url)
+        if not data["referrer"]:
+            data["referrer"] = f"{parsed_uri.scheme}://{parsed_uri.netloc}/"
+        origin = f"{parsed_uri.scheme}://{parsed_uri.netloc}"
 
-                # Susun ulang sources berdasarkan URL yang selamat/aktif
-        sources_structure = []
-        for idx, (url, hdrs) in enumerate(active_sources):
-            is_primary = (idx == 0)
-            
-            # Selama ada license_key di blok M3U ini, pasang ke semua source aktif
-            drm_active = True if license_key else False
-            current_key = license_key if license_key else ""
-            current_type = "clearkey" if "clearkey" in license_type.lower() else license_type
+        # Validasi Keaktifan Link Utama
+        test_headers = {"Referer": data["referrer"], "Origin": origin}
+        is_active = check_url_status(prim_url, data["user_agent"], test_headers)
+        
+        # Susun Metadata DRM
+        drm_payload = {
+            "is_protected": True if data["license_key"] else False,
+            "drm_type": "clearkey" if "clearkey" in data["license_type"].lower() else data["license_type"],
+            "drm_key": data["license_key"]
+        }
 
-            sources_structure.append({
-                "type": "primary" if is_primary else "backup",
-                "uri": url,
-                "headers": hdrs,
-                "drm_info": {
-                    "is_protected": drm_active,
-                    "drm_type": current_type,
-                    "drm_key": current_key
-                }
+        # Susun List Sources
+        sources_list = []
+        for idx, u in enumerate(data["urls"]):
+            u_parsed = urlparse(u)
+            sources_list.append({
+                "type": "primary" if idx == 0 else "backup",
+                "uri": u,
+                "headers": {
+                    "User-Agent": data["user_agent"],
+                    "Referer": data["referrer"] if idx == 0 else f"{u_parsed.scheme}://{u_parsed.netloc}/",
+                    "Origin": origin if idx == 0 else f"{u_parsed.scheme}://{u_parsed.netloc}"
+                },
+                "drm_info": drm_payload
             })
 
-        temporary_channels.append({
-            "title": title,
-            "category": group_title,
-            "sources": sources_structure,
-            "user_agent": user_agent,
+        channel_payload = {
+            "title": clean_name,
+            "category": data["group_title"],
+            "sources": sources_list,
+            "user_agent": data["user_agent"],
             "is_live": True,
-            "match_id": "",
+            "is_active": is_active, # Untuk seleksi internal
             "epg_metadata": {
-                "tvg_id": tvg_id,
-                "tvg_name": tvg_name,
-                "tvg_logo": tvg_logo,
+                "tvg_id": data["tvg_id"],
+                "tvg_name": clean_name,
+                "tvg_logo": data["tvg_logo"],
                 "source_xml": "Embedded"
             }
-        })
-        print(f" -> [OK] {len(active_sources)} Link aktif dimasukkan.\n")
-    
-    # PROSES SORTING ALFABETIS A-Z
-    temporary_channels.sort(key=lambda x: x["title"].lower())
-    
-    # PENOMORAN ID ULANG SECARA BERURUTAN
-    playlist_json = []
-    for index, channel in enumerate(temporary_channels, start=1):
-        channel_ordered = {"id": index}
-        channel_ordered.update(channel)
-        playlist_json.append(channel_ordered)
+        }
+
+        # --- LOGIKA REPLACE JIKA AKTIF ---
+        if clean_name in unique_channels:
+            # Jika sudah ada, tapi yang lama mati dan yang baru ini aktif, TIMPA!
+            if not unique_channels[clean_name]["is_active"] and is_active:
+                unique_channels[clean_name] = channel_payload
+        else:
+            # Jika channel baru, tambahkan ke daftar dan catat urutannya
+            unique_channels[clean_name] = channel_payload
+            channel_order.append(clean_name)
+
+    # --- PENYUSUNAN JSON AKHIR ---
+    final_playlist = []
+    for idx, name in enumerate(channel_order, start=1):
+        ch_data = unique_channels[name]
+        # Hapus flag internal agar JSON bersih
+        if "is_active" in ch_data: del ch_data["is_active"]
         
-    return playlist_json
-
-# --- EKSEKUSI UTAMA (Gunakan ini jika sumber data berbentuk URL) ---
-
-# GANTI DENGAN URL M3U ANDA
-SUNDER_DATA_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026" 
-
-try:
-    print(f"Mengunduh data mentah dari URL: {SUNDER_DATA_URL} ...")
-    
-    # Ambil data dari URL dengan timeout 10 detik
-    headers_download = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
-    }
-    response = requests.get(SUNDER_DATA_URL, headers=headers_download, timeout=10)
-    
-    if response.status_code == 200:
-        m3u_content = response.text
-        print("Unduhan berhasil! Memulai proses validasi...")
+        # Tambahkan ID berurutan
+        ordered_entry = {"id": idx}
+        ordered_entry.update(ch_data)
+        final_playlist.append(ordered_entry)
         
-        print("\n--- MEMULAI PROSES PARSING & VALIDASI LIVE URL ---")
-        hasil_json = parse_and_validate_m3u(m3u_content)
+    # Bungkus dalam format NSTV (Object dengan key "channels")
+    final_response = {"channels": final_playlist}
 
-        # Simpan langsung ke file samaran Anda
-        with open("system_config_v3.data", "w", encoding="utf-8") as f:
-            json.dump(hasil_json, f, indent=4, ensure_ascii=False)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(final_response, f, indent=4, ensure_ascii=False)
+    
+    print(f"\nSELESAI! Berhasil mengupdate {OUTPUT_FILE} dengan {len(final_playlist)} channel.")
 
-        print("--------------------------------------------------")
-        print(f"SELESAI! Berhasil mengamankan {len(hasil_json)} Channel aktif ke 'system_config_v3.data'.\n")
-    else:
-        print(f"Gagal mengunduh data mentah. Server merespons dengan status: {response.status_code}")
-
-except requests.RequestException as e:
-    print(f"Gagal menyambung ke server sumber data. Error: {e}")
-
+if __name__ == "__main__":
+    run_automation()
