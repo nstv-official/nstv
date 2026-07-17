@@ -2,7 +2,7 @@ name: Auto Update Playlist NSTV
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Jalan otomatis tiap 6 jam
+    - cron: '0 */48 * * *' # Jalan otomatis tiap 2 Hari
   workflow_dispatch:      # Bisa diklik manual
 
 jobs:
