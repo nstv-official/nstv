@@ -218,35 +218,6 @@
             }
         },
         {
-            "id": 8,
-            "title": "HBO",
-            "category": "NASIONAL",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://visionplus.id",
-                        "Origin": "https://cempedak-live-cdn.mncnow.id"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "com.widevine.alpha",
-                        "drm_key": "MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh"
-                    }
-                }
-            ],
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "HBO",
-                "tvg_logo": "",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 9,
             "title": "INDOSIAR",
             "category": "NASIONAL",
@@ -732,7 +703,7 @@
             "epg_metadata": {
                 "tvg_id": "",
                 "tvg_name": "NFL NETWORK CA",
-                "tvg_logo": "",
+                "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/330px-National_Football_League_logo.svg.png?_=20260624000404",
                 "source_xml": "Embedded"
             }
         },
@@ -3646,7 +3617,7 @@
             "epg_metadata": {
                 "tvg_id": " tvg-url=",
                 "tvg_name": "MADU TV",
-                "tvg_logo": "",
+                "tvg_logo": "https://i.imgur.com/7ay0SsG.jpeg",
                 "source_xml": "Embedded"
             }
         },
@@ -10652,35 +10623,6 @@
             }
         },
         {
-            "id": 334,
-            "title": "ANEKA BRUNEI",
-            "category": "DUNIA | BRUNEI (❌UNDER MAINTENANCE)",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://d1211whpimeups.cloudfront.net/",
-                        "Origin": "https://d1211whpimeups.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "ANEKA BRUNEI",
-                "tvg_logo": "https://i.imgur.com/UtlBqwd.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 335,
             "title": "ANHUI TV",
             "category": "DUNIA | CHINA",
@@ -14620,64 +14562,6 @@
             }
         },
         {
-            "id": 452,
-            "title": "DENS KNOWLEDGE",
-            "category": "GAYA HIDUP",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge",
-                    "headers": {
-                        "User-Agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                        "Referer": "https://delta.dens.tv/",
-                        "Origin": "https://op-group1-swiftservehd-1.dens.tv"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "user_agent": "DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "Dens.Knowledge.id",
-                "tvg_name": "DENS KNOWLEDGE",
-                "tvg_logo": "-",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 453,
-            "title": "DENS LEARNING KNOWLEDGE",
-            "category": "PENGETAHUAN",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-                        "Referer": "https://www.dens.tv/",
-                        "Origin": "https://op-group1-swiftservehd-1.dens.tv"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": " tvg-url=",
-                "tvg_name": "DENS LEARNING KNOWLEDGE",
-                "tvg_logo": " https://i.imgur.com/eTS7oLc.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 454,
             "title": "DENS LIFESTYLE",
             "category": "GAYA HIDUP",
@@ -14731,7 +14615,7 @@
             "epg_metadata": {
                 "tvg_id": "Dens Life & Style",
                 "tvg_name": "DENS PLAY",
-                "tvg_logo": "-",
+                "tvg_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTIvuUSGUnfRZOygZf1axc-hFdVEzD6e5V-9Lnzx0kA&s",
                 "source_xml": "Embedded"
             }
         },
@@ -16273,35 +16157,6 @@
                 "tvg_id": "GMS.id",
                 "tvg_name": "GMS KRISTEN",
                 "tvg_logo": "https://mimipipi22.github.io/logo/religion/gmstv.jpg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 499,
-            "title": "GO LIVE BRUNEI",
-            "category": "DUNIA | BRUNEI (❌UNDER MAINTENANCE)",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://d1211whpimeups.cloudfront.net/",
-                        "Origin": "https://d1211whpimeups.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "GO LIVE BRUNEI",
-                "tvg_logo": "https://i.imgur.com/UtlBqwd.png",
                 "source_xml": "Embedded"
             }
         },
@@ -22752,7 +22607,7 @@
             "epg_metadata": {
                 "tvg_id": "National Geographic Channel HD - [Channel 460].id",
                 "tvg_name": "OUTDOOR CHANNEL",
-                "tvg_logo": " https://i.imgur.com/nhU4IwA.jpeg",
+                "tvg_logo": "https://icon2.cleanpng.com/20180402/ifq/kisspng-outdoor-channel-television-show-sportsman-channel-outdoor-5ac25c325cede0.7754068315226870263807.jpg",
                 "source_xml": "Embedded"
             }
         },
@@ -23447,35 +23302,6 @@
                 "tvg_id": "",
                 "tvg_name": "ROLL",
                 "tvg_logo": "https://i.imgur.com/O1RVjqG.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 729,
-            "title": "RTB BRUNEI",
-            "category": "DUNIA | BRUNEI (❌UNDER MAINTENANCE)",
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://d1211whpimeups.cloudfront.net/",
-                        "Origin": "https://d1211whpimeups.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "RTB BRUNEI",
-                "tvg_logo": "https://i.imgur.com/UtlBqwd.png",
                 "source_xml": "Embedded"
             }
         },
