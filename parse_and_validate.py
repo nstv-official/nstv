@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 import requests
 
 SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
-OUTPUT_FILE = "system_config_v3.data"
+OUTPUT_FILE = ".system_config_v1.data"
 
 # URUTAN KATEGORI
 CATEGORY_ORDER = ["NASIONAL", "OLAHRAGA", "HBO", "FILM", "KIDS", "NEWS", "DOCUMENTARY", "HIBURAN", "DAERAH"]
@@ -12,9 +12,9 @@ CATEGORY_ORDER = ["NASIONAL", "OLAHRAGA", "HBO", "FILM", "KIDS", "NEWS", "DOCUME
 # DAFTAR KATA TERLARANG (Sangat Aman)
 BANNED_KEYWORDS = [
     "ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A",
-    "INDIA NON SUB", "MAGELIFE INFORMATION", "MUSIC", "WORLD TV",
-    "TAIWAN ETC", "SINGAPORE", "JEPANG NON SUB", "CHINA NON SUB",
-    "BRUNEI", "MALAYSIA", "AMERICA NON SUB"
+    "DUNIA INDIA NON SUB", "MAGELIFE INFORMATION", "MUSIC", "WORLD TV",
+    "DUNIA TAIWAN ETC", "DUNIA SINGAPORE", "DUNIA THAILAND NON SUB", "DUNIA JEPANG NON SUB", "DUNIA CHINA NON SUB",
+    "DUNIA BRUNEI", "MALAYSIA", "DUNIA AMERICA NON SUB"
 ]
 
 def clean_channel_name(name):
