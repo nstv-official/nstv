@@ -253,7 +253,7 @@
             },
             "drm_info": {
                 "is_protected": true,
-                "drm_type": "clearkey",
+                "drm_type": "org.w3.clearkey",
                 "drm_key": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0"
             },
             "sources": [
