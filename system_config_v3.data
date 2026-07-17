@@ -645,7 +645,7 @@
             "epg_metadata": {
                 "tvg_id": "",
                 "tvg_name": "MNCTV R 2",
-                "tvg_logo": "",
+                "tvg_logo": "https://i.imgur.com/JXLOOxS.jpeg",
                 "source_xml": "Embedded"
             }
         },
@@ -703,7 +703,7 @@
             "epg_metadata": {
                 "tvg_id": "",
                 "tvg_name": "NFL NETWORK CA",
-                "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/330px-National_Football_League_logo.svg.png?_=20260624000404",
+                "tvg_logo": "https://en.wikipedia.org/wiki/National_Football_League#/media/File:National_Football_League_logo.svg",
                 "source_xml": "Embedded"
             }
         },
