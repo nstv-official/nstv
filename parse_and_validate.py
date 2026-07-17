@@ -3,7 +3,7 @@ import re
 from urllib.parse import urlparse
 import requests
 
-SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
+SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS04AGUSTUS2026"
 OUTPUT_FILE = ".system_config_v1.data"
 
 # URUTAN KATEGORI
@@ -51,7 +51,7 @@ def check_url_status(url, user_agent, headers_dict):
         return False
 
 def run_automation():
-    print(f"--- MEMULAI PARSING ULTA TELITI ---")
+    print(f"--- MEMULAI PARSING ULTRA TELITI ---")
     try:
         response = requests.get(SOURCE_URL)
         if response.status_code != 200: return
