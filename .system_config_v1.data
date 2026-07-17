@@ -1,46 +1,6 @@
 {
     "channels": [
         {
-            "id": 1,
-            "title": "",
-            "category": "NASIONAL",
-            "uri": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "\"DUNIA | JEPANG NON SUB\",CGNTV Japan (1080p) (🆕✅)",
-                "Origin": "https://d2p4mrcwl6ly4.cloudfront.net"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "\"DUNIA | JEPANG NON SUB\",CGNTV Japan (1080p) (🆕✅)",
-                        "Origin": "https://d2p4mrcwl6ly4.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "",
-                "tvg_logo": "",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 2,
             "title": "ANTV AG",
             "category": "NASIONAL",
