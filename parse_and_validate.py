@@ -7,7 +7,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/
 OUTPUT_FILE = "system_config_v3.data"
 
 CATEGORY_ORDER = ["NASIONAL", "OLAHRAGA", "NEWS", "FILM", "KIDS", "DOCUMENTARY", "HIBURAN", "DAERAH"]
-BANNED_KEYWORDS = ["ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A"]
+BANNED_KEYWORDS = ["ORDER", "ORDER DISINI", "DUNIA | INDIA NON SUB", "MAGELIFE INFORMATION", "MUSIC", "WORLD TV", "DUNIA | TAIWAN ETC", "DUNIA | SINGAPORE", "DUNIA | JEPANG NON SUB", "DUNIA | CHINA NON SUB", "DUNIA | BRUNEI", "DUNIA| MALAYSIA", "DUNIA | AMERICA NON SUB, "PESAN DI", "BELI", "W.A"]
 
 def clean_channel_name(name):
     # Hapus emoji dan simbol (Termasuk kurung dan tanda centang)
