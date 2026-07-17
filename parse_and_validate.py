@@ -13,13 +13,13 @@ OUTPUT_FILE = "system_config_v3.data"
 # Kategori yang tidak terdaftar akan muncul di paling bawah (setelah yang terdaftar).
 CATEGORY_ORDER = [
     "NASIONAL",
-    "OLAHRAGA",
-    "NEWS",
     "FILM",
     "KIDS",
-    "DOCUMENTARY",
+    "OLAHRAGA",
     "HIBURAN",
     "DAERAH"
+    "NEWS",
+    "DOCUMENTARY",
 ]
 
 def clean_channel_name(name):
