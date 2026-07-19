@@ -6,7 +6,7 @@ import requests
 # URL SUMBER M3U DARI GITHUB BODYSLAM
 SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
 # OUTPUT FILE DI REPO NSTV
-OUTPUT_FILE = ".system_config_v1.data"
+OUTPUT_FILE = ".system_config_v1.dt"
 
 # --- ATUR URUTAN KATEGORI DI SINI ---
 CATEGORY_ORDER = ["NASIONAL", "FILM", "HBO"]
