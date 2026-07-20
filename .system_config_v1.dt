@@ -336,46 +336,6 @@
         },
         {
             "id": 9,
-            "title": "IDX",
-            "category": "NASIONAL",
-            "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
-            "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-            "headers": {
-                "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                "Referer": "https://www.indihometv.com/",
-                "Origin": "https://d2xx73ro32cip.cloudfront.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
-                    "headers": {
-                        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                        "Referer": "https://www.indihometv.com/",
-                        "Origin": "https://d2xx73ro32cip.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "IDX HD - [Channel 134].id",
-                "tvg_name": "IDX",
-                "tvg_logo": "https://i.imgur.com/oZl4oNH.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 10,
             "title": "INDOSIAR",
             "category": "NASIONAL",
             "uri": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
@@ -415,7 +375,7 @@
             }
         },
         {
-            "id": 11,
+            "id": 10,
             "title": "INDOSIAR 0167",
             "category": "NASIONAL",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd",
@@ -455,7 +415,7 @@
             }
         },
         {
-            "id": 12,
+            "id": 11,
             "title": "INDOSIAR BOLA 0",
             "category": "NASIONAL",
             "uri": "http://103.148.44.38:8000/play/a05c/index.m3u8",
@@ -523,7 +483,7 @@
             }
         },
         {
-            "id": 13,
+            "id": 12,
             "title": "KOMPAS TV 1",
             "category": "NASIONAL",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd",
@@ -619,7 +579,7 @@
             }
         },
         {
-            "id": 14,
+            "id": 13,
             "title": "MAGNA CHANNEL 2",
             "category": "NASIONAL",
             "uri": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
@@ -659,7 +619,7 @@
             }
         },
         {
-            "id": 15,
+            "id": 14,
             "title": "MAGNA TV 1",
             "category": "NASIONAL",
             "uri": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
@@ -699,7 +659,7 @@
             }
         },
         {
-            "id": 16,
+            "id": 15,
             "title": "MD TV",
             "category": "NASIONAL",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
@@ -739,7 +699,7 @@
             }
         },
         {
-            "id": 17,
+            "id": 16,
             "title": "MENTARI TV",
             "category": "NASIONAL",
             "uri": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237",
@@ -779,7 +739,7 @@
             }
         },
         {
-            "id": 18,
+            "id": 17,
             "title": "METRO TV",
             "category": "NASIONAL",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8",
@@ -819,7 +779,7 @@
             }
         },
         {
-            "id": 19,
+            "id": 18,
             "title": "MJI",
             "category": "NASIONAL",
             "uri": "http://opplextv.cyou:8080/nasir6160/nasir/350997",
@@ -859,7 +819,7 @@
             }
         },
         {
-            "id": 20,
+            "id": 19,
             "title": "MNCTV",
             "category": "NASIONAL",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
@@ -899,7 +859,7 @@
             }
         },
         {
-            "id": 21,
+            "id": 20,
             "title": "MNCTV R 2",
             "category": "NASIONAL",
             "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
@@ -939,7 +899,7 @@
             }
         },
         {
-            "id": 22,
+            "id": 21,
             "title": "MOJI",
             "category": "NASIONAL",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8",
@@ -979,7 +939,7 @@
             }
         },
         {
-            "id": 23,
+            "id": 22,
             "title": "NUSANTARA TV1",
             "category": "NASIONAL",
             "uri": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
@@ -1019,7 +979,7 @@
             }
         },
         {
-            "id": 24,
+            "id": 23,
             "title": "RCTI",
             "category": "NASIONAL",
             "uri": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti",
@@ -1073,7 +1033,7 @@
             }
         },
         {
-            "id": 25,
+            "id": 24,
             "title": "RTV1",
             "category": "NASIONAL",
             "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
@@ -1113,34 +1073,34 @@
             }
         },
         {
-            "id": 26,
+            "id": 25,
             "title": "SCTV",
             "category": "NASIONAL",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
+                "Referer": "https://m.vidio.com/",
                 "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
             },
             "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
+                "is_protected": true,
+                "drm_type": "com.widevine.alpha",
+                "drm_key": "drm"
             },
             "sources": [
                 {
                     "type": "primary",
                     "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd",
                     "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+                        "User-Agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
+                        "Referer": "https://m.vidio.com/",
                         "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
                     },
                     "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
+                        "is_protected": true,
+                        "drm_type": "com.widevine.alpha",
+                        "drm_key": "drm"
                     }
                 }
             ],
@@ -1153,7 +1113,87 @@
             }
         },
         {
+            "id": 26,
+            "title": "SCTV 167D",
+            "category": "NASIONAL",
+            "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://cdnbal1.indihometv.com/",
+                "Origin": "https://cdnbal1.indihometv.com"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://cdnbal1.indihometv.com/",
+                        "Origin": "https://cdnbal1.indihometv.com"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "SCTV.id",
+                "tvg_name": "SCTV 167D",
+                "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
             "id": 27,
+            "title": "SCTV 167V",
+            "category": "NASIONAL",
+            "uri": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://www.dens.tv/",
+                "Origin": "https://tvratu.my.id"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                        "Referer": "https://www.dens.tv/",
+                        "Origin": "https://tvratu.my.id"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "SCTV.id",
+                "tvg_name": "SCTV 167V",
+                "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 28,
             "title": "TRANS 7 HD 1 167",
             "category": "NASIONAL",
             "uri": "https://bit.ly/trams7m3u",
@@ -1193,7 +1233,7 @@
             }
         },
         {
-            "id": 28,
+            "id": 29,
             "title": "TRANS 7 HD 2 167",
             "category": "NASIONAL",
             "uri": "http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8",
@@ -1233,7 +1273,7 @@
             }
         },
         {
-            "id": 29,
+            "id": 30,
             "title": "TRANS TV2 167",
             "category": "NASIONAL",
             "uri": "https://bit.ly/transtvm3u8",
@@ -1273,7 +1313,7 @@
             }
         },
         {
-            "id": 30,
+            "id": 31,
             "title": "TRANS7 HD 0 167",
             "category": "NASIONAL",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
@@ -1313,7 +1353,7 @@
             }
         },
         {
-            "id": 31,
+            "id": 32,
             "title": "TRANSTV HD",
             "category": "NASIONAL",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd",
@@ -1353,7 +1393,7 @@
             }
         },
         {
-            "id": 32,
+            "id": 33,
             "title": "TVONE MX",
             "category": "NASIONAL",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd",
@@ -1393,7 +1433,7 @@
             }
         },
         {
-            "id": 33,
+            "id": 34,
             "title": "TVRI NASIONAL",
             "category": "NASIONAL",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
@@ -1447,7 +1487,7 @@
             }
         },
         {
-            "id": 34,
+            "id": 35,
             "title": "TVRI SPORT 1",
             "category": "NASIONAL",
             "uri": "http://103.148.44.38:8000/play/a05u/index.m3u8",
@@ -1501,7 +1541,7 @@
             }
         },
         {
-            "id": 35,
+            "id": 36,
             "title": "TVRI WORLD",
             "category": "NASIONAL",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
@@ -1555,7 +1595,7 @@
             }
         },
         {
-            "id": 36,
+            "id": 37,
             "title": "AXN 1",
             "category": "FILM",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd",
@@ -1595,7 +1635,7 @@
             }
         },
         {
-            "id": 37,
+            "id": 38,
             "title": "BIOSKOP INDONESIA 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/31/31.m3u8",
@@ -1635,7 +1675,7 @@
             }
         },
         {
-            "id": 38,
+            "id": 39,
             "title": "BUDDY STAR",
             "category": "FILM",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd",
@@ -1675,7 +1715,7 @@
             }
         },
         {
-            "id": 39,
+            "id": 40,
             "title": "CELESTIAL CLASSIC",
             "category": "FILM",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd",
@@ -1715,7 +1755,7 @@
             }
         },
         {
-            "id": 40,
+            "id": 41,
             "title": "CELESTIAL MOVIES 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/68/68.m3u8",
@@ -1755,7 +1795,7 @@
             }
         },
         {
-            "id": 41,
+            "id": 42,
             "title": "CHINESE DRAMA 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/92/92.m3u8",
@@ -1795,7 +1835,7 @@
             }
         },
         {
-            "id": 42,
+            "id": 43,
             "title": "CINEEDGE",
             "category": "FILM",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd",
@@ -1835,7 +1875,7 @@
             }
         },
         {
-            "id": 43,
+            "id": 44,
             "title": "CRIME INVESTIGATION 167",
             "category": "FILM",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd",
@@ -1875,7 +1915,7 @@
             }
         },
         {
-            "id": 44,
+            "id": 45,
             "title": "GALAXY 167",
             "category": "FILM",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd",
@@ -1915,7 +1955,7 @@
             }
         },
         {
-            "id": 45,
+            "id": 46,
             "title": "GALAXY PREMIUM 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/40/40.m3u8",
@@ -1955,7 +1995,7 @@
             }
         },
         {
-            "id": 46,
+            "id": 47,
             "title": "HITS HD",
             "category": "FILM",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd",
@@ -1995,7 +2035,7 @@
             }
         },
         {
-            "id": 47,
+            "id": 48,
             "title": "HITS MOVIES",
             "category": "FILM",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd",
@@ -2035,7 +2075,7 @@
             }
         },
         {
-            "id": 48,
+            "id": 49,
             "title": "HITS NOW",
             "category": "FILM",
             "uri": "https://ayo.maling.pl/Vision/index.mpd?id=68",
@@ -2075,7 +2115,7 @@
             }
         },
         {
-            "id": 49,
+            "id": 50,
             "title": "IMC 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/34/34.m3u8",
@@ -2115,7 +2155,7 @@
             }
         },
         {
-            "id": 50,
+            "id": 51,
             "title": "INDONESIA MOVIE CHANNEL 167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/34/34.m3u8",
@@ -2155,7 +2195,7 @@
             }
         },
         {
-            "id": 51,
+            "id": 52,
             "title": "KIX 167",
             "category": "FILM",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd",
@@ -2195,7 +2235,7 @@
             }
         },
         {
-            "id": 52,
+            "id": 53,
             "title": "KIX 2167",
             "category": "FILM",
             "uri": "http://157.15.187.3:25092/hls/38/38.m3u8",
@@ -2235,7 +2275,7 @@
             }
         },
         {
-            "id": 53,
+            "id": 54,
             "title": "MAXEATS",
             "category": "FILM",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd",
@@ -2289,7 +2329,7 @@
             }
         },
         {
-            "id": 54,
+            "id": 55,
             "title": "MAXREELS",
             "category": "FILM",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd",
@@ -2343,7 +2383,7 @@
             }
         },
         {
-            "id": 55,
+            "id": 56,
             "title": "MY CINEMA EUROPE",
             "category": "FILM",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD",
@@ -2383,7 +2423,7 @@
             }
         },
         {
-            "id": 56,
+            "id": 57,
             "title": "ORIGINALS",
             "category": "FILM",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
@@ -2423,7 +2463,7 @@
             }
         },
         {
-            "id": 57,
+            "id": 58,
             "title": "ROCK ACTION 167",
             "category": "FILM",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd",
@@ -2463,7 +2503,7 @@
             }
         },
         {
-            "id": 58,
+            "id": 59,
             "title": "ROCK ACTION167",
             "category": "FILM",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd",
@@ -2503,7 +2543,7 @@
             }
         },
         {
-            "id": 59,
+            "id": 60,
             "title": "ROCK ENTERTAINMENT",
             "category": "FILM",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd",
@@ -2543,7 +2583,7 @@
             }
         },
         {
-            "id": 60,
+            "id": 61,
             "title": "STUDIO UNIVERSAL",
             "category": "FILM",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd",
@@ -2583,7 +2623,7 @@
             }
         },
         {
-            "id": 61,
+            "id": 62,
             "title": "SUPERRIX",
             "category": "FILM",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd",
@@ -2619,46 +2659,6 @@
                 "tvg_id": "17",
                 "tvg_name": "SUPERRIX",
                 "tvg_logo": "https://i.imgur.com/kSNGK5D.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 62,
-            "title": "THRILL",
-            "category": "FILM",
-            "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
-            "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-            "headers": {
-                "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                "Referer": "https://www.indihometv.com/",
-                "Origin": "https://d2tjypxxy769fn.cloudfront.net"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
-                    "headers": {
-                        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                        "Referer": "https://www.indihometv.com/",
-                        "Origin": "https://d2tjypxxy769fn.cloudfront.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "THRILL",
-                "tvg_logo": "https://i.imgur.com/YxDN47W.jpeg",
                 "source_xml": "Embedded"
             }
         },
@@ -22698,6 +22698,46 @@
         },
         {
             "id": 553,
+            "title": "IDX",
+            "category": "BERITA",
+            "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
+            "user_agent": "VidioPlayer/4.3.0-WITH_ADS",
+            "headers": {
+                "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
+                "Referer": "https://www.visionplus.id/",
+                "Origin": "https://d2xx73ro32cip.cloudfront.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
+                    "headers": {
+                        "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
+                        "Referer": "https://www.visionplus.id/",
+                        "Origin": "https://d2xx73ro32cip.cloudfront.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "IDX HD - [Channel 134].id",
+                "tvg_name": "IDX",
+                "tvg_logo": "https://i.imgur.com/5iu6wvo.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 554,
             "title": "INDONESIANA TV",
             "category": "PENGETAHUAN",
             "uri": "https://tvstreamcast.com/indonesiana.m3u8",
@@ -22737,7 +22777,7 @@
             }
         },
         {
-            "id": 554,
+            "id": 555,
             "title": "INTER TV",
             "category": "BOLA | SERIE A",
             "uri": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8",
@@ -22777,7 +22817,7 @@
             }
         },
         {
-            "id": 555,
+            "id": 556,
             "title": "JACKIE CHAN MOVIES",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub",
@@ -22817,7 +22857,7 @@
             }
         },
         {
-            "id": 556,
+            "id": 557,
             "title": "JAKTV",
             "category": "DAERAH",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd",
@@ -22871,7 +22911,7 @@
             }
         },
         {
-            "id": 557,
+            "id": 558,
             "title": "JAMES BOND 007",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd",
@@ -22911,7 +22951,7 @@
             }
         },
         {
-            "id": 558,
+            "id": 559,
             "title": "JIANGSU TV",
             "category": "DUNIA | CHINA",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd",
@@ -22993,7 +23033,7 @@
             }
         },
         {
-            "id": 559,
+            "id": 560,
             "title": "JIANGXI TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub",
@@ -23033,7 +23073,7 @@
             }
         },
         {
-            "id": 560,
+            "id": 561,
             "title": "JILIN TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub",
@@ -23073,7 +23113,7 @@
             }
         },
         {
-            "id": 561,
+            "id": 562,
             "title": "JOAXDTV",
             "category": "DUNIA | JEPANG NON SUB",
             "uri": "https://ntv5.mov3.co/hls/ntv.m3u8",
@@ -23113,7 +23153,7 @@
             }
         },
         {
-            "id": 562,
+            "id": 563,
             "title": "JOCXDTV",
             "category": "DUNIA | JEPANG NON SUB",
             "uri": "https://fujitv4.mov3.co/hls/fujitv.m3u8",
@@ -23153,7 +23193,7 @@
             }
         },
         {
-            "id": 563,
+            "id": 564,
             "title": "JOEXDTV 540P",
             "category": "DUNIA | JEPANG NON SUB",
             "uri": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
@@ -23193,7 +23233,7 @@
             }
         },
         {
-            "id": 564,
+            "id": 565,
             "title": "JOWO TV",
             "category": "DAERAH",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8",
@@ -23233,7 +23273,7 @@
             }
         },
         {
-            "id": 565,
+            "id": 566,
             "title": "JR",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
@@ -23273,7 +23313,7 @@
             }
         },
         {
-            "id": 566,
+            "id": 567,
             "title": "JTV",
             "category": "DAERAH",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd",
@@ -23327,7 +23367,7 @@
             }
         },
         {
-            "id": 567,
+            "id": 568,
             "title": "KBS WORLD",
             "category": "DUNIA | KOREA NON SUB",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd",
@@ -23381,7 +23421,7 @@
             }
         },
         {
-            "id": 568,
+            "id": 569,
             "title": "KILISUCI TV KEDIRI",
             "category": "DAERAH",
             "uri": "https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8",
@@ -23421,7 +23461,7 @@
             }
         },
         {
-            "id": 569,
+            "id": 570,
             "title": "KPLUS",
             "category": "DUNIA | KOREA",
             "uri": "http://ogietv.biz.id:80/aqin/aqin168/301.ts",
@@ -23461,7 +23501,7 @@
             }
         },
         {
-            "id": 570,
+            "id": 571,
             "title": "LALIGA",
             "category": "BOLA | LALIGA",
             "uri": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
@@ -23501,7 +23541,7 @@
             }
         },
         {
-            "id": 571,
+            "id": 572,
             "title": "LAWAK SENTRAL",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd",
@@ -23541,7 +23581,7 @@
             }
         },
         {
-            "id": 572,
+            "id": 573,
             "title": "LEAD",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
@@ -23581,7 +23621,7 @@
             }
         },
         {
-            "id": 573,
+            "id": 574,
             "title": "LG 1",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957",
@@ -23621,7 +23661,7 @@
             }
         },
         {
-            "id": 574,
+            "id": 575,
             "title": "LG 1 FILM",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465",
@@ -23661,7 +23701,7 @@
             }
         },
         {
-            "id": 575,
+            "id": 576,
             "title": "LG 1 SPOTLIGHT",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959",
@@ -23701,7 +23741,7 @@
             }
         },
         {
-            "id": 576,
+            "id": 577,
             "title": "LIFETIME",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://41.205.93.154/LIFETIME/index.m3u8",
@@ -23741,7 +23781,7 @@
             }
         },
         {
-            "id": 577,
+            "id": 578,
             "title": "LIFETIME MOVIE NETWORK",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
@@ -23781,7 +23821,7 @@
             }
         },
         {
-            "id": 578,
+            "id": 579,
             "title": "LIVE",
             "category": "BOLA | ASEAN U19 CHAMPIONSHIP 2026",
             "uri": "http://103.148.44.38:8000/play/a05c/index.m3u8",
@@ -23849,7 +23889,7 @@
             }
         },
         {
-            "id": 579,
+            "id": 580,
             "title": "LIVE 0",
             "category": "BOLA | BRI LIGA 1",
             "uri": "http://103.148.44.38:8000/play/a05c/index.m3u8",
@@ -23917,7 +23957,7 @@
             }
         },
         {
-            "id": 580,
+            "id": 581,
             "title": "LIVE 0 FOX",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -23957,7 +23997,7 @@
             }
         },
         {
-            "id": 581,
+            "id": 582,
             "title": "LIVE 0 FOX ONE",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
@@ -23997,247 +24037,7 @@
             }
         },
         {
-            "id": 582,
-            "title": "LIVE 0 FRANCE VS ENGLAND",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "http://157.15.187.3:25092/hls/49/49.m3u8",
-            "user_agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-            "headers": {
-                "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-                "Referer": "http://157.15.187.3:25092/",
-                "Origin": "http://157.15.187.3:25092"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "http://157.15.187.3:25092/hls/49/49.m3u8",
-                    "headers": {
-                        "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
-                        "Referer": "http://157.15.187.3:25092/",
-                        "Origin": "http://157.15.187.3:25092"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": " fifaworldcup.com",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 583,
-            "title": "LIVE 0 FRANCE VS ENGLAND FOX ONE",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://otte.cache.aiv-cdn.net/",
-                "Origin": "https://otte.cache.aiv-cdn.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://otte.cache.aiv-cdn.net/",
-                        "Origin": "https://otte.cache.aiv-cdn.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND FOX ONE",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 584,
-            "title": "LIVE 0 FRANCE VS ENGLAND LIVE 0 FOX",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://otte.cache.aiv-cdn.net/",
-                "Origin": "https://otte.cache.aiv-cdn.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://otte.cache.aiv-cdn.net/",
-                        "Origin": "https://otte.cache.aiv-cdn.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "b",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND LIVE 0 FOX",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 585,
-            "title": "LIVE 0 FRANCE VS ENGLAND TSN 5",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-                "Referer": "https://otte.cache.aiv-cdn.net/",
-                "Origin": "https://otte.cache.aiv-cdn.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-                        "Referer": "https://otte.cache.aiv-cdn.net/",
-                        "Origin": "https://otte.cache.aiv-cdn.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND TSN 5",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 586,
-            "title": "LIVE 0 FRANCE VS ENGLAND TSN1 S2",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
-                "Referer": "https://otte.cache.aiv-cdn.net/",
-                "Origin": "https://otte.cache.aiv-cdn.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
-                        "Referer": "https://otte.cache.aiv-cdn.net/",
-                        "Origin": "https://otte.cache.aiv-cdn.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "TSN1 HD.ca",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND TSN1 S2",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 587,
-            "title": "LIVE 0 FRANCE VS ENGLAND TSN4",
-            "category": "BOLA | PIALA DUNIA 2026",
-            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-                "Referer": "https://otte.cache.aiv-cdn.net/",
-                "Origin": "https://otte.cache.aiv-cdn.net"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-                        "Referer": "https://otte.cache.aiv-cdn.net/",
-                        "Origin": "https://otte.cache.aiv-cdn.net"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "LIVE 0 FRANCE VS ENGLAND TSN4",
-                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 588,
             "title": "LIVE 0 FS1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
@@ -24277,7 +24077,7 @@
             }
         },
         {
-            "id": 589,
+            "id": 584,
             "title": "LIVE 0 ITV 1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
@@ -24317,7 +24117,7 @@
             }
         },
         {
-            "id": 590,
+            "id": 585,
             "title": "LIVE 0 ITV 1 UNITED KINGDOM",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://xemzi.short.gy/1000011",
@@ -24357,7 +24157,7 @@
             }
         },
         {
-            "id": 591,
+            "id": 586,
             "title": "LIVE 0 PTV SPORTS PAKISTAN",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
@@ -24397,7 +24197,247 @@
             }
         },
         {
+            "id": 587,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA FOX",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://otte.cache.aiv-cdn.net/",
+                "Origin": "https://otte.cache.aiv-cdn.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://otte.cache.aiv-cdn.net/",
+                        "Origin": "https://otte.cache.aiv-cdn.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "b",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA FOX",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 588,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA FOX ONE",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://otte.cache.aiv-cdn.net/",
+                "Origin": "https://otte.cache.aiv-cdn.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://otte.cache.aiv-cdn.net/",
+                        "Origin": "https://otte.cache.aiv-cdn.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA FOX ONE",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 589,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA LOKAL",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "http://157.15.187.3:25092/hls/49/49.m3u8",
+            "user_agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+            "headers": {
+                "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+                "Referer": "http://157.15.187.3:25092/",
+                "Origin": "http://157.15.187.3:25092"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "http://157.15.187.3:25092/hls/49/49.m3u8",
+                    "headers": {
+                        "User-Agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+                        "Referer": "http://157.15.187.3:25092/",
+                        "Origin": "http://157.15.187.3:25092"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": " fifaworldcup.com",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA LOKAL",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 590,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA TSN 5",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://otte.cache.aiv-cdn.net/",
+                "Origin": "https://otte.cache.aiv-cdn.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                        "Referer": "https://otte.cache.aiv-cdn.net/",
+                        "Origin": "https://otte.cache.aiv-cdn.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA TSN 5",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 591,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA TSN1 S2",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
+                "Referer": "https://otte.cache.aiv-cdn.net/",
+                "Origin": "https://otte.cache.aiv-cdn.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0",
+                        "Referer": "https://otte.cache.aiv-cdn.net/",
+                        "Origin": "https://otte.cache.aiv-cdn.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "TSN1 HD.ca",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA TSN1 S2",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
             "id": 592,
+            "title": "LIVE 0 SPANYOL VS ARGENTINA TSN4",
+            "category": "BOLA | PIALA DUNIA 2026",
+            "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                "Referer": "https://otte.cache.aiv-cdn.net/",
+                "Origin": "https://otte.cache.aiv-cdn.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+                        "Referer": "https://otte.cache.aiv-cdn.net/",
+                        "Origin": "https://otte.cache.aiv-cdn.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "",
+                "tvg_name": "LIVE 0 SPANYOL VS ARGENTINA TSN4",
+                "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 593,
             "title": "LIVE 0 SS",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts",
@@ -24437,7 +24477,7 @@
             }
         },
         {
-            "id": 593,
+            "id": 594,
             "title": "LIVE 0 TSN 4",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
@@ -24477,7 +24517,7 @@
             }
         },
         {
-            "id": 594,
+            "id": 595,
             "title": "LIVE 0 TSN 5",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
@@ -24517,7 +24557,7 @@
             }
         },
         {
-            "id": 595,
+            "id": 596,
             "title": "LIVE 0 TSN1 S2",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -24571,7 +24611,7 @@
             }
         },
         {
-            "id": 596,
+            "id": 597,
             "title": "LIVE 0 UNITED SPORTS 2",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
@@ -24611,7 +24651,7 @@
             }
         },
         {
-            "id": 597,
+            "id": 598,
             "title": "LIVE 1",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash",
@@ -24651,7 +24691,7 @@
             }
         },
         {
-            "id": 598,
+            "id": 599,
             "title": "LIVE 1 BBC 1 UNITED KINGDOM",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://xemzi.short.gy/1000001",
@@ -24691,7 +24731,7 @@
             }
         },
         {
-            "id": 599,
+            "id": 600,
             "title": "LIVE 1 CANAL 5",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
@@ -24731,7 +24771,7 @@
             }
         },
         {
-            "id": 600,
+            "id": 601,
             "title": "LIVE 1 CAZE",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -24771,7 +24811,7 @@
             }
         },
         {
-            "id": 601,
+            "id": 602,
             "title": "LIVE 1 CBS SPORTS GOLAZO",
             "category": "BOLA | SERIE A",
             "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
@@ -24811,7 +24851,7 @@
             }
         },
         {
-            "id": 602,
+            "id": 603,
             "title": "LIVE 1 CEK INI",
             "category": "BOLA | BRI LIGA 1",
             "uri": "https://aspaltvpasti.top/11111/205.mpd",
@@ -24893,7 +24933,7 @@
             }
         },
         {
-            "id": 603,
+            "id": 604,
             "title": "LIVE 1 CTV",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
@@ -24933,7 +24973,7 @@
             }
         },
         {
-            "id": 604,
+            "id": 605,
             "title": "LIVE 1 D SPORTS",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
@@ -24973,7 +25013,7 @@
             }
         },
         {
-            "id": 605,
+            "id": 606,
             "title": "LIVE 1 FUBO SPORTS",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8",
@@ -25013,7 +25053,7 @@
             }
         },
         {
-            "id": 606,
+            "id": 607,
             "title": "LIVE 1 MONO 29 THAI",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
@@ -25053,7 +25093,7 @@
             }
         },
         {
-            "id": 607,
+            "id": 608,
             "title": "LIVE 1 RTE",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
@@ -25093,7 +25133,7 @@
             }
         },
         {
-            "id": 608,
+            "id": 609,
             "title": "LIVE 1 SPORT",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd",
@@ -25133,7 +25173,7 @@
             }
         },
         {
-            "id": 609,
+            "id": 610,
             "title": "LIVE 1 SPORTV BRA 1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
@@ -25173,7 +25213,7 @@
             }
         },
         {
-            "id": 610,
+            "id": 611,
             "title": "LIVE 1 T SPORTS",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1",
@@ -25213,7 +25253,7 @@
             }
         },
         {
-            "id": 611,
+            "id": 612,
             "title": "LIVE 1 TUDN MEXICO",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
@@ -25253,7 +25293,7 @@
             }
         },
         {
-            "id": 612,
+            "id": 613,
             "title": "LIVE 1 TVE LA 1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
@@ -25293,7 +25333,7 @@
             }
         },
         {
-            "id": 613,
+            "id": 614,
             "title": "LIVE 1 TVP SPORTS",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
@@ -25333,7 +25373,7 @@
             }
         },
         {
-            "id": 614,
+            "id": 615,
             "title": "LIVE 2",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash",
@@ -25373,7 +25413,7 @@
             }
         },
         {
-            "id": 615,
+            "id": 616,
             "title": "LIVE 2 CT SPORT",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
@@ -25413,7 +25453,7 @@
             }
         },
         {
-            "id": 616,
+            "id": 617,
             "title": "LIVE 2 JOJ SPORT",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
@@ -25453,7 +25493,7 @@
             }
         },
         {
-            "id": 617,
+            "id": 618,
             "title": "LIVE 3 CCTV5",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://107.150.60.122/live/cctv5hd.m3u8",
@@ -25493,7 +25533,7 @@
             }
         },
         {
-            "id": 618,
+            "id": 619,
             "title": "LIVE 3 TELEMUNDO",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts",
@@ -25533,7 +25573,7 @@
             }
         },
         {
-            "id": 619,
+            "id": 620,
             "title": "LIVE 3 TIPIK 1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd",
@@ -25573,7 +25613,7 @@
             }
         },
         {
-            "id": 620,
+            "id": 621,
             "title": "LIVE 8 BEIN SPORT 3 TURKEY",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
@@ -25613,7 +25653,7 @@
             }
         },
         {
-            "id": 621,
+            "id": 622,
             "title": "LIVE COBA YANG INI",
             "category": "BOLA | ASEAN U19 CHAMPIONSHIP 2026",
             "uri": "https://live2.pro2cdnlive.com/live/channel15.m3u8",
@@ -25653,7 +25693,7 @@
             }
         },
         {
-            "id": 622,
+            "id": 623,
             "title": "LIVE2 JOJ SPORT 2",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
@@ -25693,7 +25733,7 @@
             }
         },
         {
-            "id": 623,
+            "id": 624,
             "title": "LONGHUA CARTOONS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhkt",
@@ -25733,7 +25773,7 @@
             }
         },
         {
-            "id": 624,
+            "id": 625,
             "title": "LONGHUA CLASSICS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhjd",
@@ -25773,7 +25813,7 @@
             }
         },
         {
-            "id": 625,
+            "id": 626,
             "title": "LONGHUA DRAMA",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhxj",
@@ -25813,7 +25853,7 @@
             }
         },
         {
-            "id": 626,
+            "id": 627,
             "title": "LONGHUA IDOLS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhox",
@@ -25853,7 +25893,7 @@
             }
         },
         {
-            "id": 627,
+            "id": 628,
             "title": "LONGHUA JAPANESE KOREAN",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhrh",
@@ -25893,7 +25933,7 @@
             }
         },
         {
-            "id": 628,
+            "id": 629,
             "title": "LONGHUA MOVIES",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://cdn8.163189.xyz/163189/lhdy",
@@ -25933,7 +25973,7 @@
             }
         },
         {
-            "id": 629,
+            "id": 630,
             "title": "LOTUS MACAO",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd",
@@ -25973,7 +26013,7 @@
             }
         },
         {
-            "id": 630,
+            "id": 631,
             "title": "LOTUS MACAO SKYGO",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "https://cdn.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
@@ -26013,7 +26053,7 @@
             }
         },
         {
-            "id": 631,
+            "id": 632,
             "title": "LOVE NATURE 167",
             "category": "PENGETAHUAN",
             "uri": "http://157.15.187.3:25092/hls/75/75.m3u8",
@@ -26053,7 +26093,7 @@
             }
         },
         {
-            "id": 632,
+            "id": 633,
             "title": "MADU TV",
             "category": "DAERAH",
             "uri": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
@@ -26093,7 +26133,7 @@
             }
         },
         {
-            "id": 633,
+            "id": 634,
             "title": "MBC",
             "category": "DUNIA | KOREA NON SUB",
             "uri": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
@@ -26133,7 +26173,7 @@
             }
         },
         {
-            "id": 634,
+            "id": 635,
             "title": "MGDRIVE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd",
@@ -26173,7 +26213,7 @@
             }
         },
         {
-            "id": 635,
+            "id": 636,
             "title": "MGHITS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd",
@@ -26213,7 +26253,7 @@
             }
         },
         {
-            "id": 636,
+            "id": 637,
             "title": "MGM",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
@@ -26253,7 +26293,7 @@
             }
         },
         {
-            "id": 637,
+            "id": 638,
             "title": "MGM DRIVE IN",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd",
@@ -26293,7 +26333,7 @@
             }
         },
         {
-            "id": 638,
+            "id": 639,
             "title": "MGM HITS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd",
@@ -26333,7 +26373,7 @@
             }
         },
         {
-            "id": 639,
+            "id": 640,
             "title": "MGM MARQUEE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd",
@@ -26373,7 +26413,7 @@
             }
         },
         {
-            "id": 640,
+            "id": 641,
             "title": "MGPLUS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
@@ -26413,7 +26453,7 @@
             }
         },
         {
-            "id": 641,
+            "id": 642,
             "title": "MHZ CHOICE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
@@ -26453,7 +26493,7 @@
             }
         },
         {
-            "id": 642,
+            "id": 643,
             "title": "MIRAMAX",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
@@ -26493,7 +26533,7 @@
             }
         },
         {
-            "id": 643,
+            "id": 644,
             "title": "MNX",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
@@ -26533,7 +26573,7 @@
             }
         },
         {
-            "id": 644,
+            "id": 645,
             "title": "MONOMAX 1",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1",
@@ -26573,7 +26613,7 @@
             }
         },
         {
-            "id": 645,
+            "id": 646,
             "title": "MONOMAX 2",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2",
@@ -26613,7 +26653,7 @@
             }
         },
         {
-            "id": 646,
+            "id": 647,
             "title": "MONOMAX 3",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3",
@@ -26653,7 +26693,7 @@
             }
         },
         {
-            "id": 647,
+            "id": 648,
             "title": "MONOMAX 4",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono4",
@@ -26693,7 +26733,7 @@
             }
         },
         {
-            "id": 648,
+            "id": 649,
             "title": "MONOMAX 5",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono5",
@@ -26733,7 +26773,7 @@
             }
         },
         {
-            "id": 649,
+            "id": 650,
             "title": "MONOMAX 6",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono6",
@@ -26773,7 +26813,7 @@
             }
         },
         {
-            "id": 650,
+            "id": 651,
             "title": "MONOMAX 7",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono7",
@@ -26813,7 +26853,7 @@
             }
         },
         {
-            "id": 651,
+            "id": 652,
             "title": "MONOMAX 8",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono8",
@@ -26853,7 +26893,7 @@
             }
         },
         {
-            "id": 652,
+            "id": 653,
             "title": "MORE MAX HD EAST",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd",
@@ -26893,7 +26933,7 @@
             }
         },
         {
-            "id": 653,
+            "id": 654,
             "title": "MORTAL COMBAT 2",
             "category": "VOD TRIAL",
             "uri": "https://drive.usercontent.google.com/download?id=172OrmiCEuZ11EzJzHZbNszSnG7pUC4t-&export=download&authuser=0",
@@ -26933,7 +26973,7 @@
             }
         },
         {
-            "id": 654,
+            "id": 655,
             "title": "MOVIE SPHERE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
@@ -26973,7 +27013,7 @@
             }
         },
         {
-            "id": 655,
+            "id": 656,
             "title": "MOVIES NOW",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
@@ -27013,7 +27053,7 @@
             }
         },
         {
-            "id": 656,
+            "id": 657,
             "title": "MSG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
@@ -27053,7 +27093,7 @@
             }
         },
         {
-            "id": 657,
+            "id": 658,
             "title": "MSNBC",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://41.205.93.154/MSNBC/index.m3u8",
@@ -27093,7 +27133,7 @@
             }
         },
         {
-            "id": 658,
+            "id": 659,
             "title": "MTV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
@@ -27133,7 +27173,7 @@
             }
         },
         {
-            "id": 659,
+            "id": 660,
             "title": "MUTV",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://get.perfecttv.net/mutv.mpd",
@@ -27173,7 +27213,7 @@
             }
         },
         {
-            "id": 660,
+            "id": 661,
             "title": "MYTIME MOVIE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
@@ -27213,7 +27253,7 @@
             }
         },
         {
-            "id": 661,
+            "id": 662,
             "title": "NAT GEO SHARKS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd",
@@ -27253,7 +27293,7 @@
             }
         },
         {
-            "id": 662,
+            "id": 663,
             "title": "NAT GEO WILD",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd",
@@ -27293,7 +27333,7 @@
             }
         },
         {
-            "id": 663,
+            "id": 664,
             "title": "NATGEOWILD HD UNDER MAINTENANCE",
             "category": "PENGETAHUAN",
             "uri": "http://84.17.50.102/natgeowild/index.m3u8",
@@ -27333,7 +27373,7 @@
             }
         },
         {
-            "id": 664,
+            "id": 665,
             "title": "NATIONAL GEOGRAPHIC",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8",
@@ -27373,7 +27413,7 @@
             }
         },
         {
-            "id": 665,
+            "id": 666,
             "title": "NBA TV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/NBA_TV/index.m3u8",
@@ -27413,7 +27453,7 @@
             }
         },
         {
-            "id": 666,
+            "id": 667,
             "title": "NHK WORLD JAPAN",
             "category": "DUNIA | JEPANG NON SUB",
             "uri": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
@@ -27453,7 +27493,7 @@
             }
         },
         {
-            "id": 667,
+            "id": 668,
             "title": "NHK WORLD PREMIUM",
             "category": "BERITA",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd",
@@ -27507,7 +27547,7 @@
             }
         },
         {
-            "id": 668,
+            "id": 669,
             "title": "NICK JR CVG 167",
             "category": "ANAK",
             "uri": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO",
@@ -27547,7 +27587,7 @@
             }
         },
         {
-            "id": 669,
+            "id": 670,
             "title": "NICK JR USA 167",
             "category": "ANAK",
             "uri": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts",
@@ -27587,7 +27627,7 @@
             }
         },
         {
-            "id": 670,
+            "id": 671,
             "title": "NICKELODEON",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
@@ -27627,7 +27667,7 @@
             }
         },
         {
-            "id": 671,
+            "id": 672,
             "title": "NICKELODEON INDO 167",
             "category": "ANAK",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd",
@@ -27667,7 +27707,7 @@
             }
         },
         {
-            "id": 672,
+            "id": 673,
             "title": "NICKTOONS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd",
@@ -27707,7 +27747,7 @@
             }
         },
         {
-            "id": 673,
+            "id": 674,
             "title": "NOW FINANCE CHANNEL",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://208.87.242.79/livehttpplay?channel_id=13000",
@@ -27747,7 +27787,7 @@
             }
         },
         {
-            "id": 674,
+            "id": 675,
             "title": "NOW POPCORN CHANNEL",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://208.87.242.79/livehttpplay?channel_id=13002",
@@ -27787,7 +27827,7 @@
             }
         },
         {
-            "id": 675,
+            "id": 676,
             "title": "NOW SPORTS CHANNEL",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://hls.168.us.kg/u/630/master.m3u8",
@@ -27827,7 +27867,7 @@
             }
         },
         {
-            "id": 676,
+            "id": 677,
             "title": "NOW STAR CHANNEL CANTONESE",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://208.87.242.79/livehttpplay?channel_id=13003",
@@ -27867,7 +27907,7 @@
             }
         },
         {
-            "id": 677,
+            "id": 678,
             "title": "NOW STAR CHANNEL CHINESE",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://208.87.242.79/livehttpplay?channel_id=13004",
@@ -27907,7 +27947,7 @@
             }
         },
         {
-            "id": 678,
+            "id": 679,
             "title": "OCN MOVIES",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd",
@@ -27947,7 +27987,7 @@
             }
         },
         {
-            "id": 679,
+            "id": 680,
             "title": "OH MY CERIA",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd",
@@ -27987,7 +28027,7 @@
             }
         },
         {
-            "id": 680,
+            "id": 681,
             "title": "ONE UNDER MAINTENANCE",
             "category": "DUNIA | KOREA",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd",
@@ -28097,7 +28137,7 @@
             }
         },
         {
-            "id": 681,
+            "id": 682,
             "title": "OUTDOOR CHANNEL",
             "category": "PENGETAHUAN",
             "uri": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
@@ -28137,7 +28177,7 @@
             }
         },
         {
-            "id": 682,
+            "id": 683,
             "title": "OUTERSPHERE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8",
@@ -28177,7 +28217,7 @@
             }
         },
         {
-            "id": 683,
+            "id": 684,
             "title": "PANOR 2",
             "category": "VOD TRIAL",
             "uri": "https://drive.usercontent.google.com/download?id=1XMRjE9ZCOcmSlVU1PQZX-1ZssSunUeAu&export=download&authuser=0&confirm=t&uuid=5c1f61e4-43be-4a75-b8d2-19444cdd3f8f&at=ALBwUgmCUoTW7LzW43UXomthPjVI%3A1779451833963",
@@ -28217,7 +28257,7 @@
             }
         },
         {
-            "id": 684,
+            "id": 685,
             "title": "PARAMOUNT NETWORK",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
@@ -28257,7 +28297,7 @@
             }
         },
         {
-            "id": 685,
+            "id": 686,
             "title": "PHOENIX CHINESE MAX",
             "category": "DUNIA | CHINA",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/phoenixchinese-avc1_2500000=7-3277707030000000.mpd",
@@ -28311,7 +28351,7 @@
             }
         },
         {
-            "id": 686,
+            "id": 687,
             "title": "PICTURES HD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
@@ -28351,7 +28391,7 @@
             }
         },
         {
-            "id": 687,
+            "id": 688,
             "title": "PICTURES SD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd",
@@ -28391,7 +28431,7 @@
             }
         },
         {
-            "id": 688,
+            "id": 689,
             "title": "POLICE TV",
             "category": "DUNIA | THAILAND NON SUB",
             "uri": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
@@ -28431,7 +28471,7 @@
             }
         },
         {
-            "id": 689,
+            "id": 690,
             "title": "POPSTAR TV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8",
@@ -28471,7 +28511,7 @@
             }
         },
         {
-            "id": 690,
+            "id": 691,
             "title": "QVC",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/QVC/index.m3u8",
@@ -28511,7 +28551,7 @@
             }
         },
         {
-            "id": 691,
+            "id": 692,
             "title": "QVC 1080P",
             "category": "DUNIA | JEPANG NON SUB",
             "uri": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
@@ -28551,7 +28591,7 @@
             }
         },
         {
-            "id": 692,
+            "id": 693,
             "title": "RAKUTEN TOP",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8",
@@ -28591,7 +28631,7 @@
             }
         },
         {
-            "id": 693,
+            "id": 694,
             "title": "RASI HOLLYWOOD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://rasinetworks.in/live/rasihollywoodhd/index.mpd",
@@ -28631,7 +28671,7 @@
             }
         },
         {
-            "id": 694,
+            "id": 695,
             "title": "RASI MOVIES",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://rasinetworks.in/live/rasimovieshd/index.mpd",
@@ -28671,7 +28711,7 @@
             }
         },
         {
-            "id": 695,
+            "id": 696,
             "title": "REAL WILD",
             "category": "PENGETAHUAN",
             "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
@@ -28711,7 +28751,7 @@
             }
         },
         {
-            "id": 696,
+            "id": 697,
             "title": "REELZ",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd",
@@ -28751,7 +28791,7 @@
             }
         },
         {
-            "id": 697,
+            "id": 698,
             "title": "REELZ CHANNEL",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/REELZ/index.m3u8",
@@ -28791,7 +28831,7 @@
             }
         },
         {
-            "id": 698,
+            "id": 699,
             "title": "RISE OF THE CONQUEROR",
             "category": "VOD TRIAL",
             "uri": "https://drive.usercontent.google.com/download?id=1315lDSg8l5BmZASi6VZCRG9VhRKkdftW&export=download&authuser=0&confirm=t&uuid=3d1bec1e-5257-48b5-8ebd-452297ad8dfc&at=ALBwUgngMb09SYaj3mkHVHr-69Mo%3A1777559816113",
@@ -28831,7 +28871,7 @@
             }
         },
         {
-            "id": 699,
+            "id": 700,
             "title": "ROLL",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
@@ -28871,7 +28911,7 @@
             }
         },
         {
-            "id": 700,
+            "id": 701,
             "title": "RTB BRUNEI",
             "category": "DUNIA | BRUNEI (❌UNDER MAINTENANCE)",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
@@ -28911,7 +28951,7 @@
             }
         },
         {
-            "id": 701,
+            "id": 702,
             "title": "RTM ASEAN UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
@@ -28951,7 +28991,7 @@
             }
         },
         {
-            "id": 702,
+            "id": 703,
             "title": "SAKTI TV",
             "category": "DAERAH",
             "uri": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
@@ -29005,7 +29045,7 @@
             }
         },
         {
-            "id": 703,
+            "id": 704,
             "title": "SBS",
             "category": "DUNIA | KOREA NON SUB",
             "uri": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
@@ -29045,7 +29085,7 @@
             }
         },
         {
-            "id": 704,
+            "id": 705,
             "title": "SCREENPIX",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd",
@@ -29085,7 +29125,7 @@
             }
         },
         {
-            "id": 705,
+            "id": 706,
             "title": "SCREENPIX ACTION",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd",
@@ -29125,7 +29165,7 @@
             }
         },
         {
-            "id": 706,
+            "id": 707,
             "title": "SCREENPIX WESTERNS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd",
@@ -29165,7 +29205,7 @@
             }
         },
         {
-            "id": 707,
+            "id": 708,
             "title": "SEC NETWORK",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
@@ -29205,7 +29245,7 @@
             }
         },
         {
-            "id": 708,
+            "id": 709,
             "title": "SERIE A",
             "category": "BOLA | SERIE A",
             "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -29245,7 +29285,7 @@
             }
         },
         {
-            "id": 709,
+            "id": 710,
             "title": "SHAANXI TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub",
@@ -29285,7 +29325,7 @@
             }
         },
         {
-            "id": 710,
+            "id": 711,
             "title": "SHANDONG TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub",
@@ -29325,7 +29365,7 @@
             }
         },
         {
-            "id": 711,
+            "id": 712,
             "title": "SHAW BROTHERS ACTION FILMS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub",
@@ -29365,7 +29405,7 @@
             }
         },
         {
-            "id": 712,
+            "id": 713,
             "title": "SHAW BROTHERS COMEDIES",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub",
@@ -29405,7 +29445,7 @@
             }
         },
         {
-            "id": 713,
+            "id": 714,
             "title": "SHAW BROTHERS FILMS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub",
@@ -29445,7 +29485,7 @@
             }
         },
         {
-            "id": 714,
+            "id": 715,
             "title": "SHAW BROTHERS MARTIAL ARTS FILMS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub",
@@ -29485,7 +29525,7 @@
             }
         },
         {
-            "id": 715,
+            "id": 716,
             "title": "SHEMAROO BOLLY",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -29525,7 +29565,7 @@
             }
         },
         {
-            "id": 716,
+            "id": 717,
             "title": "SHENZEN TV",
             "category": "DUNIA | CHINA",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd",
@@ -29593,7 +29633,7 @@
             }
         },
         {
-            "id": 717,
+            "id": 718,
             "title": "SHENZHEN TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
@@ -29633,7 +29673,7 @@
             }
         },
         {
-            "id": 718,
+            "id": 719,
             "title": "SHOWCASE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd",
@@ -29673,7 +29713,7 @@
             }
         },
         {
-            "id": 719,
+            "id": 720,
             "title": "SHOWTIME",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8",
@@ -29713,7 +29753,7 @@
             }
         },
         {
-            "id": 720,
+            "id": 721,
             "title": "SICHUAN TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub",
@@ -29753,7 +29793,7 @@
             }
         },
         {
-            "id": 721,
+            "id": 722,
             "title": "SKY SPORT 1",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport1/master.mpd",
@@ -29793,7 +29833,7 @@
             }
         },
         {
-            "id": 722,
+            "id": 723,
             "title": "SKY SPORT 2",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport2/master.mpd",
@@ -29833,7 +29873,7 @@
             }
         },
         {
-            "id": 723,
+            "id": 724,
             "title": "SKY SPORT 3",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport3/master.mpd",
@@ -29873,7 +29913,7 @@
             }
         },
         {
-            "id": 724,
+            "id": 725,
             "title": "SKY SPORT 4",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport4/master.mpd",
@@ -29913,7 +29953,7 @@
             }
         },
         {
-            "id": 725,
+            "id": 726,
             "title": "SKY SPORT 5",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport5/master.mpd",
@@ -29953,7 +29993,7 @@
             }
         },
         {
-            "id": 726,
+            "id": 727,
             "title": "SKY SPORT 6",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport6/master.mpd",
@@ -29993,7 +30033,7 @@
             }
         },
         {
-            "id": 727,
+            "id": 728,
             "title": "SKY SPORT 7",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport7/master.mpd",
@@ -30033,7 +30073,7 @@
             }
         },
         {
-            "id": 728,
+            "id": 729,
             "title": "SKY SPORT 8",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport8/master.mpd",
@@ -30073,7 +30113,7 @@
             }
         },
         {
-            "id": 729,
+            "id": 730,
             "title": "SKY SPORT 9",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://sky-nz.b-cdn.net/skysport9/master.mpd",
@@ -30113,7 +30153,7 @@
             }
         },
         {
-            "id": 730,
+            "id": 731,
             "title": "SKY SPORT F1",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
@@ -30153,7 +30193,7 @@
             }
         },
         {
-            "id": 731,
+            "id": 732,
             "title": "SKY SPORT MAX",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
@@ -30193,7 +30233,7 @@
             }
         },
         {
-            "id": 732,
+            "id": 733,
             "title": "SKY SPORT PREMIER LEAGUE DE",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts",
@@ -30233,7 +30273,7 @@
             }
         },
         {
-            "id": 733,
+            "id": 734,
             "title": "SKY SPORT TOP EVENT",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
@@ -30273,7 +30313,7 @@
             }
         },
         {
-            "id": 734,
+            "id": 735,
             "title": "SKY_CALCIO",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
@@ -30313,7 +30353,7 @@
             }
         },
         {
-            "id": 735,
+            "id": 736,
             "title": "SKY_MIX",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
@@ -30353,7 +30393,7 @@
             }
         },
         {
-            "id": 736,
+            "id": 737,
             "title": "SNAP",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
@@ -30393,7 +30433,7 @@
             }
         },
         {
-            "id": 737,
+            "id": 738,
             "title": "SOCCER CHANNEL 167",
             "category": "BOLA | BUNDESLIGA",
             "uri": "http://103.137.83.62:9090/play/35/index.m3u8",
@@ -30433,7 +30473,7 @@
             }
         },
         {
-            "id": 738,
+            "id": 739,
             "title": "SOUTHEAST TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub",
@@ -30473,7 +30513,7 @@
             }
         },
         {
-            "id": 739,
+            "id": 740,
             "title": "SPORTDIGITAL FUSSBALL DE",
             "category": "BOLA | PRO LEAGUE",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
@@ -30513,7 +30553,7 @@
             }
         },
         {
-            "id": 740,
+            "id": 741,
             "title": "SPORTDIGITAL FUSSBALL DE 12 JANUARI 2026 BARCELONA VS REAL MADRID 200 AM",
             "category": "BOLA | SUPERCOPA DE ESPANA",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
@@ -30553,7 +30593,7 @@
             }
         },
         {
-            "id": 741,
+            "id": 742,
             "title": "SPORTS STAR SPORTS SELECT 1 FHD",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts",
@@ -30593,7 +30633,7 @@
             }
         },
         {
-            "id": 742,
+            "id": 743,
             "title": "SPORTS STAR SPORTS SELECT 2 HD",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090640.ts",
@@ -30647,7 +30687,7 @@
             }
         },
         {
-            "id": 743,
+            "id": 744,
             "title": "SPORTSMAN CHANNEL",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8",
@@ -30687,7 +30727,7 @@
             }
         },
         {
-            "id": 744,
+            "id": 745,
             "title": "SPORTSNET NEW YORK",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/SNY/index.m3u8",
@@ -30727,7 +30767,7 @@
             }
         },
         {
-            "id": 745,
+            "id": 746,
             "title": "SPORTSTARS 1 HD 167",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
@@ -30767,7 +30807,7 @@
             }
         },
         {
-            "id": 746,
+            "id": 747,
             "title": "SPORTSTARS 2 HD 167",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
@@ -30807,7 +30847,7 @@
             }
         },
         {
-            "id": 747,
+            "id": 748,
             "title": "SPORTSTARS 4 HD 167",
             "category": "BOLA | BUNDESLIGA",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
@@ -30847,7 +30887,7 @@
             }
         },
         {
-            "id": 748,
+            "id": 749,
             "title": "STARZ",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_STARZ/index.m3u8",
@@ -30887,7 +30927,7 @@
             }
         },
         {
-            "id": 749,
+            "id": 750,
             "title": "STARZ ENCORE CLASSIC",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8",
@@ -30927,7 +30967,7 @@
             }
         },
         {
-            "id": 750,
+            "id": 751,
             "title": "STINGRAY CONCERTS",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561101/index.mpd",
@@ -30967,7 +31007,7 @@
             }
         },
         {
-            "id": 751,
+            "id": 752,
             "title": "SUKAN RTM UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my",
@@ -31007,7 +31047,7 @@
             }
         },
         {
-            "id": 752,
+            "id": 753,
             "title": "SYFY",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://41.205.93.154/SYFY/index.m3u8",
@@ -31047,7 +31087,7 @@
             }
         },
         {
-            "id": 753,
+            "id": 754,
             "title": "TELEMUNDO",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd",
@@ -31101,7 +31141,7 @@
             }
         },
         {
-            "id": 754,
+            "id": 755,
             "title": "THAI PBS 3 FHD",
             "category": "DUNIA | THAILAND NON SUB",
             "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
@@ -31141,7 +31181,7 @@
             }
         },
         {
-            "id": 755,
+            "id": 756,
             "title": "THAI PBS 3 HD",
             "category": "DUNIA | THAILAND NON SUB",
             "uri": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8",
@@ -31181,7 +31221,7 @@
             }
         },
         {
-            "id": 756,
+            "id": 757,
             "title": "THE LORD OF THE RINGS THE WAR OF THE ROHIRRIM",
             "category": "VOD TRIAL",
             "uri": "https://get.perfecttv.net/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=1ea3e757-0445-4966-9cc3-5ce9e1714b09&sub=t12",
@@ -31221,7 +31261,7 @@
             }
         },
         {
-            "id": 757,
+            "id": 758,
             "title": "THE PUNISHER ONE LAST KILL",
             "category": "VOD TRIAL",
             "uri": "https://drive.usercontent.google.com/download?id=1FdSw0_cQ-xmZHS7dMOu1L0duwJZRLIIV&export=download&authuser=0&confirm=t&uuid=4863689e-2773-498f-8b3f-272379861211&at=ALBwUgmqYTxXXRfAfgKzlPRhrd91%3A1779451590411",
@@ -31261,7 +31301,7 @@
             }
         },
         {
-            "id": 758,
+            "id": 759,
             "title": "THE WALKING DEAD CHANNEL",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd",
@@ -31301,7 +31341,7 @@
             }
         },
         {
-            "id": 759,
+            "id": 760,
             "title": "THIS OLD HOUSE AG",
             "category": "GAYA HIDUP",
             "uri": "https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8",
@@ -31341,7 +31381,47 @@
             }
         },
         {
-            "id": 760,
+            "id": 761,
+            "title": "THRILL",
+            "category": "GAYA HIDUP",
+            "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://d2tjypxxy769fn.cloudfront.net/",
+                "Origin": "https://d2tjypxxy769fn.cloudfront.net"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://d2tjypxxy769fn.cloudfront.net/",
+                        "Origin": "https://d2tjypxxy769fn.cloudfront.net"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "",
+                "tvg_name": "THRILL",
+                "tvg_logo": "https://i.imgur.com/ja7Co8v.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 762,
             "title": "TIANJIN EDUCATION",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv6.m3u8?auth=testpub",
@@ -31381,7 +31461,7 @@
             }
         },
         {
-            "id": 761,
+            "id": 763,
             "title": "TIANJIN FILM AND TELEVISION",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub",
@@ -31421,7 +31501,7 @@
             }
         },
         {
-            "id": 762,
+            "id": 764,
             "title": "TIANJIN LITERATURE AND ART",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv2.m3u8?auth=testpub",
@@ -31461,7 +31541,7 @@
             }
         },
         {
-            "id": 763,
+            "id": 765,
             "title": "TIANJIN SPORTS",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub",
@@ -31501,7 +31581,7 @@
             }
         },
         {
-            "id": 764,
+            "id": 766,
             "title": "TIANJIN TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub",
@@ -31541,7 +31621,7 @@
             }
         },
         {
-            "id": 765,
+            "id": 767,
             "title": "TIANJIN URBAN",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub",
@@ -31581,7 +31661,7 @@
             }
         },
         {
-            "id": 766,
+            "id": 768,
             "title": "TLC INDO",
             "category": "GAYA HIDUP",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd",
@@ -31635,7 +31715,7 @@
             }
         },
         {
-            "id": 767,
+            "id": 769,
             "title": "TNT PXL",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8",
@@ -31675,7 +31755,7 @@
             }
         },
         {
-            "id": 768,
+            "id": 770,
             "title": "TNT SPORT 1",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
@@ -31743,7 +31823,7 @@
             }
         },
         {
-            "id": 769,
+            "id": 771,
             "title": "TNT SPORT 1 12 JANUARI 2026 BARCELONA VS REAL MADRID 200 AM",
             "category": "BOLA | SUPERCOPA DE ESPANA",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
@@ -31783,7 +31863,7 @@
             }
         },
         {
-            "id": 770,
+            "id": 772,
             "title": "TNT SPORT 2",
             "category": "BOLA | SERIE A",
             "uri": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
@@ -31837,7 +31917,7 @@
             }
         },
         {
-            "id": 771,
+            "id": 773,
             "title": "TNT SPORT 3",
             "category": "BOLA | UEFA EROPA LEAGUE",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
@@ -31877,7 +31957,7 @@
             }
         },
         {
-            "id": 772,
+            "id": 774,
             "title": "TNT SPORT 4",
             "category": "BOLA | UEFA EROPA LEAGUE",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
@@ -31917,7 +31997,7 @@
             }
         },
         {
-            "id": 773,
+            "id": 775,
             "title": "TNT SPORT 4 12 JANUARI 2026 BARCELONA VS REAL MADRID 200 AM",
             "category": "BOLA | SUPERCOPA DE ESPANA",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
@@ -31957,7 +32037,7 @@
             }
         },
         {
-            "id": 774,
+            "id": 776,
             "title": "TRAVELTASTE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd",
@@ -31997,7 +32077,7 @@
             }
         },
         {
-            "id": 775,
+            "id": 777,
             "title": "TRAVELXP AG",
             "category": "PENGETAHUAN",
             "uri": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8",
@@ -32037,7 +32117,7 @@
             }
         },
         {
-            "id": 776,
+            "id": 778,
             "title": "TREEHOUSE JNUS",
             "category": "ANAK",
             "uri": "https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd",
@@ -32077,7 +32157,7 @@
             }
         },
         {
-            "id": 777,
+            "id": 779,
             "title": "TRT WORLD",
             "category": "BERITA",
             "uri": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
@@ -32117,7 +32197,7 @@
             }
         },
         {
-            "id": 778,
+            "id": 780,
             "title": "TV",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd",
@@ -32157,7 +32237,7 @@
             }
         },
         {
-            "id": 779,
+            "id": 781,
             "title": "TV 1 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1",
@@ -32197,7 +32277,7 @@
             }
         },
         {
-            "id": 780,
+            "id": 782,
             "title": "TV 2 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
@@ -32237,7 +32317,7 @@
             }
         },
         {
-            "id": 781,
+            "id": 783,
             "title": "TV 3 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3",
@@ -32277,7 +32357,7 @@
             }
         },
         {
-            "id": 782,
+            "id": 784,
             "title": "TV 6 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6",
@@ -32317,7 +32397,7 @@
             }
         },
         {
-            "id": 783,
+            "id": 785,
             "title": "TV HD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd",
@@ -32357,7 +32437,7 @@
             }
         },
         {
-            "id": 784,
+            "id": 786,
             "title": "TV OKEY UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd",
@@ -32397,7 +32477,7 @@
             }
         },
         {
-            "id": 785,
+            "id": 787,
             "title": "TV8 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df",
@@ -32437,7 +32517,7 @@
             }
         },
         {
-            "id": 786,
+            "id": 788,
             "title": "TV9 UNDER MAINTENANCE",
             "category": "DUNIA | MALAYSIA",
             "uri": "https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8",
@@ -32477,7 +32557,7 @@
             }
         },
         {
-            "id": 787,
+            "id": 789,
             "title": "TVKU",
             "category": "DAERAH",
             "uri": "https://tvku.tv/hlsstream/hls/live.m3u8",
@@ -32531,7 +32611,7 @@
             }
         },
         {
-            "id": 788,
+            "id": 790,
             "title": "TVN",
             "category": "DUNIA | KOREA NON SUB",
             "uri": "https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8",
@@ -32571,7 +32651,7 @@
             }
         },
         {
-            "id": 789,
+            "id": 791,
             "title": "TVRI ACEHUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
@@ -32611,7 +32691,7 @@
             }
         },
         {
-            "id": 790,
+            "id": 792,
             "title": "TVRI BALIUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
@@ -32651,7 +32731,7 @@
             }
         },
         {
-            "id": 791,
+            "id": 793,
             "title": "TVRI BENGKULUUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
@@ -32691,7 +32771,7 @@
             }
         },
         {
-            "id": 792,
+            "id": 794,
             "title": "TVRI GORONTALOUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
@@ -32731,7 +32811,7 @@
             }
         },
         {
-            "id": 793,
+            "id": 795,
             "title": "TVRI JAKARTAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
@@ -32771,7 +32851,7 @@
             }
         },
         {
-            "id": 794,
+            "id": 796,
             "title": "TVRI JAMBIUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
@@ -32811,7 +32891,7 @@
             }
         },
         {
-            "id": 795,
+            "id": 797,
             "title": "TVRI JAWA BARATUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
@@ -32851,7 +32931,7 @@
             }
         },
         {
-            "id": 796,
+            "id": 798,
             "title": "TVRI JAWA TENGAHUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
@@ -32891,7 +32971,7 @@
             }
         },
         {
-            "id": 797,
+            "id": 799,
             "title": "TVRI JAWA TIMUR",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
@@ -32945,7 +33025,7 @@
             }
         },
         {
-            "id": 798,
+            "id": 800,
             "title": "TVRI JAWA TIMURUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
@@ -32985,7 +33065,7 @@
             }
         },
         {
-            "id": 799,
+            "id": 801,
             "title": "TVRI KALIMANTAN BARATUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
@@ -33025,7 +33105,7 @@
             }
         },
         {
-            "id": 800,
+            "id": 802,
             "title": "TVRI KALIMANTAN SELATANUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
@@ -33065,7 +33145,7 @@
             }
         },
         {
-            "id": 801,
+            "id": 803,
             "title": "TVRI KALIMANTAN TENGAHUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
@@ -33105,7 +33185,7 @@
             }
         },
         {
-            "id": 802,
+            "id": 804,
             "title": "TVRI KALIMANTAN TIMURUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
@@ -33145,7 +33225,7 @@
             }
         },
         {
-            "id": 803,
+            "id": 805,
             "title": "TVRI LAMPUNGUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
@@ -33185,7 +33265,7 @@
             }
         },
         {
-            "id": 804,
+            "id": 806,
             "title": "TVRI MALUKUUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
@@ -33225,7 +33305,7 @@
             }
         },
         {
-            "id": 805,
+            "id": 807,
             "title": "TVRI NTBUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
@@ -33265,7 +33345,7 @@
             }
         },
         {
-            "id": 806,
+            "id": 808,
             "title": "TVRI NTTUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
@@ -33305,7 +33385,7 @@
             }
         },
         {
-            "id": 807,
+            "id": 809,
             "title": "TVRI PAPUA BARATUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
@@ -33345,7 +33425,7 @@
             }
         },
         {
-            "id": 808,
+            "id": 810,
             "title": "TVRI PAPUAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
@@ -33385,7 +33465,7 @@
             }
         },
         {
-            "id": 809,
+            "id": 811,
             "title": "TVRI RIAUUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8",
@@ -33425,7 +33505,7 @@
             }
         },
         {
-            "id": 810,
+            "id": 812,
             "title": "TVRI SULAWESI BARATUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
@@ -33465,7 +33545,7 @@
             }
         },
         {
-            "id": 811,
+            "id": 813,
             "title": "TVRI SULAWESI SELATANUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
@@ -33505,7 +33585,7 @@
             }
         },
         {
-            "id": 812,
+            "id": 814,
             "title": "TVRI SULAWESI TENGAHUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
@@ -33545,7 +33625,7 @@
             }
         },
         {
-            "id": 813,
+            "id": 815,
             "title": "TVRI SULAWESI TENGGARAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
@@ -33585,7 +33665,7 @@
             }
         },
         {
-            "id": 814,
+            "id": 816,
             "title": "TVRI SULAWESI UTARAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
@@ -33625,7 +33705,7 @@
             }
         },
         {
-            "id": 815,
+            "id": 817,
             "title": "TVRI SUMATERA BARATUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
@@ -33665,7 +33745,7 @@
             }
         },
         {
-            "id": 816,
+            "id": 818,
             "title": "TVRI SUMATERA SELATANUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
@@ -33705,7 +33785,7 @@
             }
         },
         {
-            "id": 817,
+            "id": 819,
             "title": "TVRI SUMATERA UTARAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
@@ -33745,7 +33825,7 @@
             }
         },
         {
-            "id": 818,
+            "id": 820,
             "title": "TVRI YOGYAKARTAUNDER MAINTENANCE",
             "category": "DAERAH",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
@@ -33785,7 +33865,7 @@
             }
         },
         {
-            "id": 819,
+            "id": 821,
             "title": "TYC SPORTS CHANNEL 1 ARG",
             "category": "BOLA | PIALA DUNIA 2026",
             "uri": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
@@ -33825,7 +33905,7 @@
             }
         },
         {
-            "id": 820,
+            "id": 822,
             "title": "UNICINEMA",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd",
@@ -33865,7 +33945,7 @@
             }
         },
         {
-            "id": 821,
+            "id": 823,
             "title": "UNIVER CHANNEL DUAL LANG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd",
@@ -33905,7 +33985,7 @@
             }
         },
         {
-            "id": 822,
+            "id": 824,
             "title": "UNIVER COMEDY DUAL LANG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd",
@@ -33945,7 +34025,7 @@
             }
         },
         {
-            "id": 823,
+            "id": 825,
             "title": "UNIVER CRIME DUAL LANG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd",
@@ -33985,7 +34065,7 @@
             }
         },
         {
-            "id": 824,
+            "id": 826,
             "title": "UNIVER PREMIER DUAL LANG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd",
@@ -34025,7 +34105,7 @@
             }
         },
         {
-            "id": 825,
+            "id": 827,
             "title": "UNIVER REALITY DUAL LANG",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd",
@@ -34065,7 +34145,7 @@
             }
         },
         {
-            "id": 826,
+            "id": 828,
             "title": "UNIVERSO",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
@@ -34105,7 +34185,7 @@
             }
         },
         {
-            "id": 827,
+            "id": 829,
             "title": "USA NETWORK",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/3694",
@@ -34145,7 +34225,7 @@
             }
         },
         {
-            "id": 828,
+            "id": 830,
             "title": "VH1",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
@@ -34185,7 +34265,7 @@
             }
         },
         {
-            "id": 829,
+            "id": 831,
             "title": "VIASAT EXPLORE",
             "category": "PENGETAHUAN",
             "uri": "https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd",
@@ -34225,7 +34305,7 @@
             }
         },
         {
-            "id": 830,
+            "id": 832,
             "title": "VIASAT HISTORY",
             "category": "PENGETAHUAN",
             "uri": "https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a",
@@ -34265,7 +34345,7 @@
             }
         },
         {
-            "id": 831,
+            "id": 833,
             "title": "VIASAT KINO ACTION",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560902/index.mpd",
@@ -34305,7 +34385,7 @@
             }
         },
         {
-            "id": 832,
+            "id": 834,
             "title": "VIASAT KINO COMEDY",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd",
@@ -34345,7 +34425,7 @@
             }
         },
         {
-            "id": 833,
+            "id": 835,
             "title": "VIASAT NATURE",
             "category": "PENGETAHUAN",
             "uri": "https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284",
@@ -34385,7 +34465,7 @@
             }
         },
         {
-            "id": 834,
+            "id": 836,
             "title": "VICE TV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
@@ -34425,7 +34505,7 @@
             }
         },
         {
-            "id": 835,
+            "id": 837,
             "title": "VISION PRIME",
             "category": "GAYA HIDUP",
             "uri": "https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd",
@@ -34465,7 +34545,7 @@
             }
         },
         {
-            "id": 836,
+            "id": 838,
             "title": "VIUTV TAIWAN",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://php.jdshipin.com:8880/smt.php?id=viu1_twn",
@@ -34505,7 +34585,7 @@
             }
         },
         {
-            "id": 837,
+            "id": 839,
             "title": "VIUTV6 TAIWAN",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://php.jdshipin.com:8880/smt.php?id=viusix_twn",
@@ -34545,7 +34625,7 @@
             }
         },
         {
-            "id": 838,
+            "id": 840,
             "title": "VIVA ONE MOVIE",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://cdnone.vivamax.net/video/P02237_FF_FM_MECHANIC RESURRECTION/dash/hd.mpd",
@@ -34585,7 +34665,7 @@
             }
         },
         {
-            "id": 839,
+            "id": 841,
             "title": "WE TV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
@@ -34625,7 +34705,7 @@
             }
         },
         {
-            "id": 840,
+            "id": 842,
             "title": "WHITE CHANNEL",
             "category": "DUNIA | THAILAND NON SUB",
             "uri": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
@@ -34665,7 +34745,7 @@
             }
         },
         {
-            "id": 841,
+            "id": 843,
             "title": "WION",
             "category": "BERITA",
             "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8?ads.rnd=1775866277556&ads.env_i=web&ads.env_u=web&ads.name=DistroTV&ads.bundle=distro.tv&ads.storeurl=https%253A%252F%252Fdistro.tv%252F&ads.appCategory=&ads.app_version=&ads.width=1920&ads.height=1080&ads.deviceId=86e7291c-acdf-417f-8432-a9f7c8dfa567&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Linux&ads.deviceIdType=uuid&ads.deviceConnectionType=&ads.deviceCategory=desktop&ads.client_ip=&ads.geo=US&ads.lat=&ads.long=&ads.dma=&ads.geoType=&ads.contentid=22975&ads.content_duration=18000&ads.episode_id=55878&ads.show_id=1741&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CPolitics%2CCurrent+Affairs%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=WION+World+is+One+News&ads.episodetitle=WION+World+is+One+News&ads.keywords=wion%2Cdesi&ads.contenturl=https%253A%252F%252Fdistro.tv%252F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=Vasjw72eir0",
@@ -34705,7 +34785,7 @@
             }
         },
         {
-            "id": 842,
+            "id": 844,
             "title": "XING KONG",
             "category": "DUNIA | CHINA",
             "uri": "https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd",
@@ -34759,7 +34839,7 @@
             }
         },
         {
-            "id": 843,
+            "id": 845,
             "title": "YATEEM TV",
             "category": "DUNIA | THAILAND NON SUB",
             "uri": "https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8",
@@ -34799,7 +34879,7 @@
             }
         },
         {
-            "id": 844,
+            "id": 846,
             "title": "YES NETWORK",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
@@ -34839,7 +34919,7 @@
             }
         },
         {
-            "id": 845,
+            "id": 847,
             "title": "YTV JNUS",
             "category": "ANAK",
             "uri": "https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd",
@@ -34879,7 +34959,7 @@
             }
         },
         {
-            "id": 846,
+            "id": 848,
             "title": "YUNNAN TV",
             "category": "DUNIA | TAIWAN ETC",
             "uri": "http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub",
@@ -34919,7 +34999,7 @@
             }
         },
         {
-            "id": 847,
+            "id": 849,
             "title": "Z BIOSKOP",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd",
@@ -34959,7 +35039,7 @@
             }
         },
         {
-            "id": 848,
+            "id": 850,
             "title": "Z CINEMA HD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
@@ -34999,7 +35079,7 @@
             }
         },
         {
-            "id": 849,
+            "id": 851,
             "title": "Z CINEMA SD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
@@ -35039,7 +35119,7 @@
             }
         },
         {
-            "id": 850,
+            "id": 852,
             "title": "Z TV",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
@@ -35079,7 +35159,7 @@
             }
         },
         {
-            "id": 851,
+            "id": 853,
             "title": "Z TV HD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
@@ -35119,7 +35199,7 @@
             }
         },
         {
-            "id": 852,
+            "id": 854,
             "title": "Z TV SD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd",
@@ -35159,7 +35239,7 @@
             }
         },
         {
-            "id": 853,
+            "id": 855,
             "title": "ZEE ANMOL CINEMA",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd",
@@ -35199,7 +35279,7 @@
             }
         },
         {
-            "id": 854,
+            "id": 856,
             "title": "ZEE BOLLYWOOD",
             "category": "DUNIA | INDIA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd",
@@ -35239,7 +35319,7 @@
             }
         },
         {
-            "id": 855,
+            "id": 857,
             "title": "ZEE CINEMA ᴴᴰ",
             "category": "DUNIA | AMERIKA NON SUB",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
@@ -35279,7 +35359,7 @@
             }
         },
         {
-            "id": 856,
+            "id": 858,
             "title": "ZHEJIANG TV",
             "category": "DUNIA | CHINA",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd",
@@ -35347,7 +35427,7 @@
             }
         },
         {
-            "id": 857,
+            "id": 859,
             "title": "ZIGGO2",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
@@ -35387,7 +35467,7 @@
             }
         },
         {
-            "id": 858,
+            "id": 860,
             "title": "ZIGGO3",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
@@ -35427,7 +35507,7 @@
             }
         },
         {
-            "id": 859,
+            "id": 861,
             "title": "ZIGGO5",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
@@ -35467,7 +35547,7 @@
             }
         },
         {
-            "id": 860,
+            "id": 862,
             "title": "ZIGGO6",
             "category": "BOLA | LIGA INGGRIS",
             "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
@@ -35507,7 +35587,7 @@
             }
         },
         {
-            "id": 861,
+            "id": 863,
             "title": "ZOO MOO",
             "category": "ANAK",
             "uri": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
