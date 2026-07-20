@@ -253,7 +253,7 @@
             },
             "drm_info": {
                 "is_protected": true,
-                "drm_type": "org.w3.clearkey",
+                "drm_type": "clearkey",
                 "drm_key": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0"
             },
             "sources": [
@@ -509,46 +509,6 @@
             }
         },
         {
-            "id": 25,
-            "title": "NFL NETWORK CA",
-            "category": "NASIONAL",
-            "uri": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6424/index.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/",
-                "Origin": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6424/index.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/",
-                        "Origin": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "NFL NETWORK CA",
-                "tvg_logo": "",
-                "source_xml": "Embedded"
-            }
-        },
-        {
             "id": 26,
             "title": "NUSANTARA TV1",
             "category": "NASIONAL",
@@ -639,46 +599,6 @@
                 "tvg_id": "",
                 "tvg_name": "RCTI",
                 "tvg_logo": "https://i.imgur.com/C0a9fdx.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 29,
-            "title": "RTV1",
-            "category": "NASIONAL",
-            "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-                "Referer": "https://rtvstream.rtv.co.id:4555/",
-                "Origin": "https://rtvstream.rtv.co.id:4555"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-                        "Referer": "https://rtvstream.rtv.co.id:4555/",
-                        "Origin": "https://rtvstream.rtv.co.id:4555"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "",
-                "tvg_name": "RTV1",
-                "tvg_logo": "https://i.imgur.com/LoyaFMC.jpeg",
                 "source_xml": "Embedded"
             }
         },
@@ -813,60 +733,6 @@
                 "tvg_id": "TransTV.id",
                 "tvg_name": "TRANSTV HD",
                 "tvg_logo": "https://i.imgur.com/lKH1wII.jpeg",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 36,
-            "title": "TVRI SPORT 1",
-            "category": "NASIONAL",
-            "uri": "http://103.148.44.38:8000/play/a05u/index.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "http://103.148.44.38:8000/",
-                "Origin": "http://103.148.44.38:8000"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "http://103.148.44.38:8000/play/a05u/index.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "http://103.148.44.38:8000/",
-                        "Origin": "http://103.148.44.38:8000"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                },
-                {
-                    "type": "backup",
-                    "uri": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://op-group1-swiftservesd-1.dens.tv/",
-                        "Origin": "https://op-group1-swiftservesd-1.dens.tv"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "Tvri.Sport.id",
-                "tvg_name": "TVRI SPORT 1",
-                "tvg_logo": "https://i.imgur.com/u3VyI5p.jpeg",
                 "source_xml": "Embedded"
             }
         },
