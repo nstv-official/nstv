@@ -4,16 +4,16 @@ from urllib.parse import urlparse
 import requests
 
 # URL SUMBER M3U DARI GITHUB BODYSLAM
-SOURCE_URL = "https://raw.githubusercontent.com/uppermoon77/bodyslam/refs/heads/main/BS31AGUSTUS2026"
+SOURCE_URL = "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv.m3u"
 # OUTPUT FILE DI REPO NSTV
 OUTPUT_FILE = ".system_config_v1.dt"
 
 # --- ATUR URUTAN KATEGORI DI SINI ---
-CATEGORY_ORDER = ["NASIONAL", "FILM", "HBO"]
+CATEGORY_ORDER = ["NASIONAL", "OLAHRAGA"]
 
 # DAFTAR KATA TERLARANG (Akan dibuang sepenuhnya)
 BANNED_KEYWORDS = [
-    "ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A", "OLAHRAGA", "NEWS", "KIDS", "DOCUMENTARY", "HIBURAN", "DAERAH"
+    "ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A", "NEWS", "KIDS", "DOCUMENTARY", "HIBURAN", "DAERAH"
     "DUNIA INDIA NON SUB", "MAGELIFE INFORMATION", "MUSIC", "WORLD TV",
     "DUNIA TAIWAN ETC", "DUNIA SINGAPORE", "DUNIA JEPANG NON SUB", "DUNIA CHINA NON SUB",
     "DUNIA BRUNEI", "DUNIA MALAYSIA", "DUNIA AMERICA NON SUB", "DUNIA THAILAND ETC", "AGAMA"
