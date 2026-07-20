@@ -203,17 +203,17 @@
         {
             "id": 10,
             "title": "IDX",
-            "category": "NASIONAL",
+            "category": "BERITA",
             "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
-            "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+            "user_agent": "VidioPlayer/4.3.0-WITH_ADS",
             "headers": {
-                "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                "Referer": "https://www.indihometv.com/",
+                "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
+                "Referer": "https://www.visionplus.id/",
                 "Origin": "https://d2xx73ro32cip.cloudfront.net"
             },
             "drm_info": {
                 "is_protected": true,
-                "drm_type": "clearkey",
+                "drm_type": "org.w3.clearkey",
                 "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
             },
             "sources": [
@@ -221,13 +221,13 @@
                     "type": "primary",
                     "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
                     "headers": {
-                        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-                        "Referer": "https://www.indihometv.com/",
+                        "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
+                        "Referer": "https://www.visionplus.id/",
                         "Origin": "https://d2xx73ro32cip.cloudfront.net"
                     },
                     "drm_info": {
                         "is_protected": true,
-                        "drm_type": "clearkey",
+                        "drm_type": "org.w3.clearkey",
                         "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e"
                     }
                 }
@@ -236,7 +236,7 @@
             "epg_metadata": {
                 "tvg_id": "IDX HD - [Channel 134].id",
                 "tvg_name": "IDX",
-                "tvg_logo": "https://i.imgur.com/oZl4oNH.jpeg",
+                "tvg_logo": "https://i.imgur.com/5iu6wvo.jpeg",
                 "source_xml": "Embedded"
             }
         },
