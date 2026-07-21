@@ -1,37 +1,6 @@
 {
-  "version": 3,
-  "artifactType": {
-    "type": "APK",
-    "kind": "Directory"
-  },
-  "applicationId": "com.nstv.app",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 2,
-      "versionName": "1.1",
-      "outputFile": "NSTV_v1.1-release.apk"
-    }
-  ],
-  "elementType": "File",
-  "baselineProfiles": [
-    {
-      "minApi": 28,
-      "maxApi": 30,
-      "baselineProfiles": [
-        "baselineProfiles/1/NSTV_v1.1-release.dm"
-      ]
-    },
-    {
-      "minApi": 31,
-      "maxApi": 2147483647,
-      "baselineProfiles": [
-        "baselineProfiles/0/NSTV_v1.1-release.dm"
-      ]
-    }
-  ],
-  "minSdkVersionForDexing": 24
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.2-release.apk",
+  "releaseNotes": "• Stabilitas Jaringan: Penambahan fitur Auto-Retry (3x) untuk koneksi tidak stabil.\n• Pemulihan Live: Transisi siaran langsung lebih mulus tanpa pesan error yang berkedip.\n• Perbaikan DRM: Dukungan lisensi yang lebih kuat untuk channel premium."
 }
