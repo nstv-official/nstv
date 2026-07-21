@@ -24,30 +24,6 @@
         }
     },
     {
-        "id": 2,
-        "title": "Somoy TV (Bangladesh)",
-        "category": "WorldCup 2026",
-        "uri": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://103.165.93.31:8095/",
-            "Origin": "https://103.165.93.31:8095"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "auto.somoy.tv.bangladesh",
-            "tvg_name": "Somoy TV (Bangladesh)",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 3,
         "title": "beIN Sports XTRA en Espanol (1080p)",
         "category": "WorldCup 2026",
@@ -116,30 +92,6 @@
             "tvg_id": "auto.dd.sports",
             "tvg_name": "DD Sports",
             "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 6,
-        "title": "Somoy TV (WC Feed)",
-        "category": "WorldCup 2026",
-        "uri": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://live.thebosstv.com:30443/",
-            "Origin": "https://live.thebosstv.com:30443"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "auto.somoy.tv.wc.feed",
-            "tvg_name": "Somoy TV (WC Feed)",
-            "tvg_logo": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",
             "source_xml": "Embedded"
         }
     },
