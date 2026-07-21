@@ -25,56 +25,6 @@
         }
     },
     {
-        "id": 2,
-        "title": "JAKTV",
-        "category": "NASIONAL",
-        "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://atemecdnbalancer-voe.sysln.id/",
-            "Origin": "https://atemecdnbalancer-voe.sysln.id"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 3,
-        "title": "JTV",
-        "category": "NASIONAL",
-        "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://atemecdnbalancer-voe.sysln.id/",
-            "Origin": "https://atemecdnbalancer-voe.sysln.id"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 4,
         "title": "🆕Indosiar 0️⃣(167)",
         "category": "NASIONAL",
@@ -100,34 +50,9 @@
         }
     },
     {
-        "id": 5,
-        "title": "MNC NEWS",
-        "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 6,
-        "title": "1",
-        "category": "unknow",
+        "title": "SAKTI",
+        "category": "DAERAH",
         "uri": "http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -175,6 +100,31 @@
         }
     },
     {
+        "id": 16,
+        "title": "RCTI (+)",
+        "category": "NASIONAL",
+        "uri": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti",
+        "user_agent": "android-R+",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://rpluz.ben45mcc.workers.dev/",
+            "Origin": "https://rpluz.ben45mcc.workers.dev"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "RCTI (+)",
+            "tvg_logo": "https://i.imgur.com/C0a9fdx.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": 8,
         "title": "SINDONEWS",
         "category": "NASIONAL",
@@ -201,7 +151,7 @@
     },
     {
         "id": 9,
-        "title": "🆕SCTV (✅)",
+        "title": "🆕SCTV ✅",
         "category": "NASIONAL",
         "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -219,22 +169,22 @@
         },
         "epg_metadata": {
             "tvg_id": "SCTV.id",
-            "tvg_name": "🆕SCTV (✅)",
+            "tvg_name": "🆕SCTV ✅",
             "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": 10,
-        "title": "2",
-        "category": "unknow",
-        "uri": "http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "id": 13,
+        "title": "🆕SCTV MAX",
+        "category": "NASIONAL",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
-            "Referer": "https://khano.nng.cloudns.us/",
-            "Origin": "https://khano.nng.cloudns.us"
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
         },
         "drm_info": {
             "is_protected": false,
@@ -243,34 +193,9 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 11,
-        "title": "3",
-        "category": "unknow",
-        "uri": "http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://khano.nng.cloudns.us/",
-            "Origin": "https://khano.nng.cloudns.us"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
+            "tvg_id": "SCTV.id",
+            "tvg_name": "🆕SCTV MAX",
+            "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
             "source_xml": "Embedded"
         }
     },
@@ -296,31 +221,6 @@
             "tvg_id": "Moji.id",
             "tvg_name": "Moji",
             "tvg_logo": "https://i.imgur.com/dSA83Hx.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 13,
-        "title": "🆕SCTV (167D)",
-        "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "SCTV.id",
-            "tvg_name": "🆕SCTV (167D)",
-            "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
             "source_xml": "Embedded"
         }
     },
@@ -375,58 +275,8 @@
         }
     },
     {
-        "id": 16,
-        "title": "RCTI (+)",
-        "category": "NASIONAL",
-        "uri": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti",
-        "user_agent": "android-R+",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://rpluz.ben45mcc.workers.dev/",
-            "Origin": "https://rpluz.ben45mcc.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "RCTI (+)",
-            "tvg_logo": "https://i.imgur.com/C0a9fdx.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 17,
-        "title": "BTV",
-        "category": "NASIONAL",
-        "uri": "http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8",
-        "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://khano.nng.cloudns.us/",
-            "Origin": "https://khano.nng.cloudns.us"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "BTV.id",
-            "tvg_name": "BTV",
-            "tvg_logo": "https://i.imgur.com/sHTGdK6.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 18,
-        "title": "🆕Trans7 HD 0️⃣ (167)",
+        "title": "🆕Trans7 HD 0️⃣",
         "category": "NASIONAL",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -444,7 +294,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Trans7.id",
-            "tvg_name": "🆕Trans7 HD 0️⃣ (167)",
+            "tvg_name": "🆕Trans7 HD 0️⃣",
             "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
             "source_xml": "Embedded"
         }
@@ -476,8 +326,8 @@
     },
     {
         "id": 20,
-        "title": "4",
-        "category": "unknow",
+        "title": "TVKU",
+        "category": "DAERAH",
         "uri": "http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -494,14 +344,14 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "DAERAH",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 21,
-        "title": "Magna Channel 2️⃣",
+        "title": "MAGNA CHANNEL 2️⃣",
         "category": "NASIONAL",
         "uri": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
@@ -525,58 +375,8 @@
         }
     },
     {
-        "id": 22,
-        "title": "MAGNA TV",
-        "category": "NASIONAL",
-        "uri": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://edge.medcom.id/",
-            "Origin": "https://edge.medcom.id"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "tvg-name=",
-            "tvg_name": "MAGNA TV",
-            "tvg_logo": "https://i.imgur.com/d7hjhxi.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 23,
-        "title": "🆕INDOSIAR (✅)",
-        "category": "NASIONAL",
-        "uri": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://tvratu.my.id/",
-            "Origin": "https://tvratu.my.id"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "org.w3.clearkey",
-            "drm_key": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Indosiar.id",
-            "tvg_name": "🆕INDOSIAR (✅)",
-            "tvg_logo": "https://i.imgur.com/bjNCrmL.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 24,
-        "title": "Garuda TV",
+        "title": "GARUDA TV",
         "category": "NASIONAL",
         "uri": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8",
         "user_agent": "VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
@@ -650,31 +450,6 @@
         }
     },
     {
-        "id": 27,
-        "title": "🆕 TRANS 7 HD 2️⃣ (167)",
-        "category": "NASIONAL",
-        "uri": "http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8",
-        "user_agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://iptv.kilas7.com:80/",
-            "Origin": "https://iptv.kilas7.com:80"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Trans7.id",
-            "tvg_name": "🆕 TRANS 7 HD 2️⃣ (167)",
-            "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 28,
         "title": "🆕Moji",
         "category": "NASIONAL",
@@ -727,7 +502,7 @@
     },
     {
         "id": 30,
-        "title": "tvg-logo=",
+        "title": "KOMPAS TV",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -745,14 +520,14 @@
         },
         "epg_metadata": {
             "tvg_id": "tvg-name=",
-            "tvg_name": "tvg-logo=",
+            "tvg_name": "KOMPAS TV",
             "tvg_logo": "https://i.imgur.com/AE6rBhB.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 31,
-        "title": "INEWS 1️⃣",
+        "title": "INEWS MAX 1️⃣",
         "category": "NASIONAL",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -770,33 +545,8 @@
         },
         "epg_metadata": {
             "tvg_id": "iNews HD - [Channel 433].id",
-            "tvg_name": "INEWS 1️⃣",
+            "tvg_name": "INEWS MAX 1️⃣",
             "tvg_logo": "https://i.imgur.com/NTYY97h.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 32,
-        "title": "5",
-        "category": "unknow",
-        "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://202.80.222.20/",
-            "Origin": "https://202.80.222.20"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
@@ -827,7 +577,7 @@
     },
     {
         "id": 34,
-        "title": "🆕 TRANS 7 HD 1️⃣ (167)",
+        "title": "🆕 TRANS 7 HD 1️⃣",
         "category": "NASIONAL",
         "uri": "https://bit.ly/trams7m3u",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
@@ -845,15 +595,40 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "🆕 TRANS 7 HD 1️⃣ (167)",
+            "tvg_name": "🆕 TRANS 7 HD 1️⃣",
+            "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 27,
+        "title": "🆕 TRANS 7 HD 2️⃣",
+        "category": "NASIONAL",
+        "uri": "http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8",
+        "user_agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://iptv.kilas7.com:80/",
+            "Origin": "https://iptv.kilas7.com:80"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "Trans7.id",
+            "tvg_name": "🆕 TRANS 7 HD 2️⃣",
             "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 35,
-        "title": "6",
-        "category": "unknow",
+        "title": "BANDUNG TV",
+        "category": "DAERAH",
         "uri": "http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -870,14 +645,14 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "BANDUNG TV",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 36,
-        "title": "🆕CNN Indonesia",
+        "title": "🆕CNN INDONESIA",
         "category": "NASIONAL",
         "uri": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
@@ -895,7 +670,32 @@
         },
         "epg_metadata": {
             "tvg_id": "cnn indonesia",
-            "tvg_name": "🆕CNN Indonesia",
+            "tvg_name": "🆕CNN INDONESIA",
+            "tvg_logo": "https://i.imgur.com/yxjrNLR.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 48,
+        "title": "CNBC INDONESIA",
+        "category": "NASIONAL",
+        "uri": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://live.cnbcindonesia.com/",
+            "Origin": "https://live.cnbcindonesia.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "CNBC INDONESIA",
             "tvg_logo": "https://i.imgur.com/yxjrNLR.jpeg",
             "source_xml": "Embedded"
         }
@@ -951,58 +751,8 @@
         }
     },
     {
-        "id": 39,
-        "title": "🆕SCTV (167V)",
-        "category": "NASIONAL",
-        "uri": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
-        "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://tvratu.my.id/",
-            "Origin": "https://tvratu.my.id"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "com.widevine.alpha",
-            "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "SCTV.id",
-            "tvg_name": "🆕SCTV (167V)",
-            "tvg_logo": "https://i.imgur.com/brh5EU7.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 40,
-        "title": "🆕TVRI NASIONAL",
-        "category": "NASIONAL",
-        "uri": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-        "user_agent": "TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://ott-balancer.tvri.go.id/",
-            "Origin": "https://ott-balancer.tvri.go.id"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "TVRI.id",
-            "tvg_name": "🆕TVRI NASIONAL",
-            "tvg_logo": "https://i.imgur.com/XZ1Y89G.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 41,
-        "title": "Nusantara TV",
+        "title": "NUSANTARA TV",
         "category": "NASIONAL",
         "uri": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -1051,156 +801,6 @@
         }
     },
     {
-        "id": 43,
-        "title": "7",
-        "category": "unknow",
-        "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://r-plus.sedotcw3.workers.dev/",
-            "Origin": "https://r-plus.sedotcw3.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 44,
-        "title": "🆕Trans TV2️⃣ (167)",
-        "category": "NASIONAL",
-        "uri": "https://bit.ly/transtvm3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://bit.ly/",
-            "Origin": "https://bit.ly"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "🆕Trans TV2️⃣ (167)",
-            "tvg_logo": "https://i.imgur.com/lKH1wII.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 45,
-        "title": "8",
-        "category": "unknow",
-        "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdn10jtedge.indihometv.com/",
-            "Origin": "https://cdn10jtedge.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 46,
-        "title": "TVRI",
-        "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 47,
-        "title": "TVRI WPRLD",
-        "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 48,
-        "title": "CNBC INDONESIA",
-        "category": "NASIONAL",
-        "uri": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://live.cnbcindonesia.com/",
-            "Origin": "https://live.cnbcindonesia.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "CNBC INDONESIA",
-            "tvg_logo": "https://i.imgur.com/yxjrNLR.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 49,
         "title": "HBO HITS (3️⃣✅)",
         "category": "HBO",
@@ -1227,8 +827,8 @@
     },
     {
         "id": 50,
-        "title": "hbo hit",
-        "category": "unknow",
+        "title": "HBO HITS MAX",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -1245,15 +845,15 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "HBO HITS MAX",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 51,
-        "title": "hbo family",
-        "category": "unknow",
+        "title": "HBO FAMILY MAX",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -1270,7 +870,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "HBO FAMILY MAX",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -1302,8 +902,8 @@
     },
     {
         "id": 53,
-        "title": "hbo",
-        "category": "unknow",
+        "title": "HBO MAX",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -1320,7 +920,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "HBO MAX",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -1352,8 +952,8 @@
     },
     {
         "id": 55,
-        "title": "cinemax",
-        "category": "unknow",
+        "title": "CINEMAX",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -1370,33 +970,8 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "CINEMAX",
             "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 56,
-        "title": "🆕MENTARI TV",
-        "category": "NASIONAL",
-        "uri": "https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237",
-        "user_agent": "VidioPlayer/6.41.11",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://aspaltvpasti.top/",
-            "Origin": "https://aspaltvpasti.top"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Mentari TV",
-            "tvg_name": "🆕MENTARI TV",
-            "tvg_logo": "https://i.imgur.com/xtbagd5.jpeg",
             "source_xml": "Embedded"
         }
     },
@@ -1502,8 +1077,8 @@
     },
     {
         "id": 61,
-        "title": "hbo signature",
-        "category": "unknow",
+        "title": "HBO SIGMATURE",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -1520,7 +1095,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "HBO SIGNATURE",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -2301,31 +1876,6 @@
         }
     },
     {
-        "id": 93,
-        "title": "8",
-        "category": "unknow",
-        "uri": "https://i.imgur.com/K3FXClz.jpeg\"",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://i.imgur.com/",
-            "Origin": "https://i.imgur.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 94,
         "title": "HBO (3️⃣✅)",
         "category": "FILM",
@@ -2353,7 +1903,7 @@
     {
         "id": 95,
         "title": "hbo 1",
-        "category": "unknow",
+        "category": "unknow 47",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -2403,7 +1953,7 @@
     {
         "id": 98,
         "title": "hbo hit 1",
-        "category": "unknow",
+        "category": "unknow 48",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -2478,7 +2028,7 @@
     {
         "id": 101,
         "title": "hbo signatur 1",
-        "category": "unknow",
+        "category": "unknow 49",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -2503,7 +2053,7 @@
     {
         "id": 102,
         "title": "cinemax 1",
-        "category": "unknow",
+        "category": "unknow 50",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3077,8 +2627,8 @@
     },
     {
         "id": 125,
-        "title": "max eat",
-        "category": "unknow",
+        "title": "MAX EAT",
+        "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3095,7 +2645,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "MAX EAT",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -3122,31 +2672,6 @@
             "tvg_id": "",
             "tvg_name": "🆕Zee Bioskop",
             "tvg_logo": "https://i.imgur.com/UmbvKYp.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 127,
-        "title": "arirang hd",
-        "category": "unknow",
-        "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://atemecdnbalancer-voe.sysln.id/",
-            "Origin": "https://atemecdnbalancer-voe.sysln.id"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "",
-            "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
@@ -3178,7 +2703,7 @@
     {
         "id": 129,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 1",
         "uri": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3203,7 +2728,7 @@
     {
         "id": 130,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 2",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3228,7 +2753,7 @@
     {
         "id": 131,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 3",
         "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3253,7 +2778,7 @@
     {
         "id": 132,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 4",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3303,7 +2828,7 @@
     {
         "id": 134,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 5",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3328,7 +2853,7 @@
     {
         "id": 135,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 6",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3503,7 +3028,7 @@
     {
         "id": 142,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 7",
         "uri": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3528,7 +3053,7 @@
     {
         "id": 143,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 8",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3553,7 +3078,7 @@
     {
         "id": 144,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 9",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3578,7 +3103,7 @@
     {
         "id": 145,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 10",
         "uri": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3603,7 +3128,7 @@
     {
         "id": 146,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 11",
         "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3628,7 +3153,7 @@
     {
         "id": 147,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 12",
         "uri": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3653,7 +3178,7 @@
     {
         "id": 148,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 13",
         "uri": "https://i.imgur.com/mA8jn7o.jpeg\" gDUNIA",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3678,7 +3203,7 @@
     {
         "id": 149,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 14",
         "uri": "https://i.imgur.com/2FS1zWT.jpeg K-PLUS HD",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3852,7 +3377,7 @@
     },
     {
         "id": 156,
-        "title": "tvg-logo=",
+        "title": "TURBO",
         "category": "PENGETAHUAN",
         "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -3870,7 +3395,7 @@
         },
         "epg_metadata": {
             "tvg_id": "tvg-name=",
-            "tvg_name": "tvg-logo=",
+            "tvg_name": "TURBO",
             "tvg_logo": "https://i.imgur.com/qdVMaoN.jpeg",
             "source_xml": "Embedded"
         }
@@ -4047,31 +3572,6 @@
             "tvg_id": "discoveryasia",
             "tvg_name": "DISCOVERY ASIA HD",
             "tvg_logo": "https://i.imgur.com/je8MaLy.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 164,
-        "title": "DMAX",
-        "category": "PENGETAHUAN",
-        "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd",
-        "user_agent": "Dalvik/2.1.0",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://s2129134.cdn.mytvnet.vn/",
-            "Origin": "https://s2129134.cdn.mytvnet.vn"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "clearkey",
-            "drm_key": "{\"keys\":[{\"kty\":\"oct\",\"k\":\"DGTM+5eOc5C9MzRAdUkq7A\",\"kid\":\"U7JvkErgOiC1ZHfPucXcog\"}],\"type\":\"temporary\"}",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "dmax",
-            "tvg_name": "DMAX",
-            "tvg_logo": "https://i.imgur.com/HSONsHu.jpeg",
             "source_xml": "Embedded"
         }
     },
@@ -4328,7 +3828,7 @@
     {
         "id": 175,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 15",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4353,7 +3853,7 @@
     {
         "id": 176,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 16",
         "uri": "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4378,7 +3878,7 @@
     {
         "id": 177,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 17",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4428,7 +3928,7 @@
     {
         "id": 179,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 18",
         "uri": "https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4478,7 +3978,7 @@
     {
         "id": 181,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 19",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000052/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4503,7 +4003,7 @@
     {
         "id": 182,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 20",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4528,7 +4028,7 @@
     {
         "id": 183,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 21",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4553,7 +4053,7 @@
     {
         "id": 184,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 22",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4578,7 +4078,7 @@
     {
         "id": 185,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 23",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4603,7 +4103,7 @@
     {
         "id": 186,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 24",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mediampd/ZhejiangTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4628,7 +4128,7 @@
     {
         "id": 187,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 25",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4653,7 +4153,7 @@
     {
         "id": 188,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 26",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4703,7 +4203,7 @@
     {
         "id": 190,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 27",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4728,7 +4228,7 @@
     {
         "id": 191,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 28",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4753,7 +4253,7 @@
     {
         "id": 192,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 29",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4778,7 +4278,7 @@
     {
         "id": 193,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 30",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/uchannel/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4803,7 +4303,7 @@
     {
         "id": 194,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 31",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/muitv/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5103,7 +4603,7 @@
     {
         "id": 206,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 32",
         "uri": "https://i.imgur.com/1vqowr7.png",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5528,7 +5028,7 @@
     {
         "id": 223,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 33",
         "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5578,7 +5078,7 @@
     {
         "id": 225,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 34",
         "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/NHK_WORLD_JAPAN-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5603,7 +5103,7 @@
     {
         "id": 226,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 35",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5628,7 +5128,7 @@
     {
         "id": 227,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 36",
         "uri": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5653,7 +5153,7 @@
     {
         "id": 228,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 37",
         "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5703,7 +5203,7 @@
     {
         "id": 230,
         "title": "",
-        "category": "unknow",
+        "category": "unknow38",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/DWTV/DWTV-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5728,7 +5228,7 @@
     {
         "id": 231,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 39",
         "uri": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5803,7 +5303,7 @@
     {
         "id": 234,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 40",
         "uri": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5828,7 +5328,7 @@
     {
         "id": 235,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 41",
         "uri": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5853,7 +5353,7 @@
     {
         "id": 236,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 4",
         "uri": "https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6501,31 +6001,6 @@
         }
     },
     {
-        "id": 262,
-        "title": "tvg-logo=",
-        "category": "BOLA | PIALA DUNIA 2026",
-        "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono1",
-        "user_agent": "Plus-Official-Box",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://api.plus-server.sbs/",
-            "Origin": "https://api.plus-server.sbs"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "tvg-logo=",
-            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 263,
         "title": "USA NETWORK",
         "category": "BOLA | LIGA INGGRIS",
@@ -6701,31 +6176,6 @@
         }
     },
     {
-        "id": 270,
-        "title": "tvg-logo=",
-        "category": "BOLA | PIALA DUNIA 2026",
-        "uri": "http://api.plus-server.sbs/play.php?key=1234&ch=api_mono2",
-        "user_agent": "Plus-Official-Box",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://api.plus-server.sbs/",
-            "Origin": "https://api.plus-server.sbs"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "tvg-logo=",
-            "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": 271,
         "title": "✅ LIVE 2",
         "category": "BOLA | LIGA INGGRIS",
@@ -6753,7 +6203,7 @@
     {
         "id": 272,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 43",
         "uri": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7178,7 +6628,7 @@
     {
         "id": 289,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 44",
         "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7628,7 +7078,7 @@
     {
         "id": 307,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 45",
         "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -9228,7 +8678,7 @@
     {
         "id": 371,
         "title": "",
-        "category": "unknow",
+        "category": "unknow 46",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
