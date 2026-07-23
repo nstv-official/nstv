@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.4-release.apk",
-  "releaseNotes": "• Stabilitas Premium: Perbaikan akses (0%) pada tvN, Kplus, dan Popular.\n• Smooth Buffering: Peningkatan kapasitas buffer awal (4s) untuk mencegah loading berulang.\n• Kecepatan Pulih: Jeda coba ulang koneksi yang lebih stabil (1.2 detik).\n• In-App Update: Versi final yang mendukung unduhan internal tanpa macet."
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.5-release.apk",
+  "releaseNotes": "• Stabilitas Premium: Perbaikan akses (0%).\n• Smooth Buffering: Peningkatan kapasitas buffer awal (4s) untuk mencegah loading berulang.\n• Kecepatan Pulih: Jeda coba ulang koneksi yang lebih stabil (1.2 detik).\n• In-App Update: Versi final yang mendukung unduhan internal tanpa macet."
 }
