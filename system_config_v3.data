@@ -2459,7 +2459,7 @@
             "headers": {
                 "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
                 "Referer": "https://www.visionplus.id/",
-                "Origin": "https://d2tjypxxy769fn.cloudfront.net"
+                "Origin": "https://www.visionplus.id/"
             },
             "drm_info": {
                 "is_protected": true,
@@ -2473,7 +2473,7 @@
                     "headers": {
                         "User-Agent": "VidioPlayer/4.3.0-WITH_ADS",
                         "Referer": "https://www.visionplus.id/",
-                        "Origin": "https://d2tjypxxy769fn.cloudfront.net"
+                        "Origin": "https://www.visionplus.id/"
                     },
                     "drm_info": {
                         "is_protected": true,
