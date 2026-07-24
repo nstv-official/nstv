@@ -1,10 +1,10 @@
 [
     {
       "id": "ch_005",
-      "nama": "Live Match - Channel 5",
-      "kategori": "AFF CUP",
+      "title": "Live Match - Channel 5",
+      "category": "AFF CUP",
       "logo": "https://asset.tribunnews.com/qsDUjcDSjy0I44XwcT4AZebh3KA=/650x365/filters:quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/bangka/foto/bank/originals/20260724-TIMOR-LESTE-VS-VIETNAM.jpg",
-      "url": "https://tfxu0gr3dgmttgh5nhcj1gwzdrp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=75e7a2844986c15f5e91d04ad1490957&wsABSTime=1784924032&wsSession=274414f517e070c8c1886168-178488083303219&wsIPSercert=3c43f858c84c073781407dbdeccee480&wsBindIP=2&wsserid=1168252881075525359"
+      ""uri": "https://tfxu0gr3dgmttgh5nhcj1gwzdrp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=75e7a2844986c15f5e91d04ad1490957&wsABSTime=1784924032&wsSession=274414f517e070c8c1886168-178488083303219&wsIPSercert=3c43f858c84c073781407dbdeccee480&wsBindIP=2&wsserid=1168252881075525359"
     },
 	{
         "id": "1",
