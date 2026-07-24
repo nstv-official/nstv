@@ -1,7 +1,12 @@
 {
-    "ANTV AG": "antv.png",
-    "RCTI HD": "rcti.png",
-    "SCTV FHD": "sctv.png",
+    "ANTV": "antv.png",
+    "RCTI": "rcti.png",
+    "MNCTV": "mnctv.png",
+    "GTV": "gtv.png",
     "INDOSIAR": "indosiar.png",
-    "TVRI NASIONAL": "tvri.png"
+    "SCTV": "sctv.png",
+    "TRANS7": "trans7.png",
+    "TRANS TV": "transtv.png",
+    "TVRI": "tvri.png",
+    "NET": "net.png"
 }
