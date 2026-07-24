@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.9",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.9-release.apk",
-  "releaseNotes": "• Full Immersive: Layar bersih total dari bar baterai dan tombol navigasi. Usap tepian layar untuk memunculkannya.\n• Smart Identity: Perbaikan Indosiar dan tvN yang sering tidak merespon.\n• Auto-Enforcement: Aplikasi otomatis memperbaiki data identitas server (Vision+, Vidio, tvratu).\n• Absolute Fix: Perbaikan sistem keamanan instalasi agar tidak lagi muncul error meta-data."
+  "latestVersionCode": 11,
+  "latestVersionName": "2.0",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.0-release.apk",
+  "releaseNotes": "• Final Fix tvN & Indosiar: Sistem Smart Identity otomatis memperbaiki identitas server yang salah agar siaran langsung terbuka.\n• Faster Start: Optimasi buffering awal (4 detik) agar video muncul lebih cepat namun tetap stabil.\n• UI Cleanup: Teks resolusi video dipindah ke pojok kanan bawah dan dibuat lebih transparan agar tidak mengganggu tontonan.\n• Full Immersive: Mode layar penuh total tanpa bar baterai dan tombol sistem."
 }
