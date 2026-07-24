@@ -1,28 +1,5 @@
 [
     {
-        "id": "live_AFF CUP_5",
-        "title": "Channel 5 HD",
-        "category": "AFF CUP",
-        "uri": "https://tfxu0gr3dgmttgh5nhcj1gwzdrp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=75e7a2844986c15f5e91d04ad1490957&wsABSTime=1784924032&wsSession=274414f517e070c8c1886168-178488083303219&wsIPSercert=3c43f858c84c073781407dbdeccee480&wsBindIP=2&wsserid=1168252881075525359",
-        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36",
-        "is_live": true,
-        "headers": {
-            "Referer": "https://100ycdn.com/",
-            "Origin": "https://100ycdn.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "channel5.pulse",
-            "tvg_name": "Channel 5",
-            "tvg_logo": "https://asset.tribunnews.com/qsDUjcDSjy0I44XwcT4AZebh3KA=/650x365/filters:quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/bangka/foto/bank/originals/20260724-TIMOR-LESTE-VS-VIETNAM.jpg",
-            "source_xml": "Embedded"
-        }
-    },
-	{
         "id": "1",
         "title": "IDX (V+)",
         "category": "NASIONAL",
