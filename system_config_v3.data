@@ -101,30 +101,30 @@
     },
     {
         "id": 7,
-        "title": "RCTI",
-        "category": "NASIONAL",
-        "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
-        "user_agent": "VidioPlayer/4.3.0-WITH_ADS",
+        "title": "RCTI SPORTS",
+        "category": "Sports Indo",
+        "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
+        "user_agent": "android-R+",
         "is_live": true,
         "match_id": "",
         "headers": {
-            "Referer": "https://d2xz2v5wuvgur6.cloudfront.net/",
-            "Origin": "https://d2xz2v5wuvgur6.cloudfront.net"
+            "Referer": "https://r-plus.sedotcw3.workers.dev/",
+            "Origin": "https://r-plus.sedotcw3.workers.dev"
         },
         "drm_info": {
-            "is_protected": true,
-            "drm_type": "org.w3.clearkey",
-            "drm_key": "d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298",
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "RCTI - [Channel 1].id",
-            "tvg_name": "RCTI",
-            "tvg_logo": "https://i.imgur.com/C0a9fdx.jpeg",
+            "tvg_id": "auto.rcti.sports",
+            "tvg_name": "RCTI SPORTS",
+            "tvg_logo": "https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png",
             "source_xml": "Embedded"
         }
     },
-    {
+	{
         "id": 16,
         "title": "RCTI (+)",
         "category": "NASIONAL",
@@ -622,56 +622,6 @@
             "tvg_id": "",
             "tvg_name": "INEWS (R+)2️⃣",
             "tvg_logo": "https://i.imgur.com/NTYY97h.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 34,
-        "title": "🆕 TRANS 7 HD 1️⃣",
-        "category": "NASIONAL",
-        "uri": "https://bit.ly/trams7m3u",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://bit.ly/",
-            "Origin": "https://bit.ly"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "🆕 TRANS 7 HD 1️⃣",
-            "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 27,
-        "title": "🆕 TRANS 7 HD 2️⃣",
-        "category": "NASIONAL",
-        "uri": "http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8",
-        "user_agent": "ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://iptv.kilas7.com:80/",
-            "Origin": "https://iptv.kilas7.com:80"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Trans7.id",
-            "tvg_name": "🆕 TRANS 7 HD 2️⃣",
-            "tvg_logo": "https://i.imgur.com/WSnhDLn.jpeg",
             "source_xml": "Embedded"
         }
     },
