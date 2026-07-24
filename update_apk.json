@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 8,
-  "latestVersionName": "1.7",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.7-release.apk",
-  "releaseNotes": "• Fix tvN & Kplus: Perbaikan sistem pembaca playlist M3U untuk mendukung akses saluran premium.\n• Sports Stability: Jalur data diperkuat untuk siaran langsung pertandingan agar tidak putus-putus.\n• Non-Destructive Update: Peningkatan performa tanpa mengurangi kecepatan buka channel nasional & HBO.\n• Network Resilience: Waktu tunggu koneksi ditingkatkan menjadi 30 detik."
+  "latestVersionCode": 10,
+  "latestVersionName": "1.9",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v1.9-release.apk",
+  "releaseNotes": "• Full Immersive: Layar bersih total dari bar baterai dan tombol navigasi. Usap tepian layar untuk memunculkannya.\n• Smart Identity: Perbaikan Indosiar dan tvN yang sering tidak merespon.\n• Auto-Enforcement: Aplikasi otomatis memperbaiki data identitas server (Vision+, Vidio, tvratu).\n• Absolute Fix: Perbaikan sistem keamanan instalasi agar tidak lagi muncul error meta-data."
 }
