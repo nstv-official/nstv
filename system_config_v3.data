@@ -4216,9 +4216,34 @@
         }
     },
     {
+        "id": "01",
+        "title": "UEFA Champions League (720p)",
+        "category": "PIALA DUNIA 2026",
+        "uri": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://jmp2.uk/",
+            "Origin": "https://jmp2.uk"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.uefa.champions.league.720p",
+            "tvg_name": "UEFA Champions League (720p)",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+	{
         "id": 237,
         "title": "🆕⚽✅ LIVE 0  United Sports 2",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
         "user_agent": "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
         "is_live": true,
@@ -4243,7 +4268,7 @@
     {
         "id": 238,
         "title": "🆕⚽✅ LIVE 0  PTV Sports (Pakistan)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4268,7 +4293,7 @@
     {
         "id": 239,
         "title": "🆕⚽ LIVE 1 T Sports",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4343,7 +4368,7 @@
     {
         "id": 242,
         "title": "FIFA World Cup",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
         "user_agent": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
         "is_live": true,
@@ -4368,7 +4393,7 @@
     {
         "id": 243,
         "title": "🆕⚽ LIVE 1 (Caze)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
         "user_agent": "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
         "is_live": true,
@@ -4393,7 +4418,7 @@
     {
         "id": 244,
         "title": "🆕⚽✅ LIVE 0 SS",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4418,7 +4443,7 @@
     {
         "id": 245,
         "title": "🆕⚽ LIVE 3 (TIPIK 1)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
         "is_live": true,
@@ -4443,7 +4468,7 @@
     {
         "id": 246,
         "title": "🆕⚽ LIVE 1 (Sport)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -4468,7 +4493,7 @@
     {
         "id": 247,
         "title": "⚽Caze TV Channel 1 - BRA 🇧🇷 ✅",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4493,7 +4518,7 @@
     {
         "id": 248,
         "title": "⚽Caze TV Channel 2 - BRA 🇧🇷 ✅",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4518,7 +4543,7 @@
     {
         "id": 249,
         "title": "🆕⚽ LIVE 2 (CT SPORT 🇸🇰)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -4543,7 +4568,7 @@
     {
         "id": 250,
         "title": "🆕⚽ LIVE 2 (JOJ SPORT 🇸🇰)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -4568,7 +4593,7 @@
     {
         "id": 251,
         "title": "🆕⚽ LIVE2 (JOJ SPORT 2 🇸🇰)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -4593,7 +4618,7 @@
     {
         "id": 252,
         "title": "⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4618,7 +4643,7 @@
     {
         "id": 253,
         "title": "🆕⚽ LIVE 3 (TELEMUNDO)✅",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4643,7 +4668,7 @@
     {
         "id": 254,
         "title": "🆕⚽ LIVE 1  BBC 1 (UNITED KINGDOM)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://xemzi.short.gy/1000001",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4668,7 +4693,7 @@
     {
         "id": 255,
         "title": "🆕⚽ LIVE 0  iTV 1 (United Kingdom)",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://xemzi.short.gy/1000011",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4693,7 +4718,7 @@
     {
         "id": 256,
         "title": "🆕⚽LIVE 1 (TVP Sports)---",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4718,7 +4743,7 @@
     {
         "id": 257,
         "title": "🆕⚽ LIVE 3 (CCTV5) ✅",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://107.150.60.122/live/cctv5hd.m3u8",
         "user_agent": "Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1",
         "is_live": true,
@@ -4743,7 +4768,7 @@
     {
         "id": 258,
         "title": "CCTV5+",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4768,7 +4793,7 @@
     {
         "id": 259,
         "title": "FIFA+",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4793,7 +4818,7 @@
     {
         "id": 260,
         "title": "⚽☑(Universo)✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4818,7 +4843,7 @@
     {
         "id": 261,
         "title": "⚽☑ (TELEMUNDO)✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4843,7 +4868,7 @@
     {
         "id": 263,
         "title": "USA NETWORK",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/3694",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4868,7 +4893,7 @@
     {
         "id": 264,
         "title": "(ESPN 1 Brazil HD)",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/803",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4893,7 +4918,7 @@
     {
         "id": 265,
         "title": "(ESPN 4 Brazil HD)",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://restream-live.realiptv.to/MotherOfPins3/8746645/803",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4918,7 +4943,7 @@
     {
         "id": 266,
         "title": "TNT Sport 1 🇬🇧✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4943,7 +4968,7 @@
     {
         "id": 267,
         "title": "⚽☑ (BST) ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -4968,7 +4993,7 @@
     {
         "id": 268,
         "title": "✅LIVE 1",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash",
         "user_agent": "VidioPlayer/6.41.11",
         "is_live": true,
@@ -4993,7 +5018,7 @@
     {
         "id": 269,
         "title": "MUTV ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://get.perfecttv.net/mutv.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5018,7 +5043,7 @@
     {
         "id": 271,
         "title": "✅ LIVE 2",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash",
         "user_agent": "VidioPlayer/6.41.11",
         "is_live": true,
@@ -5043,7 +5068,7 @@
     {
         "id": 273,
         "title": "LIVE 8 (Bein Sport 3 Turkey)",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5068,7 +5093,7 @@
     {
         "id": 274,
         "title": "SKY SPORT F1 ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5093,7 +5118,7 @@
     {
         "id": 275,
         "title": "SKY_CALCIO ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5118,7 +5143,7 @@
     {
         "id": 276,
         "title": "SKY SPORT MAX ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5143,7 +5168,7 @@
     {
         "id": 277,
         "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5168,7 +5193,7 @@
     {
         "id": 278,
         "title": "SKY_MIX ✅",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5193,7 +5218,7 @@
     {
         "id": 279,
         "title": "🆕Sportstars 1 HD (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -5218,7 +5243,7 @@
     {
         "id": 280,
         "title": "🆕Sportstars 2 HD (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -5243,7 +5268,7 @@
     {
         "id": 281,
         "title": "🆕beIN Sports 2 (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -5268,7 +5293,7 @@
     {
         "id": 282,
         "title": "🆕beIN Sports 1 (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -5293,7 +5318,7 @@
     {
         "id": 283,
         "title": "🆕Sportstars 4 HD (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -5318,7 +5343,7 @@
     {
         "id": 284,
         "title": "🆕beIN Sports 3 ID (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
         "user_agent": "Mozilla/5.0",
         "is_live": true,
@@ -5343,7 +5368,7 @@
     {
         "id": 285,
         "title": "SKY SPORT 1 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport1/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5368,7 +5393,7 @@
     {
         "id": 286,
         "title": "SKY SPORT 2 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport2/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5393,7 +5418,7 @@
     {
         "id": 287,
         "title": "SKY SPORT 4 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport4/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5418,7 +5443,7 @@
     {
         "id": 288,
         "title": "GB : TNT SPORTS 01",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5443,7 +5468,7 @@
     {
         "id": 290,
         "title": "SKY SPORT 3 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport3/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5468,7 +5493,7 @@
     {
         "id": 291,
         "title": "🆕 Soccer Channel (167)",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "http://103.137.83.62:9090/play/35/index.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5493,7 +5518,7 @@
     {
         "id": 292,
         "title": "SKY_CALCIO ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5518,7 +5543,7 @@
     {
         "id": 293,
         "title": "SKY SPORT 5 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport5/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5543,7 +5568,7 @@
     {
         "id": 294,
         "title": "SKY SPORT 8 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport8/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5568,7 +5593,7 @@
     {
         "id": 295,
         "title": "SKY SPORT 9 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport9/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5593,7 +5618,7 @@
     {
         "id": 296,
         "title": "SKY SPORT MAX ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5618,7 +5643,7 @@
     {
         "id": 297,
         "title": "SKY SPORT 7 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport7/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5643,7 +5668,7 @@
     {
         "id": 298,
         "title": "🆕⚽ LIVE 1  RTE",
-        "category": "BOLA | PIALA DUNIA 2026",
+        "category": "PIALA DUNIA 2026",
         "uri": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5659,7 +5684,7 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "b",
+            "tvg_id": "LIVE",
             "tvg_name": "🆕⚽ LIVE 1  RTE",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
             "source_xml": "Embedded"
@@ -5668,7 +5693,7 @@
     {
         "id": 299,
         "title": "SKY_MIX ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5693,7 +5718,7 @@
     {
         "id": 300,
         "title": "DAZN FAST (BUNDESLIGA) ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5718,7 +5743,7 @@
     {
         "id": 301,
         "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5743,7 +5768,7 @@
     {
         "id": 302,
         "title": "SKY SPORT F1 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5768,7 +5793,7 @@
     {
         "id": 303,
         "title": "SKY SPORT 6 ✅",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport6/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5793,7 +5818,7 @@
     {
         "id": 304,
         "title": "🆕beIN Sports 1 (167)",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -5818,7 +5843,7 @@
     {
         "id": 305,
         "title": "🆕beIN Sports 2 (167)",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -5843,7 +5868,7 @@
     {
         "id": 306,
         "title": "🆕beIN Sports 3 ID (167)",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
         "user_agent": "Mozilla/5.0",
         "is_live": true,
@@ -5868,7 +5893,7 @@
     {
         "id": 308,
         "title": "SKY SPORT 1 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport1/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5893,7 +5918,7 @@
     {
         "id": 309,
         "title": "Ziggo6",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5918,7 +5943,7 @@
     {
         "id": 310,
         "title": "SKY SPORT 2 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport2/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5943,7 +5968,7 @@
     {
         "id": 311,
         "title": "Ziggo5",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5968,7 +5993,7 @@
     {
         "id": 312,
         "title": "Ziggo3",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -5993,7 +6018,7 @@
     {
         "id": 313,
         "title": "SKY SPORT 3 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport3/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6018,7 +6043,7 @@
     {
         "id": 314,
         "title": "Ziggo2",
-        "category": "BOLA | LIGA INGGRIS",
+        "category": "LIGA INGGRIS",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6043,7 +6068,7 @@
     {
         "id": 315,
         "title": "SKY SPORT 5 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport5/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6068,7 +6093,7 @@
     {
         "id": 316,
         "title": "SKY SPORT 7 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport7/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6093,7 +6118,7 @@
     {
         "id": 317,
         "title": "SKY SPORT 6 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport6/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6118,7 +6143,7 @@
     {
         "id": 318,
         "title": "SKY SPORT 8 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport8/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6143,7 +6168,7 @@
     {
         "id": 319,
         "title": "SKY_CALCIO ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6168,7 +6193,7 @@
     {
         "id": 320,
         "title": "SKY SPORT F1 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6193,7 +6218,7 @@
     {
         "id": 321,
         "title": "SKY SPORT MAX ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6218,7 +6243,7 @@
     {
         "id": 322,
         "title": "SKY SPORT 9 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport9/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6243,7 +6268,7 @@
     {
         "id": 323,
         "title": "LaLiGA ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6268,7 +6293,7 @@
     {
         "id": 324,
         "title": "SKY SPORT 4 ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://sky-nz.b-cdn.net/skysport4/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6293,7 +6318,7 @@
     {
         "id": 325,
         "title": "SKY_MIX ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6318,7 +6343,7 @@
     {
         "id": 326,
         "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6343,7 +6368,7 @@
     {
         "id": 327,
         "title": "Ziggo2",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6368,7 +6393,7 @@
     {
         "id": 328,
         "title": "Ziggo5",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6393,7 +6418,7 @@
     {
         "id": 329,
         "title": "Ziggo6",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6418,7 +6443,7 @@
     {
         "id": 330,
         "title": "TNT Sport 1 🇬🇧✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6443,7 +6468,7 @@
     {
         "id": 331,
         "title": "Ziggo3",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6468,7 +6493,7 @@
     {
         "id": 332,
         "title": "Serie A ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6493,7 +6518,7 @@
     {
         "id": 333,
         "title": "TNT Sport 2 🇬🇧✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6518,7 +6543,7 @@
     {
         "id": 334,
         "title": "🆕beIN Sports 1 (167)",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -6543,7 +6568,7 @@
     {
         "id": 335,
         "title": "🆕beIN Sports 2 (167)",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -6568,7 +6593,7 @@
     {
         "id": 336,
         "title": "LIVE 1 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash",
         "user_agent": "VidioPlayer/6.41.11",
         "is_live": true,
@@ -6593,7 +6618,7 @@
     {
         "id": 337,
         "title": "🆕beIN Sports 3 ID (167)",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
         "user_agent": "Mozilla/5.0",
         "is_live": true,
@@ -6618,7 +6643,7 @@
     {
         "id": 338,
         "title": "SKY SPORT 1 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport1/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6643,7 +6668,7 @@
     {
         "id": 339,
         "title": "SKY SPORT 2 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport2/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6668,7 +6693,7 @@
     {
         "id": 340,
         "title": "live 1 Fubo Sports",
-        "category": "BOLA | BUNDESLIGA",
+        "category": "BUNDESLIGA",
         "uri": "https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6693,7 +6718,7 @@
     {
         "id": 341,
         "title": "live 1 Fubo Sports",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6718,7 +6743,7 @@
     {
         "id": 342,
         "title": "SKY SPORT 3 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport3/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6743,7 +6768,7 @@
     {
         "id": 343,
         "title": "SKY SPORT 5 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport5/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6768,7 +6793,7 @@
     {
         "id": 344,
         "title": "SKY SPORT 4 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport4/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6793,7 +6818,7 @@
     {
         "id": 345,
         "title": "LIVE 1 CBS Sports Golazo✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6818,7 +6843,7 @@
     {
         "id": 346,
         "title": "Ziggo3",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6843,7 +6868,7 @@
     {
         "id": 347,
         "title": "Ziggo2",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6868,7 +6893,7 @@
     {
         "id": 348,
         "title": "SKY SPORT 8 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport8/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6893,7 +6918,7 @@
     {
         "id": 349,
         "title": "Ziggo6",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6918,7 +6943,7 @@
     {
         "id": 350,
         "title": "SKY SPORT 7 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport7/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6943,7 +6968,7 @@
     {
         "id": 351,
         "title": "SKY SPORT 9 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport9/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6968,7 +6993,7 @@
     {
         "id": 352,
         "title": "SKY_CALCIO ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -6993,7 +7018,7 @@
     {
         "id": 353,
         "title": "Ziggo5",
-        "category": "BOLA | LALIGA",
+        "category": "LALIGA",
         "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7018,7 +7043,7 @@
     {
         "id": 354,
         "title": "SKY SPORT MAX ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7043,7 +7068,7 @@
     {
         "id": 355,
         "title": "SKY SPORT F1 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7068,7 +7093,7 @@
     {
         "id": 356,
         "title": "SportDigital FUSSBALL DE",
-        "category": "BOLA | SUPERCOPA DE ESPANA",
+        "category": "SUPERCOPA DE ESPANA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7093,7 +7118,7 @@
     {
         "id": 357,
         "title": "SKY SPORT 6 ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://sky-nz.b-cdn.net/skysport6/master.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7118,7 +7143,7 @@
     {
         "id": 358,
         "title": "SKY SPORT TOP EVENT ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7143,7 +7168,7 @@
     {
         "id": 359,
         "title": "SKY_MIX ✅",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7168,7 +7193,7 @@
     {
         "id": 360,
         "title": "🆕beIN Sports 1 (167)",
-        "category": "BOLA | LEAGUE CUP",
+        "category": "LEAGUE CUP",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -7193,7 +7218,7 @@
     {
         "id": 361,
         "title": "TNT Sport 4 🇬🇧 (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)",
-        "category": "BOLA | SUPERCOPA DE ESPANA",
+        "category": "SUPERCOPA DE ESPANA",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7218,7 +7243,7 @@
     {
         "id": 362,
         "title": "SportDigital FUSSBALL DE",
-        "category": "BOLA | PRO LEAGUE",
+        "category": "PRO LEAGUE",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7243,7 +7268,7 @@
     {
         "id": 363,
         "title": "🆕beIN Sports 3 ID (167)",
-        "category": "BOLA | LEAGUE CUP",
+        "category": "LEAGUE CUP",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
         "user_agent": "Mozilla/5.0",
         "is_live": true,
@@ -7268,7 +7293,7 @@
     {
         "id": 364,
         "title": "🆕beIN Sports 2 (167)",
-        "category": "BOLA | LEAGUE CUP",
+        "category": "LEAGUE CUP",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -7293,7 +7318,7 @@
     {
         "id": 365,
         "title": "070. ElevenSport1",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7318,7 +7343,7 @@
     {
         "id": 366,
         "title": "071. ElevenSport2",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7343,7 +7368,7 @@
     {
         "id": 367,
         "title": "072. ElevenSport3",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7368,7 +7393,7 @@
     {
         "id": 368,
         "title": "100. SonySports1",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7393,7 +7418,7 @@
     {
         "id": 369,
         "title": "GB : TNT SPORTS 01",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7418,7 +7443,7 @@
     {
         "id": 370,
         "title": "🆕Sportstars 1 HD (167)",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -7443,7 +7468,7 @@
     {
         "id": 372,
         "title": "🆕Sportstars 2 HD (167)",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -7468,7 +7493,7 @@
     {
         "id": 373,
         "title": "GB : TNT SPORTS 02",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7493,7 +7518,7 @@
     {
         "id": 374,
         "title": "🆕Sportstars 4 HD (167)",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -7518,7 +7543,7 @@
     {
         "id": 375,
         "title": "🆕 Soccer Channel (167)",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "http://103.137.83.62:9090/play/35/index.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7543,7 +7568,7 @@
     {
         "id": 376,
         "title": "Ziggo3",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7568,7 +7593,7 @@
     {
         "id": 377,
         "title": "Ziggo5",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7593,7 +7618,7 @@
     {
         "id": 378,
         "title": "Ziggo6",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7618,7 +7643,7 @@
     {
         "id": 379,
         "title": "live 1 Fubo Sports",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7643,7 +7668,7 @@
     {
         "id": 380,
         "title": "070. ElevenSport1",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7668,7 +7693,7 @@
     {
         "id": 381,
         "title": "071. ElevenSport2",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7693,7 +7718,7 @@
     {
         "id": 382,
         "title": "Ziggo2",
-        "category": "BOLA | SERIE A",
+        "category": "SERIE A",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7718,7 +7743,7 @@
     {
         "id": 383,
         "title": "072. ElevenSport3",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7743,7 +7768,7 @@
     {
         "id": 384,
         "title": "TNT Sport 4 🇬🇧 ✅",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7768,7 +7793,7 @@
     {
         "id": 385,
         "title": "TNT Sport 3 🇬🇧 ✅",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7793,7 +7818,7 @@
     {
         "id": 386,
         "title": "100. SonySports1",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7818,7 +7843,7 @@
     {
         "id": 387,
         "title": "🆕beIN Sports 1 (167)",
-        "category": "BOLA | UEFA CHAMPIONS LEAGUE",
+        "category": "UEFA CHAMPIONS LEAGUE",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -7843,7 +7868,7 @@
     {
         "id": 388,
         "title": "GB : TNT SPORTS 01",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7868,7 +7893,7 @@
     {
         "id": 389,
         "title": "GB : TNT SPORTS 02",
-        "category": "BOLA | UEFA EROPA LEAGUE",
+        "category": "UEFA EROPA LEAGUE",
         "uri": "http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7893,7 +7918,7 @@
     {
         "id": 390,
         "title": "🆕beIN Sports 2 (167)",
-        "category": "BOLA | UEFA CHAMPIONS LEAGUE",
+        "category": "UEFA CHAMPIONS LEAGUE",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
         "is_live": true,
@@ -7918,7 +7943,7 @@
     {
         "id": 391,
         "title": "🆕beIN Sports 3 ID (167)",
-        "category": "BOLA | UEFA CHAMPIONS LEAGUE",
+        "category": "UEFA CHAMPIONS LEAGUE",
         "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
         "user_agent": "Mozilla/5.0",
         "is_live": true,
@@ -7943,7 +7968,7 @@
     {
         "id": 392,
         "title": "live 1 Fubo Sports",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -7968,7 +7993,7 @@
     {
         "id": 393,
         "title": "🆕Sportstars 1 HD (167)",
-        "category": "BOLA | FRIENDLY MATCH",
+        "category": "FRIENDLY MATCH",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -7993,7 +8018,7 @@
     {
         "id": 394,
         "title": "🆕Sportstars 4 HD (167)",
-        "category": "BOLA | FRIENDLY MATCH",
+        "category": "FRIENDLY MATCH",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
         "is_live": true,
@@ -8018,7 +8043,7 @@
     {
         "id": 395,
         "title": "🆕Sportstars 2 HD (167)",
-        "category": "BOLA | FRIENDLY MATCH",
+        "category": "FRIENDLY MATCH",
         "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
         "is_live": true,
@@ -8043,7 +8068,7 @@
     {
         "id": 396,
         "title": "Ziggo2",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -8068,7 +8093,7 @@
     {
         "id": 397,
         "title": "Ziggo6",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -8093,7 +8118,7 @@
     {
         "id": 398,
         "title": "Ziggo3",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -8118,7 +8143,7 @@
     {
         "id": 399,
         "title": "Ziggo5",
-        "category": "BOLA | UEFA NATIONS LEAGUE",
+        "category": "UEFA NATIONS LEAGUE",
         "uri": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -8143,7 +8168,7 @@
     {
         "id": 400,
         "title": "SCTV",
-        "category": "BOLA | ASEAN U19 Championship 2026",
+        "category": "ASEAN U19 Championship 2026",
         "uri": "http://opplextv.cyou:8080/nasir6160/nasir/351030",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
