@@ -1,5 +1,30 @@
 [
     {
+        "id": "1",
+        "title": "Soccer Channel",
+        "category": "Sports",
+        "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d2xz2v5wuvgur6.cloudfront.net/",
+            "Origin": "https://d2xz2v5wuvgur6.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "SoccerChannel.id",
+            "tvg_name": "Soccer Channel",
+            "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741",
+            "source_xml": "Embedded"
+        }
+    },
+	{
         "id": 1,
         "title": "PTV Sports (Pakistan)",
         "category": "WorldCup 2026",
