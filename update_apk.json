@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "2.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.2-release.apk",
-  "releaseNotes": "• EMERGENCY FIX: Pemulihan total saluran nasional (RCTI, MNCTV, dll) yang gagal muat di versi sebelumnya.\n• tvN & Indosiar Fix: Penyelarasan identitas keamanan untuk akses saluran premium tanpa merusak saluran lain.\n• High Performance: Mengaktifkan kembali mesin pembaca stream TS untuk suara dan gambar yang lebih stabil."
+  "latestVersionCode": 14,
+  "latestVersionName": "2.3",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.3-release.apk",
+  "releaseNotes": "• Fitur BOLA LIVE: Tab server baru khusus untuk hasil buruan link bola otomatis (Xoilac).\n• Integrasi 3 Sumber: Aplikasi sekarang menggabungkan 3 sumber playlist sekaligus tanpa menghapus channel utama.\n• UI Navigation: Peningkatan menu navigasi server untuk akses yang lebih cepat di HP dan TV."
 }
