@@ -10722,46 +10722,6 @@
         },
         {
             "id": 269,
-            "title": "BAND 720P",
-            "category": "BRAZIL",
-            "uri": "http://45.190.28.50/BAND_HD/index.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "http://45.190.28.50/",
-                "Origin": "http://45.190.28.50"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "http://45.190.28.50/BAND_HD/index.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "http://45.190.28.50/",
-                        "Origin": "http://45.190.28.50"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "Band.br@SD",
-                "tvg_name": "BAND 720P",
-                "tvg_logo": "https://i.imgur.com/1r5T6Pw.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 270,
             "title": "BANDUNG TV",
             "category": "LOCAL CHANNELS",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd",
@@ -10801,7 +10761,7 @@
             }
         },
         {
-            "id": 271,
+            "id": 270,
             "title": "BANGLA TV 720P",
             "category": "BANGLADESH",
             "uri": "https://tvsen6.aynaott.com/banglatv/index.m3u8",
@@ -10841,7 +10801,7 @@
             }
         },
         {
-            "id": 272,
+            "id": 271,
             "title": "BANGLA VISION 1080P",
             "category": "BANGLADESH",
             "uri": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
@@ -10881,7 +10841,7 @@
             }
         },
         {
-            "id": 273,
+            "id": 272,
             "title": "BANJARTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
@@ -10921,7 +10881,7 @@
             }
         },
         {
-            "id": 274,
+            "id": 273,
             "title": "BANTENTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
@@ -10961,7 +10921,7 @@
             }
         },
         {
-            "id": 275,
+            "id": 274,
             "title": "BANYUMASTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
@@ -11001,7 +10961,7 @@
             }
         },
         {
-            "id": 276,
+            "id": 275,
             "title": "BBC 1",
             "category": "SPORTS",
             "uri": "https://xemzi.short.gy/1000001",
@@ -11041,7 +11001,7 @@
             }
         },
         {
-            "id": 277,
+            "id": 276,
             "title": "BBC 2",
             "category": "SPORTS",
             "uri": "https://xemzi.short.gy/1000002",
@@ -11081,7 +11041,7 @@
             }
         },
         {
-            "id": 278,
+            "id": 277,
             "title": "BBC ALBA 1080P HEVC GEOBLOCKED",
             "category": "UNITED KINGDOM",
             "uri": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd",
@@ -11121,7 +11081,7 @@
             }
         },
         {
-            "id": 279,
+            "id": 278,
             "title": "BBC FOUR HD 720P GEOBLOCKED",
             "category": "UNITED KINGDOM",
             "uri": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
@@ -11161,7 +11121,7 @@
             }
         },
         {
-            "id": 280,
+            "id": 279,
             "title": "BBC FOURCBEEBIES 720P",
             "category": "UNITED KINGDOM",
             "uri": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
@@ -11201,7 +11161,7 @@
             }
         },
         {
-            "id": 281,
+            "id": 280,
             "title": "BBC LIFESTYLE",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd",
@@ -11241,47 +11201,7 @@
             }
         },
         {
-            "id": 282,
-            "title": "BBC ONE EAST 720P GEOBLOCKED",
-            "category": "UNITED KINGDOM",
-            "uri": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://vs-cmaf-pushb-uk-live.akamaized.net/",
-                "Origin": "https://vs-cmaf-pushb-uk-live.akamaized.net"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://vs-cmaf-pushb-uk-live.akamaized.net/",
-                        "Origin": "https://vs-cmaf-pushb-uk-live.akamaized.net"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "BBCOne.uk@East",
-                "tvg_name": "BBC ONE EAST 720P GEOBLOCKED",
-                "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 283,
+            "id": 281,
             "title": "BBS BUDDHIST BROADCASTING 1080P",
             "category": "KOREA",
             "uri": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
@@ -11321,7 +11241,7 @@
             }
         },
         {
-            "id": 284,
+            "id": 282,
             "title": "BCS STARCROSS TV 576P",
             "category": "NIGERIA",
             "uri": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
@@ -11361,7 +11281,7 @@
             }
         },
         {
-            "id": 285,
+            "id": 283,
             "title": "BEIN SPORTS 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/100",
@@ -11401,7 +11321,7 @@
             }
         },
         {
-            "id": 286,
+            "id": 284,
             "title": "BEIN SPORTS 1 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510908",
@@ -11441,7 +11361,7 @@
             }
         },
         {
-            "id": 287,
+            "id": 285,
             "title": "BEIN SPORTS 1 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
@@ -11481,7 +11401,7 @@
             }
         },
         {
-            "id": 288,
+            "id": 286,
             "title": "BEIN SPORTS 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/101",
@@ -11521,7 +11441,7 @@
             }
         },
         {
-            "id": 289,
+            "id": 287,
             "title": "BEIN SPORTS 2 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909",
@@ -11561,7 +11481,7 @@
             }
         },
         {
-            "id": 290,
+            "id": 288,
             "title": "BEIN SPORTS 2 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
@@ -11601,7 +11521,7 @@
             }
         },
         {
-            "id": 291,
+            "id": 289,
             "title": "BEIN SPORTS 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/102",
@@ -11641,7 +11561,7 @@
             }
         },
         {
-            "id": 292,
+            "id": 290,
             "title": "BEIN SPORTS 3 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910",
@@ -11681,7 +11601,7 @@
             }
         },
         {
-            "id": 293,
+            "id": 291,
             "title": "BEIN SPORTS 3 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
@@ -11721,7 +11641,7 @@
             }
         },
         {
-            "id": 294,
+            "id": 292,
             "title": "BEIN SPORTS 4",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/103",
@@ -11761,7 +11681,7 @@
             }
         },
         {
-            "id": 295,
+            "id": 293,
             "title": "BEIN SPORTS 4 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510911",
@@ -11801,7 +11721,7 @@
             }
         },
         {
-            "id": 296,
+            "id": 294,
             "title": "BEIN SPORTS 5",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/104",
@@ -11841,7 +11761,7 @@
             }
         },
         {
-            "id": 297,
+            "id": 295,
             "title": "BEIN SPORTS 5 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510912",
@@ -11881,7 +11801,7 @@
             }
         },
         {
-            "id": 298,
+            "id": 296,
             "title": "BEIN SPORTS 6",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/105",
@@ -11921,7 +11841,7 @@
             }
         },
         {
-            "id": 299,
+            "id": 297,
             "title": "BEIN SPORTS 6 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510913",
@@ -11961,7 +11881,7 @@
             }
         },
         {
-            "id": 300,
+            "id": 298,
             "title": "BEIN SPORTS 7",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/106",
@@ -12001,7 +11921,7 @@
             }
         },
         {
-            "id": 301,
+            "id": 299,
             "title": "BEIN SPORTS 7 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510914",
@@ -12041,7 +11961,7 @@
             }
         },
         {
-            "id": 302,
+            "id": 300,
             "title": "BEIN SPORTS 8",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/107",
@@ -12081,7 +12001,7 @@
             }
         },
         {
-            "id": 303,
+            "id": 301,
             "title": "BEIN SPORTS 8 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510915",
@@ -12121,7 +12041,7 @@
             }
         },
         {
-            "id": 304,
+            "id": 302,
             "title": "BEIN SPORTS 9",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/108",
@@ -12161,7 +12081,7 @@
             }
         },
         {
-            "id": 305,
+            "id": 303,
             "title": "BEIN SPORTS 9 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510916",
@@ -12201,7 +12121,7 @@
             }
         },
         {
-            "id": 306,
+            "id": 304,
             "title": "BEIN SPORTS ENG 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/110",
@@ -12241,7 +12161,7 @@
             }
         },
         {
-            "id": 307,
+            "id": 305,
             "title": "BEIN SPORTS ENG 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/111",
@@ -12281,7 +12201,7 @@
             }
         },
         {
-            "id": 308,
+            "id": 306,
             "title": "BEIN SPORTS ENG 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267769",
@@ -12321,7 +12241,7 @@
             }
         },
         {
-            "id": 309,
+            "id": 307,
             "title": "BEIN SPORTS EX 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/290037",
@@ -12361,7 +12281,7 @@
             }
         },
         {
-            "id": 310,
+            "id": 308,
             "title": "BEIN SPORTS FR 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/144",
@@ -12401,7 +12321,7 @@
             }
         },
         {
-            "id": 311,
+            "id": 309,
             "title": "BEIN SPORTS FR 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/145",
@@ -12441,7 +12361,7 @@
             }
         },
         {
-            "id": 312,
+            "id": 310,
             "title": "BEIN SPORTS GLOBAL",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/16779",
@@ -12481,7 +12401,7 @@
             }
         },
         {
-            "id": 313,
+            "id": 311,
             "title": "BEIN SPORTS MAX 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/296991",
@@ -12521,7 +12441,7 @@
             }
         },
         {
-            "id": 314,
+            "id": 312,
             "title": "BEIN SPORTS MAX 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/199001",
@@ -12561,7 +12481,7 @@
             }
         },
         {
-            "id": 315,
+            "id": 313,
             "title": "BEIN SPORTS NEW",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1266",
@@ -12601,7 +12521,7 @@
             }
         },
         {
-            "id": 316,
+            "id": 314,
             "title": "BEIN SPORTS PH 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282772",
@@ -12641,7 +12561,7 @@
             }
         },
         {
-            "id": 317,
+            "id": 315,
             "title": "BEIN SPORTS PH 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282773",
@@ -12681,7 +12601,7 @@
             }
         },
         {
-            "id": 318,
+            "id": 316,
             "title": "BEIN SPORTS PH 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299259",
@@ -12721,7 +12641,7 @@
             }
         },
         {
-            "id": 319,
+            "id": 317,
             "title": "BEIN SPORTS XTRA 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -12761,7 +12681,7 @@
             }
         },
         {
-            "id": 320,
+            "id": 318,
             "title": "BEIN SPORTS XTRA EN ESPANOL 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
@@ -12801,7 +12721,7 @@
             }
         },
         {
-            "id": 321,
+            "id": 319,
             "title": "BENDICION CHANNEL 720P",
             "category": "COLOMBIA",
             "uri": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
@@ -12841,7 +12761,7 @@
             }
         },
         {
-            "id": 322,
+            "id": 320,
             "title": "BENGUTURK TV 1080P",
             "category": "TURKEY",
             "uri": "http://185.234.111.229:8000/play/a05u",
@@ -12881,7 +12801,7 @@
             }
         },
         {
-            "id": 323,
+            "id": 321,
             "title": "BERITA RTM",
             "category": "MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8",
@@ -12921,7 +12841,7 @@
             }
         },
         {
-            "id": 324,
+            "id": 322,
             "title": "BERITA SATU",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd",
@@ -12961,7 +12881,7 @@
             }
         },
         {
-            "id": 325,
+            "id": 323,
             "title": "BEYAZ TV 1080P",
             "category": "TURKEY",
             "uri": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
@@ -13001,7 +12921,7 @@
             }
         },
         {
-            "id": 326,
+            "id": 324,
             "title": "BIJOY TV 720P",
             "category": "BANGLADESH",
             "uri": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
@@ -13041,7 +12961,7 @@
             }
         },
         {
-            "id": 327,
+            "id": 325,
             "title": "BITME 1080P",
             "category": "MEXICO",
             "uri": "https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8",
@@ -13081,7 +13001,7 @@
             }
         },
         {
-            "id": 328,
+            "id": 326,
             "title": "BIZIMEV TV 720P",
             "category": "TURKEY",
             "uri": "https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8",
@@ -13121,7 +13041,7 @@
             }
         },
         {
-            "id": 329,
+            "id": 327,
             "title": "BLACK 576P",
             "category": "RUSSIA",
             "uri": "http://stream.mcquack.net/263/index.m3u8",
@@ -13161,7 +13081,7 @@
             }
         },
         {
-            "id": 330,
+            "id": 328,
             "title": "BLOOMBERG HT 720P",
             "category": "TURKEY",
             "uri": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
@@ -13201,7 +13121,7 @@
             }
         },
         {
-            "id": 331,
+            "id": 329,
             "title": "BN CHANNEL CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8",
@@ -13241,7 +13161,7 @@
             }
         },
         {
-            "id": 332,
+            "id": 330,
             "title": "BOOMERANG",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd",
@@ -13281,7 +13201,7 @@
             }
         },
         {
-            "id": 333,
+            "id": 331,
             "title": "BOONNIYOM TV",
             "category": "THAILAND",
             "uri": "https://live.x2.co.th/live/bntv.m3u8",
@@ -13321,7 +13241,7 @@
             }
         },
         {
-            "id": 334,
+            "id": 332,
             "title": "BRIDE TV 576P",
             "category": "NIGERIA",
             "uri": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
@@ -13361,7 +13281,7 @@
             }
         },
         {
-            "id": 335,
+            "id": 333,
             "title": "BRTV 720P GEOBLOCKED",
             "category": "TURKEY",
             "uri": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
@@ -13401,7 +13321,7 @@
             }
         },
         {
-            "id": 336,
+            "id": 334,
             "title": "BS ANIMAX",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
@@ -13441,7 +13361,7 @@
             }
         },
         {
-            "id": 337,
+            "id": 335,
             "title": "BS ASAHI",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
@@ -13481,7 +13401,7 @@
             }
         },
         {
-            "id": 338,
+            "id": 336,
             "title": "BS FISHING VISION",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
@@ -13521,7 +13441,7 @@
             }
         },
         {
-            "id": 339,
+            "id": 337,
             "title": "BS FUJI",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
@@ -13561,7 +13481,7 @@
             }
         },
         {
-            "id": 340,
+            "id": 338,
             "title": "BS NTV",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
@@ -13601,7 +13521,7 @@
             }
         },
         {
-            "id": 341,
+            "id": 339,
             "title": "BS TBS",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
@@ -13641,7 +13561,7 @@
             }
         },
         {
-            "id": 342,
+            "id": 340,
             "title": "BS TV TOKYO",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
@@ -13681,7 +13601,7 @@
             }
         },
         {
-            "id": 343,
+            "id": 341,
             "title": "BTN TV 1080P",
             "category": "KOREA",
             "uri": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
@@ -13721,7 +13641,7 @@
             }
         },
         {
-            "id": 344,
+            "id": 342,
             "title": "BTV BANGLADESH",
             "category": "WORLDCUP 2026",
             "uri": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
@@ -13761,7 +13681,7 @@
             }
         },
         {
-            "id": 345,
+            "id": 343,
             "title": "BTV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd",
@@ -13801,7 +13721,7 @@
             }
         },
         {
-            "id": 346,
+            "id": 344,
             "title": "BU TEJO SOWAN JAKARTA",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/tzav6YZV?download",
@@ -13841,7 +13761,7 @@
             }
         },
         {
-            "id": 347,
+            "id": 345,
             "title": "BUENISIMA RADIO TV",
             "category": "COLOMBIA",
             "uri": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
@@ -13881,7 +13801,7 @@
             }
         },
         {
-            "id": 348,
+            "id": 346,
             "title": "CAO BẰNG TV 720P",
             "category": "VIETNAM",
             "uri": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
@@ -13921,7 +13841,7 @@
             }
         },
         {
-            "id": 349,
+            "id": 347,
             "title": "CAPE TOWN TV 576P",
             "category": "SOUTH AFRICA",
             "uri": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
@@ -13961,7 +13881,7 @@
             }
         },
         {
-            "id": 350,
+            "id": 348,
             "title": "CAPUCHIN TV",
             "category": "KENYA",
             "uri": "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8",
@@ -14001,7 +13921,7 @@
             }
         },
         {
-            "id": 351,
+            "id": 349,
             "title": "CARTOON CHANNEL PH 720P GEOBLOCKED",
             "category": "PHILIPPINES",
             "uri": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv",
@@ -14041,7 +13961,7 @@
             }
         },
         {
-            "id": 352,
+            "id": 350,
             "title": "CARTOON NETWORK",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
@@ -14081,7 +14001,7 @@
             }
         },
         {
-            "id": 353,
+            "id": 351,
             "title": "CARUBANTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://stream.carubantv.id/hls/0/stream.m3u8",
@@ -14121,7 +14041,7 @@
             }
         },
         {
-            "id": 354,
+            "id": 352,
             "title": "CAZE TV BR",
             "category": "WORLDCUP 2026",
             "uri": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
@@ -14161,7 +14081,7 @@
             }
         },
         {
-            "id": 355,
+            "id": 353,
             "title": "CBC 576P",
             "category": "EGYPT",
             "uri": "https://flu.systemnet.tv/CBC/index.m3u8",
@@ -14201,7 +14121,7 @@
             }
         },
         {
-            "id": 356,
+            "id": 354,
             "title": "CBC DRAMA 576P",
             "category": "EGYPT",
             "uri": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
@@ -14241,7 +14161,7 @@
             }
         },
         {
-            "id": 357,
+            "id": 355,
             "title": "CBC SOFRA 576P",
             "category": "EGYPT",
             "uri": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
@@ -14281,7 +14201,7 @@
             }
         },
         {
-            "id": 358,
+            "id": 356,
             "title": "CBEEBIES",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_2500000=7-3277707030000000.mpd",
@@ -14321,7 +14241,7 @@
             }
         },
         {
-            "id": 359,
+            "id": 357,
             "title": "CBS CHAMPIONS",
             "category": "SPORTS",
             "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1",
@@ -14361,7 +14281,7 @@
             }
         },
         {
-            "id": 360,
+            "id": 358,
             "title": "CBS GOLAZO NETWORK",
             "category": "SPORTS",
             "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96",
@@ -14401,7 +14321,7 @@
             }
         },
         {
-            "id": 361,
+            "id": 359,
             "title": "CBS SPORTS HQ",
             "category": "SPORTS",
             "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1",
@@ -14441,7 +14361,7 @@
             }
         },
         {
-            "id": 362,
+            "id": 360,
             "title": "CCTV 4",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/CCTV_4/CCTV_4-avc1_2500000=7-3277707030000000.mpd",
@@ -14481,7 +14401,7 @@
             }
         },
         {
-            "id": 363,
+            "id": 361,
             "title": "CEK OMBAK LAGI",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/zUBcXqQw?download",
@@ -14521,7 +14441,7 @@
             }
         },
         {
-            "id": 364,
+            "id": 362,
             "title": "CELEBRITIESTV V",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd",
@@ -14561,7 +14481,7 @@
             }
         },
         {
-            "id": 365,
+            "id": 363,
             "title": "CELESTIAL CLASSIC MOVIES V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd",
@@ -14601,7 +14521,7 @@
             }
         },
         {
-            "id": 366,
+            "id": 364,
             "title": "CELESTIAL MOVIES V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd",
@@ -14641,7 +14561,7 @@
             }
         },
         {
-            "id": 367,
+            "id": 365,
             "title": "CGNTV SOUTH KOREA 1080P",
             "category": "KOREA",
             "uri": "https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8",
@@ -14681,7 +14601,7 @@
             }
         },
         {
-            "id": 368,
+            "id": 366,
             "title": "CHANNEL 5",
             "category": "MEDIACORP SINGAPORE",
             "uri": "https://iptv.kilas7.com:80/kaukia/asdfrewq/22",
@@ -14721,7 +14641,7 @@
             }
         },
         {
-            "id": 369,
+            "id": 367,
             "title": "CHANNEL 5 1080P",
             "category": "THAILAND",
             "uri": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
@@ -14761,7 +14681,7 @@
             }
         },
         {
-            "id": 370,
+            "id": 368,
             "title": "CHANNEL 7 1080P",
             "category": "THAILAND",
             "uri": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
@@ -14801,7 +14721,7 @@
             }
         },
         {
-            "id": 371,
+            "id": 369,
             "title": "CHANNEL 8",
             "category": "MEDIACORP SINGAPORE",
             "uri": "https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd",
@@ -14841,7 +14761,7 @@
             }
         },
         {
-            "id": 372,
+            "id": 370,
             "title": "CHANNEL A GEOBLOCKED",
             "category": "KOREA",
             "uri": "http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8",
@@ -14881,7 +14801,7 @@
             }
         },
         {
-            "id": 373,
+            "id": 371,
             "title": "CHANNEL JOWO DENSTV",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8",
@@ -14921,7 +14841,7 @@
             }
         },
         {
-            "id": 374,
+            "id": 372,
             "title": "CHANNEL U",
             "category": "MEDIACORP SINGAPORE",
             "uri": "https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd",
@@ -14961,7 +14881,7 @@
             }
         },
         {
-            "id": 375,
+            "id": 373,
             "title": "CHANNELS 24",
             "category": "NIGERIA",
             "uri": "https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8",
@@ -15001,7 +14921,7 @@
             }
         },
         {
-            "id": 376,
+            "id": 374,
             "title": "CHANNELS TV",
             "category": "NIGERIA",
             "uri": "https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8",
@@ -15041,7 +14961,47 @@
             }
         },
         {
-            "id": 377,
+            "id": 375,
+            "title": "CHAROEN CABLE 37 TV",
+            "category": "THAILAND",
+            "uri": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "http://www5.cabletv.co.th/",
+                "Origin": "http://www5.cabletv.co.th"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "http://www5.cabletv.co.th/",
+                        "Origin": "http://www5.cabletv.co.th"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "CharoenCable37TV.th@SD",
+                "tvg_name": "CHAROEN CABLE 37 TV",
+                "tvg_logo": "https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 376,
             "title": "CHINA TRAVEL",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
@@ -15081,7 +15041,7 @@
             }
         },
         {
-            "id": 378,
+            "id": 377,
             "title": "CINEEDGE V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd",
@@ -15121,7 +15081,7 @@
             }
         },
         {
-            "id": 379,
+            "id": 378,
             "title": "CINEMAX",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd",
@@ -15161,7 +15121,7 @@
             }
         },
         {
-            "id": 380,
+            "id": 379,
             "title": "CINEMAX ALT 2",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
@@ -15201,7 +15161,7 @@
             }
         },
         {
-            "id": 381,
+            "id": 380,
             "title": "CINEMAX IHT",
             "category": "HBO GROUP",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd",
@@ -15241,7 +15201,7 @@
             }
         },
         {
-            "id": 382,
+            "id": 381,
             "title": "CINEMO 480P",
             "category": "PHILIPPINES",
             "uri": "https://streams.comclark.com/pknsd/cinemo/playlist.m3u8",
@@ -15281,7 +15241,7 @@
             }
         },
         {
-            "id": 383,
+            "id": 382,
             "title": "CITRA DRAMA OSC",
             "category": "MOVIES & ENTERTAINMENT",
             "uri": "https://filex.tv:8080//live/Waqas%20Latif/12345678/501237.ts",
@@ -15321,7 +15281,7 @@
             }
         },
         {
-            "id": 384,
+            "id": 383,
             "title": "CITRA MUSLIM",
             "category": "MOSLEM CHANNEL",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd",
@@ -15361,7 +15321,7 @@
             }
         },
         {
-            "id": 385,
+            "id": 384,
             "title": "CJ ONSTYLE 540P",
             "category": "KOREA",
             "uri": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
@@ -15401,7 +15361,7 @@
             }
         },
         {
-            "id": 386,
+            "id": 385,
             "title": "CJ ONSTYLE PLUS 540P",
             "category": "KOREA",
             "uri": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
@@ -15441,7 +15401,7 @@
             }
         },
         {
-            "id": 387,
+            "id": 386,
             "title": "CNBC ARABIYA 1080P",
             "category": "UAE & ARAB",
             "uri": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
@@ -15481,7 +15441,7 @@
             }
         },
         {
-            "id": 388,
+            "id": 387,
             "title": "CNBC INDONESIA CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1679700268_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzMyNzAwMzYmd293emF0b2tlbmhhc2g9Qjg3M2piOE1FSEJBaVlwazk2OWVOdnRKd0dSWFpmMFEtT19UaDl4X1VLST0=.m3u8",
@@ -15521,34 +15481,34 @@
             }
         },
         {
-            "id": 389,
+            "id": 388,
             "title": "CNN INDONESIA CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w790314913_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzMyMDM5MDcmd293emF0b2tlbmhhc2g9VmZBcmxvNTlNYUVhcWNjMnlna05qeU1MS3NGdjdyd0l5UGpnRHZuU2dhST0=.m3u8",
-            "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+            "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
-                "Referer": "https://visionplus.id/",
+                "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+                "Referer": "https://www.indihometv.com/",
                 "Origin": "https://live.cnnindonesia.com"
             },
             "drm_info": {
-                "is_protected": true,
-                "drm_type": "com.widevine.alpha",
-                "drm_key": "5"
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
             },
             "sources": [
                 {
                     "type": "primary",
                     "uri": "https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w790314913_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzMyMDM5MDcmd293emF0b2tlbmhhc2g9VmZBcmxvNTlNYUVhcWNjMnlna05qeU1MS3NGdjdyd0l5UGpnRHZuU2dhST0=.m3u8",
                     "headers": {
-                        "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
-                        "Referer": "https://visionplus.id/",
+                        "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+                        "Referer": "https://www.indihometv.com/",
                         "Origin": "https://live.cnnindonesia.com"
                     },
                     "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "com.widevine.alpha",
-                        "drm_key": "5"
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
                     }
                 }
             ],
@@ -15561,7 +15521,7 @@
             }
         },
         {
-            "id": 390,
+            "id": 389,
             "title": "CNN JAPAN",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0",
@@ -15601,7 +15561,7 @@
             }
         },
         {
-            "id": 391,
+            "id": 390,
             "title": "COOL CHANNEL",
             "category": "THAILAND",
             "uri": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
@@ -15641,7 +15601,7 @@
             }
         },
         {
-            "id": 392,
+            "id": 391,
             "title": "COZA TV 576P",
             "category": "NIGERIA",
             "uri": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
@@ -15681,7 +15641,7 @@
             }
         },
         {
-            "id": 393,
+            "id": 392,
             "title": "CRIME AND EVIDENCE 720P",
             "category": "SOUTH AFRICA",
             "uri": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
@@ -15721,7 +15681,7 @@
             }
         },
         {
-            "id": 394,
+            "id": 393,
             "title": "CÀ MAU TV 720P GEOBLOCKED",
             "category": "VIETNAM",
             "uri": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
@@ -15761,7 +15721,7 @@
             }
         },
         {
-            "id": 395,
+            "id": 394,
             "title": "CẦN THƠ TV1 1080P",
             "category": "VIETNAM",
             "uri": "https://live.canthotv.vn/live/tv/chunklist.m3u8",
@@ -15801,7 +15761,7 @@
             }
         },
         {
-            "id": 396,
+            "id": 395,
             "title": "CẦN THƠ TV2 1080P",
             "category": "VIETNAM",
             "uri": "https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8",
@@ -15841,7 +15801,7 @@
             }
         },
         {
-            "id": 397,
+            "id": 396,
             "title": "D SPORTS",
             "category": "WORLDCUP 2026",
             "uri": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
@@ -15881,7 +15841,7 @@
             }
         },
         {
-            "id": 398,
+            "id": 397,
             "title": "DAAI TV CHANNEL FEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8",
@@ -15921,15 +15881,55 @@
             }
         },
         {
-            "id": 399,
+            "id": 398,
             "title": "DAAI TV CHANNEL FEED ALT 2",
             "category": "INDONESIA CHANNELS",
             "uri": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
-                "Referer": "https://pull.daaiplus.com/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                "Referer": "https://www.visionplus.id/",
                 "Origin": "https://pull.daaiplus.com"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                        "Referer": "https://www.visionplus.id/",
+                        "Origin": "https://pull.daaiplus.com"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "DAAITV.id",
+                "tvg_name": "DAAI TV CHANNEL FEED ALT 2",
+                "tvg_logo": "https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 399,
+            "title": "DAAI TV V",
+            "category": "INDONESIA CHANNELS",
+            "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/index.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+                "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
             },
             "drm_info": {
                 "is_protected": false,
@@ -15939,11 +15939,11 @@
             "sources": [
                 {
                     "type": "primary",
-                    "uri": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+                    "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/2b8aede350b84af18f9dd2e1de6b9c5e/index.mpd",
                     "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
-                        "Referer": "https://pull.daaiplus.com/",
-                        "Origin": "https://pull.daaiplus.com"
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+                        "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
                     },
                     "drm_info": {
                         "is_protected": false,
@@ -15955,7 +15955,7 @@
             "is_live": true,
             "epg_metadata": {
                 "tvg_id": "DAAITV.id",
-                "tvg_name": "DAAI TV CHANNEL FEED ALT 2",
+                "tvg_name": "DAAI TV V",
                 "tvg_logo": "https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png",
                 "source_xml": "Embedded"
             }
@@ -16682,46 +16682,6 @@
         },
         {
             "id": 418,
-            "title": "DLTV 6 1080P",
-            "category": "THAILAND",
-            "uri": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://cdn-live.dltv.ac.th/",
-                "Origin": "https://cdn-live.dltv.ac.th"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://cdn-live.dltv.ac.th/",
-                        "Origin": "https://cdn-live.dltv.ac.th"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "DLTV6.th@SD",
-                "tvg_name": "DLTV 6 1080P",
-                "tvg_logo": "https://i.imgur.com/qeIHWC0.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 419,
             "title": "DMI TV",
             "category": "MOSLEM CHANNEL",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd",
@@ -16761,7 +16721,7 @@
             }
         },
         {
-            "id": 420,
+            "id": 419,
             "title": "DMTV MALANG",
             "category": "LOCAL CHANNELS",
             "uri": "https://e.siar.us/live/dmtv.m3u8",
@@ -16801,7 +16761,7 @@
             }
         },
         {
-            "id": 421,
+            "id": 420,
             "title": "DRAGON TV",
             "category": "CHINA",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd",
@@ -16841,7 +16801,7 @@
             }
         },
         {
-            "id": 422,
+            "id": 421,
             "title": "DRAMA HEBAT",
             "category": "MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd",
@@ -16881,7 +16841,7 @@
             }
         },
         {
-            "id": 423,
+            "id": 422,
             "title": "DRAMA HOTPOT",
             "category": "MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd",
@@ -16921,7 +16881,7 @@
             }
         },
         {
-            "id": 424,
+            "id": 423,
             "title": "DUBAI TV INTERNATIONAL 1080P",
             "category": "UAE & ARAB",
             "uri": "http://185.9.2.18/chid_139/index.m3u8",
@@ -16961,7 +16921,7 @@
             }
         },
         {
-            "id": 425,
+            "id": 424,
             "title": "DZ PT 1",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1499",
@@ -17001,7 +16961,7 @@
             }
         },
         {
-            "id": 426,
+            "id": 425,
             "title": "DZ PT 2",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1503",
@@ -17041,7 +17001,7 @@
             }
         },
         {
-            "id": 427,
+            "id": 426,
             "title": "DZ PT 3",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1506",
@@ -17081,7 +17041,7 @@
             }
         },
         {
-            "id": 428,
+            "id": 427,
             "title": "DZ PT 4",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1509",
@@ -17121,7 +17081,7 @@
             }
         },
         {
-            "id": 429,
+            "id": 428,
             "title": "DZ PT 5",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1512",
@@ -17161,7 +17121,7 @@
             }
         },
         {
-            "id": 430,
+            "id": 429,
             "title": "DZ PT 6",
             "category": "SPORTS",
             "uri": "https://iptvtree.net:8080/rapidiptv/shhT6NQ6ZdFw5/1515",
@@ -17201,7 +17161,7 @@
             }
         },
         {
-            "id": 431,
+            "id": 430,
             "title": "EBS 1 400P",
             "category": "KOREA",
             "uri": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
@@ -17241,7 +17201,7 @@
             }
         },
         {
-            "id": 432,
+            "id": 431,
             "title": "EBS 2 400P",
             "category": "KOREA",
             "uri": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
@@ -17281,7 +17241,7 @@
             }
         },
         {
-            "id": 433,
+            "id": 432,
             "title": "ENTERTAINMENT V",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd",
@@ -17321,7 +17281,7 @@
             }
         },
         {
-            "id": 434,
+            "id": 433,
             "title": "ESPN 3",
             "category": "SPORTS",
             "uri": "https://46.151.196.223:14444/",
@@ -17361,7 +17321,7 @@
             }
         },
         {
-            "id": 435,
+            "id": 434,
             "title": "ESPN 4",
             "category": "SPORTS",
             "uri": "https://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts",
@@ -17401,7 +17361,7 @@
             }
         },
         {
-            "id": 436,
+            "id": 435,
             "title": "ESPN 5",
             "category": "SPORTS",
             "uri": "https://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts",
@@ -17441,7 +17401,7 @@
             }
         },
         {
-            "id": 437,
+            "id": 436,
             "title": "ESPN VIVO",
             "category": "SPORTS",
             "uri": "https://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts",
@@ -17481,7 +17441,7 @@
             }
         },
         {
-            "id": 438,
+            "id": 437,
             "title": "ESPN VIVO 2",
             "category": "SPORTS",
             "uri": "https://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts",
@@ -17521,7 +17481,7 @@
             }
         },
         {
-            "id": 439,
+            "id": 438,
             "title": "ETVN 720P",
             "category": "SOUTH AFRICA",
             "uri": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
@@ -17561,7 +17521,7 @@
             }
         },
         {
-            "id": 440,
+            "id": 439,
             "title": "EUROSPORT 1",
             "category": "SPORTS",
             "uri": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
@@ -17601,7 +17561,7 @@
             }
         },
         {
-            "id": 441,
+            "id": 440,
             "title": "EUROSPORT 2",
             "category": "SPORTS",
             "uri": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
@@ -17641,7 +17601,7 @@
             }
         },
         {
-            "id": 442,
+            "id": 441,
             "title": "EWTN",
             "category": "CHRISTIAN CHANNELS",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/96e20532df53449ab254f765073ec866/index.mpd",
@@ -17681,7 +17641,7 @@
             }
         },
         {
-            "id": 443,
+            "id": 442,
             "title": "FAITH TV 576P",
             "category": "SOUTH AFRICA",
             "uri": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
@@ -17721,7 +17681,7 @@
             }
         },
         {
-            "id": 444,
+            "id": 443,
             "title": "FANCODE TV 1",
             "category": "SPORTS",
             "uri": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -17761,7 +17721,7 @@
             }
         },
         {
-            "id": 445,
+            "id": 444,
             "title": "FANCODE TV 2",
             "category": "SPORTS",
             "uri": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
@@ -17801,7 +17761,7 @@
             }
         },
         {
-            "id": 446,
+            "id": 445,
             "title": "FASHION TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd",
@@ -17841,7 +17801,7 @@
             }
         },
         {
-            "id": 447,
+            "id": 446,
             "title": "FGTV 720P",
             "category": "KOREA",
             "uri": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
@@ -17881,7 +17841,7 @@
             }
         },
         {
-            "id": 448,
+            "id": 447,
             "title": "FIFA ENGLISH",
             "category": "WORLDCUP 2026",
             "uri": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
@@ -17921,7 +17881,7 @@
             }
         },
         {
-            "id": 449,
+            "id": 448,
             "title": "FIFA FRENCH 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
@@ -17961,7 +17921,7 @@
             }
         },
         {
-            "id": 450,
+            "id": 449,
             "title": "FIFA GERMAN 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8",
@@ -18001,7 +17961,7 @@
             }
         },
         {
-            "id": 451,
+            "id": 450,
             "title": "FIFA HISPANIC AMERICA 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
@@ -18041,7 +18001,7 @@
             }
         },
         {
-            "id": 452,
+            "id": 451,
             "title": "FIFA ITALY 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8",
@@ -18081,7 +18041,7 @@
             }
         },
         {
-            "id": 453,
+            "id": 452,
             "title": "FIFA PORTUGUESE 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8",
@@ -18121,7 +18081,7 @@
             }
         },
         {
-            "id": 454,
+            "id": 453,
             "title": "FIFA SPANISH",
             "category": "WORLDCUP 2026",
             "uri": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
@@ -18161,7 +18121,7 @@
             }
         },
         {
-            "id": 455,
+            "id": 454,
             "title": "FIFA TOFFEE DIRECT 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8",
@@ -18201,7 +18161,7 @@
             }
         },
         {
-            "id": 456,
+            "id": 455,
             "title": "FIFA TOFFEE LIVE ALT",
             "category": "WORLDCUP 2026",
             "uri": "https://cdn-tt.pages.dev/ch2.m3u8",
@@ -18241,7 +18201,7 @@
             }
         },
         {
-            "id": 457,
+            "id": 456,
             "title": "FIFA TOFFEE LIVE BD",
             "category": "WORLDCUP 2026",
             "uri": "https://cdn-tt.pages.dev/ch1.m3u8",
@@ -18281,7 +18241,7 @@
             }
         },
         {
-            "id": 458,
+            "id": 457,
             "title": "FIFA UNITED STATES 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
@@ -18321,7 +18281,7 @@
             }
         },
         {
-            "id": 459,
+            "id": 458,
             "title": "FIFA WOMEN ENGLISH",
             "category": "WORLDCUP 2026",
             "uri": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
@@ -18361,7 +18321,7 @@
             }
         },
         {
-            "id": 460,
+            "id": 459,
             "title": "FIGHT SPORT",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd",
@@ -18401,7 +18361,7 @@
             }
         },
         {
-            "id": 461,
+            "id": 460,
             "title": "FIGHT SPORTS",
             "category": "SPORTS",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd",
@@ -18441,7 +18401,7 @@
             }
         },
         {
-            "id": 462,
+            "id": 461,
             "title": "FILAMTV NETWORK 1080P",
             "category": "PHILIPPINES",
             "uri": "https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8",
@@ -18481,7 +18441,7 @@
             }
         },
         {
-            "id": 463,
+            "id": 462,
             "title": "FILEM MANTAP",
             "category": "MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd",
@@ -18521,7 +18481,7 @@
             }
         },
         {
-            "id": 464,
+            "id": 463,
             "title": "FIRST LIFESTYLE",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd",
@@ -18561,7 +18521,7 @@
             }
         },
         {
-            "id": 465,
+            "id": 464,
             "title": "FITRAH",
             "category": "MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
@@ -18601,7 +18561,7 @@
             }
         },
         {
-            "id": 466,
+            "id": 465,
             "title": "FLIX HD 1080P",
             "category": "INDIA",
             "uri": "http://103.72.101.252:8080/live/1322.m3u8",
@@ -18641,7 +18601,7 @@
             }
         },
         {
-            "id": 467,
+            "id": 466,
             "title": "FOOD NETWORK",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd",
@@ -18681,7 +18641,7 @@
             }
         },
         {
-            "id": 468,
+            "id": 467,
             "title": "FOOD TRAVEL V",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd",
@@ -18721,7 +18681,7 @@
             }
         },
         {
-            "id": 469,
+            "id": 468,
             "title": "FORMOSA",
             "category": "CHINA",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd",
@@ -18761,7 +18721,7 @@
             }
         },
         {
-            "id": 470,
+            "id": 469,
             "title": "FOX SPORTS 1",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
@@ -18801,7 +18761,7 @@
             }
         },
         {
-            "id": 471,
+            "id": 470,
             "title": "FOX SPORTS 1 ALT",
             "category": "WORLDCUP 2026",
             "uri": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
@@ -18841,7 +18801,7 @@
             }
         },
         {
-            "id": 472,
+            "id": 471,
             "title": "FOX SPORTS 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
@@ -18881,7 +18841,7 @@
             }
         },
         {
-            "id": 473,
+            "id": 472,
             "title": "FOX SPORTS 2",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
@@ -18921,7 +18881,7 @@
             }
         },
         {
-            "id": 474,
+            "id": 473,
             "title": "FOX SPORTS 3",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
@@ -18961,7 +18921,7 @@
             }
         },
         {
-            "id": 475,
+            "id": 474,
             "title": "FOX SPORTS ARGENTINA 720P",
             "category": "WORLDCUP 2026",
             "uri": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
@@ -19001,7 +18961,7 @@
             }
         },
         {
-            "id": 476,
+            "id": 475,
             "title": "FOX SPORTS PREMIUM",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
@@ -19041,7 +19001,7 @@
             }
         },
         {
-            "id": 477,
+            "id": 476,
             "title": "FS2",
             "category": "WORLDCUP 2026",
             "uri": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
@@ -19081,7 +19041,7 @@
             }
         },
         {
-            "id": 478,
+            "id": 477,
             "title": "FUBO SPORTS 1",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
@@ -19121,7 +19081,7 @@
             }
         },
         {
-            "id": 479,
+            "id": 478,
             "title": "FUBO SPORTS 2",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
@@ -19161,7 +19121,7 @@
             }
         },
         {
-            "id": 480,
+            "id": 479,
             "title": "GALAXY PREMIUM V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd",
@@ -19201,7 +19161,7 @@
             }
         },
         {
-            "id": 481,
+            "id": 480,
             "title": "GALAXY V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd",
@@ -19241,7 +19201,7 @@
             }
         },
         {
-            "id": 482,
+            "id": 481,
             "title": "GAORA SPORTS",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17",
@@ -19281,7 +19241,7 @@
             }
         },
         {
-            "id": 483,
+            "id": 482,
             "title": "GARUDA TV CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8",
@@ -19321,7 +19281,7 @@
             }
         },
         {
-            "id": 484,
+            "id": 483,
             "title": "GCN24 KOREAN 720P",
             "category": "KOREA",
             "uri": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
@@ -19361,7 +19321,7 @@
             }
         },
         {
-            "id": 485,
+            "id": 484,
             "title": "GLOBAL TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd",
@@ -19401,7 +19361,7 @@
             }
         },
         {
-            "id": 486,
+            "id": 485,
             "title": "GNF TV 576P",
             "category": "SOUTH AFRICA",
             "uri": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
@@ -19441,7 +19401,7 @@
             }
         },
         {
-            "id": 487,
+            "id": 486,
             "title": "GONGYOUNG SHOPPING 720P",
             "category": "KOREA",
             "uri": "https://etv.publichs.com/live5.stream/playlist.m3u8",
@@ -19481,7 +19441,7 @@
             }
         },
         {
-            "id": 488,
+            "id": 487,
             "title": "GOODTV 1080P",
             "category": "KOREA",
             "uri": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
@@ -19521,7 +19481,7 @@
             }
         },
         {
-            "id": 489,
+            "id": 488,
             "title": "GREAT COMMISSION TV",
             "category": "KENYA",
             "uri": "https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8",
@@ -19561,7 +19521,7 @@
             }
         },
         {
-            "id": 490,
+            "id": 489,
             "title": "GS MY SHOP 1080P",
             "category": "KOREA",
             "uri": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
@@ -19601,7 +19561,7 @@
             }
         },
         {
-            "id": 491,
+            "id": 490,
             "title": "GS SHOP 1080P",
             "category": "KOREA",
             "uri": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
@@ -19641,7 +19601,7 @@
             }
         },
         {
-            "id": 492,
+            "id": 491,
             "title": "GSTV 720P",
             "category": "JAPAN",
             "uri": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)",
@@ -19681,7 +19641,7 @@
             }
         },
         {
-            "id": 493,
+            "id": 492,
             "title": "GTV",
             "category": "INDONESIA CHANNELS",
             "uri": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv",
@@ -19721,7 +19681,7 @@
             }
         },
         {
-            "id": 494,
+            "id": 493,
             "title": "GTV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
@@ -19761,7 +19721,7 @@
             }
         },
         {
-            "id": 495,
+            "id": 494,
             "title": "GUGAKTV 국악방송 1080P",
             "category": "KOREA",
             "uri": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
@@ -19801,7 +19761,7 @@
             }
         },
         {
-            "id": 496,
+            "id": 495,
             "title": "HAMKA SITI RAHAM VOL 2",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/ZQVckcfF?download",
@@ -19841,7 +19801,7 @@
             }
         },
         {
-            "id": 497,
+            "id": 496,
             "title": "HANACARAKA TV",
             "category": "LOKAL",
             "uri": "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd",
@@ -19881,7 +19841,7 @@
             }
         },
         {
-            "id": 498,
+            "id": 497,
             "title": "HANACARAKA TV V",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd",
@@ -19921,7 +19881,7 @@
             }
         },
         {
-            "id": 499,
+            "id": 498,
             "title": "HARD ROCK FM BALI",
             "category": "INTERNET RADIO",
             "uri": "http://stream.radiojar.com/9k28wsbu5k8uv",
@@ -19961,7 +19921,7 @@
             }
         },
         {
-            "id": 500,
+            "id": 499,
             "title": "HARD ROCK FM BANDUNG",
             "category": "INTERNET RADIO",
             "uri": "http://stream.radiojar.com/fnex9bkswk8uv",
@@ -20001,7 +19961,7 @@
             }
         },
         {
-            "id": 501,
+            "id": 500,
             "title": "HARD ROCK FM SURABAYA",
             "category": "INTERNET RADIO",
             "uri": "http://stream.radiojar.com/yg8ne2v80k8uv",
@@ -20041,7 +20001,7 @@
             }
         },
         {
-            "id": 502,
+            "id": 501,
             "title": "HBO",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
@@ -20081,7 +20041,7 @@
             }
         },
         {
-            "id": 503,
+            "id": 502,
             "title": "HBO ALT 2",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
@@ -20121,7 +20081,7 @@
             }
         },
         {
-            "id": 504,
+            "id": 503,
             "title": "HBO BOXING",
             "category": "SPORTS",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
@@ -20161,7 +20121,7 @@
             }
         },
         {
-            "id": 505,
+            "id": 504,
             "title": "HBO FAMILY",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
@@ -20201,7 +20161,7 @@
             }
         },
         {
-            "id": 506,
+            "id": 505,
             "title": "HBO FAMILY ALT 2",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
@@ -20241,7 +20201,7 @@
             }
         },
         {
-            "id": 507,
+            "id": 506,
             "title": "HBO FAMILY IHT",
             "category": "HBO GROUP",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
@@ -20281,7 +20241,7 @@
             }
         },
         {
-            "id": 508,
+            "id": 507,
             "title": "HBO FAMILY OSC",
             "category": "HBO GROUP",
             "uri": "https://filex.tv:8080//live/000003/000003/302249.ts",
@@ -20321,7 +20281,7 @@
             }
         },
         {
-            "id": 509,
+            "id": 508,
             "title": "HBO HITS",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd",
@@ -20361,7 +20321,7 @@
             }
         },
         {
-            "id": 510,
+            "id": 509,
             "title": "HBO HITS ALT 2",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
@@ -20401,7 +20361,7 @@
             }
         },
         {
-            "id": 511,
+            "id": 510,
             "title": "HBO HITS IHT",
             "category": "HBO GROUP",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd",
@@ -20441,7 +20401,7 @@
             }
         },
         {
-            "id": 512,
+            "id": 511,
             "title": "HBO HITS OSC",
             "category": "HBO GROUP",
             "uri": "https://filex.tv:8080//live/000003/000003/302250.ts",
@@ -20481,7 +20441,7 @@
             }
         },
         {
-            "id": 513,
+            "id": 512,
             "title": "HBO IHT",
             "category": "HBO GROUP",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd",
@@ -20521,7 +20481,7 @@
             }
         },
         {
-            "id": 514,
+            "id": 513,
             "title": "HBO OSC",
             "category": "HBO GROUP",
             "uri": "https://filex.tv:8080//live/000003/000003/302248.ts",
@@ -20561,7 +20521,7 @@
             }
         },
         {
-            "id": 515,
+            "id": 514,
             "title": "HBO SIGNATURE",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
@@ -20601,7 +20561,7 @@
             }
         },
         {
-            "id": 516,
+            "id": 515,
             "title": "HBO SIGNATURE ALT 2",
             "category": "HBO GROUP",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
@@ -20641,7 +20601,7 @@
             }
         },
         {
-            "id": 517,
+            "id": 516,
             "title": "HBO SIGNATURE IHT",
             "category": "HBO GROUP",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
@@ -20681,7 +20641,7 @@
             }
         },
         {
-            "id": 518,
+            "id": 517,
             "title": "HBO SIGNATURE OSC",
             "category": "HBO GROUP",
             "uri": "https://filex.tv:8080//live/000003/000003/302251.ts",
@@ -20721,7 +20681,7 @@
             }
         },
         {
-            "id": 519,
+            "id": 518,
             "title": "HISTORY",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0",
@@ -20761,7 +20721,7 @@
             }
         },
         {
-            "id": 520,
+            "id": 519,
             "title": "HITS",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-3277707030000000.mpd",
@@ -20801,7 +20761,7 @@
             }
         },
         {
-            "id": 521,
+            "id": 520,
             "title": "HITS MOVIES",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd",
@@ -20841,7 +20801,7 @@
             }
         },
         {
-            "id": 522,
+            "id": 521,
             "title": "HITS V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd",
@@ -20881,7 +20841,7 @@
             }
         },
         {
-            "id": 523,
+            "id": 522,
             "title": "HITSMOVIES V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd",
@@ -20921,7 +20881,7 @@
             }
         },
         {
-            "id": 524,
+            "id": 523,
             "title": "HOME CRASHER",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/djm9xxvfud/out/v1/745da049932d4db4b5148638ed3c08f0/cenc-sd.mpd",
@@ -20961,7 +20921,7 @@
             }
         },
         {
-            "id": 525,
+            "id": 524,
             "title": "HOME SHOPPING 720P",
             "category": "KOREA",
             "uri": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
@@ -21001,7 +20961,7 @@
             }
         },
         {
-            "id": 526,
+            "id": 525,
             "title": "HOPE CHANNEL PHILIPPINES 1080P",
             "category": "PHILIPPINES",
             "uri": "https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8",
@@ -21041,7 +21001,7 @@
             }
         },
         {
-            "id": 527,
+            "id": 526,
             "title": "HUB PREMIER 1 SERVER 1",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158",
@@ -21081,7 +21041,7 @@
             }
         },
         {
-            "id": 528,
+            "id": 527,
             "title": "HUB PREMIER 11",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168",
@@ -21121,7 +21081,7 @@
             }
         },
         {
-            "id": 529,
+            "id": 528,
             "title": "HUB PREMIER 3",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160",
@@ -21161,7 +21121,7 @@
             }
         },
         {
-            "id": 530,
+            "id": 529,
             "title": "HUB PREMIER 4",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161",
@@ -21201,7 +21161,7 @@
             }
         },
         {
-            "id": 531,
+            "id": 530,
             "title": "HUB PREMIER 5",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162",
@@ -21241,7 +21201,7 @@
             }
         },
         {
-            "id": 532,
+            "id": 531,
             "title": "HUB PREMIER 7",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164",
@@ -21281,7 +21241,7 @@
             }
         },
         {
-            "id": 533,
+            "id": 532,
             "title": "HUB SPORTS 1",
             "category": "SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280827",
@@ -21321,7 +21281,7 @@
             }
         },
         {
-            "id": 534,
+            "id": 533,
             "title": "HUB SPORTS 2",
             "category": "SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828",
@@ -21361,7 +21321,7 @@
             }
         },
         {
-            "id": 535,
+            "id": 534,
             "title": "HUB SPORTS 3",
             "category": "SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280829",
@@ -21401,7 +21361,7 @@
             }
         },
         {
-            "id": 536,
+            "id": 535,
             "title": "HUB SPORTS 4",
             "category": "SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280830",
@@ -21441,7 +21401,7 @@
             }
         },
         {
-            "id": 537,
+            "id": 536,
             "title": "HUB SPORTS 5",
             "category": "SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280831",
@@ -21481,7 +21441,7 @@
             }
         },
         {
-            "id": 538,
+            "id": 537,
             "title": "HUB SPORTS 8",
             "category": "SPORTS",
             "uri": "https://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167",
@@ -21521,7 +21481,7 @@
             }
         },
         {
-            "id": 539,
+            "id": 538,
             "title": "HUNAN TV",
             "category": "CHINA",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd",
@@ -21561,7 +21521,7 @@
             }
         },
         {
-            "id": 540,
+            "id": 539,
             "title": "HYUNDAI HOME SHOPPING 720P",
             "category": "KOREA",
             "uri": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
@@ -21601,7 +21561,7 @@
             }
         },
         {
-            "id": 541,
+            "id": 540,
             "title": "IDX",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd",
@@ -21641,7 +21601,7 @@
             }
         },
         {
-            "id": 542,
+            "id": 541,
             "title": "IDX V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
@@ -21652,9 +21612,9 @@
                 "Origin": "https://d2xx73ro32cip.cloudfront.net"
             },
             "drm_info": {
-                "is_protected": false,
-                "drm_type": "clearkey",
-                "drm_key": ""
+                "is_protected": true,
+                "drm_type": "com.widevine.alpha",
+                "drm_key": "16"
             },
             "sources": [
                 {
@@ -21666,9 +21626,9 @@
                         "Origin": "https://d2xx73ro32cip.cloudfront.net"
                     },
                     "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "clearkey",
-                        "drm_key": ""
+                        "is_protected": true,
+                        "drm_type": "com.widevine.alpha",
+                        "drm_key": "16"
                     }
                 }
             ],
@@ -21681,7 +21641,7 @@
             }
         },
         {
-            "id": 543,
+            "id": 542,
             "title": "IIRADIO MEDAN",
             "category": "INTERNET RADIO",
             "uri": "https://stream.radiojar.com/hkuevehswk8uv",
@@ -21721,7 +21681,7 @@
             }
         },
         {
-            "id": 544,
+            "id": 543,
             "title": "INDIA WC STREAM 1",
             "category": "WORLDCUP 2026",
             "uri": "http://66.102.126.10:8000/play/a076/index.m3u8",
@@ -21761,7 +21721,7 @@
             }
         },
         {
-            "id": 545,
+            "id": 544,
             "title": "INDIA WC STREAM 2",
             "category": "WORLDCUP 2026",
             "uri": "http://66.102.126.10:8000/play/a022/index.m3u8",
@@ -21801,7 +21761,7 @@
             }
         },
         {
-            "id": 546,
+            "id": 545,
             "title": "INDIA WC STREAM 3",
             "category": "WORLDCUP 2026",
             "uri": "http://66.102.126.10:8000/play/a018/index.m3u8",
@@ -21841,7 +21801,7 @@
             }
         },
         {
-            "id": 547,
+            "id": 546,
             "title": "INDONESIA MOVIE CHANNEL V",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd",
@@ -21881,7 +21841,7 @@
             }
         },
         {
-            "id": 548,
+            "id": 547,
             "title": "INDONESIANA TV CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://tvstreamcast.com/indonesiana.m3u8",
@@ -21921,7 +21881,7 @@
             }
         },
         {
-            "id": 549,
+            "id": 548,
             "title": "INDOSIAR",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd",
@@ -21961,7 +21921,7 @@
             }
         },
         {
-            "id": 550,
+            "id": 549,
             "title": "INDOSIAR BRI SUPER LIG",
             "category": "SPORTS INDO",
             "uri": "http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8",
@@ -22001,7 +21961,7 @@
             }
         },
         {
-            "id": 551,
+            "id": 550,
             "title": "INDOSIAR V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd",
@@ -22041,7 +22001,7 @@
             }
         },
         {
-            "id": 552,
+            "id": 551,
             "title": "INDOSIAR VIDEO",
             "category": "INDONESIA CHANNELS",
             "uri": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
@@ -22081,7 +22041,7 @@
             }
         },
         {
-            "id": 553,
+            "id": 552,
             "title": "INTRAVEL 1080P",
             "category": "PHILIPPINES",
             "uri": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
@@ -22121,7 +22081,7 @@
             }
         },
         {
-            "id": 554,
+            "id": 553,
             "title": "IRADIO BANDUNG",
             "category": "INTERNET RADIO",
             "uri": "https://stream.radiojar.com/u6ppe6hswk8uv",
@@ -22161,7 +22121,7 @@
             }
         },
         {
-            "id": 555,
+            "id": 554,
             "title": "IRADIO BANJARMASIN",
             "category": "INTERNET RADIO",
             "uri": "https://stream.radiojar.com/qfqd2aw80k8uv",
@@ -22201,7 +22161,7 @@
             }
         },
         {
-            "id": 556,
+            "id": 555,
             "title": "IRADIO JAKARTA",
             "category": "INTERNET RADIO",
             "uri": "https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w",
@@ -22241,7 +22201,7 @@
             }
         },
         {
-            "id": 557,
+            "id": 556,
             "title": "IRADIO JOGJA",
             "category": "INTERNET RADIO",
             "uri": "https://stream.radiojar.com/hnf2cbv80k8uv",
@@ -22281,7 +22241,7 @@
             }
         },
         {
-            "id": 558,
+            "id": 557,
             "title": "IRADIO MAKASAR",
             "category": "INTERNET RADIO",
             "uri": "https://stream.radiojar.com/seqmzfeu5k8uv",
@@ -22321,7 +22281,7 @@
             }
         },
         {
-            "id": 559,
+            "id": 558,
             "title": "J SPORTS 1",
             "category": "SPORTS",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
@@ -22361,7 +22321,7 @@
             }
         },
         {
-            "id": 560,
+            "id": 559,
             "title": "J SPORTS 2",
             "category": "SPORTS",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
@@ -22401,7 +22361,7 @@
             }
         },
         {
-            "id": 561,
+            "id": 560,
             "title": "J SPORTS 3",
             "category": "SPORTS",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
@@ -22441,7 +22401,7 @@
             }
         },
         {
-            "id": 562,
+            "id": 561,
             "title": "J SPORTS 4",
             "category": "SPORTS",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
@@ -22481,7 +22441,7 @@
             }
         },
         {
-            "id": 563,
+            "id": 562,
             "title": "JAK TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd",
@@ -22521,7 +22481,7 @@
             }
         },
         {
-            "id": 564,
+            "id": 563,
             "title": "JAWA POS",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd",
@@ -22561,7 +22521,7 @@
             }
         },
         {
-            "id": 565,
+            "id": 564,
             "title": "JAWAPOS TV",
             "category": "LOCAL CHANNELS",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd",
@@ -22601,7 +22561,7 @@
             }
         },
         {
-            "id": 566,
+            "id": 565,
             "title": "JAWAPOS TV BALI",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
@@ -22641,7 +22601,7 @@
             }
         },
         {
-            "id": 567,
+            "id": 566,
             "title": "JAWAPOS TV JAKARTA",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
@@ -22681,7 +22641,7 @@
             }
         },
         {
-            "id": 568,
+            "id": 567,
             "title": "JAWAPOS TV MADIUN",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
@@ -22721,7 +22681,7 @@
             }
         },
         {
-            "id": 569,
+            "id": 568,
             "title": "JAWAPOS TV SEMARANG",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
@@ -22761,7 +22721,7 @@
             }
         },
         {
-            "id": 570,
+            "id": 569,
             "title": "JEEPNEY TV 480P",
             "category": "PHILIPPINES",
             "uri": "https://streams.comclark.com/pknsd/jeepney/playlist.m3u8",
@@ -22801,7 +22761,7 @@
             }
         },
         {
-            "id": 571,
+            "id": 570,
             "title": "JIANGSU TV V",
             "category": "CHINA",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/ccc51c0317284496b6cde9f7bd670b80/index.mpd",
@@ -22841,7 +22801,7 @@
             }
         },
         {
-            "id": 572,
+            "id": 571,
             "title": "JITV JOGJA",
             "category": "LOCAL CHANNELS",
             "uri": "https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1213012954.m3u8",
@@ -22881,7 +22841,7 @@
             }
         },
         {
-            "id": 573,
+            "id": 572,
             "title": "JOAXDTV",
             "category": "JAPAN",
             "uri": "https://ntv5.mov3.co/hls/ntv.m3u8",
@@ -22921,7 +22881,7 @@
             }
         },
         {
-            "id": 574,
+            "id": 573,
             "title": "JOCXDTV",
             "category": "JAPAN",
             "uri": "https://fujitv4.mov3.co/hls/fujitv.m3u8",
@@ -22961,7 +22921,7 @@
             }
         },
         {
-            "id": 575,
+            "id": 574,
             "title": "JOEXDTV 540P",
             "category": "JAPAN",
             "uri": "https://tvasahi.mov3.co/hls/tvasahi.m3u8",
@@ -23001,7 +22961,7 @@
             }
         },
         {
-            "id": 576,
+            "id": 575,
             "title": "JOGJA ISTIMEWA TV 720P",
             "category": "LOKAL",
             "uri": "https://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
@@ -23041,7 +23001,7 @@
             }
         },
         {
-            "id": 577,
+            "id": 576,
             "title": "JR",
             "category": "MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
@@ -23081,7 +23041,7 @@
             }
         },
         {
-            "id": 578,
+            "id": 577,
             "title": "JTV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd",
@@ -23121,7 +23081,7 @@
             }
         },
         {
-            "id": 579,
+            "id": 578,
             "title": "JTV 480P",
             "category": "LOKAL",
             "uri": "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
@@ -23161,7 +23121,7 @@
             }
         },
         {
-            "id": 580,
+            "id": 579,
             "title": "JTV KEDIRI",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
@@ -23201,7 +23161,7 @@
             }
         },
         {
-            "id": 581,
+            "id": 580,
             "title": "JTV V",
             "category": "LOCAL CHANNELS",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd",
@@ -23241,7 +23201,7 @@
             }
         },
         {
-            "id": 582,
+            "id": 581,
             "title": "K",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd",
@@ -23281,7 +23241,7 @@
             }
         },
         {
-            "id": 583,
+            "id": 582,
             "title": "KANSAI TV",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0",
@@ -23321,7 +23281,7 @@
             }
         },
         {
-            "id": 584,
+            "id": 583,
             "title": "KAPATID TV 5 480P GEOBLOCKED",
             "category": "PHILIPPINES",
             "uri": "https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8",
@@ -23361,7 +23321,7 @@
             }
         },
         {
-            "id": 585,
+            "id": 584,
             "title": "KAWANUA TV",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
@@ -23401,7 +23361,7 @@
             }
         },
         {
-            "id": 586,
+            "id": 585,
             "title": "KAWANUA TV 720P",
             "category": "LOKAL",
             "uri": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
@@ -23441,7 +23401,7 @@
             }
         },
         {
-            "id": 587,
+            "id": 586,
             "title": "KBS WORLD",
             "category": "KOREAN CHANNELS",
             "uri": "https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd",
@@ -23481,7 +23441,7 @@
             }
         },
         {
-            "id": 588,
+            "id": 587,
             "title": "KDRAMA",
             "category": "KOREAN CHANNELS",
             "uri": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425",
@@ -23521,7 +23481,7 @@
             }
         },
         {
-            "id": 589,
+            "id": 588,
             "title": "KERETA",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/oCpSqqah?download",
@@ -23561,7 +23521,7 @@
             }
         },
         {
-            "id": 590,
+            "id": 589,
             "title": "KERETA BERDARAH",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/tVDXN7EM?download",
@@ -23601,7 +23561,7 @@
             }
         },
         {
-            "id": 591,
+            "id": 590,
             "title": "KILISUCI TV",
             "category": "LOKAL",
             "uri": "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
@@ -23641,7 +23601,7 @@
             }
         },
         {
-            "id": 592,
+            "id": 591,
             "title": "KILISUCI TV KEDIRI",
             "category": "LOCAL CHANNELS",
             "uri": "https://5bf7b725107e5.streamlock.net/kstv/kstv/chunklist_w1799577873.m3u8",
@@ -23681,7 +23641,7 @@
             }
         },
         {
-            "id": 593,
+            "id": 592,
             "title": "KISAH TANAH JAWA POCONG GUNDUL",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/xTZuUgAW?download",
@@ -23721,7 +23681,7 @@
             }
         },
         {
-            "id": 594,
+            "id": 593,
             "title": "KISI FM BOGOR",
             "category": "INTERNET RADIO",
             "uri": "http://live.serverstreaming.net:9340/kisifm",
@@ -23761,7 +23721,7 @@
             }
         },
         {
-            "id": 595,
+            "id": 594,
             "title": "KIX",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd",
@@ -23801,7 +23761,7 @@
             }
         },
         {
-            "id": 596,
+            "id": 595,
             "title": "KIX IHT",
             "category": "MOVIES & ENTERTAINMENT",
             "uri": "https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd",
@@ -23841,7 +23801,7 @@
             }
         },
         {
-            "id": 597,
+            "id": 596,
             "title": "KIX V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd",
@@ -23881,7 +23841,7 @@
             }
         },
         {
-            "id": 598,
+            "id": 597,
             "title": "KOMPAS TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd",
@@ -23921,7 +23881,7 @@
             }
         },
         {
-            "id": 599,
+            "id": 598,
             "title": "KOMPAS TV HD V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd",
@@ -23961,7 +23921,7 @@
             }
         },
         {
-            "id": 600,
+            "id": 599,
             "title": "KOOGI TV 1080P",
             "category": "EGYPT",
             "uri": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
@@ -24001,7 +23961,7 @@
             }
         },
         {
-            "id": 601,
+            "id": 600,
             "title": "KUTUKAN SEMBILAN SETAN",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/smj56rTF?download",
@@ -24041,7 +24001,7 @@
             }
         },
         {
-            "id": 602,
+            "id": 601,
             "title": "KUYANG",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/BPrv72bw?download",
@@ -24081,7 +24041,7 @@
             }
         },
         {
-            "id": 603,
+            "id": 602,
             "title": "LAWAK SENTRAL",
             "category": "MALAYSIA",
             "uri": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd",
@@ -24121,7 +24081,7 @@
             }
         },
         {
-            "id": 604,
+            "id": 603,
             "title": "LAYANGAN PUTUS THE MOVIE",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/6fwxFxx9?download",
@@ -24161,7 +24121,7 @@
             }
         },
         {
-            "id": 605,
+            "id": 604,
             "title": "LEAD",
             "category": "MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
@@ -24201,7 +24161,7 @@
             }
         },
         {
-            "id": 606,
+            "id": 605,
             "title": "LIFE V",
             "category": "CHRISTIAN CHANNELS",
             "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd",
@@ -24241,7 +24201,7 @@
             }
         },
         {
-            "id": 607,
+            "id": 606,
             "title": "LIFETIME",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd",
@@ -24281,7 +24241,7 @@
             }
         },
         {
-            "id": 608,
+            "id": 607,
             "title": "LINGKAR TV",
             "category": "LOCAL CHANNELS",
             "uri": "https://lingkartv.my.id/hls/lingkartv.m3u8",
@@ -24321,7 +24281,7 @@
             }
         },
         {
-            "id": 609,
+            "id": 608,
             "title": "LINGKARTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://lingkartv.my.id/hls/lingkartv.m3u8",
@@ -24361,7 +24321,7 @@
             }
         },
         {
-            "id": 610,
+            "id": 609,
             "title": "LN24SA 1080P",
             "category": "SOUTH AFRICA",
             "uri": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
@@ -24401,7 +24361,7 @@
             }
         },
         {
-            "id": 611,
+            "id": 610,
             "title": "LOSMEN MELATI",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/zBP5ULUD?download",
@@ -24441,7 +24401,7 @@
             }
         },
         {
-            "id": 612,
+            "id": 611,
             "title": "LOVEWORLDSAT 1080P",
             "category": "SOUTH AFRICA",
             "uri": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
@@ -24481,7 +24441,7 @@
             }
         },
         {
-            "id": 613,
+            "id": 612,
             "title": "MALAM PARA JAHANAM",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/a9Y8CEgx?download",
@@ -24521,7 +24481,7 @@
             }
         },
         {
-            "id": 614,
+            "id": 613,
             "title": "MAX EATS",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd",
@@ -24561,7 +24521,7 @@
             }
         },
         {
-            "id": 615,
+            "id": 614,
             "title": "MAX REELS",
             "category": "INDONESIAN ENTERTAINMENT & MOVIES",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd",
@@ -24601,7 +24561,7 @@
             }
         },
         {
-            "id": 616,
+            "id": 615,
             "title": "MAX STREAK",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd",
@@ -24641,7 +24601,7 @@
             }
         },
         {
-            "id": 617,
+            "id": 616,
             "title": "MAZZIKA 576P",
             "category": "EGYPT",
             "uri": "http://149.100.11.235:8080/Mazzika/index.m3u8",
@@ -24681,7 +24641,7 @@
             }
         },
         {
-            "id": 618,
+            "id": 617,
             "title": "MBC 1 EGYPT 1080P",
             "category": "EGYPT",
             "uri": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
@@ -24721,7 +24681,7 @@
             }
         },
         {
-            "id": 619,
+            "id": 618,
             "title": "MBC MASR 1080P",
             "category": "EGYPT",
             "uri": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
@@ -24761,7 +24721,7 @@
             }
         },
         {
-            "id": 620,
+            "id": 619,
             "title": "MBC MASR 2 1080P",
             "category": "EGYPT",
             "uri": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
@@ -24801,7 +24761,7 @@
             }
         },
         {
-            "id": 621,
+            "id": 620,
             "title": "MBC PERSIA 1080P",
             "category": "UAE & ARAB",
             "uri": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
@@ -24841,7 +24801,7 @@
             }
         },
         {
-            "id": 622,
+            "id": 621,
             "title": "MBS",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01",
@@ -24881,7 +24841,7 @@
             }
         },
         {
-            "id": 623,
+            "id": 622,
             "title": "MDTV",
             "category": "INDONESIA CHANNELS",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8",
@@ -24921,7 +24881,7 @@
             }
         },
         {
-            "id": 624,
+            "id": 623,
             "title": "MDTV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
@@ -24961,7 +24921,7 @@
             }
         },
         {
-            "id": 625,
+            "id": 624,
             "title": "MELUKIS LUKA",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/nXDb1hSE?download",
@@ -25001,7 +24961,7 @@
             }
         },
         {
-            "id": 626,
+            "id": 625,
             "title": "METRO TV",
             "category": "INDONESIA CHANNELS",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8",
@@ -25041,7 +25001,7 @@
             }
         },
         {
-            "id": 627,
+            "id": 626,
             "title": "METRO TV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd",
@@ -25081,7 +25041,7 @@
             }
         },
         {
-            "id": 628,
+            "id": 627,
             "title": "MIRAMAX FILM",
             "category": "PREMIUM MOVIES",
             "uri": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd",
@@ -25121,7 +25081,7 @@
             }
         },
         {
-            "id": 629,
+            "id": 628,
             "title": "MN",
             "category": "PREMIUM MOVIES",
             "uri": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
@@ -25161,7 +25121,7 @@
             }
         },
         {
-            "id": 630,
+            "id": 629,
             "title": "MNC TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd",
@@ -25201,7 +25161,7 @@
             }
         },
         {
-            "id": 631,
+            "id": 630,
             "title": "MNC TV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
@@ -25241,7 +25201,7 @@
             }
         },
         {
-            "id": 632,
+            "id": 631,
             "title": "MNX HD",
             "category": "PREMIUM MOVIES",
             "uri": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
@@ -25281,7 +25241,7 @@
             }
         },
         {
-            "id": 633,
+            "id": 632,
             "title": "MOHON DOA RESTU",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/fNKYLoB8?download",
@@ -25321,7 +25281,7 @@
             }
         },
         {
-            "id": 634,
+            "id": 633,
             "title": "MOJI PRO LIGA",
             "category": "SPORTS INDO",
             "uri": "http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8",
@@ -25361,34 +25321,34 @@
             }
         },
         {
-            "id": 635,
+            "id": 634,
             "title": "MOJI TV",
             "category": "INDONESIA CHANNELS",
             "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8",
-            "user_agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
             "headers": {
-                "User-Agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
-                "Referer": "https://www.dens.tv/",
+                "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                "Referer": "https://www.visionplus.id/",
                 "Origin": "https://op-flashcon-digdayahd-1.dens.tv"
             },
             "drm_info": {
-                "is_protected": false,
+                "is_protected": true,
                 "drm_type": "org.w3.clearkey",
-                "drm_key": ""
+                "drm_key": "18"
             },
             "sources": [
                 {
                     "type": "primary",
                     "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8",
                     "headers": {
-                        "User-Agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
-                        "Referer": "https://www.dens.tv/",
+                        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                        "Referer": "https://www.visionplus.id/",
                         "Origin": "https://op-flashcon-digdayahd-1.dens.tv"
                     },
                     "drm_info": {
-                        "is_protected": false,
+                        "is_protected": true,
                         "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
+                        "drm_key": "18"
                     }
                 }
             ],
@@ -25401,7 +25361,7 @@
             }
         },
         {
-            "id": 636,
+            "id": 635,
             "title": "MOJI TV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd",
@@ -25441,7 +25401,7 @@
             }
         },
         {
-            "id": 637,
+            "id": 636,
             "title": "MONSTER",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/kzy3h67F?download",
@@ -25481,7 +25441,7 @@
             }
         },
         {
-            "id": 638,
+            "id": 637,
             "title": "MOVIES NOW",
             "category": "PREMIUM MOVIES",
             "uri": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
@@ -25521,7 +25481,7 @@
             }
         },
         {
-            "id": 639,
+            "id": 638,
             "title": "MTV JAPAN",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0",
@@ -25561,7 +25521,7 @@
             }
         },
         {
-            "id": 640,
+            "id": 639,
             "title": "MUKIDI",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/xDtZjqYB?download",
@@ -25601,7 +25561,7 @@
             }
         },
         {
-            "id": 641,
+            "id": 640,
             "title": "MUSLIM TV",
             "category": "MOSLEM CHANNEL",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd",
@@ -25641,47 +25601,7 @@
             }
         },
         {
-            "id": 642,
-            "title": "MYCINEMA EUROPE",
-            "category": "PREMIUM MOVIES",
-            "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8",
-            "user_agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
-            "headers": {
-                "User-Agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
-                "Referer": "https://www.dens.tv/",
-                "Origin": "https://op-flashcon-digdayahd-1.dens.tv"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8",
-                    "headers": {
-                        "User-Agent": "#EXTHTTP:{\"Referer\":\"https://www.dens.tv/\",\"referrer\":\"https://www.dens.tv/\",\"Origin\":\"https://www.dens.tv\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\",\"user-agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36\"}",
-                        "Referer": "https://www.dens.tv/",
-                        "Origin": "https://op-flashcon-digdayahd-1.dens.tv"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "auto.mycinema.europe",
-                "tvg_name": "MYCINEMA EUROPE",
-                "tvg_logo": "https://static.wikia.nocookie.net/logos/images/f/ff/MCE2022.png/revision/latest/scale-to-width-down/214?cb=20250702151331&path-prefix=ko",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 643,
+            "id": 641,
             "title": "NAGASWARA FM",
             "category": "INTERNET RADIO",
             "uri": "https://live.nagaswarafm.com:9900/stream",
@@ -25721,7 +25641,7 @@
             }
         },
         {
-            "id": 644,
+            "id": 642,
             "title": "NATGEO JAPAN",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0",
@@ -25761,7 +25681,7 @@
             }
         },
         {
-            "id": 645,
+            "id": 643,
             "title": "NBA PHILIPPINES",
             "category": "SPORTS",
             "uri": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
@@ -25801,7 +25721,7 @@
             }
         },
         {
-            "id": 646,
+            "id": 644,
             "title": "NBA TV",
             "category": "SPORTS",
             "uri": "https://line.trx-ott.com/play/live.php?mac=00:1a:79:bc:D3:35&stream=1955135&extension=ts",
@@ -25841,7 +25761,7 @@
             }
         },
         {
-            "id": 647,
+            "id": 645,
             "title": "NEW KFOOD",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7605",
@@ -25881,7 +25801,7 @@
             }
         },
         {
-            "id": 648,
+            "id": 646,
             "title": "NEW KMOVIES",
             "category": "KOREAN CHANNELS",
             "uri": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737",
@@ -25921,7 +25841,7 @@
             }
         },
         {
-            "id": 649,
+            "id": 647,
             "title": "NEW TV COMPREHENSIVE",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/newtvcomprehensive-avc1_2500000=7-3277707030000000.mpd",
@@ -25961,7 +25881,7 @@
             }
         },
         {
-            "id": 650,
+            "id": 648,
             "title": "NEW TV FINANCE",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7-3277707030000000.mpd",
@@ -26001,7 +25921,7 @@
             }
         },
         {
-            "id": 651,
+            "id": 649,
             "title": "NEW TV VARIETY",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd",
@@ -26041,7 +25961,7 @@
             }
         },
         {
-            "id": 652,
+            "id": 650,
             "title": "NHK BS PREMIUM 4K",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01",
@@ -26081,7 +26001,7 @@
             }
         },
         {
-            "id": 653,
+            "id": 651,
             "title": "NHK BS1",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11",
@@ -26121,7 +26041,7 @@
             }
         },
         {
-            "id": 654,
+            "id": 652,
             "title": "NHK G OSAKA",
             "category": "TV JEPANG",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0",
@@ -26161,7 +26081,7 @@
             }
         },
         {
-            "id": 655,
+            "id": 653,
             "title": "NHK GENERAL TV 720P",
             "category": "JAPAN",
             "uri": "https://nhk4.mov3.co/hls/nhk.m3u8",
@@ -26201,7 +26121,7 @@
             }
         },
         {
-            "id": 656,
+            "id": 654,
             "title": "NHK WORLD JAPAN",
             "category": "TV JEPANG",
             "uri": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
@@ -26241,7 +26161,7 @@
             }
         },
         {
-            "id": 657,
+            "id": 655,
             "title": "NICKELODEON",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3277707030000000.mpd",
@@ -26281,7 +26201,7 @@
             }
         },
         {
-            "id": 658,
+            "id": 656,
             "title": "NOUR TV",
             "category": "UAE & ARAB",
             "uri": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
@@ -26321,7 +26241,7 @@
             }
         },
         {
-            "id": 659,
+            "id": 657,
             "title": "NUSANTARA TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd",
@@ -26361,7 +26281,7 @@
             }
         },
         {
-            "id": 660,
+            "id": 658,
             "title": "NUSANTARA TV CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
@@ -26401,7 +26321,7 @@
             }
         },
         {
-            "id": 661,
+            "id": 659,
             "title": "OH MY CERIA",
             "category": "MALAYSIA",
             "uri": "https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd",
@@ -26441,7 +26361,7 @@
             }
         },
         {
-            "id": 662,
+            "id": 660,
             "title": "ONE SPORTS HD",
             "category": "SPORTS",
             "uri": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
@@ -26481,7 +26401,7 @@
             }
         },
         {
-            "id": 663,
+            "id": 661,
             "title": "ONE V",
             "category": "KOREAN CHANNELS",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd",
@@ -26521,7 +26441,7 @@
             }
         },
         {
-            "id": 664,
+            "id": 662,
             "title": "ORIGINALS V",
             "category": "PREMIUM MOVIES",
             "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd",
@@ -26561,7 +26481,7 @@
             }
         },
         {
-            "id": 665,
+            "id": 663,
             "title": "OSN MOVIES ACTION 1080P",
             "category": "UAE & ARAB",
             "uri": "http://116.90.120.151:8000/play/a0ax/index.m3u8",
@@ -26601,7 +26521,7 @@
             }
         },
         {
-            "id": 666,
+            "id": 664,
             "title": "OZ RADIO FM",
             "category": "INTERNET RADIO",
             "uri": "http://45.64.97.211:1031/;stream.nsv",
@@ -26641,7 +26561,7 @@
             }
         },
         {
-            "id": 667,
+            "id": 665,
             "title": "PASUTRI GAJE",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/6sQfgr9z?download",
@@ -26681,7 +26601,7 @@
             }
         },
         {
-            "id": 668,
+            "id": 666,
             "title": "PEACE TV CHINESE 1080P",
             "category": "UAE & ARAB",
             "uri": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
@@ -26721,7 +26641,7 @@
             }
         },
         {
-            "id": 669,
+            "id": 667,
             "title": "PEMANDI JENAZAH",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/Zb5Seo99?download",
@@ -26761,7 +26681,7 @@
             }
         },
         {
-            "id": 670,
+            "id": 668,
             "title": "PEMUKIMAN SETAN",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/gjPCoSJZ?download",
@@ -26801,7 +26721,7 @@
             }
         },
         {
-            "id": 671,
+            "id": 669,
             "title": "PERJALANAN PEMBUKTIAN CINTA",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/xvpzbndd?download",
@@ -26841,7 +26761,7 @@
             }
         },
         {
-            "id": 672,
+            "id": 670,
             "title": "PETUALANGAN SHERINA 2",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/iLy76oSv?download",
@@ -26881,7 +26801,7 @@
             }
         },
         {
-            "id": 673,
+            "id": 671,
             "title": "PICTURES 720P",
             "category": "INDIA",
             "uri": "https://trs1.aynaott.com/andpictureshd/index.m3u8",
@@ -26921,7 +26841,7 @@
             }
         },
         {
-            "id": 674,
+            "id": 672,
             "title": "PICTURES HD",
             "category": "PREMIUM MOVIES",
             "uri": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd",
@@ -26961,7 +26881,7 @@
             }
         },
         {
-            "id": 675,
+            "id": 673,
             "title": "PICTURES HD 1080P",
             "category": "INDIA",
             "uri": "http://103.72.101.252:8080/live/185.m3u8",
@@ -27001,7 +26921,7 @@
             }
         },
         {
-            "id": 676,
+            "id": 674,
             "title": "PON TV",
             "category": "LOCAL CHANNELS",
             "uri": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
@@ -27041,7 +26961,7 @@
             }
         },
         {
-            "id": 677,
+            "id": 675,
             "title": "PONTV 720P",
             "category": "LOKAL",
             "uri": "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
@@ -27081,7 +27001,7 @@
             }
         },
         {
-            "id": 678,
+            "id": 676,
             "title": "PRAMBORS TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd",
@@ -27121,7 +27041,7 @@
             }
         },
         {
-            "id": 679,
+            "id": 677,
             "title": "PREMIER SPORTS",
             "category": "SPORTS",
             "uri": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd",
@@ -27161,7 +27081,7 @@
             }
         },
         {
-            "id": 680,
+            "id": 678,
             "title": "PRIMA SPORT 1",
             "category": "SPORTS",
             "uri": "https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8",
@@ -27201,7 +27121,7 @@
             }
         },
         {
-            "id": 681,
+            "id": 679,
             "title": "PRIMA SPORT 2",
             "category": "SPORTS",
             "uri": "https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8",
@@ -27241,7 +27161,7 @@
             }
         },
         {
-            "id": 682,
+            "id": 680,
             "title": "PRIMA SPORT 3",
             "category": "SPORTS",
             "uri": "https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8",
@@ -27281,7 +27201,7 @@
             }
         },
         {
-            "id": 683,
+            "id": 681,
             "title": "PRIMA SPORT 4",
             "category": "SPORTS",
             "uri": "https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8",
@@ -27321,7 +27241,7 @@
             }
         },
         {
-            "id": 684,
+            "id": 682,
             "title": "PRIMA SPORT 5",
             "category": "SPORTS",
             "uri": "https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8",
@@ -27361,7 +27281,7 @@
             }
         },
         {
-            "id": 685,
+            "id": 683,
             "title": "PTV SPORTS PAKISTAN",
             "category": "WORLDCUP 2026",
             "uri": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
@@ -27401,7 +27321,7 @@
             }
         },
         {
-            "id": 686,
+            "id": 684,
             "title": "QVC 1080P",
             "category": "JAPAN",
             "uri": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
@@ -27441,7 +27361,7 @@
             }
         },
         {
-            "id": 687,
+            "id": 685,
             "title": "RAI ITALIA",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd",
@@ -27481,7 +27401,7 @@
             }
         },
         {
-            "id": 688,
+            "id": 686,
             "title": "RAJAWALI TV",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd",
@@ -27521,7 +27441,7 @@
             }
         },
         {
-            "id": 689,
+            "id": 687,
             "title": "RCTI",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd",
@@ -27561,7 +27481,7 @@
             }
         },
         {
-            "id": 690,
+            "id": 688,
             "title": "RCTI HD",
             "category": "INDONESIA CHANNELS",
             "uri": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti",
@@ -27601,7 +27521,7 @@
             }
         },
         {
-            "id": 691,
+            "id": 689,
             "title": "RCTI HD V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
@@ -27641,7 +27561,7 @@
             }
         },
         {
-            "id": 692,
+            "id": 690,
             "title": "RCTI SPORTS",
             "category": "SPORTS INDO",
             "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
@@ -27681,7 +27601,7 @@
             }
         },
         {
-            "id": 693,
+            "id": 691,
             "title": "RED 576P",
             "category": "RUSSIA",
             "uri": "http://5.188.159.128:8070/RED/index.m3u8",
@@ -27721,7 +27641,7 @@
             }
         },
         {
-            "id": 694,
+            "id": 692,
             "title": "REFORMED21 V",
             "category": "CHRISTIAN CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd",
@@ -27761,7 +27681,7 @@
             }
         },
         {
-            "id": 695,
+            "id": 693,
             "title": "RITUAL TUMBAL TERAKHIR",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/f9HdvnRd?download",
@@ -27801,7 +27721,7 @@
             }
         },
         {
-            "id": 696,
+            "id": 694,
             "title": "ROCK ACTION",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd",
@@ -27841,7 +27761,7 @@
             }
         },
         {
-            "id": 697,
+            "id": 695,
             "title": "ROCK ACTION V",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd",
@@ -27881,7 +27801,7 @@
             }
         },
         {
-            "id": 698,
+            "id": 696,
             "title": "ROCK ENTERTAINMENT",
             "category": "TRIAL IDH",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd",
@@ -27921,7 +27841,7 @@
             }
         },
         {
-            "id": 699,
+            "id": 697,
             "title": "ROCK ENTERTAINMENT V",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd",
@@ -27961,7 +27881,7 @@
             }
         },
         {
-            "id": 700,
+            "id": 698,
             "title": "ROLL",
             "category": "MALAYSIA",
             "uri": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
@@ -28001,7 +27921,7 @@
             }
         },
         {
-            "id": 701,
+            "id": 699,
             "title": "ROMEDY NOW",
             "category": "PREMIUM MOVIES",
             "uri": "https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd",
@@ -28041,7 +27961,7 @@
             }
         },
         {
-            "id": 702,
+            "id": 700,
             "title": "RTB ANEKA",
             "category": "TV MALAYSIA",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8",
@@ -28081,7 +28001,7 @@
             }
         },
         {
-            "id": 703,
+            "id": 701,
             "title": "RTB ANEKA FHD",
             "category": "BRUNEI",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8",
@@ -28121,7 +28041,7 @@
             }
         },
         {
-            "id": 704,
+            "id": 702,
             "title": "RTB GO LIVE",
             "category": "TV MALAYSIA",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229",
@@ -28161,7 +28081,7 @@
             }
         },
         {
-            "id": 705,
+            "id": 703,
             "title": "RTB GO LIVE FHD",
             "category": "BRUNEI",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229",
@@ -28201,7 +28121,7 @@
             }
         },
         {
-            "id": 706,
+            "id": 704,
             "title": "RTB SUKMAINDERA",
             "category": "TV MALAYSIA",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2",
@@ -28241,7 +28161,7 @@
             }
         },
         {
-            "id": 707,
+            "id": 705,
             "title": "RTB SUKMAINDERA FHD",
             "category": "BRUNEI",
             "uri": "https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2",
@@ -28281,7 +28201,7 @@
             }
         },
         {
-            "id": 708,
+            "id": 706,
             "title": "RTM ASEAN",
             "category": "MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
@@ -28321,14 +28241,14 @@
             }
         },
         {
-            "id": 709,
+            "id": 707,
             "title": "RTV",
             "category": "INDONESIA CHANNELS",
             "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://rtvstream.rtv.co.id:4555/",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+                "Referer": "https://cdn.siar.us/",
                 "Origin": "https://rtvstream.rtv.co.id:4555"
             },
             "drm_info": {
@@ -28341,8 +28261,8 @@
                     "type": "primary",
                     "uri": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
                     "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://rtvstream.rtv.co.id:4555/",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+                        "Referer": "https://cdn.siar.us/",
                         "Origin": "https://rtvstream.rtv.co.id:4555"
                     },
                     "drm_info": {
@@ -28361,7 +28281,47 @@
             }
         },
         {
-            "id": 710,
+            "id": 708,
+            "title": "RTV V",
+            "category": "INDONESIA CHANNELS",
+            "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+                "Referer": "https://d84q7nw4qf3j3.cloudfront.net/",
+                "Origin": "https://d84q7nw4qf3j3.cloudfront.net"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0",
+                        "Referer": "https://d84q7nw4qf3j3.cloudfront.net/",
+                        "Origin": "https://d84q7nw4qf3j3.cloudfront.net"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "RTV.id",
+                "tvg_name": "RTV V",
+                "tvg_logo": "https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 709,
             "title": "SALIRA TV",
             "category": "LOCAL CHANNELS",
             "uri": "https://live.salira.tv/p/3870/hybrid/play.m3u8",
@@ -28401,7 +28361,7 @@
             }
         },
         {
-            "id": 711,
+            "id": 710,
             "title": "SANLIH",
             "category": "CHINA",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd",
@@ -28441,7 +28401,7 @@
             }
         },
         {
-            "id": 712,
+            "id": 711,
             "title": "SARANJANA KOTA GHAIB",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/vUGDTTXc?download",
@@ -28477,6 +28437,46 @@
                 "tvg_id": "auto.saranjana.kota.ghaib",
                 "tvg_name": "SARANJANA KOTA GHAIB",
                 "tvg_logo": "",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 712,
+            "title": "SBT NOVELAS 1080P GEOBLOCKED",
+            "category": "BRAZIL",
+            "uri": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Referer": "https://novelas.maissbt.com/",
+                "Origin": "https://novelas.maissbt.com"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://novelas.maissbt.com/",
+                        "Origin": "https://novelas.maissbt.com"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "PlusSBTNovelas.br@SD",
+                "tvg_name": "SBT NOVELAS 1080P GEOBLOCKED",
+                "tvg_logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png",
                 "source_xml": "Embedded"
             }
         },
@@ -33202,46 +33202,6 @@
         },
         {
             "id": 831,
-            "title": "TVRI NASIONAL",
-            "category": "INDONESIA CHANNELS",
-            "uri": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd",
-            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-                "Referer": "https://www.visionplus.id/",
-                "Origin": "https://cdnbal1.indihometv.com"
-            },
-            "drm_info": {
-                "is_protected": true,
-                "drm_type": "clearkey",
-                "drm_key": "47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc"
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
-                        "Referer": "https://www.visionplus.id/",
-                        "Origin": "https://cdnbal1.indihometv.com"
-                    },
-                    "drm_info": {
-                        "is_protected": true,
-                        "drm_type": "clearkey",
-                        "drm_key": "47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc"
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "TVRI.id",
-                "tvg_name": "TVRI NASIONAL",
-                "tvg_logo": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 832,
             "title": "TVRI NASIONAL HLS TANPA DRM",
             "category": "INDONESIA CHANNELS",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
@@ -33281,7 +33241,7 @@
             }
         },
         {
-            "id": 833,
+            "id": 832,
             "title": "TVRI NORTH SULAWESI 1080P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
@@ -33321,7 +33281,7 @@
             }
         },
         {
-            "id": 834,
+            "id": 833,
             "title": "TVRI NORTH SUMATRA 1080P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
@@ -33361,7 +33321,7 @@
             }
         },
         {
-            "id": 835,
+            "id": 834,
             "title": "TVRI NUSA TENGGARA BARAT 720P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
@@ -33401,7 +33361,7 @@
             }
         },
         {
-            "id": 836,
+            "id": 835,
             "title": "TVRI NUSA TENGGARA TIMUR 480P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
@@ -33441,7 +33401,7 @@
             }
         },
         {
-            "id": 837,
+            "id": 836,
             "title": "TVRI PAPUA 480P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
@@ -33481,7 +33441,7 @@
             }
         },
         {
-            "id": 838,
+            "id": 837,
             "title": "TVRI RIAU 720P NOT 247",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
@@ -33521,7 +33481,7 @@
             }
         },
         {
-            "id": 839,
+            "id": 838,
             "title": "TVRI SULAWESI BARAT 720P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
@@ -33561,7 +33521,7 @@
             }
         },
         {
-            "id": 840,
+            "id": 839,
             "title": "TVRI SULAWESI SELATAN 480P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
@@ -33601,7 +33561,7 @@
             }
         },
         {
-            "id": 841,
+            "id": 840,
             "title": "TVRI SULAWESI TENGAH 720P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
@@ -33641,7 +33601,7 @@
             }
         },
         {
-            "id": 842,
+            "id": 841,
             "title": "TVRI SULAWESI TENGGARA 480P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
@@ -33681,7 +33641,7 @@
             }
         },
         {
-            "id": 843,
+            "id": 842,
             "title": "TVRI SUMATERA BARAT 720P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
@@ -33721,7 +33681,7 @@
             }
         },
         {
-            "id": 844,
+            "id": 843,
             "title": "TVRI SUMATERA SELATAN 480P",
             "category": "TVRI",
             "uri": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
@@ -33757,6 +33717,46 @@
                 "tvg_id": "TVRI.id",
                 "tvg_name": "TVRI SUMATERA SELATAN 480P",
                 "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 844,
+            "title": "TVRI V",
+            "category": "INDONESIA CHANNELS",
+            "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd",
+            "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                "Referer": "https://www.visionplus.id/",
+                "Origin": "https://d84q7nw4qf3j3.cloudfront.net"
+            },
+            "drm_info": {
+                "is_protected": true,
+                "drm_type": "clearkey",
+                "drm_key": "47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc"
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+                        "Referer": "https://www.visionplus.id/",
+                        "Origin": "https://d84q7nw4qf3j3.cloudfront.net"
+                    },
+                    "drm_info": {
+                        "is_protected": true,
+                        "drm_type": "clearkey",
+                        "drm_key": "47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc"
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "TVRI.id",
+                "tvg_name": "TVRI V",
+                "tvg_logo": "https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",
                 "source_xml": "Embedded"
             }
         },
