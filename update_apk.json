@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "2.1",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.1-release.apk",
-  "releaseNotes": "• Total Identity Sync: Penyelarasan mutlak antara Video dan Kunci Lisensi (ClearKey) untuk saluran tvN dan Indosiar.\n• Vision+ & Vidio Fix: Memaksa identitas resmi agar tidak lagi muncul error 'Akses Ditolak' akibat data JSON yang salah.\n• Buffer Optimization: Penyesuaian tabungan video (4 detik) untuk keseimbangan antara kecepatan buka dan stabilitas siaran."
+  "latestVersionCode": 13,
+  "latestVersionName": "2.2",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.2-release.apk",
+  "releaseNotes": "• EMERGENCY FIX: Pemulihan total saluran nasional (RCTI, MNCTV, dll) yang gagal muat di versi sebelumnya.\n• tvN & Indosiar Fix: Penyelarasan identitas keamanan untuk akses saluran premium tanpa merusak saluran lain.\n• High Performance: Mengaktifkan kembali mesin pembaca stream TS untuk suara dan gambar yang lebih stabil."
 }
