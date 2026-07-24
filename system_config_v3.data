@@ -1,10 +1,10 @@
 [
     {
-        "id": 1,
-        "title": "🆕IDX",
-        "category": "NASIONAL",
+        "id": "1",
+        "title": "IDX (V+)",
+        "category": "Indonesia Channels",
         "uri": "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
-        "user_agent": "VidioPlayer/4.3.0-WITH_ADS",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -13,20 +13,20 @@
         },
         "drm_info": {
             "is_protected": true,
-            "drm_type": "org.w3.clearkey",
+            "drm_type": "clearkey",
             "drm_key": "941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e",
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "IDX HD - [Channel 134].id",
-            "tvg_name": "🆕IDX",
-            "tvg_logo": "https://i.imgur.com/oZl4oNH.jpeg",
+            "tvg_id": "IDX.id",
+            "tvg_name": "IDX (V+)",
+            "tvg_logo": "https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",
             "source_xml": "Embedded"
         }
     },
-    {
+	{
         "id": 4,
-        "title": "🆕Indosiar 0️⃣(167)",
+        "title": "🆕Indosiar 0️⃣",
         "category": "NASIONAL",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -44,8 +44,33 @@
         },
         "epg_metadata": {
             "tvg_id": "Indosiar.id",
-            "tvg_name": "🆕Indosiar 0️⃣(167)",
+            "tvg_name": "🆕Indosiar 0️⃣",
             "tvg_logo": "https://i.imgur.com/bjNCrmL.jpeg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "1",
+        "title": "Indosiar (Video)",
+        "category": "Indonesia Channels",
+        "uri": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
+        "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://tvratu.my.id/",
+            "Origin": "https://tvratu.my.id"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "Indosiar.id",
+            "tvg_name": "Indosiar (Video)",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",
             "source_xml": "Embedded"
         }
     },
@@ -200,31 +225,31 @@
         }
     },
     {
-        "id": 12,
-        "title": "Moji",
-        "category": "NASIONAL",
-        "uri": "http://opplextv.cyou:8080/nasir6160/nasir/350997",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "id": "1",
+        "title": "MOJI TV (V+)",
+        "category": "Indonesia Channels",
+        "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
-            "Referer": "https://opplextv.cyou:8080/",
-            "Origin": "https://opplextv.cyou:8080"
+            "Referer": "https://d2xz2v5wuvgur6.cloudfront.net/",
+            "Origin": "https://d2xz2v5wuvgur6.cloudfront.net"
         },
         "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d",
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "Moji.id",
-            "tvg_name": "Moji",
-            "tvg_logo": "https://i.imgur.com/dSA83Hx.jpeg",
+            "tvg_id": "Moji",
+            "tvg_name": "MOJI TV (V+)",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",
             "source_xml": "Embedded"
         }
     },
-    {
+	{
         "id": 28,
         "title": "🆕Moji",
         "category": "NASIONAL",
