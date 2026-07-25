@@ -1610,13 +1610,12 @@
         }
     },
     {
-        "id": "xoi_JuanPabloIiVsCienciano_03:15",
-        "title": "\u26bd Juan Pablo Ii Vs Cienciano",
+        "id": "x_SanMartinTucumanVsTemperley_00:00",
+        "title": "\u26bd San Martin Tucuman Vs Temperley",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "03:15",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -1627,32 +1626,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.juan-pablo-ii-vs-cienciano-luc-0315-ngay-26-07-2026",
-            "tvg_name": "Juan Pablo Ii Vs Cienciano",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_JuanPabloIiVsCienciano_03:15",
-        "title": "\u26bd Juan Pablo Ii Vs Cienciano",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "03:15",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.juan-pablo-ii-vs-cienciano-luc-0315-ngay-26-07-2026",
-            "tvg_name": "Juan Pablo Ii Vs Cienciano",
+            "tvg_id": "m.san-martin-tucuman-vs-temperley-luc-0500-ngay-26-07-2026",
+            "tvg_name": "San Martin Tucuman Vs Temperley",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -2849,6 +2824,29 @@
         "epg_metadata": {
             "tvg_id": "m.seoul-fc-vs-ulsan-hyundai-luc-1730-ngay-26-07-2026",
             "tvg_name": "Seoul Fc Vs Ulsan Hyundai",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_GwangjuFcVsJejuSkFc_17:30",
+        "title": "\u26bd Gwangju Fc Vs Jeju Sk Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gwangju-fc-vs-jeju-sk-fc-luc-1730-ngay-26-07-2026",
+            "tvg_name": "Gwangju Fc Vs Jeju Sk Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
