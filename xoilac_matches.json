@@ -1288,98 +1288,6 @@
         }
     },
     {
-        "id": "x_DepIndependienteVsDeportivoPasto_00:00",
-        "title": "\u26bd Dep Independiente Vs Deportivo Pasto",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dep-independiente-vs-deportivo-pasto-luc-0405-ngay-26-07-2026",
-            "tvg_name": "Dep Independiente Vs Deportivo Pasto",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ClubGuabiraVsRealOruro_00:00",
-        "title": "\u26bd Club Guabira Vs Real Oruro",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.club-guabira-vs-real-oruro-luc-0415-ngay-26-07-2026",
-            "tvg_name": "Club Guabira Vs Real Oruro",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_AtlParanaenseVsInternacionalRs_00:00",
-        "title": "\u26bd Atl Paranaense Vs Internacional Rs",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.atl-paranaense-vs-internacional-rs-luc-0430-ngay-26-07-2026",
-            "tvg_name": "Atl Paranaense Vs Internacional Rs",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_HuachipatoVsCobresal_00:00",
-        "title": "\u26bd Huachipato Vs Cobresal",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.huachipato-vs-cobresal-luc-0430-ngay-26-07-2026",
-            "tvg_name": "Huachipato Vs Cobresal",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
@@ -4258,6 +4166,144 @@
         "epg_metadata": {
             "tvg_id": "m.nu-boston-legacy-vs-nu-kansas-city-luc-0400-ngay-26-07-2026",
             "tvg_name": "Nu Boston Legacy Vs Nu Kansas City",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ExportSebacoFcVsSanMarcosFc_LIVE",
+        "title": "\u26bd Export Sebaco Fc Vs San Marcos Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.export-sebaco-fc-vs-san-marcos-fc-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Export Sebaco Fc Vs San Marcos Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DefensorScVsLiverpoolUru_LIVE",
+        "title": "\u26bd Defensor Sc Vs Liverpool Uru",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.defensor-sc-vs-liverpool-uru-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Defensor Sc Vs Liverpool Uru",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DepIndependienteVsDeportivoPasto_LIVE",
+        "title": "\u26bd Dep Independiente Vs Deportivo Pasto",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dep-independiente-vs-deportivo-pasto-luc-0405-ngay-26-07-2026",
+            "tvg_name": "Dep Independiente Vs Deportivo Pasto",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ClubGuabiraVsRealOruro_LIVE",
+        "title": "\u26bd Club Guabira Vs Real Oruro",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.club-guabira-vs-real-oruro-luc-0415-ngay-26-07-2026",
+            "tvg_name": "Club Guabira Vs Real Oruro",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AtlParanaenseVsInternacionalRs_LIVE",
+        "title": "\u26bd Atl Paranaense Vs Internacional Rs",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atl-paranaense-vs-internacional-rs-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Atl Paranaense Vs Internacional Rs",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_HuachipatoVsCobresal_LIVE",
+        "title": "\u26bd Huachipato Vs Cobresal",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.huachipato-vs-cobresal-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Huachipato Vs Cobresal",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
