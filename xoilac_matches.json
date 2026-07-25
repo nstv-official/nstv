@@ -1,12 +1,12 @@
 [
     {
-        "id": "x_ReimsVsCercleBrugge_19:00",
+        "id": "x_ReimsVsCercleBrugge_19:30",
         "title": "Reims Vs Cercle Brugge",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "19:00",
+        "match_time": "19:30",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -19,30 +19,6 @@
         "epg_metadata": {
             "tvg_id": "m.reims-vs-cercle-brugge-luc-1900-ngay-25-07-2026",
             "tvg_name": "Reims Vs Cercle Brugge",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_RotWeissEssenVsBMonchengladbach_19:00",
-        "title": "Rot Weiss Essen Vs B Monchengladbach",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "19:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.rot-weiss-essen-vs-b-monchengladbach-luc-1900-ngay-25-07-2026",
-            "tvg_name": "Rot Weiss Essen Vs B Monchengladbach",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -643,6 +619,30 @@
         "epg_metadata": {
             "tvg_id": "m.marseille-vs-ogc-nice-luc-2300-ngay-25-07-2026",
             "tvg_name": "Marseille Vs Ogc Nice",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PsvEindhovenVsVillarreal_23:00",
+        "title": "Psv Eindhoven Vs Villarreal",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "23:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.psv-eindhoven-vs-villarreal-luc-2300-ngay-25-07-2026",
+            "tvg_name": "Psv Eindhoven Vs Villarreal",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
