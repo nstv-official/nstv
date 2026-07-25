@@ -1,12 +1,12 @@
 [
     {
-        "id": "x_ReimsVsCercleBrugge_19:30",
-        "title": "Reims Vs Cercle Brugge",
+        "id": "x_MalagaVsLeicesterCity_00:00",
+        "title": "Malaga Vs Leicester City",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "19:30",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -17,8 +17,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.reims-vs-cercle-brugge-luc-1900-ngay-25-07-2026",
-            "tvg_name": "Reims Vs Cercle Brugge",
+            "tvg_id": "m.malaga-vs-leicester-city-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Malaga Vs Leicester City",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
