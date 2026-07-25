@@ -3619,6 +3619,98 @@
         }
     },
     {
+        "id": "x_NuBragantinoVsNuAtleticoMineiro_LIVE",
+        "title": "\u26bd Nu Bragantino Vs Nu Atletico Mineiro",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-bragantino-vs-nu-atletico-mineiro-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Nu Bragantino Vs Nu Atletico Mineiro",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_FerroviariaSpVsMaranhao_LIVE",
+        "title": "\u26bd Ferroviaria Sp Vs Maranhao",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ferroviaria-sp-vs-maranhao-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Ferroviaria Sp Vs Maranhao",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SantaCruzPeVsFigueirense_LIVE",
+        "title": "\u26bd Santa Cruz Pe Vs Figueirense",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.santa-cruz-pe-vs-figueirense-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Santa Cruz Pe Vs Figueirense",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_JuanPabloIiVsCienciano_LIVE",
+        "title": "\u26bd Juan Pablo Ii Vs Cienciano",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.juan-pablo-ii-vs-cienciano-luc-0315-ngay-26-07-2026",
+            "tvg_name": "Juan Pablo Ii Vs Cienciano",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_StandardLiegeVsJuventus_00:00",
         "title": "\u26bd Standard Liege Vs Juventus",
         "category": "EVENT LIVE",
