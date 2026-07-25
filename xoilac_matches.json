@@ -1318,5 +1318,77 @@
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "x_SportingCpVsAsMonaco_00:00",
+        "title": "\u26bd Sporting Cp Vs As Monaco",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Today",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sporting-cp-vs-as-monaco-luc-0130-ngay-26-07-2026",
+            "tvg_name": "Sporting Cp Vs As Monaco",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SligoRoversVsDroghedaUtd_00:00",
+        "title": "\u26bd Sligo Rovers Vs Drogheda Utd",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Today",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sligo-rovers-vs-drogheda-utd-luc-0145-ngay-26-07-2026",
+            "tvg_name": "Sligo Rovers Vs Drogheda Utd",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AlwaysReadyVsSAntonioBulo_00:00",
+        "title": "\u26bd Always Ready Vs S Antonio Bulo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Today",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.always-ready-vs-s-antonio-bulo-luc-0200-ngay-26-07-2026",
+            "tvg_name": "Always Ready Vs S Antonio Bulo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     }
 ]
