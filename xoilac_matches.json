@@ -92,6 +92,29 @@
         }
     },
     {
+        "id": "x_ChengduRongchengVsBeijingGuoan_18:35",
+        "title": "\u26bd Chengdu Rongcheng Vs Beijing Guoan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "18:35",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chengdu-rongcheng-vs-beijing-guoan-luc-1835-ngay-26-07-2026",
+            "tvg_name": "Chengdu Rongcheng Vs Beijing Guoan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x__00:00",
         "title": "\u26bd ",
         "category": "EVENT LIVE",
@@ -5766,6 +5789,75 @@
         "epg_metadata": {
             "tvg_id": "m.gambusinos-de-fresnillo-vs-astros-de-jalisco-luc-0900-ngay-26-07-2026",
             "tvg_name": "Gambusinos De Fresnillo Vs Astros De Jalisco",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ClubGuadalajaraVsFcJuarez_LIVE",
+        "title": "\u26bd Club Guadalajara Vs Fc Juarez",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.club-guadalajara-vs-fc-juarez-luc-0607-ngay-26-07-2026",
+            "tvg_name": "Club Guadalajara Vs Fc Juarez",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MillonariosVsAtlBucaramanga_LIVE",
+        "title": "\u26bd Millonarios Vs Atl Bucaramanga",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.millonarios-vs-atl-bucaramanga-luc-0610-ngay-26-07-2026",
+            "tvg_name": "Millonarios Vs Atl Bucaramanga",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AlianzaFcPanVsUmecit_LIVE",
+        "title": "\u26bd Alianza Fc Pan Vs Umecit",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alianza-fc-pan-vs-umecit-luc-0615-ngay-26-07-2026",
+            "tvg_name": "Alianza Fc Pan Vs Umecit",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
