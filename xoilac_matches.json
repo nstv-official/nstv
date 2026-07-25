@@ -288,6 +288,54 @@
         }
     },
     {
+        "id": "x_AtlParanaenseVsInternacionalRs_04:30",
+        "title": "\u26bd Atl Paranaense Vs Internacional Rs",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "04:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atl-paranaense-vs-internacional-rs-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Atl Paranaense Vs Internacional Rs",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SantosVsChapecoenseSc_04:30",
+        "title": "\u26bd Santos Vs Chapecoense Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "04:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.santos-vs-chapecoense-sc-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Santos Vs Chapecoense Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "ls_LiverpoolVsSunderlandAfc_05:00",
         "title": "\u26bd Liverpool Vs Sunderland Afc",
         "category": "EVENT LIVE",
