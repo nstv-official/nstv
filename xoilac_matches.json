@@ -1,77 +1,5 @@
 [
     {
-        "id": "xoi_StandardLiegeVsJuventus_01:00",
-        "title": "\u26bd Standard Liege Vs Juventus",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "01:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.standard-liege-vs-juventus-luc-0100-ngay-26-07-2026",
-            "tvg_name": "Standard Liege Vs Juventus",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_OfkBeogradVsRadnikSurdulica_01:00",
-        "title": "\u26bd Ofk Beograd Vs Radnik Surdulica",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "01:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ofk-beograd-vs-radnik-surdulica-luc-0100-ngay-26-07-2026",
-            "tvg_name": "Ofk Beograd Vs Radnik Surdulica",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_FcZbrojovkaBrnoVsAcSpartaPraha_01:00",
-        "title": "\u26bd Fc Zbrojovka Brno Vs Ac Sparta Praha",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "01:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fc-zbrojovka-brno-vs-ac-sparta-praha-luc-0100-ngay-26-07-2026",
-            "tvg_name": "Fc Zbrojovka Brno Vs Ac Sparta Praha",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "ls_LechPoznanVsCracoviaKrakow_01:15",
         "title": "\u26bd Lech Poznan Vs Cracovia Krakow",
         "category": "EVENT LIVE",
@@ -91,6 +19,78 @@
         "epg_metadata": {
             "tvg_id": "m.3003082-lech-poznan-vs-cracovia-krakow",
             "tvg_name": "Lech Poznan Vs Cracovia Krakow",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_LokomotivSofiaVsLevskiSofia_01:15",
+        "title": "\u26bd Lokomotiv Sofia Vs Levski Sofia",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "01:15",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.lokomotiv-sofia-vs-levski-sofia-luc-0115-ngay-26-07-2026",
+            "tvg_name": "Lokomotiv Sofia Vs Levski Sofia",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_LuzernVsThun_01:30",
+        "title": "\u26bd Luzern Vs Thun",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "01:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.luzern-vs-thun-luc-0130-ngay-26-07-2026",
+            "tvg_name": "Luzern Vs Thun",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_SportingCpVsAsMonaco_01:30",
+        "title": "\u26bd Sporting Cp Vs As Monaco",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "01:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sporting-cp-vs-as-monaco-luc-0130-ngay-26-07-2026",
+            "tvg_name": "Sporting Cp Vs As Monaco",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -384,6 +384,30 @@
         }
     },
     {
+        "id": "ls_PhiladelphiaUnionVsSeattleSounders_06:30",
+        "title": "\u26bd Philadelphia Union Vs Seattle Sounders",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "06:30",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is/id/football.html/",
+            "Origin": "https://idn281.livesports088.is"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.2908660-philadelphia-union-vs-seattle-sounders",
+            "tvg_name": "Philadelphia Union Vs Seattle Sounders",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "ls_Idn.Livesports.Is_00:00",
         "title": "\u26bd Idn.Livesports.Is",
         "category": "EVENT LIVE",
@@ -648,8 +672,8 @@
         }
     },
     {
-        "id": "ls_BoltonWanderersVsEverton_00:00",
-        "title": "\u26bd Bolton Wanderers Vs Everton",
+        "id": "ls_EstudiantesRioCuartoVsClubAtleticoTigre_00:00",
+        "title": "\u26bd Estudiantes Rio Cuarto Vs Club Atletico Tigre",
         "category": "EVENT LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -665,8 +689,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.3040543-bolton-wanderers-vs-everton",
-            "tvg_name": "Bolton Wanderers Vs Everton",
+            "tvg_id": "m.2962508-estudiantes-rio-cuarto-vs-club-atletico-tigre",
+            "tvg_name": "Estudiantes Rio Cuarto Vs Club Atletico Tigre",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -720,30 +744,6 @@
         }
     },
     {
-        "id": "xoi_SportBoysVsAdTarma_00:00",
-        "title": "\u26bd Sport Boys Vs Ad Tarma",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sport-boys-vs-ad-tarma-luc-2230-ngay-25-07-2026",
-            "tvg_name": "Sport Boys Vs Ad Tarma",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "xoi_ServetteVsFcBasel_00:00",
         "title": "\u26bd Servette Vs Fc Basel",
         "category": "EVENT LIVE",
@@ -768,54 +768,6 @@
         }
     },
     {
-        "id": "xoi_LausanneSportsVsGrasshopper_00:00",
-        "title": "\u26bd Lausanne Sports Vs Grasshopper",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.lausanne-sports-vs-grasshopper-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Lausanne Sports Vs Grasshopper",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_CskaSofiaVsBotevVratsa_00:00",
-        "title": "\u26bd Cska  Sofia Vs Botev Vratsa",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.cska-1948-sofia-vs-botev-vratsa-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Cska  Sofia Vs Botev Vratsa",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "xoi_SpartakTrnavaVsMfkSkalica_00:00",
         "title": "\u26bd Spartak Trnava Vs Mfk Skalica",
         "category": "EVENT LIVE",
@@ -835,126 +787,6 @@
         "epg_metadata": {
             "tvg_id": "m.spartak-trnava-vs-mfk-skalica-luc-2300-ngay-25-07-2026",
             "tvg_name": "Spartak Trnava Vs Mfk Skalica",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_TrencinVsKfcKomarno_00:00",
-        "title": "\u26bd Trencin Vs Kfc Komarno",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.trencin-vs-kfc-komarno-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Trencin Vs Kfc Komarno",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_NsMuraVsOlimpijaLjubljana_00:00",
-        "title": "\u26bd Ns Mura Vs Olimpija Ljubljana",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ns-mura-vs-olimpija-ljubljana-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Ns Mura Vs Olimpija Ljubljana",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_GalwayUnitedVsWaterfordUnited_00:00",
-        "title": "\u26bd Galway United Vs Waterford United",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.galway-united-vs-waterford-united-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Galway United Vs Waterford United",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_RennesVsClubBrugge_00:00",
-        "title": "\u26bd Rennes Vs Club Brugge",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.rennes-vs-club-brugge-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Rennes Vs Club Brugge",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_SvOberwartVsRedBullSalzburg_00:00",
-        "title": "\u26bd Sv Oberwart Vs Red Bull Salzburg",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sv-oberwart-vs-red-bull-salzburg-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Sv Oberwart Vs Red Bull Salzburg",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1008,8 +840,8 @@
         }
     },
     {
-        "id": "xoi_WolverhamptonVsRealSociedad_00:00",
-        "title": "\u26bd Wolverhampton Vs Real Sociedad",
+        "id": "xoi_KremserVsScAustriaLustenau_00:00",
+        "title": "\u26bd Kremser Vs Sc Austria Lustenau",
         "category": "EVENT LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -1025,15 +857,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.wolverhampton-vs-real-sociedad-luc-2200-ngay-25-07-2026",
-            "tvg_name": "Wolverhampton Vs Real Sociedad",
+            "tvg_id": "m.kremser-vs-sc-austria-lustenau-luc-2330-ngay-25-07-2026",
+            "tvg_name": "Kremser Vs Sc Austria Lustenau",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "xoi_MarseilleVsOgcNice_00:00",
-        "title": "\u26bd Marseille Vs Ogc Nice",
+        "id": "xoi_RotorVolgogradVsZenitPenza_00:00",
+        "title": "\u26bd Rotor Volgograd  Vs Zenit Penza",
         "category": "EVENT LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -1049,15 +881,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.marseille-vs-ogc-nice-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Marseille Vs Ogc Nice",
+            "tvg_id": "m.rotor-volgograd-2-vs-zenit-penza-luc-2330-ngay-25-07-2026",
+            "tvg_name": "Rotor Volgograd  Vs Zenit Penza",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "xoi_PsvEindhovenVsVillarreal_00:00",
-        "title": "\u26bd Psv Eindhoven Vs Villarreal",
+        "id": "xoi_MalagaVsLeicesterCity_00:00",
+        "title": "\u26bd Malaga Vs Leicester City",
         "category": "EVENT LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -1073,8 +905,176 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.psv-eindhoven-vs-villarreal-luc-2300-ngay-25-07-2026",
-            "tvg_name": "Psv Eindhoven Vs Villarreal",
+            "tvg_id": "m.malaga-vs-leicester-city-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Malaga Vs Leicester City",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_RcdMallorcaVsAlFatehSc_00:00",
+        "title": "\u26bd Rcd Mallorca Vs Al Fateh Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.rcd-mallorca-vs-al-fateh-sc-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Rcd Mallorca Vs Al Fateh Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_TorpedoZhodinoVsDneprMogilev_00:00",
+        "title": "\u26bd Torpedo Zhodino Vs Dnepr Mogilev",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.torpedo-zhodino-vs-dnepr-mogilev-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Torpedo Zhodino Vs Dnepr Mogilev",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_LasPalmasVsAlIttihadksa_00:00",
+        "title": "\u26bd Las Palmas Vs Al Ittihadksa",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.las-palmas-vs-al-ittihadksa-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Las Palmas Vs Al Ittihadksa",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_DynamoMoscowBVsTyumen_00:00",
+        "title": "\u26bd Dynamo Moscow B Vs Tyumen",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dynamo-moscow-b-vs-tyumen-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Dynamo Moscow B Vs Tyumen",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_NuRigaFkVsNuWrexham_00:00",
+        "title": "\u26bd Nu Riga Fk Vs Nu Wrexham",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-riga-fk-vs-nu-wrexham-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Nu Riga Fk Vs Nu Wrexham",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_AthleticBilbaoVsEibar_00:00",
+        "title": "\u26bd Athletic Bilbao Vs Eibar",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.athletic-bilbao-vs-eibar-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Athletic Bilbao Vs Eibar",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "xoi_NuTjSpartakMyjavaVsNuMgarr_00:00",
+        "title": "\u26bd Nu Tj Spartak Myjava Vs Nu Mgarr",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-tj-spartak-myjava-vs-nu-mgarr-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Nu Tj Spartak Myjava Vs Nu Mgarr",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
