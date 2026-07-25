@@ -600,54 +600,6 @@
         }
     },
     {
-        "id": "x_KremserVsScAustriaLustenau_23:30",
-        "title": "\u26bd Kremser Vs Sc Austria Lustenau",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "23:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.kremser-vs-sc-austria-lustenau-luc-2330-ngay-25-07-2026",
-            "tvg_name": "Kremser Vs Sc Austria Lustenau",
-            "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_RotorVolgogradVsZenitPenza_23:30",
-        "title": "\u26bd Rotor Volgograd  Vs Zenit Penza",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "23:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.rotor-volgograd-2-vs-zenit-penza-luc-2330-ngay-25-07-2026",
-            "tvg_name": "Rotor Volgograd  Vs Zenit Penza",
-            "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_Idn.Livesports.Is_00:00",
         "title": "\u26bd Idn.Livesports.Is",
         "category": "EVENT LIVE",
@@ -883,30 +835,6 @@
         "epg_metadata": {
             "tvg_id": "m.nu-tj-spartak-myjava-vs-nu-mgarr-luc-0000-ngay-26-07-2026",
             "tvg_name": "Nu Tj Spartak Myjava Vs Nu Mgarr",
-            "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_FarulConstantaVsCorvinulHunedoara_00:00",
-        "title": "\u26bd Farul Constanta Vs Corvinul Hunedoara",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.farul-constanta-vs-corvinul-hunedoara-luc-2130-ngay-25-07-2026",
-            "tvg_name": "Farul Constanta Vs Corvinul Hunedoara",
             "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1193,8 +1121,56 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.radnicki-nis-vs-cukaricki-stankom-luc-0100-ngay-26-07-2026",
+            "tvg_id": "m.radnicki-nis-vs-cukaricki-stankom-luc-2230-ngay-25-07-2026",
             "tvg_name": "Radnicki Nis Vs Cukaricki Stankom",
+            "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SportBoysVsAdTarma_00:00",
+        "title": "\u26bd Sport Boys Vs Ad Tarma",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sport-boys-vs-ad-tarma-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Sport Boys Vs Ad Tarma",
+            "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuPaokSalonikiVsNuNeftchiBaku_00:00",
+        "title": "\u26bd Nu Paok Saloniki Vs Nu Neftchi Baku",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-paok-saloniki-vs-nu-neftchi-baku-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Nu Paok Saloniki Vs Nu Neftchi Baku",
             "tvg_logo": "https://idn281.livesports088.is/favicon.ico",
             "source_xml": "Embedded"
         }
