@@ -1,7 +1,7 @@
 [
     {
-        "id": "nstv_134620_17",
-        "title": "Cayden Wang Vs Avery Tallakson",
+        "id": "nstv_134895_17",
+        "title": "\u26bd Cayden Wang Vs Avery Tallakson",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -24,8 +24,8 @@
         }
     },
     {
-        "id": "nstv_134620_18",
-        "title": "Douglas Yaffa Vs Bryan Assi",
+        "id": "nstv_134895_18",
+        "title": "\u26bd Douglas Yaffa Vs Bryan Assi",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -48,8 +48,32 @@
         }
     },
     {
-        "id": "nstv_134620_0",
-        "title": "Club Tijuana Vs Club Leon",
+        "id": "nstv_134895_19",
+        "title": "\u26bd Dechapol Puavaranukroh Supissara Paewsampran Vs Guo Xinwa Chen Fanghui",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "09:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "match.dechapol-puavaranukroh-supissara-paewsampran-vs-guo-xinwa-chen-fanghui-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Dechapol Puavaranukroh Supissara Paewsampran Vs Guo Xinwa Chen Fanghui",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_134895_0",
+        "title": "\u26bd Club Tijuana Vs Club Leon",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -72,8 +96,8 @@
         }
     },
     {
-        "id": "nstv_134620_1",
-        "title": "Atlante Fc Vs Club America",
+        "id": "nstv_134895_1",
+        "title": "\u26bd Atlante Fc Vs Club America",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -96,8 +120,32 @@
         }
     },
     {
-        "id": "nstv_134620_2",
-        "title": "Croydon Kings Vs Campbelltown Sc",
+        "id": "nstv_134895_20",
+        "title": "\u26bd Feng Yanzhe Huang Dongping Vs Thom Gicquel Delphine Delrue",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "10:40",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "match.feng-yanzhe-huang-dongping-vs-thom-gicquel-delphine-delrue-luc-1000-ngay-25-07-2026",
+            "tvg_name": "Feng Yanzhe Huang Dongping Vs Thom Gicquel Delphine Delrue",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_134895_2",
+        "title": "\u26bd Croydon Kings Vs Campbelltown Sc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -120,8 +168,8 @@
         }
     },
     {
-        "id": "nstv_134620_3",
-        "title": "Melbourne City Npl Vs Avondale Fc",
+        "id": "nstv_134895_3",
+        "title": "\u26bd Melbourne City Npl Vs Avondale Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -144,8 +192,8 @@
         }
     },
     {
-        "id": "nstv_134620_4",
-        "title": "Adelaide City Vs West Birkalla",
+        "id": "nstv_134895_4",
+        "title": "\u26bd Adelaide City Vs West Birkalla",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -168,8 +216,8 @@
         }
     },
     {
-        "id": "nstv_134620_5",
-        "title": "Adelaide Comets Fc Vs White City",
+        "id": "nstv_134895_5",
+        "title": "\u26bd Adelaide Comets Fc Vs White City",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -192,8 +240,8 @@
         }
     },
     {
-        "id": "nstv_134620_6",
-        "title": "Valentine Vs Charleston City Blues",
+        "id": "nstv_134895_6",
+        "title": "\u26bd Valentine Vs Charleston City Blues",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -216,8 +264,8 @@
         }
     },
     {
-        "id": "nstv_134620_7",
-        "title": "Sd Raiders Fc Vs Marconi Stallions",
+        "id": "nstv_134895_7",
+        "title": "\u26bd Sd Raiders Fc Vs Marconi Stallions",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -240,8 +288,8 @@
         }
     },
     {
-        "id": "nstv_134620_8",
-        "title": "Dandenong Thunder Vs Altona Magic",
+        "id": "nstv_134895_8",
+        "title": "\u26bd Dandenong Thunder Vs Altona Magic",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -264,8 +312,8 @@
         }
     },
     {
-        "id": "nstv_134620_9",
-        "title": "Spirit Fc Vs Western Sydney Am",
+        "id": "nstv_134895_9",
+        "title": "\u26bd Spirit Fc Vs Western Sydney Am",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -288,8 +336,8 @@
         }
     },
     {
-        "id": "nstv_134620_10",
-        "title": "Nu Buducnost Podgorica Vs Nu Hapoel Jerusalem",
+        "id": "nstv_134895_10",
+        "title": "\u26bd Nu Buducnost Podgorica Vs Nu Hapoel Jerusalem",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -312,8 +360,8 @@
         }
     },
     {
-        "id": "nstv_134620_11",
-        "title": "St George Saints Vs Sydney Fc Y",
+        "id": "nstv_134895_11",
+        "title": "\u26bd St George Saints Vs Sydney Fc Y",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -336,8 +384,8 @@
         }
     },
     {
-        "id": "nstv_134620_12",
-        "title": "Girona Vs Alaves",
+        "id": "nstv_134895_12",
+        "title": "\u26bd Girona Vs Alaves",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -360,8 +408,8 @@
         }
     },
     {
-        "id": "nstv_134620_13",
-        "title": "Dpmm Fc Vs Tampines Rovers",
+        "id": "nstv_134895_13",
+        "title": "\u26bd Dpmm Fc Vs Tampines Rovers",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -384,8 +432,8 @@
         }
     },
     {
-        "id": "nstv_134620_14",
-        "title": "Espanyol Vs Sabadell",
+        "id": "nstv_134895_14",
+        "title": "\u26bd Espanyol Vs Sabadell",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -408,8 +456,8 @@
         }
     },
     {
-        "id": "nstv_134620_15",
-        "title": "St George City Fa Vs Sydney United  Fc",
+        "id": "nstv_134895_15",
+        "title": "\u26bd St George City Fa Vs Sydney United  Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -432,8 +480,8 @@
         }
     },
     {
-        "id": "nstv_134620_16",
-        "title": "Qingdao Manatee Vs Tianjin Jinmen Tiger",
+        "id": "nstv_134895_16",
+        "title": "\u26bd Qingdao Manatee Vs Tianjin Jinmen Tiger",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -451,30 +499,6 @@
         "epg_metadata": {
             "tvg_id": "match.qingdao-manatee-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026",
             "tvg_name": "Qingdao Manatee Vs Tianjin Jinmen Tiger",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_134638_19",
-        "title": "?S=Ic",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "match.?s=ic",
-            "tvg_name": "?S=Ic",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
