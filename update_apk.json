@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 18,
-  "latestVersionName": "2.7",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.7-release.apk",
+  "latestVersionCode": 19,
+  "latestVersionName": "2.8",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.8-release.apk",
   "releaseNotes": "• UI Smart Schedule: Tampilan jam tayang pertandingan langsung pada kartu (LIVE/JAM).\n• Popular Matches First: Prioritas liga populer (Liga 1, Premier League, dll) di daftar teratas.\n• Smart Scraper v2.6: Proses scan jauh lebih cepat karena hanya fokus pada pertandingan populer hari ini."
 }
