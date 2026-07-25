@@ -1449,6 +1449,52 @@
         }
     },
     {
+        "id": "x_AdConfiancaVsItabaianaSe_00:00",
+        "title": "\u26bd Ad Confianca Vs Itabaiana Se",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ad-confianca-vs-itabaiana-se-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Ad Confianca Vs Itabaiana Se",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SportivoAmelianoVsFcNacionalAsuncion_00:00",
+        "title": "\u26bd Sportivo Ameliano Vs Fc Nacional Asuncion",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sportivo-ameliano-vs-fc-nacional-asuncion-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Sportivo Ameliano Vs Fc Nacional Asuncion",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_NewellOldBoysVsTalleresCordoba_03:00",
         "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
         "category": "EVENT LIVE",
