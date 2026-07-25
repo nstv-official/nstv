@@ -1403,6 +1403,29 @@
         }
     },
     {
+        "id": "x_NuJuniorVsNuMillonarios_00:00",
+        "title": "\u26bd Nu Junior Vs Nu Millonarios",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-junior-vs-nu-millonarios-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Nu Junior Vs Nu Millonarios",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_NewellOldBoysVsTalleresCordoba_03:00",
         "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
         "category": "EVENT LIVE",
@@ -2644,6 +2667,52 @@
         "epg_metadata": {
             "tvg_id": "m.xiamen-feilu-vs-langfang-city-luc-1500-ngay-26-07-2026",
             "tvg_name": "Xiamen Feilu Vs Langfang City",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PsmsMedanVsPortFc_15:30",
+        "title": "\u26bd Psms Medan Vs Port Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.psms-medan-vs-port-fc-luc-1530-ngay-26-07-2026",
+            "tvg_name": "Psms Medan Vs Port Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_IncheonUnitedVsBucheon_17:30",
+        "title": "\u26bd Incheon United Vs Bucheon",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.incheon-united-vs-bucheon-1995-luc-1730-ngay-26-07-2026",
+            "tvg_name": "Incheon United Vs Bucheon",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
