@@ -24,13 +24,13 @@
         }
     },
     {
-        "id": "x_PersibBandungVsAremaFc_19:30",
-        "title": "Persib Bandung Vs Arema Fc",
+        "id": "x_LasPalmasVsAlIttihadksa_00:00",
+        "title": "Las Palmas Vs Al Ittihadksa",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "19:30",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -41,15 +41,39 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.persib-bandung-vs-arema-fc-luc-1920-ngay-25-07-2026",
-            "tvg_name": "Persib Bandung Vs Arema Fc",
+            "tvg_id": "m.las-palmas-vs-al-ittihadksa-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Las Palmas Vs Al Ittihadksa",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_LaoVsThaiLan_20:00",
-        "title": "Lao Vs Thai Lan",
+        "id": "x_AthleticBilbaoVsEibar_00:00",
+        "title": "Athletic Bilbao Vs Eibar",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.athletic-bilbao-vs-eibar-luc-0000-ngay-26-07-2026",
+            "tvg_name": "Athletic Bilbao Vs Eibar",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VolgaUlyanovskVsNeftekhimikFc_20:00",
+        "title": "Volga Ulyanovsk Vs Neftekhimik Fc",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -65,15 +89,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.lao-vs-thai-lan-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Lao Vs Thai Lan",
+            "tvg_id": "m.volga-ulyanovsk-vs-neftekhimik-fc-luc-2000-ngay-25-07-2026",
+            "tvg_name": "Volga Ulyanovsk Vs Neftekhimik Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_DegerforsIfVsDjurgardens_20:00",
-        "title": "Degerfors If Vs Djurgardens",
+        "id": "x_WatfordVsHansaRostock_20:00",
+        "title": "Watford Vs Hansa Rostock",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -89,15 +113,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.degerfors-if-vs-djurgardens-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Degerfors If Vs Djurgardens",
+            "tvg_id": "m.watford-vs-hansa-rostock-luc-2000-ngay-25-07-2026",
+            "tvg_name": "Watford Vs Hansa Rostock",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_KickersOffenbachVsBayerLeverkusen_20:00",
-        "title": "Kickers Offenbach Vs Bayer Leverkusen",
+        "id": "x_FsvHollenbachVsVfbStuttgart_20:00",
+        "title": "Fsv Hollenbach Vs Vfb Stuttgart",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -113,32 +137,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.kickers-offenbach-vs-bayer-leverkusen-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Kickers Offenbach Vs Bayer Leverkusen",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_AzAlkmaarVsOlympiakos_20:00",
-        "title": "Az Alkmaar Vs Olympiakos",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.az-alkmaar-vs-olympiakos-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Az Alkmaar Vs Olympiakos",
+            "tvg_id": "m.fsv-hollenbach-vs-vfb-stuttgart-luc-2000-ngay-25-07-2026",
+            "tvg_name": "Fsv Hollenbach Vs Vfb Stuttgart",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -408,8 +408,8 @@
         }
     },
     {
-        "id": "x_KalmarVsMjallbyAif_22:30",
-        "title": "Kalmar Vs Mjallby Aif",
+        "id": "x_NuPaokSalonikiVsNuNeftchiBaku_22:30",
+        "title": "Nu Paok Saloniki Vs Nu Neftchi Baku",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -425,8 +425,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.kalmar-vs-mjallby-aif-luc-2230-ngay-25-07-2026",
-            "tvg_name": "Kalmar Vs Mjallby Aif",
+            "tvg_id": "m.nu-paok-saloniki-vs-nu-neftchi-baku-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Nu Paok Saloniki Vs Nu Neftchi Baku",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -480,8 +480,8 @@
         }
     },
     {
-        "id": "x_NuPaokSalonikiVsNuNeftchiBaku_22:30",
-        "title": "Nu Paok Saloniki Vs Nu Neftchi Baku",
+        "id": "x_KalmarVsMjallbyAif_22:30",
+        "title": "Kalmar Vs Mjallby Aif",
         "category": "BOLA LIVE",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -497,8 +497,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.nu-paok-saloniki-vs-nu-neftchi-baku-luc-2230-ngay-25-07-2026",
-            "tvg_name": "Nu Paok Saloniki Vs Nu Neftchi Baku",
+            "tvg_id": "m.kalmar-vs-mjallby-aif-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Kalmar Vs Mjallby Aif",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
