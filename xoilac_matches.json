@@ -1,29 +1,5 @@
 [
     {
-        "id": "x_WuhanThreeTownsVsTongliangLongFc_19:00",
-        "title": "Wuhan Three Towns Vs Tongliang Long Fc",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "19:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.wuhan-three-towns-vs-tongliang-long-fc-luc-1900-ngay-25-07-2026",
-            "tvg_name": "Wuhan Three Towns Vs Tongliang Long Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_ReimsVsCercleBrugge_19:00",
         "title": "Reims Vs Cercle Brugge",
         "category": "BOLA LIVE",
@@ -643,6 +619,30 @@
         "epg_metadata": {
             "tvg_id": "m.aarhus-agf-vs-brondby-if-luc-2300-ngay-25-07-2026",
             "tvg_name": "Aarhus Agf Vs Brondby If",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MarseilleVsOgcNice_23:00",
+        "title": "Marseille Vs Ogc Nice",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "23:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.marseille-vs-ogc-nice-luc-2300-ngay-25-07-2026",
+            "tvg_name": "Marseille Vs Ogc Nice",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
