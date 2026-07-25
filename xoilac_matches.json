@@ -1288,6 +1288,98 @@
         }
     },
     {
+        "id": "x_DepIndependienteVsDeportivoPasto_00:00",
+        "title": "\u26bd Dep Independiente Vs Deportivo Pasto",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dep-independiente-vs-deportivo-pasto-luc-0405-ngay-26-07-2026",
+            "tvg_name": "Dep Independiente Vs Deportivo Pasto",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ClubGuabiraVsRealOruro_00:00",
+        "title": "\u26bd Club Guabira Vs Real Oruro",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.club-guabira-vs-real-oruro-luc-0415-ngay-26-07-2026",
+            "tvg_name": "Club Guabira Vs Real Oruro",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AtlParanaenseVsInternacionalRs_00:00",
+        "title": "\u26bd Atl Paranaense Vs Internacional Rs",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atl-paranaense-vs-internacional-rs-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Atl Paranaense Vs Internacional Rs",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_HuachipatoVsCobresal_00:00",
+        "title": "\u26bd Huachipato Vs Cobresal",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.huachipato-vs-cobresal-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Huachipato Vs Cobresal",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
@@ -2530,6 +2622,29 @@
         "epg_metadata": {
             "tvg_id": "m.canberra-juventus-vs-monaro-panthers-luc-1330-ngay-26-07-2026",
             "tvg_name": "Canberra Juventus Vs Monaro Panthers",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_XiamenFeiluVsLangfangCity_15:00",
+        "title": "\u26bd Xiamen Feilu Vs Langfang City",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xiamen-feilu-vs-langfang-city-luc-1500-ngay-26-07-2026",
+            "tvg_name": "Xiamen Feilu Vs Langfang City",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
