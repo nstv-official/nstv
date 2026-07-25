@@ -1,30 +1,6 @@
 [
     {
-        "id": "nstv_139965_16",
-        "title": "\u26bd Indonesia Vs Viet Nam",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.indonesia-vs-viet-nam-luc-1900-ngay-25-07-2026",
-            "tvg_name": "Indonesia Vs Viet Nam",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_139965_0",
+        "id": "nstv_141125_0",
         "title": "\u26bd Croydon Kings Vs Campbelltown Sc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -48,7 +24,7 @@
         }
     },
     {
-        "id": "nstv_139965_1",
+        "id": "nstv_141125_1",
         "title": "\u26bd Melbourne City Npl Vs Avondale Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -72,7 +48,7 @@
         }
     },
     {
-        "id": "nstv_139965_2",
+        "id": "nstv_141125_2",
         "title": "\u26bd Adelaide City Vs West Birkalla",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -96,7 +72,7 @@
         }
     },
     {
-        "id": "nstv_139965_3",
+        "id": "nstv_141125_3",
         "title": "\u26bd Adelaide Comets Fc Vs White City",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -120,7 +96,7 @@
         }
     },
     {
-        "id": "nstv_139965_4",
+        "id": "nstv_141125_4",
         "title": "\u26bd Valentine Vs Charleston City Blues",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -144,7 +120,7 @@
         }
     },
     {
-        "id": "nstv_139965_5",
+        "id": "nstv_141125_5",
         "title": "\u26bd Sd Raiders Fc Vs Marconi Stallions",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -168,7 +144,7 @@
         }
     },
     {
-        "id": "nstv_139965_6",
+        "id": "nstv_141125_6",
         "title": "\u26bd Dandenong Thunder Vs Altona Magic",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -192,7 +168,7 @@
         }
     },
     {
-        "id": "nstv_139965_7",
+        "id": "nstv_141125_7",
         "title": "\u26bd Spirit Fc Vs Western Sydney Am",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -216,7 +192,7 @@
         }
     },
     {
-        "id": "nstv_139965_8",
+        "id": "nstv_141125_8",
         "title": "\u26bd Nu Buducnost Podgorica Vs Nu Hapoel Jerusalem",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -240,7 +216,7 @@
         }
     },
     {
-        "id": "nstv_139965_9",
+        "id": "nstv_141125_9",
         "title": "\u26bd St George Saints Vs Sydney Fc Y",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -264,7 +240,7 @@
         }
     },
     {
-        "id": "nstv_139965_10",
+        "id": "nstv_141125_10",
         "title": "\u26bd Girona Vs Alaves",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -288,7 +264,7 @@
         }
     },
     {
-        "id": "nstv_139965_11",
+        "id": "nstv_141125_11",
         "title": "\u26bd Dpmm Fc Vs Tampines Rovers",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -312,7 +288,7 @@
         }
     },
     {
-        "id": "nstv_139965_12",
+        "id": "nstv_141125_12",
         "title": "\u26bd Espanyol Vs Sabadell",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -336,7 +312,7 @@
         }
     },
     {
-        "id": "nstv_139965_13",
+        "id": "nstv_141125_13",
         "title": "\u26bd St George City Fa Vs Sydney United  Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -360,7 +336,7 @@
         }
     },
     {
-        "id": "nstv_139965_14",
+        "id": "nstv_141125_14",
         "title": "\u26bd Qingdao Manatee Vs Tianjin Jinmen Tiger",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -384,7 +360,7 @@
         }
     },
     {
-        "id": "nstv_139965_15",
+        "id": "nstv_141125_15",
         "title": "\u26bd Metrostars Sc Vs West Adelaide Sc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
