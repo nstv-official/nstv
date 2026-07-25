@@ -1,6 +1,6 @@
 [
     {
-        "id": "nstv_138376_16",
+        "id": "nstv_139584_21",
         "title": "\u26bd Indonesia Vs Viet Nam",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -24,8 +24,8 @@
         }
     },
     {
-        "id": "nstv_138289_0",
-        "title": "\u26bd Croydon Kings Vs Campbelltown Sc",
+        "id": "nstv_139254_0",
+        "title": "\u26bd Vancouver Fc Vs Cavalry Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -41,15 +41,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.croydon-kings-vs-campbelltown-sc-luc-1200-ngay-25-07-2026",
-            "tvg_name": "Croydon Kings Vs Campbelltown Sc",
+            "tvg_id": "m.vancouver-fc-vs-cavalry-fc-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Vancouver Fc Vs Cavalry Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138305_1",
-        "title": "\u26bd Melbourne City Npl Vs Avondale Fc",
+        "id": "nstv_139269_1",
+        "title": "\u26bd Deportivo Saprissa Vs Municipal Perez Zeledon",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -65,15 +65,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.melbourne-city-npl-vs-avondale-fc-luc-1200-ngay-25-07-2026",
-            "tvg_name": "Melbourne City Npl Vs Avondale Fc",
+            "tvg_id": "m.deportivo-saprissa-vs-municipal-perez-zeledon-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Deportivo Saprissa Vs Municipal Perez Zeledon",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138327_2",
-        "title": "\u26bd Adelaide City Vs West Birkalla",
+        "id": "nstv_139285_2",
+        "title": "\u26bd Municipal Vs Deportivo Mixco",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -89,15 +89,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.adelaide-city-vs-west-birkalla-luc-1200-ngay-25-07-2026",
-            "tvg_name": "Adelaide City Vs West Birkalla",
+            "tvg_id": "m.municipal-vs-deportivo-mixco-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Municipal Vs Deportivo Mixco",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138343_3",
-        "title": "\u26bd Adelaide Comets Fc Vs White City",
+        "id": "nstv_139301_3",
+        "title": "\u26bd C Olympic U Vs Queanbeyan City U",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -113,15 +113,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.adelaide-comets-fc-vs-white-city-luc-1230-ngay-25-07-2026",
-            "tvg_name": "Adelaide Comets Fc Vs White City",
+            "tvg_id": "m.c-olympic-u23-vs-queanbeyan-city-u23-luc-0900-ngay-25-07-2026",
+            "tvg_name": "C Olympic U Vs Queanbeyan City U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138359_4",
-        "title": "\u26bd Valentine Vs Charleston City Blues",
+        "id": "nstv_139316_4",
+        "title": "\u26bd Nu Portland Thorns Vs Nu Gotham Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -137,15 +137,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.valentine-vs-charleston-city-blues-luc-1330-ngay-25-07-2026",
-            "tvg_name": "Valentine Vs Charleston City Blues",
+            "tvg_id": "m.nu-portland-thorns-vs-nu-gotham-fc-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Nu Portland Thorns Vs Nu Gotham Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_5",
-        "title": "\u26bd Sd Raiders Fc Vs Marconi Stallions",
+        "id": "nstv_139332_5",
+        "title": "\u26bd Green Gully U Vs Dandenong City U",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -161,15 +161,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.sd-raiders-fc-vs-marconi-stallions-luc-1400-ngay-25-07-2026",
-            "tvg_name": "Sd Raiders Fc Vs Marconi Stallions",
+            "tvg_id": "m.green-gully-u23-vs-dandenong-city-u23-luc-0930-ngay-25-07-2026",
+            "tvg_name": "Green Gully U Vs Dandenong City U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_6",
-        "title": "\u26bd Dandenong Thunder Vs Altona Magic",
+        "id": "nstv_139348_6",
+        "title": "\u26bd Eastern United Reserves Vs Salisbury Utd R",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -185,15 +185,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.dandenong-thunder-vs-altona-magic-luc-1400-ngay-25-07-2026",
-            "tvg_name": "Dandenong Thunder Vs Altona Magic",
+            "tvg_id": "m.eastern-united-reserves-vs-salisbury-utd-r-luc-0930-ngay-25-07-2026",
+            "tvg_name": "Eastern United Reserves Vs Salisbury Utd R",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_7",
-        "title": "\u26bd Spirit Fc Vs Western Sydney Am",
+        "id": "nstv_139363_7",
+        "title": "\u26bd Croydon Kings R Vs Campbelltown R",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -209,15 +209,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.spirit-fc-vs-western-sydney-am-luc-1430-ngay-25-07-2026",
-            "tvg_name": "Spirit Fc Vs Western Sydney Am",
+            "tvg_id": "m.croydon-kings-r-vs-campbelltown-r-luc-0945-ngay-25-07-2026",
+            "tvg_name": "Croydon Kings R Vs Campbelltown R",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_8",
-        "title": "\u26bd Nu Buducnost Podgorica Vs Nu Hapoel Jerusalem",
+        "id": "nstv_139379_8",
+        "title": "\u26bd Adelaide City R Vs West Torrens Birkalla B",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -233,15 +233,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.nu-buducnost-podgorica-vs-nu-hapoel-jerusalem-luc-1500-ngay-25-07-2026",
-            "tvg_name": "Nu Buducnost Podgorica Vs Nu Hapoel Jerusalem",
+            "tvg_id": "m.adelaide-city-r-vs-west-torrens-birkalla-b-luc-0945-ngay-25-07-2026",
+            "tvg_name": "Adelaide City R Vs West Torrens Birkalla B",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_9",
-        "title": "\u26bd St George Saints Vs Sydney Fc Y",
+        "id": "nstv_139394_9",
+        "title": "\u26bd Club Tijuana Vs Club Leon",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -257,15 +257,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.st-george-saints-vs-sydney-fc-y-luc-1530-ngay-25-07-2026",
-            "tvg_name": "St George Saints Vs Sydney Fc Y",
+            "tvg_id": "m.club-tijuana-vs-club-leon-luc-1000-ngay-25-07-2026",
+            "tvg_name": "Club Tijuana Vs Club Leon",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_10",
-        "title": "\u26bd Girona Vs Alaves",
+        "id": "nstv_139410_10",
+        "title": "\u26bd Atlante Fc Vs Club America",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -281,15 +281,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.girona-vs-alaves-luc-1530-ngay-25-07-2026",
-            "tvg_name": "Girona Vs Alaves",
+            "tvg_id": "m.atlante-fc-vs-club-america-luc-1000-ngay-25-07-2026",
+            "tvg_name": "Atlante Fc Vs Club America",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_11",
-        "title": "\u26bd Dpmm Fc Vs Tampines Rovers",
+        "id": "nstv_139425_11",
+        "title": "\u26bd Cooks Hill Utd Vs Lambton Jarvis",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -305,15 +305,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.dpmm-fc-vs-tampines-rovers-luc-1530-ngay-25-07-2026",
-            "tvg_name": "Dpmm Fc Vs Tampines Rovers",
+            "tvg_id": "m.cooks-hill-utd-vs-lambton-jarvis-luc-1100-ngay-25-07-2026",
+            "tvg_name": "Cooks Hill Utd Vs Lambton Jarvis",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_12",
-        "title": "\u26bd Espanyol Vs Sabadell",
+        "id": "nstv_139442_12",
+        "title": "\u26bd Port Melbourne Vs Northcote City",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -329,15 +329,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.espanyol-vs-sabadell-luc-0130-ngay-26-07-2026",
-            "tvg_name": "Espanyol Vs Sabadell",
+            "tvg_id": "m.port-melbourne-vs-northcote-city-luc-1100-ngay-25-07-2026",
+            "tvg_name": "Port Melbourne Vs Northcote City",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_13",
-        "title": "\u26bd St George City Fa Vs Sydney United  Fc",
+        "id": "nstv_139457_13",
+        "title": "\u26bd Nu Charlestown Azzuri Vs Nu Adamstown Rosebud",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -353,15 +353,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.st-george-city-fa-vs-sydney-united-58-fc-luc-1615-ngay-25-07-2026",
-            "tvg_name": "St George City Fa Vs Sydney United  Fc",
+            "tvg_id": "m.nu-charlestown-azzuri-vs-nu-adamstown-rosebud-luc-1100-ngay-25-07-2026",
+            "tvg_name": "Nu Charlestown Azzuri Vs Nu Adamstown Rosebud",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_14",
-        "title": "\u26bd Qingdao Manatee Vs Tianjin Jinmen Tiger",
+        "id": "nstv_139473_14",
+        "title": "\u26bd Canberra Olympic Vs Queanbeyan City",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -377,15 +377,15 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.qingdao-manatee-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026",
-            "tvg_name": "Qingdao Manatee Vs Tianjin Jinmen Tiger",
+            "tvg_id": "m.canberra-olympic-vs-queanbeyan-city-luc-1130-ngay-25-07-2026",
+            "tvg_name": "Canberra Olympic Vs Queanbeyan City",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "nstv_138376_15",
-        "title": "\u26bd Metrostars Sc Vs West Adelaide Sc",
+        "id": "nstv_139489_15",
+        "title": "\u26bd Nu Jiangxi Ganxing Vs Nu Wuhan Sheng",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -401,8 +401,128 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.metrostars-sc-vs-west-adelaide-sc-luc-1645-ngay-25-07-2026",
-            "tvg_name": "Metrostars Sc Vs West Adelaide Sc",
+            "tvg_id": "m.nu-jiangxi-ganxing-vs-nu-wuhan-sheng-luc-0900-ngay-25-07-2026",
+            "tvg_name": "Nu Jiangxi Ganxing Vs Nu Wuhan Sheng",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_139504_16",
+        "title": "\u26bd Nu Shanxi Tianze Vs Nu Shandong Speed",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-shanxi-tianze-vs-nu-shandong-speed-luc-1330-ngay-25-07-2026",
+            "tvg_name": "Nu Shanxi Tianze Vs Nu Shandong Speed",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_139521_17",
+        "title": "\u26bd Nu Beijing Normal Uni Vs Nu Xinjiang Tianshan",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-beijing-normal-uni-vs-nu-xinjiang-tianshan-luc-1600-ngay-25-07-2026",
+            "tvg_name": "Nu Beijing Normal Uni Vs Nu Xinjiang Tianshan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_139537_18",
+        "title": "\u26bd Nu Heilongjiang Vs Nu Hefei Culture",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-heilongjiang-vs-nu-hefei-culture-luc-1830-ngay-25-07-2026",
+            "tvg_name": "Nu Heilongjiang Vs Nu Hefei Culture",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_139552_19",
+        "title": "\u26bd Bulgaria U Vs Duc U",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bulgaria-u18-vs-duc-u18-luc-2030-ngay-25-07-2026",
+            "tvg_name": "Bulgaria U Vs Duc U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_139568_20",
+        "title": "\u26bd Italy U Vs Latvia U",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.italy-u18-vs-latvia-u18-luc-2300-ngay-25-07-2026",
+            "tvg_name": "Italy U Vs Latvia U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
