@@ -1633,6 +1633,259 @@
         }
     },
     {
+        "id": "x_SanMartinTucumanVsTemperley_00:00",
+        "title": "\u26bd San Martin Tucuman Vs Temperley",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.san-martin-tucuman-vs-temperley-luc-0500-ngay-26-07-2026",
+            "tvg_name": "San Martin Tucuman Vs Temperley",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PrimaveraVsOsascoSporting_00:00",
+        "title": "\u26bd Primavera Vs Osasco Sporting",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.primavera-vs-osasco-sporting-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Primavera Vs Osasco Sporting",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_RiverPlateVsBarracasCentral_00:00",
+        "title": "\u26bd River Plate Vs Barracas Central",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.river-plate-vs-barracas-central-luc-0515-ngay-26-07-2026",
+            "tvg_name": "River Plate Vs Barracas Central",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NyRedBullsVsCharlotteFc_00:00",
+        "title": "\u26bd Ny Red Bulls Vs Charlotte Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ny-red-bulls-vs-charlotte-fc-luc-0530-ngay-26-07-2026",
+            "tvg_name": "Ny Red Bulls Vs Charlotte Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_BrooklynFcVsSanAntonio_00:00",
+        "title": "\u26bd Brooklyn Fc Vs San Antonio",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.brooklyn-fc-vs-san-antonio-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Brooklyn Fc Vs San Antonio",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_IndyElevenVsLoudounUnited_00:00",
+        "title": "\u26bd Indy Eleven Vs Loudoun United",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.indy-eleven-vs-loudoun-united-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Indy Eleven Vs Loudoun United",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PittsburghRVsRhodeIsland_00:00",
+        "title": "\u26bd Pittsburgh R Vs Rhode Island",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.pittsburgh-r-vs-rhode-island-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Pittsburgh R Vs Rhode Island",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MiamiFcVsTampaBayFc_00:00",
+        "title": "\u26bd Miami Fc Vs Tampa Bay Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.miami-fc-vs-tampa-bay-fc-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Miami Fc Vs Tampa Bay Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DetroitCityVsLasVegasLights_00:00",
+        "title": "\u26bd Detroit City Vs Las Vegas Lights",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.detroit-city-vs-las-vegas-lights-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Detroit City Vs Las Vegas Lights",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ChattanoogaVsPhiladelphiaUnionIi_00:00",
+        "title": "\u26bd Chattanooga Vs Philadelphia Union Ii",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chattanooga-vs-philadelphia-union-ii-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Chattanooga Vs Philadelphia Union Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuPeruVsNuEcuador_00:00",
+        "title": "\u26bd Nu Peru Vs Nu Ecuador",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-peru-vs-nu-ecuador-luc-0700-ngay-26-07-2026",
+            "tvg_name": "Nu Peru Vs Nu Ecuador",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "ls_BostonLegacyWVsKansasCityNwslW_04:00",
         "title": "\u26bd Boston Legacy W Vs Kansas City Nwsl W",
         "category": "EVENT LIVE",
