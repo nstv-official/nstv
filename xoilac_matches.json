@@ -805,6 +805,213 @@
         }
     },
     {
+        "id": "x_DeportivoRecoletaVsSportivoSanLorenzo_00:00",
+        "title": "\u26bd Deportivo Recoleta Vs Sportivo San Lorenzo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportivo-recoleta-vs-sportivo-san-lorenzo-luc-0200-ngay-26-07-2026",
+            "tvg_name": "Deportivo Recoleta Vs Sportivo San Lorenzo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_FcPortoVsAstonVilla_00:00",
+        "title": "\u26bd Fc Porto Vs Aston Villa",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-porto-vs-aston-villa-luc-0200-ngay-26-07-2026",
+            "tvg_name": "Fc Porto Vs Aston Villa",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AcademiaPcBVsBarquisimeto_00:00",
+        "title": "\u26bd Academia Pc B Vs Barquisimeto",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.academia-pc-b-vs-barquisimeto-luc-0230-ngay-26-07-2026",
+            "tvg_name": "Academia Pc B Vs Barquisimeto",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_RealFronteraVsUrenaSc_00:00",
+        "title": "\u26bd Real Frontera Vs Urena Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.real-frontera-vs-urena-sc-luc-0230-ngay-26-07-2026",
+            "tvg_name": "Real Frontera Vs Urena Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NewellOldBoysVsTalleresCordoba_00:00",
+        "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.newell-old-boys-vs-talleres-cordoba-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Newell Old Boys Vs Talleres Cordoba",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuBucaramangaVsNuLlaneros_00:00",
+        "title": "\u26bd Nu Bucaramanga Vs Nu Llaneros",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-bucaramanga-vs-nu-llaneros-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Nu Bucaramanga Vs Nu Llaneros",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuBragantinoVsNuAtleticoMineiro_00:00",
+        "title": "\u26bd Nu Bragantino Vs Nu Atletico Mineiro",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-bragantino-vs-nu-atletico-mineiro-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Nu Bragantino Vs Nu Atletico Mineiro",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_FerroviariaSpVsMaranhao_00:00",
+        "title": "\u26bd Ferroviaria Sp Vs Maranhao",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ferroviaria-sp-vs-maranhao-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Ferroviaria Sp Vs Maranhao",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SantaCruzPeVsFigueirense_00:00",
+        "title": "\u26bd Santa Cruz Pe Vs Figueirense",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.santa-cruz-pe-vs-figueirense-luc-0300-ngay-26-07-2026",
+            "tvg_name": "Santa Cruz Pe Vs Figueirense",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
@@ -2001,6 +2208,52 @@
         "epg_metadata": {
             "tvg_id": "m.rockdale-city-suns-vs-sutherland-sharks-luc-1200-ngay-26-07-2026",
             "tvg_name": "Rockdale City Suns Vs Sutherland Sharks",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_KahibahFcVsBelmontSwanseaSc_12:00",
+        "title": "\u26bd Kahibah Fc Vs Belmont Swansea Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "12:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kahibah-fc-vs-belmont-swansea-sc-luc-1200-ngay-26-07-2026",
+            "tvg_name": "Kahibah Fc Vs Belmont Swansea Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_CanberraJuventusVsMonaroPanthers_13:30",
+        "title": "\u26bd Canberra Juventus Vs Monaro Panthers",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "13:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.canberra-juventus-vs-monaro-panthers-luc-1330-ngay-26-07-2026",
+            "tvg_name": "Canberra Juventus Vs Monaro Panthers",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
