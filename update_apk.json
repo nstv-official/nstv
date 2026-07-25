@@ -1,37 +1,6 @@
 {
-  "version": 3,
-  "artifactType": {
-    "type": "APK",
-    "kind": "Directory"
-  },
-  "applicationId": "com.nstv.app",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 15,
-      "versionName": "2.4",
-      "outputFile": "NSTV_v2.4-release.apk"
-    }
-  ],
-  "elementType": "File",
-  "baselineProfiles": [
-    {
-      "minApi": 28,
-      "maxApi": 30,
-      "baselineProfiles": [
-        "baselineProfiles/1/NSTV_v2.4-release.dm"
-      ]
-    },
-    {
-      "minApi": 31,
-      "maxApi": 2147483647,
-      "baselineProfiles": [
-        "baselineProfiles/0/NSTV_v2.4-release.dm"
-      ]
-    }
-  ],
-  "minSdkVersionForDexing": 24
+  "latestVersionCode": 15,
+  "latestVersionName": "2.4",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.4-release.apk",
+  "releaseNotes": "• UI Smart Schedule: Tampilan jam tayang pertandingan langsung pada kartu (LIVE/JAM).\n• Popular Matches First: Prioritas liga populer (Liga 1, Premier League, dll) di daftar teratas.\n• Smart Scraper v2.6: Proses scan jauh lebih cepat karena hanya fokus pada pertandingan populer hari ini."
 }
