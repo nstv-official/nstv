@@ -1,6 +1,6 @@
 [
     {
-        "id": "nstv_160192_0",
+        "id": "nstv_167107_0",
         "title": "Indonesia Vs Viet Nam",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -24,271 +24,7 @@
         }
     },
     {
-        "id": "nstv_160192_1",
-        "title": "Qingdao Manatee Vs Tianjin Jinmen Tiger",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "16:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.qingdao-manatee-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026",
-            "tvg_name": "Qingdao Manatee Vs Tianjin Jinmen Tiger",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_2",
-        "title": "Myanmar Vs Malaysia",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.myanmar-vs-malaysia-luc-1700-ngay-25-07-2026",
-            "tvg_name": "Myanmar Vs Malaysia",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_3",
-        "title": "Gimcheon Sangmu Vs Daejeon Citizen",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.gimcheon-sangmu-vs-daejeon-citizen-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Gimcheon Sangmu Vs Daejeon Citizen",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_4",
-        "title": "Pohang Steelers Vs Jeonbuk Hyundai",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.pohang-steelers-vs-jeonbuk-hyundai-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Pohang Steelers Vs Jeonbuk Hyundai",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_5",
-        "title": "Jeonnam Dragons Vs Gyeongnam Fc",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.jeonnam-dragons-vs-gyeongnam-fc-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Jeonnam Dragons Vs Gyeongnam Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_6",
-        "title": "Hwaseong Fc Vs Chungnam Asan",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.hwaseong-fc-vs-chungnam-asan-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Hwaseong Fc Vs Chungnam Asan",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_7",
-        "title": "Daegu Fc Vs Suwon Fc",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.daegu-fc-vs-suwon-fc-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Daegu Fc Vs Suwon Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_8",
-        "title": "Busan I Park Vs Suwon Samsung",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.busan-i-park-vs-suwon-samsung-luc-1730-ngay-25-07-2026",
-            "tvg_name": "Busan I Park Vs Suwon Samsung",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_9",
-        "title": "Dynamo Moscow Vs Krylya Sovetov",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "18:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dynamo-moscow-vs-krylya-sovetov-luc-1800-ngay-25-07-2026",
-            "tvg_name": "Dynamo Moscow Vs Krylya Sovetov",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_10",
-        "title": "Fortuna Dusseldorf Vs Dortmund",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "18:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fortuna-dusseldorf-vs-dortmund-luc-1800-ngay-25-07-2026",
-            "tvg_name": "Fortuna Dusseldorf Vs Dortmund",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_11",
-        "title": "Werder Bremen Vs Vfl Bochum",
-        "category": "BOLA LIVE (Hari Ini)",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "18:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.werder-bremen-vs-vfl-bochum-luc-1800-ngay-25-07-2026",
-            "tvg_name": "Werder Bremen Vs Vfl Bochum",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "nstv_160192_12",
+        "id": "nstv_167107_1",
         "title": "Gateshead Vs Newcastle United",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -312,7 +48,7 @@
         }
     },
     {
-        "id": "nstv_160192_13",
+        "id": "nstv_167107_2",
         "title": "Liaoning Tieren Vs Qingdao Island",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -336,7 +72,7 @@
         }
     },
     {
-        "id": "nstv_160192_14",
+        "id": "nstv_167107_3",
         "title": "Shanghai Port Vs Shanghai Shenhua",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -360,7 +96,7 @@
         }
     },
     {
-        "id": "nstv_160192_15",
+        "id": "nstv_167107_4",
         "title": "Wuhan Three Towns Vs Tongliang Long Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -384,7 +120,7 @@
         }
     },
     {
-        "id": "nstv_160192_16",
+        "id": "nstv_167107_5",
         "title": "Reims Vs Cercle Brugge",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -408,7 +144,7 @@
         }
     },
     {
-        "id": "nstv_160192_17",
+        "id": "nstv_167107_6",
         "title": "Rot Weiss Essen Vs B Monchengladbach",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -432,13 +168,13 @@
         }
     },
     {
-        "id": "nstv_160192_18",
+        "id": "nstv_167107_7",
         "title": "Persib Bandung Vs Arema Fc",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "19:20",
+        "match_time": "19:30",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -456,7 +192,7 @@
         }
     },
     {
-        "id": "nstv_160192_19",
+        "id": "nstv_167107_8",
         "title": "Lao Vs Thai Lan",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -480,7 +216,7 @@
         }
     },
     {
-        "id": "nstv_160192_20",
+        "id": "nstv_167107_9",
         "title": "Degerfors If Vs Djurgardens",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -504,7 +240,7 @@
         }
     },
     {
-        "id": "nstv_160192_21",
+        "id": "nstv_167107_10",
         "title": "Kickers Offenbach Vs Bayer Leverkusen",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -528,7 +264,7 @@
         }
     },
     {
-        "id": "nstv_160192_22",
+        "id": "nstv_167107_11",
         "title": "Az Alkmaar Vs Olympiakos",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -552,7 +288,7 @@
         }
     },
     {
-        "id": "nstv_160192_23",
+        "id": "nstv_167107_12",
         "title": "Akron Togliatti Vs Zenit St Petersburg",
         "category": "BOLA LIVE (Hari Ini)",
         "uri": "",
@@ -571,6 +307,270 @@
         "epg_metadata": {
             "tvg_id": "m.akron-togliatti-vs-zenit-st-petersburg-luc-2015-ngay-25-07-2026",
             "tvg_name": "Akron Togliatti Vs Zenit St Petersburg",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_13",
+        "title": "Ifk Mariehamn Vs Ac Oulu",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "20:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ifk-mariehamn-vs-ac-oulu-luc-2030-ngay-25-07-2026",
+            "tvg_name": "Ifk Mariehamn Vs Ac Oulu",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_14",
+        "title": "Sv Wehen Wiesbaden Vs Bayern Munich",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "20:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sv-wehen-wiesbaden-vs-bayern-munich-luc-2030-ngay-25-07-2026",
+            "tvg_name": "Sv Wehen Wiesbaden Vs Bayern Munich",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_15",
+        "title": "Bolton Wanderers Vs Everton",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bolton-wanderers-vs-everton-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Bolton Wanderers Vs Everton",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_16",
+        "title": "Bromley Vs Crystal Palace",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bromley-vs-crystal-palace-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Bromley Vs Crystal Palace",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_17",
+        "title": "Qpr Vs Fiorentina",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.qpr-vs-fiorentina-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Qpr Vs Fiorentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_18",
+        "title": "Kristiansund Bk Vs Start Kristiansand",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kristiansund-bk-vs-start-kristiansand-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Kristiansund Bk Vs Start Kristiansand",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_19",
+        "title": "Kups Vs Vaasa Vps",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kups-vs-vaasa-vps-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Kups Vs Vaasa Vps",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_20",
+        "title": "Farul Constanta Vs Corvinul Hunedoara",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.farul-constanta-vs-corvinul-hunedoara-luc-2130-ngay-25-07-2026",
+            "tvg_name": "Farul Constanta Vs Corvinul Hunedoara",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_21",
+        "title": "Union Sg Vs Losc Lille",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.union-sg-vs-losc-lille-luc-2200-ngay-25-07-2026",
+            "tvg_name": "Union Sg Vs Losc Lille",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_22",
+        "title": "Wolverhampton Vs Real Sociedad",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.wolverhampton-vs-real-sociedad-luc-2200-ngay-25-07-2026",
+            "tvg_name": "Wolverhampton Vs Real Sociedad",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "nstv_167107_23",
+        "title": "Fakel Vs Dynamo Makhachkala",
+        "category": "BOLA LIVE (Hari Ini)",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "22:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fakel-vs-dynamo-makhachkala-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Fakel Vs Dynamo Makhachkala",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
