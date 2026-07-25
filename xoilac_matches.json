@@ -1012,6 +1012,52 @@
         }
     },
     {
+        "id": "x_JuanPabloIiVsCienciano_00:00",
+        "title": "\u26bd Juan Pablo Ii Vs Cienciano",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.juan-pablo-ii-vs-cienciano-luc-0315-ngay-26-07-2026",
+            "tvg_name": "Juan Pablo Ii Vs Cienciano",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MaRocUVsSevillaU_00:00",
+        "title": "\u26bd Ma Roc U Vs Sevilla U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ma-roc-u20-vs-sevilla-u19-luc-0345-ngay-26-07-2026",
+            "tvg_name": "Ma Roc U Vs Sevilla U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
