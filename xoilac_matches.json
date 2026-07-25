@@ -72,150 +72,6 @@
         }
     },
     {
-        "id": "x_VolgaUlyanovskVsNeftekhimikFc_20:00",
-        "title": "Volga Ulyanovsk Vs Neftekhimik Fc",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.volga-ulyanovsk-vs-neftekhimik-fc-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Volga Ulyanovsk Vs Neftekhimik Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_WatfordVsHansaRostock_20:00",
-        "title": "Watford Vs Hansa Rostock",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.watford-vs-hansa-rostock-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Watford Vs Hansa Rostock",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_FsvHollenbachVsVfbStuttgart_20:00",
-        "title": "Fsv Hollenbach Vs Vfb Stuttgart",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fsv-hollenbach-vs-vfb-stuttgart-luc-2000-ngay-25-07-2026",
-            "tvg_name": "Fsv Hollenbach Vs Vfb Stuttgart",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_AkronTogliattiVsZenitStPetersburg_20:15",
-        "title": "Akron Togliatti Vs Zenit St Petersburg",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:15",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.akron-togliatti-vs-zenit-st-petersburg-luc-2015-ngay-25-07-2026",
-            "tvg_name": "Akron Togliatti Vs Zenit St Petersburg",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_IfkMariehamnVsAcOulu_20:30",
-        "title": "Ifk Mariehamn Vs Ac Oulu",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ifk-mariehamn-vs-ac-oulu-luc-2030-ngay-25-07-2026",
-            "tvg_name": "Ifk Mariehamn Vs Ac Oulu",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_SvWehenWiesbadenVsBayernMunich_20:30",
-        "title": "Sv Wehen Wiesbaden Vs Bayern Munich",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "20:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sv-wehen-wiesbaden-vs-bayern-munich-luc-2030-ngay-25-07-2026",
-            "tvg_name": "Sv Wehen Wiesbaden Vs Bayern Munich",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_KristiansundBkVsStartKristiansand_21:00",
         "title": "Kristiansund Bk Vs Start Kristiansand",
         "category": "BOLA LIVE",
@@ -336,6 +192,126 @@
         }
     },
     {
+        "id": "x_CelticFcVsAcMilan_21:00",
+        "title": "Celtic Fc Vs Ac Milan",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.celtic-fc-vs-ac-milan-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Celtic Fc Vs Ac Milan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_FredericiaVsHbKoge_21:00",
+        "title": "Fredericia Vs Hb Koge",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fredericia-vs-hb-koge-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Fredericia Vs Hb Koge",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuZenitPetersburgVsNuZvezda_21:00",
+        "title": "Nu Zenit Petersburg Vs Nu Zvezda",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-zenit-petersburg-vs-nu-zvezda-2005-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Nu Zenit Petersburg Vs Nu Zvezda",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_BolognaVsIraklis_21:00",
+        "title": "Bologna Vs Iraklis",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bologna-vs-iraklis-luc-2200-ngay-25-07-2026",
+            "tvg_name": "Bologna Vs Iraklis",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ChelyabinskVsNizhniyNovgorod_21:00",
+        "title": "Chelyabinsk Vs Nizhniy Novgorod",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chelyabinsk-vs-nizhniy-novgorod-luc-2100-ngay-25-07-2026",
+            "tvg_name": "Chelyabinsk Vs Nizhniy Novgorod",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_FarulConstantaVsCorvinulHunedoara_21:30",
         "title": "Farul Constanta Vs Corvinul Hunedoara",
         "category": "BOLA LIVE",
@@ -408,6 +384,30 @@
         }
     },
     {
+        "id": "x_FkTepliceVsBohemiansPraha_22:00",
+        "title": "Fk Teplice Vs Bohemians Praha",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-teplice-vs-bohemians-praha-1905-luc-2200-ngay-25-07-2026",
+            "tvg_name": "Fk Teplice Vs Bohemians Praha",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_NuPaokSalonikiVsNuNeftchiBaku_22:30",
         "title": "Nu Paok Saloniki Vs Nu Neftchi Baku",
         "category": "BOLA LIVE",
@@ -432,30 +432,6 @@
         }
     },
     {
-        "id": "x_GornikZabrzeVsSlaskWroclaw_22:30",
-        "title": "Gornik Zabrze Vs Slask Wroclaw",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "22:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.gornik-zabrze-vs-slask-wroclaw-luc-2230-ngay-25-07-2026",
-            "tvg_name": "Gornik Zabrze Vs Slask Wroclaw",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_FakelVsDynamoMakhachkala_22:30",
         "title": "Fakel Vs Dynamo Makhachkala",
         "category": "BOLA LIVE",
@@ -475,6 +451,30 @@
         "epg_metadata": {
             "tvg_id": "m.fakel-vs-dynamo-makhachkala-luc-2230-ngay-25-07-2026",
             "tvg_name": "Fakel Vs Dynamo Makhachkala",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_GornikZabrzeVsSlaskWroclaw_22:30",
+        "title": "Gornik Zabrze Vs Slask Wroclaw",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "22:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gornik-zabrze-vs-slask-wroclaw-luc-2230-ngay-25-07-2026",
+            "tvg_name": "Gornik Zabrze Vs Slask Wroclaw",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -648,6 +648,270 @@
         }
     },
     {
+        "id": "x_Idn.Livesports.Is_LIVE",
+        "title": "Idn.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.idn281.livesports088.is",
+            "tvg_name": "Idn.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Www.Livesports.Is_LIVE",
+        "title": "Www.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.www.livesports088.is",
+            "tvg_name": "Www.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Afr.Livesports.Is_LIVE",
+        "title": "Afr.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.afr.livesports088.is",
+            "tvg_name": "Afr.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Es.Livesports.Is_LIVE",
+        "title": "Es.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.es11.livesports088.is",
+            "tvg_name": "Es.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Pt.Livesports.Is_LIVE",
+        "title": "Pt.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.pt5.livesports088.is",
+            "tvg_name": "Pt.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Ru.Livesports.Is_LIVE",
+        "title": "Ru.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ru.livesports088.is",
+            "tvg_name": "Ru.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Vn.Livesports.Is_LIVE",
+        "title": "Vn.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.vn45.livesports088.is",
+            "tvg_name": "Vn.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Th.Livesports.Is_LIVE",
+        "title": "Th.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.th.livesports088.is",
+            "tvg_name": "Th.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Zh.Livesports.Is_LIVE",
+        "title": "Zh.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.zh.livesports088.is",
+            "tvg_name": "Zh.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Jp.Livesports.Is_LIVE",
+        "title": "Jp.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.jp.livesports088.is",
+            "tvg_name": "Jp.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_Kr.Livesports.Is_LIVE",
+        "title": "Kr.Livesports.Is",
+        "category": "BOLA LIVE",
+        "uri": "",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://idn281.livesports088.is//",
+            "Origin": "https://idn281.livesports088.is/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kr.livesports088.is",
+            "tvg_name": "Kr.Livesports.Is",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_IndonesiaVsVietNam_LIVE",
         "title": "Indonesia Vs Viet Nam",
         "category": "BOLA LIVE",
@@ -667,438 +931,6 @@
         "epg_metadata": {
             "tvg_id": "m.indonesia-vs-viet-nam-luc-1900-ngay-25-07-2026",
             "tvg_name": "Indonesia Vs Viet Nam",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_GiaiSeriea_LIVE",
-        "title": "Giai Seriea",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.giai-seriea",
-            "tvg_name": "Giai Seriea",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_GiaiLaliga_LIVE",
-        "title": "Giai Laliga",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.giai-laliga",
-            "tvg_name": "Giai Laliga",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_GiaiVleague_LIVE",
-        "title": "Giai Vleague",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.giai-vleague",
-            "tvg_name": "Giai Vleague",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_Vebotv.Llc_LIVE",
-        "title": "Vebotv.Llc",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.vebotv.llc",
-            "tvg_name": "Vebotv.Llc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_KetQua_LIVE",
-        "title": "Ket Qua",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ket-qua",
-            "tvg_name": "Ket Qua",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_LichThiDau_LIVE",
-        "title": "Lich Thi Dau",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.lich-thi-dau",
-            "tvg_name": "Lich Thi Dau",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_TinTuc_LIVE",
-        "title": "Tin Tuc",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tin-tuc",
-            "tvg_name": "Tin Tuc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_TyLe_LIVE",
-        "title": "Ty Le",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ty-le",
-            "tvg_name": "Ty Le",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_NhanDinh_LIVE",
-        "title": "Nhan Dinh",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nhan-dinh",
-            "tvg_name": "Nhan Dinh",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_BongChuyenNu_LIVE",
-        "title": "Bong Chuyen Nu",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bong-chuyen-nu",
-            "tvg_name": "Bong Chuyen Nu",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_XemBongChuyenNuKenhNao_LIVE",
-        "title": "Xem Bong Chuyen Nu Kenh Nao",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xem-bong-chuyen-nu-kenh-nao",
-            "tvg_name": "Xem Bong Chuyen Nu Kenh Nao",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_DoiTuyenBongChuyenNuVietNam_LIVE",
-        "title": "Doi Tuyen Bong Chuyen Nu Viet Nam",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.doi-tuyen-bong-chuyen-nu-viet-nam",
-            "tvg_name": "Doi Tuyen Bong Chuyen Nu Viet Nam",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_KetQuaBongChuyenNu_LIVE",
-        "title": "Ket Qua Bong Chuyen Nu",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ket-qua-bong-chuyen-nu",
-            "tvg_name": "Ket Qua Bong Chuyen Nu",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_TrucTiepBongChuyenNuHomNay_LIVE",
-        "title": "Truc Tiep Bong Chuyen Nu Hom Nay",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.truc-tiep-bong-chuyen-nu-hom-nay",
-            "tvg_name": "Truc Tiep Bong Chuyen Nu Hom Nay",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_GiaiNha_LIVE",
-        "title": "Giai Nha",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.giai-nha",
-            "tvg_name": "Giai Nha",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_LichThiDauBongDaHomNay_LIVE",
-        "title": "Lich Thi Dau Bong Da Hom Nay",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.lich-thi-dau-bong-da-hom-nay",
-            "tvg_name": "Lich Thi Dau Bong Da Hom Nay",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_BangXepHangBongDa_LIVE",
-        "title": "Bang Xep Hang Bong Da",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bang-xep-hang-bong-da",
-            "tvg_name": "Bang Xep Hang Bong Da",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_KetQuaBongDaHomNay_LIVE",
-        "title": "Ket Qua Bong Da Hom Nay",
-        "category": "BOLA LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://vebotv.llc/",
-            "Origin": "https://vebotv.llc"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ket-qua-bong-da-hom-nay",
-            "tvg_name": "Ket Qua Bong Da Hom Nay",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
