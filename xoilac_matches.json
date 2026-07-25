@@ -1081,6 +1081,144 @@
         }
     },
     {
+        "id": "x_CubaUVsElSalvadorU_00:00",
+        "title": "\u26bd Cuba U Vs El Salvador U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cuba-u20-vs-el-salvador-u20-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Cuba U Vs El Salvador U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_InterMiamiBVsTorontoFcIi_00:00",
+        "title": "\u26bd Inter Miami B Vs Toronto Fc Ii",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.inter-miami-b-vs-toronto-fc-ii-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Inter Miami B Vs Toronto Fc Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_AuroraFCVsGuastatoya_00:00",
+        "title": "\u26bd Aurora F C Vs Guastatoya",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.aurora-f-c-vs-guastatoya-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Aurora F C Vs Guastatoya",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuInterPalmiraVsNuOrsomarso_00:00",
+        "title": "\u26bd Nu Inter Palmira Vs Nu Orsomarso",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-inter-palmira-vs-nu-orsomarso-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Nu Inter Palmira Vs Nu Orsomarso",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SaranganiVsManilaBatangQuiapo_00:00",
+        "title": "\u26bd Sarangani Vs Manila Batang Quiapo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sarangani-vs-manila-batang-quiapo-luc-1900-ngay-27-07-2026",
+            "tvg_name": "Sarangani Vs Manila Batang Quiapo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ThoNhiKyUVsSlovakiaU_00:00",
+        "title": "\u26bd Tho Nhi Ky U Vs Slovakia U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tho-nhi-ky-u18-vs-slovakia-u18-luc-2030-ngay-27-07-2026",
+            "tvg_name": "Tho Nhi Ky U Vs Slovakia U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
