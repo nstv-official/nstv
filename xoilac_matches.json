@@ -1587,54 +1587,6 @@
         }
     },
     {
-        "id": "xoi_NewellOldBoysVsTalleresCordoba_03:00",
-        "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "03:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.newell-old-boys-vs-talleres-cordoba-luc-0300-ngay-26-07-2026",
-            "tvg_name": "Newell Old Boys Vs Talleres Cordoba",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_NewellOldBoysVsTalleresCordoba_03:00",
-        "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "03:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.newell-old-boys-vs-talleres-cordoba-luc-0300-ngay-26-07-2026",
-            "tvg_name": "Newell Old Boys Vs Talleres Cordoba",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "xoi_JuanPabloIiVsCienciano_03:15",
         "title": "\u26bd Juan Pablo Ii Vs Cienciano",
         "category": "EVENT LIVE",
@@ -4809,6 +4761,29 @@
         "epg_metadata": {
             "tvg_id": "m.volta-redonda-vs-anapolis-fc-luc-0500-ngay-26-07-2026",
             "tvg_name": "Volta Redonda Vs Anapolis Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TlaxcalaFcVsLeonesNegros_LIVE",
+        "title": "\u26bd Tlaxcala Fc Vs Leones Negros",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tlaxcala-fc-vs-leones-negros-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Tlaxcala Fc Vs Leones Negros",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
