@@ -4079,6 +4079,29 @@
         }
     },
     {
+        "id": "x_NuBostonLegacyVsNuKansasCity_LIVE",
+        "title": "\u26bd Nu Boston Legacy Vs Nu Kansas City",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-boston-legacy-vs-nu-kansas-city-luc-0400-ngay-26-07-2026",
+            "tvg_name": "Nu Boston Legacy Vs Nu Kansas City",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_StandardLiegeVsJuventus_00:00",
         "title": "\u26bd Standard Liege Vs Juventus",
         "category": "EVENT LIVE",
