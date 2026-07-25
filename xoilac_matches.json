@@ -1909,37 +1909,12 @@
         }
     },
     {
-        "id": "ls_BostonLegacyWVsKansasCityNwslW_04:00",
-        "title": "\u26bd Boston Legacy W Vs Kansas City Nwsl W",
+        "id": "x_ChattanoogaWolvesVsKnoxvilleTroops_00:00",
+        "title": "\u26bd Chattanooga Wolves Vs Knoxville Troops",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:00",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2956980-boston-legacy-w-vs-kansas-city-nwsl-w",
-            "tvg_name": "Boston Legacy W Vs Kansas City Nwsl W",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_BoyacaChicoVsAtlNacional_04:00",
-        "title": "\u26bd Boyaca Chico Vs Atl Nacional",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "04:00",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -1950,20 +1925,19 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.boyaca-chico-vs-atl-nacional-luc-0200-ngay-26-07-2026",
-            "tvg_name": "Boyaca Chico Vs Atl Nacional",
+            "tvg_id": "m.chattanooga-wolves-vs-knoxville-troops-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Chattanooga Wolves Vs Knoxville Troops",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_BoyacaChicoVsAtlNacional_04:00",
-        "title": "\u26bd Boyaca Chico Vs Atl Nacional",
+        "id": "x_ForwardMadisonFcVsFcNaples_00:00",
+        "title": "\u26bd Forward Madison Fc Vs Fc Naples",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:00",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -1974,20 +1948,19 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.boyaca-chico-vs-atl-nacional-luc-0200-ngay-26-07-2026",
-            "tvg_name": "Boyaca Chico Vs Atl Nacional",
+            "tvg_id": "m.forward-madison-fc-vs-fc-naples-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Forward Madison Fc Vs Fc Naples",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "xoi_DepIndependienteVsDeportivoPasto_04:05",
-        "title": "\u26bd Dep Independiente Vs Deportivo Pasto",
+        "id": "x_NewYorkCosmosVsAthleticClubBoise_00:00",
+        "title": "\u26bd New York Cosmos Vs Athletic Club Boise",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:05",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -1998,20 +1971,19 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.dep-independiente-vs-deportivo-pasto-luc-0405-ngay-26-07-2026",
-            "tvg_name": "Dep Independiente Vs Deportivo Pasto",
+            "tvg_id": "m.new-york-cosmos-vs-athletic-club-boise-luc-0600-ngay-26-07-2026",
+            "tvg_name": "New York Cosmos Vs Athletic Club Boise",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_DepIndependienteVsDeportivoPasto_04:05",
-        "title": "\u26bd Dep Independiente Vs Deportivo Pasto",
+        "id": "x_CartaginesDeportivaVsInternationalSanCarlos_00:00",
+        "title": "\u26bd Cartagines Deportiva Vs International San Carlos",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:05",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -2022,8 +1994,77 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.dep-independiente-vs-deportivo-pasto-luc-0405-ngay-26-07-2026",
-            "tvg_name": "Dep Independiente Vs Deportivo Pasto",
+            "tvg_id": "m.cartagines-deportiva-vs-international-san-carlos-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Cartagines Deportiva Vs International San Carlos",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TeamCooperVsTeamSpoon_00:00",
+        "title": "\u26bd Team Cooper Vs Team Spoon",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.team-cooper-vs-team-spoon-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Team Cooper Vs Team Spoon",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VancouverBanditsVsSaskatoonMamba_00:00",
+        "title": "\u26bd Vancouver Bandits Vs Saskatoon Mamba",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.vancouver-bandits-vs-saskatoon-mamba-luc-0800-ngay-26-07-2026",
+            "tvg_name": "Vancouver Bandits Vs Saskatoon Mamba",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_GambusinosDeFresnilloVsAstrosDeJalisco_00:00",
+        "title": "\u26bd Gambusinos De Fresnillo Vs Astros De Jalisco",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gambusinos-de-fresnillo-vs-astros-de-jalisco-luc-0900-ngay-26-07-2026",
+            "tvg_name": "Gambusinos De Fresnillo Vs Astros De Jalisco",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -3123,6 +3164,29 @@
         "epg_metadata": {
             "tvg_id": "m.fc-anyang-vs-gangwon-fc-luc-1730-ngay-26-07-2026",
             "tvg_name": "Fc Anyang Vs Gangwon Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PajuFrontierFcVsAnsanGreeners_17:30",
+        "title": "\u26bd Paju Frontier Fc Vs Ansan Greeners",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.paju-frontier-fc-vs-ansan-greeners-luc-1730-ngay-26-07-2026",
+            "tvg_name": "Paju Frontier Fc Vs Ansan Greeners",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
