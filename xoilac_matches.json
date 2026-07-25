@@ -1380,13 +1380,12 @@
         }
     },
     {
-        "id": "xoi_FcPortoVsAstonVilla_02:00",
-        "title": "\u26bd Fc Porto Vs Aston Villa",
+        "id": "x_SantosVsChapecoenseSc_00:00",
+        "title": "\u26bd Santos Vs Chapecoense Sc",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "02:00",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -1397,8 +1396,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.fc-porto-vs-aston-villa-luc-0200-ngay-26-07-2026",
-            "tvg_name": "Fc Porto Vs Aston Villa",
+            "tvg_id": "m.santos-vs-chapecoense-sc-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Santos Vs Chapecoense Sc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
