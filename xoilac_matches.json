@@ -1495,6 +1495,98 @@
         }
     },
     {
+        "id": "x_CobreloaVsDeportesSantaCruz_00:00",
+        "title": "\u26bd Cobreloa Vs Deportes Santa Cruz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cobreloa-vs-deportes-santa-cruz-luc-0430-ngay-26-07-2026",
+            "tvg_name": "Cobreloa Vs Deportes Santa Cruz",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_LiverpoolVsSunderland_00:00",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VoltaRedondaVsAnapolisFc_00:00",
+        "title": "\u26bd Volta Redonda Vs Anapolis Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.volta-redonda-vs-anapolis-fc-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Volta Redonda Vs Anapolis Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TlaxcalaFcVsLeonesNegros_00:00",
+        "title": "\u26bd Tlaxcala Fc Vs Leones Negros",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tlaxcala-fc-vs-leones-negros-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Tlaxcala Fc Vs Leones Negros",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_NewellOldBoysVsTalleresCordoba_03:00",
         "title": "\u26bd Newell Old Boys Vs Talleres Cordoba",
         "category": "EVENT LIVE",
@@ -2759,6 +2851,29 @@
         "epg_metadata": {
             "tvg_id": "m.incheon-united-vs-bucheon-1995-luc-1730-ngay-26-07-2026",
             "tvg_name": "Incheon United Vs Bucheon",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_SeoulFcVsUlsanHyundai_17:30",
+        "title": "\u26bd Seoul Fc Vs Ulsan Hyundai",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:30",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.seoul-fc-vs-ulsan-hyundai-luc-1730-ngay-26-07-2026",
+            "tvg_name": "Seoul Fc Vs Ulsan Hyundai",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
