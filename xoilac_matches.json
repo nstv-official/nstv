@@ -1587,6 +1587,29 @@
         }
     },
     {
+        "id": "x_IsurusVsBestiaAcademy_00:00",
+        "title": "\u26bd Isurus Vs Bestia Academy",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.isurus-vs-bestia-academy-luc-0500-ngay-26-07-2026",
+            "tvg_name": "Isurus Vs Bestia Academy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_JuanPabloIiVsCienciano_03:15",
         "title": "\u26bd Juan Pablo Ii Vs Cienciano",
         "category": "EVENT LIVE",
