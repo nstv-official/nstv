@@ -759,6 +759,52 @@
         }
     },
     {
+        "id": "x_DeportivoSanPedroVsXelajuMc_00:00",
+        "title": "\u26bd Deportivo San Pedro Vs Xelaju Mc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportivo-san-pedro-vs-xelaju-mc-luc-0200-ngay-26-07-2026",
+            "tvg_name": "Deportivo San Pedro Vs Xelaju Mc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuMixtoEcVsNuPalmeirasSp_00:00",
+        "title": "\u26bd Nu Mixto Ec Vs Nu Palmeiras Sp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-mixto-ec-vs-nu-palmeiras-sp-luc-0200-ngay-26-07-2026",
+            "tvg_name": "Nu Mixto Ec Vs Nu Palmeiras Sp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "xoi_FcPortoVsAstonVilla_02:00",
         "title": "\u26bd Fc Porto Vs Aston Villa",
         "category": "EVENT LIVE",
