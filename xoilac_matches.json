@@ -1912,6 +1912,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_1930_ngay_27_07_2026",
+        "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.samtskhe-akhaltsikhe-vs-gagra-fc-luc-1930-ngay-27-07-2026",
+            "tvg_name": "Samtskhe Akhaltsikhe Vs Gagra Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fk_orenburg_2_vs_krylia_sovetov_2_luc_2000_ngay_27_07_2026",
         "title": "\u26bd Fk Orenburg  Vs Krylia Sovetov",
         "category": "EVENT LIVE",
