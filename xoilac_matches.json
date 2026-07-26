@@ -1186,10 +1186,17 @@
         "id": "x_bursaspor_vs_shakhtar_donetsk_luc_0000_ngay_27_07_2026",
         "title": "\u26bd Bursaspor Vs Shakhtar Donetsk",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel37.flv?wsSecret=e89ad90d0f2831accd5c234d76288dbf&wsABSTime=1785123081&nstv_cache=1785079923",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel37/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A?Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=dF8VWnn98r1lBgbexWzdpf3tZx0gi023CdAzvl_c61U-1785079818.3981493-1.0.1.1-Jl9LctSIpMpG_5B74kamId2ApEvKdsvhw2JwS_rpilZ7N8gDUIH8nAkUdSTAeCheagXvbCH0wOd3xzNA83fe1iPT4.B1yx17lwqeR1ibN0YtMjarauKYy1jbhk6hLHn7; _ga=GA1.1.2144291640.1785079821; cf_clearance=cvkZPSanFOzOlm9ufW8PPo_DPXEtpokD4p2TYkhiSLM-1785079853-1.2.1.1-tjksp7pb0XV5MtZXTrKEt0FP9YVN7_7ex.NYHtXiIQGpwnayeF7fF3Pb.KwBBvQG7H4GVOwICErMpFPO5xbx_9f4Z9rbCSfWMdY1RoCQgJj2B9ggjkOn_Dy2.P8ZlOBCMTY7ob4eO_y0.xN.Ad0oLA2noYjXpA4R_JmgXHfcn.tCUb0v41MyQQyCL2IrmACJ0OxUl50zmRRuOTjPpim8vUpam5YY5wp_jiyR7TowUDpi699QhBHyAkNBlVvHQSaHXyFKFeXgavY.W7qLoNXmvkIiR5XpY4yczEmshHRW22UVMyEVsIk6MJXsAEO4skwcYmDZXBsI5JmUWAHUJnywkz9KxBriBEAMb6wDvhWEHDREx4jSfAKiZOAjbAuAnj9wEdYVYx7bJbNs0OXDbmuUwOho7HZoPqfXq7xALxWzuYW4X.w3IYnJsxjKF9lMr15Qi4F1NNh1BBQs7cuyiUxzNCYlBVqM0fwbv8dBHR7Pw6cZhvo4ejNWroVUPLCeNuKcuo3Iu4IOyqx3eZvr1vCtw7WddoH5n2ia_wEs4LflqzwsoiQ6eRY78hkyv.wGHY3_f0dk2jRvcO6q6O.23Scx6HeM9Ob2PBhL31MPtKNszjwVmhv7QUvCaRrxDu4rFOmtyCaHT.AI27Zi7TtYSSFloWmeJoaTgMOaTsWNaOqnBxBW2onTc1i7JixRoAgmLLF8EwS3ihLalA4BFtP89JWLgVpv30cxQC9EfAxRIi4Wz5k7Kwhl4o.ny0vqQ6imWBu6ub9Isx6xusEmWLWKm_G.DBzSSD8nV5WLjpax60fi80049okiummMEt6M7d.HWbZcNuautXU1Tn7By7CID5UtCzA9B_YdHMOzhGQdfgLRsHff4_3aDau5sp2bsyAtDP9NA5IQW7m34uws7kcjKZWW2.d4eI4TmxXvCf6w5fql5GCn2NCAGVjBpI63fwVU08bnWMGaq2LlG8g_S.9rJuc_Uw; cf_clearance=iD90tis.ozMyLcmQepRjWlZksMYWQndTgW6pHq.ZKOE-1785079853-1.2.1.1-FhdcxPTznBGq0tZiXFyPx7wOEJL7XCuODUED17k.aecv.LUxLUS_Q6yL361KgL2qZ.dEdtB6JYFyZsXpkdPJruHUbKXKx1N.kn0..kWqCRpdvMGlemgnspNQo4MTGS551h_jQ_h.3bzdek90soFUJ7l_iCQd5t.Igt9uSeDAes8XjrT25ar_TCFAkpFhiJRXIteL0Mu7qwwsy65W9LXJW3x79jwZFHKv9YoReSiAN9dg87iRHjVE7c8Yz3Lat6oRjZY2FK3rZcwuSuxmJfpW0no.9MbRouh6HHZTXUoqPayE.SaT20jPqYpjXPaGkq_cSYTQsfJsMP1zhy40OxQ0jjsS0aHPI2tK51QyAtOLZeAtyb0pyRvlJbjydcGU8p6oyLl1U9eweZLJx5NB3cpb14WwukdzsrLiDKA6bitLecdEZCmp1b82GJlwjDNoP7SYVN273a_Mgc.NVEVcBwuu4pbYINf57lrq6vzEDJDBa4OtA8qoiixcsnD48OrnV3O51V7amJtaIG9pUSiEzBUqRLWgIN23bMWcDq7YNNDimfNyUh9uExYavcvSBug2huaFFluilog6YaLg6mnf155NiA; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785079821$o1$g1$t1785079858$j23$l0$h0; __cf_bm=tulIPGNbhL93keXAfLfDRrLT0QVRTVpLxT5A8Z5Ilzw-1785079859.583768-1.0.1.1-EvR9_dVgzfnP4xSWL31KIJYo2NwOp7_jeXy_OnnIkE1xReH0sAiJPfc5ieYoIPydn8M4LoPP1UQ7Ohv19lKkdyJ.NlCuaTojg28w6rKg_T257rf8TgYp_03r4qZyl4vx; _ga=GA1.1.2064763574.1785079861; _ga_S52WSRDB70=GS2.1.s1785079860$o1$g1$t1785079881$j39$l0$h0; cf_clearance=6ZnWcmG9_4UeG4wvpe4jDskkWew_ibDCTvL2rTbgIOs-1785079883-1.2.1.1-v0J.jGtQNU4wN8G.buC__up5..6zbuo11IcI50nQu4Zw04qOH5Y44_CxvvCuze609EmTLX6OBXkQYxtlV09y.sAxOeHa7AFIUoA80e3ZiilHL_Te5g7AZoh0M_G8Gzk1.EpDCYsyr2wsp_IBbOcbKXeXdesz_KxRAOvF3PfPJkPaI_SqvZ2AKZMHLypQqhPm.iF3pcH925RhRkPmE524dlOt578J7hY1qc.jBBZ4QYLGsbTxHfA0Mk5BUphUGysGubTSYaht4U_wKX5fb2R4bVpgWNboiQ5izG7c_9HEx2X6XZvFhYGmmdJNjuV6lQMiTC94Rv_pWKzUsmhh.nI5TVDp2GuTMi_A5lf3XJZozMI; __cf_bm=70bkxVh39Ovze9QWRP_viWXWmiVnXvmiZ7O6tMQPoxc-1785079922.1396735-1.0.1.1-rC4rmIaaSllHtC8jA6Z3oTcPkBrlCdYLlocswT59t6EQn_waP_8JW8CtNAkCkueEUK6_2yMyFZ7ls_RGh9jtMy0lhvYiDn6LztKhlbkoWVl0yopcRsZPFVpXEBmBlpGy"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1200,7 +1207,9 @@
             "tvg_name": "Bursaspor Vs Shakhtar Donetsk",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
