@@ -1,242 +1,5 @@
 [
     {
-        "id": "x_quilmes_vs_colegiales_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Quilmes Vs Colegiales",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=0610d80186cd65d8e7a58d4d67115a70&wsABSTime=1785141782&nstv_cache=1785098628",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel33/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehg83xzr51&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=e5HMKLvMAd05_TJ2eYvWi5Sy0BgTGcF07gsxHbSfNsU-1785098462.7096753-1.0.1.1-5pWY3izO5Xn_0wiFOAdhH1Ahut5avrLVbL1ztFQ.YvhxhcRzyKVUA7NZ7lNVLHX0fzLM84eLe06K8JuZwW8sQnD7XhX7eDaLGXfHRP3ApB6XKtHcSYtik8YQffgDpUad; _ga=GA1.1.1575346020.1785098466; _ga_P60BDCKB3G=GS2.1.s1785098466$o1$g1$t1785098520$j6$l0$h0; __cf_bm=KTGAaYvo6lYcLcYeHUzwVSjMGRGe_SxA9EbyQRjxuTs-1785098525.3407867-1.0.1.1-BBN.pzhxN_uC.yeEn2.lTXiwLl6UycYxUCesLXREZKUBKi4KobAPeQ35X0UjykFsEW3SRJRJQYHHBkv_ddRXnE3rQ1M0KAy0k8YSxKJL1PnRkeTsK.BbYLTCXamsfdob; _ga=GA1.1.632156737.1785098526; _ga_S52WSRDB70=GS2.1.s1785098526$o1$g1$t1785098580$j6$l0$h0; cf_clearance=28WxSny4Z2RUqTikeV5oXjgJsMvKVKNh3D7YfAZ05Ko-1785098588-1.2.1.1-QwvEGHvv_1pSYJNmpDPoCjiLp1mMAAU5oHPnyJLUUsBXTw1PdRAVLcz.TeafKoY5_XmaJq4bQ0ot5abNguzO1wggwZW95plL3EyCDdnMI5CL.P32kDVSeYjnTmtf5X6i11pZUsLW5WByDxbXcE7_vOTAWDjySPwvezm6ovx9XBv5Rkf6RoKMBMf8V1WrS7NMtOU0VPvpPBto4mZ4.SQ6yQK98N.HjFCnccCbtZ5KHtS06bv3LTD72Mzy6lA.bpcY4NInM_qKoBIUvQHorHfj9HWyjET3TaS9GuKv5ni110FPnnSRpEZ7Ug2Zv4wswj2DW38rQlushGO4tdXNuaiFg0xuyNvM0Vt0nASs.tFEdC8",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.quilmes-vs-colegiales-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Quilmes Vs Colegiales",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_orsomarso_vs_barranquilla_fc_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Orsomarso Vs Barranquilla Fc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=dc4964683ad6c1548e014ddccb6620bd&wsABSTime=1785142502&nstv_cache=1785099366",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel32/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not_A_Brand\";v=\"24\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=jw2r09hkzpvyrz8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=qIchDVpuSsSu1HH_TyrRCBGG3J.Q.l7_dhF387rbrFs-1785099207.8600845-1.0.1.1-F_6X4nO1.a4y95orrGqzXeuSdJQhwzt7Sv8lJMV7iNG9sKthAyZ7Y75u5g25mxV5qlFLu.U7fFKFBqfgwQasif5IjQsWzU9UPFx.85_YlG3k4P0cZXbjeJKRmx.G1dvK; _ga=GA1.1.1128856096.1785099214; _ga_P60BDCKB3G=GS2.1.s1785099214$o1$g1$t1785099255$j19$l0$h0; __cf_bm=VOs8.tSADmmvX.OiCDlKH31QUUjg4ftWvg_cRZiGDd8-1785099258.8461583-1.0.1.1-bNWqRR1PDfXL5.FJN8xJ0y.d916i1cxsig0HfT9c7kSrxSgftOix1.wcOzZ0T9EA6A2XNnoVibtiZxUU8mJqJ4sgjtWAoZOJN9vRXeUmTpFmM8jT7wwxH.0risgKBZHx; _ga=GA1.1.1784636697.1785099260; _ga_S52WSRDB70=GS2.1.s1785099260$o1$g1$t1785099301$j19$l0$h0; cf_clearance=dm.oOUk7KfkXnxefLmGaSiwFMM_doMqoZfQCmckAJ3M-1785099307-1.2.1.1-IbeR9UiMCjCzYCsUl3PBtcmMocAFXIpp8v3fBTuMjDYkPbq.pIpfYwDUTIQccjEHBClMwmj8.pg7ncOUCkujNPxLg8gA0xQSUhSX5_qc8zXzIwKe9N_K7hO0rfG19iDGKjUbiNNRDmUsykdnSWzJhYGcsh5Ie4ybOLkzeL0BHRvRBQ9cm_b4Lxo6J2kTFPxo.N6I8jFZR.ClZuEhXYHAMlI592mcjjQok99WpcMR0NVeAjI_YfgiOJiOniAl1nd2g_mB6s2LvTzHEc9.ktI4de97mFNzqiluG54gpWebn2mNrfHL6FevfYgssB4mkxvXSEVARYlYl2gIkTEjBIS6pt5XfOcg59XOR6Azu.g6iGc; __cf_bm=2IpUOD_xKVGFY4FThir4Hb31Ay.l2Y5T1qdZ8os8SHw-1785099335.9798157-1.0.1.1-iXynGuG0ouhENiQJ84fVORfuuuQivkVBT8QgAxKS9FcC6q10Nor8NsiCQ865ZKHxdld6HaRc9KqPp1YrkRL6bJRvT0JkpMDK7ZMFyJR8Yb9Ce8FKV56PpMTQt_CAKwHW",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.orsomarso-vs-barranquilla-fc-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Orsomarso Vs Barranquilla Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_delfines_del_este_vs_elite_sc_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Delfines Del Este Vs Elite Sc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel31.flv?wsSecret=6964ec44a6eda5d0ddac2018a6e90b10&wsABSTime=1785142889&nstv_cache=1785099770",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel31/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A=Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=jw2r09hkzgxyrz8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=EVfcyHqp7IhoFWZ10VG8ocYyUr7cmpFhNXZkE2AAPzA-1785099600.0027533-1.0.1.1-WyxONkBzVoFyyGNVKaw1MfK4HmikWOPO3S93TPNod6955e7PwkKucIwq1dxHAYv5fkZEtpr4DmCZy.2mUeakPpiNF1MtY5XH5J9wwfFWU5ksql7gOwfv9JNqLSLj5yfb; _ga=GA1.1.372821595.1785099605; _ga_P60BDCKB3G=GS2.1.s1785099604$o1$g1$t1785099645$j19$l0$h0; __cf_bm=FeEkQjH1pIBLbgjvdR7D_J7DNHFwuawV4hYByo8IrCw-1785099649.016252-1.0.1.1-Trd1dJnx4QLj7x3iXPBlX.drXVcLDhDdNFbj_Zz0GV75.WEAE5mwdjR4I38MJls8NXsUkXiyqEeEzOkBJ0hVuRKwVnLpBhPpOs.ts_.ifw8bPHXF1KbSaI7HvjP7mcbx; _ga=GA1.1.1178144495.1785099650; _ga_S52WSRDB70=GS2.1.s1785099650$o1$g1$t1785099689$j21$l0$h0; cf_clearance=wwwz5MhRI4rjl1I8ihHXidTmWN3ajNbiLdEvaKFEtDw-1785099694-1.2.1.1-AZ7BFsozI__t0NZs2GUM7k7fiOeVkeTz5XM1wpn8aMkfL.GobMdae32Cmvc8zPei3QUiAZF6pgl__575W6nEnNHSKZhRQ.RdqblQgn5td9T0o7tVjq39o5VnN8aptSuv1C0rvDuo8fZV8jiiAIHDSCcLP1zaoWJiUw35680riZe8M4YVA3Zo6UK5OHlxceOXgZFHU5f3KI.e74zsXQ9qNvt9ZTMGbiQwK0BuCEzPkBX2eqRw7NcOul58UpwYgMk95FbrBsnLBUpwQFxt5Li_AIOpbsBlHS6Vq4e3iRNuqV8JIaeC_or_xM2WyNAfmU4yEaLLo9iUqmngZbNIRn2dx.kDruliBvrG6Tx5V_IHzNc; __cf_bm=SCDOLXocxws.8SpVg88E6f566sU.DYShGg.KIdt1yTQ-1785099745.3361504-1.0.1.1-fSFgd6LYC0mo6Ja3pTIhWtADhUfbBdZWU41tQV7BuT41c2BRV.TlxWgzBe8E4nHKfrMjbZHWm_KRzr16p764ZDsM6Rjm2IuI4palmNvejT0.0bFt2pJAo9.3EhU1mrTS",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.delfines-del-este-vs-elite-sc-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Delfines Del Este Vs Elite Sc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_connecticut_united_fc_vs_columbus_crew_b_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Connecticut United Fc Vs Columbus Crew B",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=4bf0709b65e3d0f66377cb515183d900&wsABSTime=1785143136&nstv_cache=1785100014",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel23/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not A:Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=23xmvkh65ggnqg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=EV7eXQhMrqpWFRL4iOL8B0m0IB2mDp_pNSXg2lSWDOE-1785099844.01343-1.0.1.1-pMw_rUQ1u2pH_DWs9ROLGQCm8TNdfIBywoU55MKRGpid1FtY611XhnQM6rCUanw6WjcDQ6t3v5V_nLYIQ0gDPt6KM2vcrkmSQVMEBfvYLOWnKraJk0HFag89xq3_6I_4; _ga=GA1.1.1507284360.1785099849; _ga_P60BDCKB3G=GS2.1.s1785099849$o1$g1$t1785099888$j21$l0$h0; __cf_bm=mB2_VgFBJE1aRhukF.th0Kn0wZBhC13okKPJ9nT5rI0-1785099892.271017-1.0.1.1-.gYqg29yzbD33P3do3rkbMGGi6qMpzJb0tz0q3vsfito4ZNqc_Nen7mRmkqCLVbYb9JgsGPiTsuEaD5CL7sfxpTSR3WEE_aZ77OO5uudwnuk_Ts0VmF_WnyrqTvLjXUn; _ga=GA1.1.879958151.1785099894; _ga_S52WSRDB70=GS2.1.s1785099893$o1$g1$t1785099936$j17$l0$h0; cf_clearance=Pzq26DB0kdakgiEPGUch6CiPZnyhQh0E0ftLPJo2IGo-1785099942-1.2.1.1-xpGUqKDdpeOF7990HArrt162onSQoAKvgk0c_qVcwz8nUypXZzTINC5_P16fGALL.nMMmdc5PPcJauRh7q8yZdaB05ndh72g_DoKOmlMY9EbbouXv2lwNn9NEoAw2LRiR33o18GQWxpoDyA3_boDW7O0PnSWHoi8bEuD9H2dkop9a.mC_nC_1fE37ZsbEozj6arND1qaRUXrAQPrRY76ozQe8uzZEPMgkeTz43tBhLCFUNluL1reYaaD0E2xRxQ1qoAG4I_.c_UNTcRCzds6iR7UmKxgbryXYe5wUj4oq1VodNsHwlvBEMpSTsUNmiJhXmtezWXMRJlQbv0SrVBr2t75ABgVz3sHeabFuwYdT6Y",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.connecticut-united-fc-vs-columbus-crew-b-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Connecticut United Fc Vs Columbus Crew B",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_edmonton_stingers_vs_calgary_surge_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Edmonton Stingers Vs Calgary Surge",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel45.flv?wsSecret=b52dcc97b12d5c2f3d8e1022aa5eb757&wsABSTime=1785148319&nstv_cache=1785105173",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel45/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=4wyrn1topg81q86&view=true",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105117$j22$l0$h0; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.edmonton-stingers-vs-calgary-surge-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Edmonton Stingers Vs Calgary Surge",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_jamaica_vs_puerto_rico_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Jamaica Vs Puerto Rico",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel44.flv?wsSecret=3e27bf9b5d794d8193df3a6558ef1820&wsABSTime=1785148381&nstv_cache=1785105240",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel44/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=n54ql7tpgv8drvy&view=true",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105180$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.jamaica-vs-puerto-rico-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Jamaica Vs Puerto Rico",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_venezuela_vs_puerto_rico_luc_0500_ngay_27_07_2026",
-        "title": "\u26bd Venezuela Vs Puerto Rico",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=7e8fd31cdc48e07bad6ae8e4a9642149&wsABSTime=1785148745&nstv_cache=1785105592",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=pxwrxdhnejy6myk&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105543$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.venezuela-vs-puerto-rico-luc-0500-ngay-27-07-2026",
-            "tvg_name": "Venezuela Vs Puerto Rico",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -1915,10 +1678,19 @@
         "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_1930_ngay_27_07_2026",
         "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?nstv_cache=1785109540",
         "is_live": true,
         "match_time": "19:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel7/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h6l1j4moj&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Ri6jRXOK61s3yoNT9QONwdE2rAcqIm6TohuJ68eBoFs-1785109387.6865985-1.0.1.1-SfHLd5FDUF.SLDpOH8awVX3i9SRFjA4mGmVNGsi2CdOB9T5WL8iFe01lt6yJAHvtWnjxpJGEc3XsUHdwn_EwHfbXrLh6h69UZIT9viMAQ8auMFic49z9ZtS6KUIyleWz; _ga=GA1.1.75580107.1785109394; _ga_P60BDCKB3G=GS2.1.s1785109394$o1$g1$t1785109435$j19$l0$h0; __cf_bm=g2WyXNjOJgANw2nMpEmfCpwUO_sxSMMwDxG8uWeVAcE-1785109439.9579697-1.0.1.1-AFY4r06fZ5phuRNtyZsc4vjgOom9F20CsicSSu1UpTQ6M6ltmETWlNNu1wAH5GNAPknzvQA.T73Rh4GNmMB22X1Od0S.PUYIThNSfLoNCxMyG8OoMP.mvZlkMNGeKLnw; _ga=GA1.1.1653019188.1785109441; _ga_S52WSRDB70=GS2.1.s1785109441$o1$g1$t1785109480$j21$l0$h0; cf_clearance=39GtLqbo7sFpN0S01Ke8eM5plCys87ol7y0KZP_r7M0-1785109487-1.2.1.1-8L1cr0L5hKfWRauNrTs8eMQpxxhqPdV_snY89tFhlAlilFATdhmjP2zoRcJxNsBflJpQM4dB7IWDyzDtKg0KpCtd_LdWTLTXj8MWWSvjkRf.0eC146GYsWsbeki1Dzwg8q8scAmcykTMV0Z9wKtW1QJjg5NZ.k0FDqa3MUclGMoW6kXgc.znZZX0TrH8O.A4A9MZ7feUC3AGsqvZxS0j9kMe6ZcNkO5uQQg5uWub69mPAW46KQ7F9AdzVWe41KE9AO5ajTBgNUnybSteIJ8vc9k_xW4Q2Ms14CAw9rAvTmMgmWHgjVNwXeypIVJ9TwqPM0_SeFB3Ofh4oyRBEMYeQXnRqf6STXMX5nXsbB4sCkY; __cf_bm=V1TW..1y_jkeZirMgPumUkrWRWb90v.15gVhYoflZ9g-1785109510.760201-1.0.1.1-7WPTGrisC34sE97ZHSyBI_Wg0E6na_xURErxNtLpENE4HTo7d1Gi8hGIm1ruUv9lZsZcNJL3RR1FYl3WuafHfazt_NBj5ppG8J.8.VbCli6SKQybTnEVAugrVI3k3gUY",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1929,7 +1701,9 @@
             "tvg_name": "Samtskhe Akhaltsikhe Vs Gagra Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fk_orenburg_2_vs_krylia_sovetov_2_luc_2000_ngay_27_07_2026",
