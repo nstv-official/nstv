@@ -1276,10 +1276,19 @@
         "id": "x_macva_sabac_vs_partizan_belgrade_luc_0200_ngay_27_07_2026",
         "title": "\u26bd Macva Sabac Vs Partizan Belgrade",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=38bc31b13e2bd89e2f1e78eede541641&wsABSTime=1785134430&nstv_cache=1785091270",
         "is_live": true,
         "match_time": "02:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel25/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not=A:Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=n54qllhnypjgqvy&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=b4Lt0K8InEGuEPBRyen.odevwWQ5C6i8FIx0ScPb8M0-1785091105.7169414-1.0.1.1-PRRo9NGPpD2uZ9gmJtkWkDaLK8_odD4tcixcep312ds4F5EHwQIU64JfaJ9BHMLLwPzB.fvJHT_hRvH4LNVNac9h5usTObq91FmFf.iE85uy9XaISM5F1.B9_nHU3Xf_; _ga=GA1.1.452112831.1785091108; _ga_P60BDCKB3G=GS2.1.s1785091108$o1$g1$t1785091144$j24$l0$h0; __cf_bm=eYjoEpiXytpfaV.Ly.MYg5ySVQysdErocUtHK0kSDLg-1785091145.7057002-1.0.1.1-V6JUtMsoUAUNnSj.N.0Mhk1Zv5m8UyQ_vgfUT2FnbQx2SDCByldsYOpXhYL4gweG29IcTYbQ0_my2sq1z7g6eOl04AKwpoYrmYKnMo71lMBmn4WS5h484hdKXYXkhaW5; _ga=GA1.1.1504674569.1785091147; cf_clearance=MUi_eAE3.Lx_bRzOI_s5jiKnVOcBB7S7_sOMZJD5kOE-1785091185-1.2.1.1-b7orNv0n4XoeIr_Ir1Di.Kmwr57_MIQ8MpUBO77AsJcKDGuGI1O9w1IvETjob5XTD63fP2xHp5oJcU_ytpKyU2JFtcYa9ika0pmve7ZLsGkUCiPgMJfpeoSD28UzAzaj.0ifnCphJsBqEsHlEJNfKVMfUT.iBYbfFDfhc365xieEowAZtEc10_rhzLXfqSgQmZGXPUlQFfHLEhMqQFqMoi7xx5sdzKBRLtUHWLZsR.wLv_tJjHfmA1MMukiq6did2XTbhvxe6fWHbZvIRdLRYZ17fyYe1_iVn04P.evEYByKyps47oiAkBq.21uySat4vL488v1z3BIe9jMFdDQLb15E1iLsOeBPc4I7EOoE9hA; _ga_S52WSRDB70=GS2.1.s1785091146$o1$g1$t1785091230$j54$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1290,7 +1299,9 @@
             "tvg_name": "Macva Sabac Vs Partizan Belgrade",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_sao_bernardo_vs_ceara_luc_0200_ngay_27_07_2026",
