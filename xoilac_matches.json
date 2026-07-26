@@ -561,10 +561,19 @@
         "id": "x_agropecuario_vs_s_m_san_juan_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Agropecuario Vs S M San Juan",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=fe6854e474589d79883bcbed08763477&wsABSTime=1785132312&nstv_cache=1785089153",
         "is_live": true,
         "match_time": "01:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel14/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=23xmvkh6p02kqg8&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785089088$j40$l0$h0; __cf_bm=MEjFZSMtOi7PRdd0K0Pz9Ezrpj3qb.MT49Ayo.9iDec-1785089090.266192-1.0.1.1-QCd.sDNBB0Ik2_5urnZXxvXshh3Gr9unTjHTmLVA2xth1EGldQytywbuFE7HnC7iTRXSsOYTiqlW2fEVrLNqCAzoPG.MN21sNqWlVwhUlK2RVZtSvVE2kk8P7k1UftZP; _ga=GA1.1.2111626862.1785089091; _ga_S52WSRDB70=GS2.1.s1785089091$o1$g1$t1785089112$j39$l0$h0; cf_clearance=c03bfVYi2B3s2hpmrw_eZ3LLxUwi4fkJiCrrAp7g1Ro-1785089113-1.2.1.1-S4MBFejLNJ0GDa2cl.14ZyN8mMlmkX6LewSuwaQ0HSvTVH0IEmfEJKRG3oRTeKk0owI07t.oBK5B1Q4lDEYcXqSzzAWy7EOX208HPuVBgjsqiOk.W77Htozxqz2mXvkoQg.1F.jLuedqgPrEzXT8psqUqLlwJEiShIor2MLtqgSDdPYWqj5B_n4F_GE6.CaZ9CJhzE9Yn7ViVL9eaZssax3yypH573VgLCjgjAVtNAp9UIo.mXqo3vfW59ZQzYG4PGQ_2h_yT1JAfcIvpEWfI8k0fO7uXkSRNBv.s5S2r88JnLzJEYPrAuI_0XuxYL1rZb4R25ym2kouoWParYJPxyOc89JvUJiuHQJO.1Nm1qs; __cf_bm=zKUOyoVCR2bAPmhvh5A1lDy7jELPgz9fnWdYn3eeiR0-1785089151.472928-1.0.1.1-CEA0h0LRDJdfWUvSzaLxtcMTuYUCgZh9dTOKCPnblHVfu8X.LPSBzwJ7WP2vedeMT3AETHvBAlmqeJ4PAqbIJsiuMsG1vpYPfZtX.1f1OnidJ8Y6SljcuKdvD0UVJOiV",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -575,7 +584,9 @@
             "tvg_name": "Agropecuario Vs S M San Juan",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
