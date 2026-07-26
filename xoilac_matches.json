@@ -1417,6 +1417,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_panama_u20_vs_canada_u20_luc_0300_ngay_27_07_2026",
+        "title": "\u26bd Panama U Vs Canada U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.panama-u20-vs-canada-u20-luc-0300-ngay-27-07-2026",
+            "tvg_name": "Panama U Vs Canada U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_haruka_kaji_vs_taylah_preston_luc_0330_ngay_27_07_2026",
         "title": "\u26bd Haruka Kaji Vs Taylah Preston",
         "category": "EVENT LIVE",
@@ -1479,6 +1499,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_orense_sc_vs_ind_del_valle_luc_0345_ngay_27_07_2026",
+        "title": "\u26bd Orense Sc Vs Ind Del Valle",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "03:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.orense-sc-vs-ind-del-valle-luc-0345-ngay-27-07-2026",
+            "tvg_name": "Orense Sc Vs Ind Del Valle",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_valencia_u20_vs_cd_castellon_u19_luc_0345_ngay_27_07_2026",
+        "title": "\u26bd Valencia U Vs Cd Castellon U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "03:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.valencia-u20-vs-cd-castellon-u19-luc-0345-ngay-27-07-2026",
+            "tvg_name": "Valencia U Vs Cd Castellon U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_phap_vs_anh_0400_19_07",
         "title": "\u26bd Phap Vs Anh",
         "category": "EVENT LIVE",
@@ -1509,6 +1569,66 @@
         },
         "media_id": "aHR0cHM6Ly9zdC5v",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_inter_toronto_fc_vs_forge_fc_luc_0400_ngay_27_07_2026",
+        "title": "\u26bd Inter Toronto Fc Vs Forge Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.inter-toronto-fc-vs-forge-fc-luc-0400-ngay-27-07-2026",
+            "tvg_name": "Inter Toronto Fc Vs Forge Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_herrera_fc_vs_union_cocle_luc_0400_ngay_27_07_2026",
+        "title": "\u26bd Herrera Fc Vs Union Cocle",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.herrera-fc-vs-union-cocle-luc-0400-ngay-27-07-2026",
+            "tvg_name": "Herrera Fc Vs Union Cocle",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_gimnasia_ytiro_vs_deportivo_maipu_luc_0400_ngay_27_07_2026",
+        "title": "\u26bd Gimnasia Ytiro Vs Deportivo Maipu",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gimnasia-ytiro-vs-deportivo-maipu-luc-0400-ngay-27-07-2026",
+            "tvg_name": "Gimnasia Ytiro Vs Deportivo Maipu",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_aguilas_doradas_vs_ind_santa_fe_luc_0405_ngay_27_07_2026",
