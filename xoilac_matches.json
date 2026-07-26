@@ -1637,6 +1637,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "LIVE",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_jelgava_vs_fk_liepaja_luc_2230_ngay_26_07_2026",
         "title": "\u26bd Jelgava Vs Fk Liepaja",
         "category": "EVENT LIVE",
@@ -1879,26 +1899,6 @@
         "epg_metadata": {
             "tvg_id": "m.ca-do-bong-da-co-tinh-hiep-phu-khong-luat-choi-chuan-2026",
             "tvg_name": "Ca Do Bong Da Co Tinh Hiep Phu Khong Luat Choi Chuan",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_top_nha_cai",
-        "title": "\u26bd Top Nha Cai",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "Jadwal",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.top-nha-cai",
-            "tvg_name": "Top Nha Cai",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
