@@ -1,130 +1,5 @@
 [
     {
-        "id": "x_phap_vs_anh_0400_19_07",
-        "title": "\u26bd Phap Vs Anh",
-        "category": "EVENT LIVE",
-        "uri": "https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&quot;https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp11.swf&quot;,&quot;html5url&quot;:&quot;//st.okcdn.ru/static/MegaPlayer/10-12-24/okHtml5Player.min&quot;,&quot;okVideoPlayerEnabled&quot;:true,&quot;minFlashVersionNewPlayer&quot;:&quot;11.2&quot;,&quot;wmode&quot;:&quot;opaque&quot;,&quot;asa&quot;:true,&quot;provider&quot;:&quot;UPLOADED_ODKL&quot;,&quot;liveRertyTimeout&quot;:5000,&quot;poster&quot;:&quot;https://iv.okcdn.ru/videoPreview?id=17838116833992\\u0026type=37\\u0026idx=0\\u0026tkn=43k_xiNY1x-vH5e586xkA5zRN0U\\u0026fn=external_8&quot;,&quot;isExternalPlayer&quot;:false,&quot;isIframePlayer&quot;:false,&quot;isHtml5Player&quot;:true,&quot;timestamp&quot;:&quot;1785086797595&quot;,&quot;stubEnabled&quot;:false,&quot;verifyInline&quot;:false,&quot;webrtcBrokenH264&quot;:false,&quot;instantLayer&quot;:false,&quot;playerLocalizationEnabled&quot;:true,&quot;flashvars&quot;:{&quot;referer&quot;:&quot;https://xoilaczzuuz.tv/&quot;,&quot;relatedAlways&quot;:&quot;1&quot;,&quot;metadata&quot;:&quot;{\\&quot;movie\\&quot;:{\\&quot;id\\&quot;:\\&quot;15754398534344\\&quot;,\\&quot;movieId\\&quot;:\\&quot;15754398534344\\&quot;,\\&quot;likeId\\&quot;:\\&quot;15754398534344\\&quot;,\\&quot;contentId\\&quot;:\\&quot;17838116833992\\&quot;,\\&quot;poster\\&quot;:\\&quot;https://iv.okcdn.ru/videoPreview?id=17838116833992\\\\u0026type=37\\\\u0026idx=0\\\\u0026tkn=43k_xiNY1x-vH5e586xkA5zRN0U\\\\u0026fn=external_8\\&quot;,\\&quot;duration\\&quot;:\\&quot;1060\\&quot;,\\&quot;title\\&quot;:\\&quot;Frangland\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok.ru/video/15754398534344\\&quot;,\\&quot;link\\&quot;:\\&quot;/video/15754398534344\\&quot;,\\&quot;collageInfo\\&quot;:{\\&quot;imageType\\&quot;:\\&quot;COLLAGE\\&quot;,\\&quot;url\\&quot;:\\&quot;https://iv.okcdn.ru/videoPreview?id=17838116833992\\\\u0026type=36\\\\u0026idx=0\\\\u0026tkn=UPIU-TbdCVdEIAUV4BJqPylficM\\&quot;,\\&quot;frequency\\&quot;:5,\\&quot;height\\&quot;:44,\\&quot;width\\&quot;:80,\\&quot;count\\&quot;:212,\\&quot;tileWidth\\&quot;:40,\\&quot;tileHeight\\&quot;:6},\\&quot;status\\&quot;:\\&quot;OK\\&quot;,\\&quot;statusText\\&quot;:\\&quot;OK\\&quot;,\\&quot;isLive\\&quot;:false,\\&quot;notPublished\\&quot;:false,\\&quot;isClip\\&quot;:false,\\&quot;width\\&quot;:1280,\\&quot;height\\&quot;:720},\\&quot;failoverHosts\\&quot;:[\\&quot;vd647.okcdn.ru\\&quot;,\\&quot;vd662.okcdn.ru\\&quot;],\\&quot;provider\\&quot;:\\&quot;UPLOADED_ODKL\\&quot;,\\&quot;service\\&quot;:\\&quot;ok\\&quot;,\\&quot;owner\\&quot;:false,\\&quot;voted\\&quot;:false,\\&quot;likeCount\\&quot;:0,\\&quot;subscribed\\&quot;:false,\\&quot;isWatchLater\\&quot;:false,\\&quot;slot\\&quot;:690,\\&quot;siteZone\\&quot;:-1,\\&quot;showAd\\&quot;:true,\\&quot;fromTime\\&quot;:0,\\&quot;author\\&quot;:{},\\&quot;admanMetadata\\&quot;:{},\\&quot;partnerId\\&quot;:-1,\\&quot;ownerMovieId\\&quot;:\\&quot;15754398534344\\&quot;,\\&quot;alwaysShowRec\\&quot;:false,\\&quot;videos\\&quot;:[{\\&quot;name\\&quot;:\\&quot;mobile\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.138\\\\u0026type=4\\\\u0026sig=LvLoY06sDAw\\\\u0026ct=0\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;lowest\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.138\\\\u0026type=0\\\\u0026sig=kW4uLN19qso\\\\u0026ct=0\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;low\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.138\\\\u0026type=1\\\\u0026sig=zV0Knd989PA\\\\u0026ct=0\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;sd\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.138\\\\u0026type=2\\\\u0026sig=TD-zUQnKryA\\\\u0026ct=0\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;hd\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.138\\\\u0026type=3\\\\u0026sig=Bz9BmPG9iTQ\\\\u0026ct=0\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false}],\\&quot;vkMovie\\&quot;:false,\\&quot;metadataUrl\\&quot;:\\&quot;https://ok6-11.vkuser.net/?expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ch=1336333768\\\\u0026ms=95.142.206.138\\\\u0026type=1\\\\u0026sig=KdiFcjXSmXQ\\\\u0026ct=6\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;hlsManifestUrl\\&quot;:\\&quot;https://ok6-11.vkuser.net/video.m3u8?cmd=videoPlayerCdn\\\\u0026expires=1785173197591\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ch=1676822812\\\\u0026ms=95.142.206.138\\\\u0026type=2\\\\u0026sig=2lzbY6Byoos\\\\u0026ct=8\\\\u0026urls=185.180.203.44%3B178.237.23.13\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=17838116833992\\&quot;,\\&quot;autoplay\\&quot;:{\\&quot;autoplayEnabled\\&quot;:true,\\&quot;timeFromEnabled\\&quot;:true,\\&quot;noRec\\&quot;:false,\\&quot;fullScreenExit\\&quot;:false,\\&quot;vitrinaSection\\&quot;:\\&quot;recommended_movie\\&quot;},\\&quot;security\\&quot;:{\\&quot;url\\&quot;:\\&quot;https://ok6-11.vkuser.net/usr_login\\&quot;,\\&quot;cookie\\&quot;:\\&quot;vdsig\\&quot;},\\&quot;p2pInfo\\&quot;:{\\&quot;isPeerEnabled\\&quot;:false,\\&quot;ubsc\\&quot;:0,\\&quot;pbsc\\&quot;:0,\\&quot;mptpc\\&quot;:0,\\&quot;pctmt\\&quot;:0,\\&quot;pbesc\\&quot;:0,\\&quot;prrt\\&quot;:0,\\&quot;srt\\&quot;:0,\\&quot;swrt\\&quot;:0,\\&quot;dctt\\&quot;:0},\\&quot;stunServers\\&quot;:[{\\&quot;urls\\&quot;:[\\&quot;stun:videostun.okcdn.ru:19302\\&quot;]}],\\&quot;episodes\\&quot;:[]}&quot;,&quot;saveLastPlayingTimeFrom&quot;:&quot;30&quot;,&quot;castId&quot;:&quot;559D7832&quot;,&quot;noDownload&quot;:&quot;1&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;noChatLikes&quot;:&quot;1&quot;,&quot;noChannel&quot;:&quot;1&quot;,&quot;webmSec&quot;:&quot;20&quot;,&quot;enabledLocalStorage&quot;:&quot;1&quot;,&quot;minCacheTime&quot;:&quot;120&quot;,&quot;maxCachePartOfDurationMQ&quot;:&quot;30&quot;,&quot;checkMQ&quot;:&quot;1&quot;,&quot;noTrailer&quot;:&quot;1&quot;,&quot;recSlot&quot;:&quot;7178&quot;,&quot;noOldDash&quot;:&quot;1&quot;,&quot;noLikeButton&quot;:&quot;1&quot;,&quot;maxCachePartOfDuration&quot;:&quot;10&quot;,&quot;isAnonym&quot;:&quot;1&quot;,&quot;jidx&quot;:&quot;1&quot;,&quot;hideWatermark&quot;:&quot;0&quot;,&quot;isEmbed&quot;:&quot;1&quot;,&quot;noOkliveBanner&quot;:&quot;1&quot;,&quot;minCacheTimeMQ&quot;:&quot;20&quot;,&quot;adLogFullscreen&quot;:&quot;1&quot;,&quot;adLogFeed&quot;:&quot;1&quot;,&quot;adLogExternal&quot;:&quot;1&quot;,&quot;ldChunk&quot;:&quot;2000&quot;,&quot;showChat&quot;:&quot;1&quot;,&quot;ldBuffer&quot;:&quot;6000&quot;,&quot;feedAdLogic&quot;:&quot;15,3,3,14400&quot;,&quot;siteId&quot;:&quot;504&quot;,&quot;location&quot;:&quot;AnonymVideoEmbed/anonymVideoEmbed/anonym&quot;,&quot;watchCoverageEvent&quot;:&quot;watch_coverage_record&quot;,&quot;hideExpand&quot;:&quot;1&quot;,&quot;adLogic&quot;:&quot;15,0,3,14400&quot;,&quot;checkAutoplayBrowsers&quot;:&quot;safari,chrome,opera,yandex,firefox&quot;}}&nstv_cache=1785086804",
-        "is_live": true,
-        "match_time": "04:00",
-        "headers": {
-            "referer": "https://xoilaczzuuz.tv/",
-            "upgrade-insecure-requests": "1",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "sec-ch-ua-platform": "\"Windows\"",
-            "Referer": "https://ok.ru/videoembed/15754398534344",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086797$j48$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.phap-vs-anh-0400-19-07",
-            "tvg_name": "Phap Vs Anh",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9zdC5v",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_herrera_fc_vs_union_cocle_luc_0400_ngay_27_07_2026",
-        "title": "\u26bd Herrera Fc Vs Union Cocle",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=acb858520f400a9e4637eb30d27ac835&wsABSTime=1785136418&nstv_cache=1785093257",
-        "is_live": true,
-        "match_time": "04:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghljvk5moe&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=YYUs6quppbEAkVLiFY4qoZw1Ec.P.wdCy1WgdiT6ckY-1785092960.60157-1.0.1.1-R7H23SdcK95l.wSWr3DacZbVde5xG7BPRyuQxM9bRu30HdCP7Hwu9W4sffhP9B7R4pnZYoJfrFqZWU5E9E3a3WD3N5zw9FSbIQIfMewQk66vKPpCEmuHPtr_cug5sqoa; _ga=GA1.1.848601116.1785092963; _ga_P60BDCKB3G=GS2.1.s1785092963$o1$g1$t1785093000$j23$l0$h0; __cf_bm=PLOe_a.heAONzwotmR4H9pOAC253aZVZDZ5uLk4UUTE-1785093001.2939034-1.0.1.1-hrRUTe6mXogldOUVZWShmV6OKki7D0W.Cwol6TUUKtXHmx0QX45xop6qWIOBDnvWxS.9sV29jFxPQGn6FD_omSvhjlCAbHSKAHpHCn5khgiV9dO0MsKWYhJCRF.xn2P9; _ga=GA1.1.5616248.1785093002; cf_clearance=tpDoTSsa5CBy1Kbcj8QrpZnG5FOVPUlScQ4EOKaWBDg-1785093040-1.2.1.1-lb5hmn_qcaVNNR3DNgOY1HPDejSjcOTjxtxvSpA5MCK33RPWGCDTIy.5fK9FnvFUDNNlcYmub6KlOvC0flAqbY3SGquOcUUk7IYsDkmRuPUpbQJB8P4V7sDgK3w2sWWavXKvloDXeXPcHLnmQT8FbeyNM3ZqRcIihigtB9l08xn7U9UAIyqDap0StfnLI1fedO6H6f91qLmsRGRy68E_jLwTRuL67Pzj4J0GE7nKkU4tHN6R2m9.v1SrlGYJ7BH0UKUJxbtJfmHdgaexbkvCXdWEuJ4UK9T0J2HImDUesusYaQIFsWtPCoLs2yEwEXLZ4kW5ZWrmMCx6Nznzlez6ljEtrZ_7ZM3DsZLHKWzokh4; _ga_S52WSRDB70=GS2.1.s1785093002$o1$g1$t1785093218$j11$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.herrera-fc-vs-union-cocle-luc-0400-ngay-27-07-2026",
-            "tvg_name": "Herrera Fc Vs Union Cocle",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_gimnasia_ytiro_vs_deportivo_maipu_luc_0400_ngay_27_07_2026",
-        "title": "\u26bd Gimnasia Ytiro Vs Deportivo Maipu",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=f0fa91e91145d8129e3e19d399f2843c&wsABSTime=1785136463&nstv_cache=1785093301",
-        "is_live": true,
-        "match_time": "04:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel14/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghlp0xlmoe&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=YYUs6quppbEAkVLiFY4qoZw1Ec.P.wdCy1WgdiT6ckY-1785092960.60157-1.0.1.1-R7H23SdcK95l.wSWr3DacZbVde5xG7BPRyuQxM9bRu30HdCP7Hwu9W4sffhP9B7R4pnZYoJfrFqZWU5E9E3a3WD3N5zw9FSbIQIfMewQk66vKPpCEmuHPtr_cug5sqoa; _ga=GA1.1.848601116.1785092963; _ga_P60BDCKB3G=GS2.1.s1785092963$o1$g1$t1785093000$j23$l0$h0; __cf_bm=PLOe_a.heAONzwotmR4H9pOAC253aZVZDZ5uLk4UUTE-1785093001.2939034-1.0.1.1-hrRUTe6mXogldOUVZWShmV6OKki7D0W.Cwol6TUUKtXHmx0QX45xop6qWIOBDnvWxS.9sV29jFxPQGn6FD_omSvhjlCAbHSKAHpHCn5khgiV9dO0MsKWYhJCRF.xn2P9; _ga=GA1.1.5616248.1785093002; cf_clearance=tpDoTSsa5CBy1Kbcj8QrpZnG5FOVPUlScQ4EOKaWBDg-1785093040-1.2.1.1-lb5hmn_qcaVNNR3DNgOY1HPDejSjcOTjxtxvSpA5MCK33RPWGCDTIy.5fK9FnvFUDNNlcYmub6KlOvC0flAqbY3SGquOcUUk7IYsDkmRuPUpbQJB8P4V7sDgK3w2sWWavXKvloDXeXPcHLnmQT8FbeyNM3ZqRcIihigtB9l08xn7U9UAIyqDap0StfnLI1fedO6H6f91qLmsRGRy68E_jLwTRuL67Pzj4J0GE7nKkU4tHN6R2m9.v1SrlGYJ7BH0UKUJxbtJfmHdgaexbkvCXdWEuJ4UK9T0J2HImDUesusYaQIFsWtPCoLs2yEwEXLZ4kW5ZWrmMCx6Nznzlez6ljEtrZ_7ZM3DsZLHKWzokh4; _ga_S52WSRDB70=GS2.1.s1785093002$o1$g1$t1785093263$j54$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.gimnasia-ytiro-vs-deportivo-maipu-luc-0400-ngay-27-07-2026",
-            "tvg_name": "Gimnasia Ytiro Vs Deportivo Maipu",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_san_diego_vs_nu_seattle_reign_luc_0400_ngay_27_07_2026",
-        "title": "\u26bd Nu San Diego Vs Nu Seattle Reign",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=520fd8c50428ba107e1844574634c19e&wsABSTime=1785136933&nstv_cache=1785093771",
-        "is_live": true,
-        "match_time": "04:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel15/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A Brand\";v=\"24\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=vjxm8ghek2kzr6o&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=iPlmiAqvfOAZt5Uuso682Wkgc3oKIJUp4YKYPncIg2k-1785093654.292145-1.0.1.1-5rBLwWB19moqmGLlLJEiRCr.k7dre1hEQS_OiZFj3kCgrdSEMJk.6h4mZ.fAFe6G.GCrgO4ZrDXK38v75V0cfrgrZ_k1ai1R32lmmIP8Jx1LFb1Cl6uDkoFkSRUXLML3; _ga=GA1.1.1547593224.1785093656; _ga_P60BDCKB3G=GS2.1.s1785093655$o1$g1$t1785093693$j22$l0$h0; __cf_bm=QAWY.5Pi69dteRWVcfh2hyn17MCy02wzFqXBoQ9J9X0-1785093694.4577138-1.0.1.1-o7GuaOcvhP4VZHxs3g5VabyhA9TB6Z6KwoiRcSjd6MjAS1e97zWFGP6si3Jacu_Ph6C6AoZbq4z4wkF5U2E_iSG2q4F_.SBYsp7VBrl53xyLeGWxI3JzkxDhlRBFIcO1; _ga=GA1.1.1072686942.1785093695; _ga_S52WSRDB70=GS2.1.s1785093695$o1$g1$t1785093733$j22$l0$h0; cf_clearance=2AZ7pegi4FwN_6bxeJeKv5olqgUQW4qSutGLbwBsO4E-1785093735-1.2.1.1-Xdq6oCZlI8knri_ugxIZiwvIT8OR839QTuMP0zmIkju8gUeE3jCNd1.1H9HrY72yxkDvSaAoij0L6J4cTwRH1yvw2AJLcysxVhlWnvvLYQfpGTH0w9AkH9bWayuw.Ld9BIFu0SnezQ.pCwsrcW1nxwRjtIgPqFfLii0GiDVpAqE8mAuW_hcBqUOXGALAN4fx_I7GrDVxfJVeDo2WKdz5CK9fGD5f71SSfIq6RO3MjQlrFjAmXiF_DYqg1Ind7PvtdOUOqN4PSf0_pvkoVmhmtstED5SZ4GrTlR.tSFGXENIwbLCo3Dlm05Xk3b9pTL35jl3I8ykVYOimedlXfnoVLcDszs510TAJMvX9K0RklWU",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-san-diego-vs-nu-seattle-reign-luc-0400-ngay-27-07-2026",
-            "tvg_name": "Nu San Diego Vs Nu Seattle Reign",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_aguilas_doradas_vs_ind_santa_fe_luc_0405_ngay_27_07_2026",
         "title": "\u26bd Aguilas Doradas Vs Ind Santa Fe",
         "category": "EVENT LIVE",
@@ -923,10 +798,19 @@
         "id": "x_portland_hearts_of_pine_vs_sarasota_paradise_luc_0300_ngay_27_07_2026",
         "title": "\u26bd Portland Hearts Of Pine Vs Sarasota Paradise",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=dea981eebd93f565ff6f5d2775bec118&wsABSTime=1785149104&nstv_cache=1785105957",
         "is_live": true,
         "match_time": "05:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not_A;Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=pxwrxlhyljygryk&view=true",
+            "Cookie": "__cf_bm=VNS9mJvKXKFE2SMOQBSpcAlZh_w6CjWXlqkqsjNHhKA-1785105844.738964-1.0.1.1-mwcVYdtjw.cqja8WF0MS2cRksvgopyBiprkrkw19PSCaUPe.CgFAT2bvHbqPvJvi7T4oIm9KDP.YJvZvq2wjX7bVfy06XCJ0oiWPVjdM.t67E3Mk_IsD4nsvhbrYwrWH; _ga=GA1.1.927598039.1785105853; cf_clearance=6fdMjsjW89dixuz.2Xs2obZ3RDce_hINyxPW6hbsrIY-1785105895-1.2.1.1-_YXN_nW_dc.DcsA5gYyq8233jQPmOSZOUaR3gwgK7iAgBCjjRlG.k5N1j.6rcMtld47HW.s_iDMEHAZRRucbDm7wU_w7qsFEGZZAtjlIL0BibNN0szLIt0NFiReGtW0URrOjBqYbjirE_plG6N12WWzFnMzfSRJCKp82DHB8u820Q3iQl0ZsSyWG3xFfx2Gm9jh2f8fFOhaDcxhOEwfLaTlqE6vUDPhQnEdIN06Je71fgKU43KB72BXlGMRv2Ce4REqX2XI7PmQDGm6VZAiPYqmK8un_nz4wRA3UXvOP1Jh_M2JHApn4lrK1s_LSBB9.O3xiNMXmjq5GjAY2xHTOLCeJ9tu_syILoT0.etMiLGMFbKvaB.F_NSIAYYbiR0.EKX6cOQ2IIoyJC0xEEy6ArNi0e27qeMeOpr1n2tUu5qFr5Mhtg4PBcvcnAkBGBmi.Y2N2tPbdEPYMxu.L6S72J42JBVzBBRtiH2UCPwDYWdaYtbEh0b17vIzPKotKBnTR.e8F3r01O3_tulRHi0.gzX0WbA3sm24vzgAp7JZ5BR_XKbCR_MbfOaqr99Goq8qbU3Ag81jUIo7xPLle_Hxlv8OXiioDKg9EUIIrSeJAw6wC6BsPT6UGL7sIeeTtdp1FltCRPgg.rBt8sZqKhvgUhmQqrkUbL4rDWJgyw_7CGJJGzds0AayQpRvDNWsFFD8O_fFcGA3r2vk0Q8TEpKlw2cEqQkB0AQo8Sb5Hymt.lmC0l4m44YrWlFs7BCFZBGeTAhxRa3SM1d0vKw4gb7OdnICJNHMOOjZvxJ2go.c8xGAXVmhcSeiQCCxsxB7..pf5tKMFAP5qkXw9zHFe6oj0dKXh5A1eT2N9P_a1HQz4m4olP6JtPL3dWHD9QkyzhmhUVcdwbswOzHW5_eepCDOMbUQepuUZK7JzZ4rmgtlpdVz5tzrN0EuhydEWq0AION271jCjrgVJ9SzT7JYDo30JrA; cf_clearance=PtiQhJa4yNZ062oP3n1xHLZG.a2HW.ft43cMIb1l0Lg-1785105895-1.2.1.1-zzXlrxDmOGv0awTCEdHNlywvyeBO1rF8Wzzp34OtpwDN.fMv1vkV22jaClmgVH5XtCjiyYlgeco.fpN7cQYxRdsXRXK9bk95okxmGBfDbJ7R3yPZNdDKnXR8hxd7CP1JeY_47ThrzwUmDolRSfdN0ZjeSe_Ss0mb._Zu9DQEVPC2EdwMeQEkWsUlMy126WNQWiZA8uucF_fBD3gc8yuDbqqJIOzSEzvd8ZGwGbNbgrHaJffbsHMLCc4xEhHrrNUjQeFkDA21CzwC._RULtiidyLh7q22V9FTRxcGUWTd11u2BzfST9FkBtShbY08fPn.gv8mmbP5m2IN9SYbJ0UmHqgv4acdRE1HifvUHw2u7LXQesWZ8HFPlkC71qROwLEPLECcV1AWtJzqC4O3XgMTFAPBm3BqQHBNtymYQPV7UKaNGjxrCe7WVjHZbzXDJwyRoJbgqpeMeeCGXQyOpVZPUsNivDTJzVFHliS3iT263xOvfp09JvLgac7DbJf5adsKcdUodQUWEJ.AkWRe3B4HA415lRFt93Ewz0GY1kQ7jU_CjIA7tsAWsAvzIuWBR72n9KunCBENaZAhR0oU8fj3.A; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785105852$o1$g1$t1785105902$j10$l0$h0; cf_clearance=jsaYFB76RMz1xhVDJGw2yJSTf5KeSIP9AZMYOZrgI70-1785105909-1.2.1.1-9CthVv9.4AAtZrZfWv3PweE3wcv9c5ul3KqWw7krac6WXvfVpxl4.R5MAi.HhGvIQE8kYbFnAUkRinq6_hq9WPj8WvjVfa4YQaWIGVuBXWbSQcGsvTvx90stCPS6wRl3aFrbv.WYCpFDYbYdRydBv6t7vAgt9hJZAAxGBtUGjswfMV3XKJZq10KGSkiDLpu33LHlanAi4GbRCaZ8n.CVtEWFELSTqb7UL7ccgXDiKHKeara7ZlOz91gE3HSweOm2eViKuZ3gbe_Lpj1abYi7KI92VogStDQKCTVG_zxnBJB128XxKJTJWFmE3B5sCN5YZ502FK9ZawHuIrCyUjNWi75G7pZeMFk2R_H6QomlZVw",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -937,7 +821,9 @@
             "tvg_name": "Portland Hearts Of Pine Vs Sarasota Paradise",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_necaxa_vs_monterrey_luc_0600_ngay_27_07_2026",
@@ -2965,26 +2851,6 @@
         }
     },
     {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "LIVE",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
         "title": "\u26bd San Van Dong To Chuc World Cup  Thong Tin Chinh Thuc Va Chi Tiet",
         "category": "EVENT LIVE",
@@ -3227,6 +3093,26 @@
         "epg_metadata": {
             "tvg_id": "m.top-nha-cai",
             "tvg_name": "Top Nha Cai",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
