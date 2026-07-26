@@ -775,6 +775,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_delfin_sc_vs_leones_del_norte_luc_0115_ngay_27_07_2026",
+        "title": "\u26bd Delfin Sc Vs Leones Del Norte",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.delfin-sc-vs-leones-del-norte-luc-0115-ngay-27-07-2026",
+            "tvg_name": "Delfin Sc Vs Leones Del Norte",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_serbia_u18_vs_tho_nhi_ky_u18_luc_0130_ngay_27_07_2026",
         "title": "\u26bd Serbia U Vs Tho Nhi Ky U",
         "category": "EVENT LIVE",
@@ -897,6 +917,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_sv_wienerberger_vs_rapid_wien_luc_0130_ngay_27_07_2026",
+        "title": "\u26bd Sv Wienerberger Vs Rapid Wien",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sv-wienerberger-vs-rapid-wien-luc-0130-ngay-27-07-2026",
+            "tvg_name": "Sv Wienerberger Vs Rapid Wien",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_anh_vs_argentina_0200_16_07",
