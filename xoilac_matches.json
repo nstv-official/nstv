@@ -1024,33 +1024,22 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_orsomarso_vs_barranquilla_fc_luc_0500_ngay_27_07_2026",
         "title": "\u26bd Orsomarso Vs Barranquilla Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=dc4964683ad6c1548e014ddccb6620bd&wsABSTime=1785142502&nstv_cache=1785099366",
         "is_live": true,
         "match_time": "05:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel32/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not_A_Brand\";v=\"24\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=jw2r09hkzpvyrz8&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=qIchDVpuSsSu1HH_TyrRCBGG3J.Q.l7_dhF387rbrFs-1785099207.8600845-1.0.1.1-F_6X4nO1.a4y95orrGqzXeuSdJQhwzt7Sv8lJMV7iNG9sKthAyZ7Y75u5g25mxV5qlFLu.U7fFKFBqfgwQasif5IjQsWzU9UPFx.85_YlG3k4P0cZXbjeJKRmx.G1dvK; _ga=GA1.1.1128856096.1785099214; _ga_P60BDCKB3G=GS2.1.s1785099214$o1$g1$t1785099255$j19$l0$h0; __cf_bm=VOs8.tSADmmvX.OiCDlKH31QUUjg4ftWvg_cRZiGDd8-1785099258.8461583-1.0.1.1-bNWqRR1PDfXL5.FJN8xJ0y.d916i1cxsig0HfT9c7kSrxSgftOix1.wcOzZ0T9EA6A2XNnoVibtiZxUU8mJqJ4sgjtWAoZOJN9vRXeUmTpFmM8jT7wwxH.0risgKBZHx; _ga=GA1.1.1784636697.1785099260; _ga_S52WSRDB70=GS2.1.s1785099260$o1$g1$t1785099301$j19$l0$h0; cf_clearance=dm.oOUk7KfkXnxefLmGaSiwFMM_doMqoZfQCmckAJ3M-1785099307-1.2.1.1-IbeR9UiMCjCzYCsUl3PBtcmMocAFXIpp8v3fBTuMjDYkPbq.pIpfYwDUTIQccjEHBClMwmj8.pg7ncOUCkujNPxLg8gA0xQSUhSX5_qc8zXzIwKe9N_K7hO0rfG19iDGKjUbiNNRDmUsykdnSWzJhYGcsh5Ie4ybOLkzeL0BHRvRBQ9cm_b4Lxo6J2kTFPxo.N6I8jFZR.ClZuEhXYHAMlI592mcjjQok99WpcMR0NVeAjI_YfgiOJiOniAl1nd2g_mB6s2LvTzHEc9.ktI4de97mFNzqiluG54gpWebn2mNrfHL6FevfYgssB4mkxvXSEVARYlYl2gIkTEjBIS6pt5XfOcg59XOR6Azu.g6iGc; __cf_bm=2IpUOD_xKVGFY4FThir4Hb31Ay.l2Y5T1qdZ8os8SHw-1785099335.9798157-1.0.1.1-iXynGuG0ouhENiQJ84fVORfuuuQivkVBT8QgAxKS9FcC6q10Nor8NsiCQ865ZKHxdld6HaRc9KqPp1YrkRL6bJRvT0JkpMDK7ZMFyJR8Yb9Ce8FKV56PpMTQt_CAKwHW",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1061,7 +1050,9 @@
             "tvg_name": "Orsomarso Vs Barranquilla Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -2557,6 +2548,26 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
