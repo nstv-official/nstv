@@ -459,10 +459,19 @@
         "id": "x_blooming_vs_the_strongest_luc_0630_ngay_27_07_2026",
         "title": "\u26bd Blooming Vs The Strongest",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=883264dfc8e54c2c2321776eff13c3f2&wsABSTime=1785140511&nstv_cache=1785097386",
         "is_live": true,
         "match_time": "02:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel12/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not)A?Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=965mkyhk00ypr1g&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=77j6u7C8sBTNShO2rRgLnXA6VHWWoyur.6JYrakTPTQ-1785097224.613183-1.0.1.1-QzfDEapKzxPAiC4sRcieix_RLZs7oRWK4Gtp73k0I1W4mFBgLZh7K4SNt_Q3HJd1xUEJRJHPP_DXlK8JxwmXrDOP1Ki4VAznhT5Q9lVlFjBLlSDxtFW8X6ekbPnhDg1Q; _ga=GA1.1.572689908.1785097228; _ga_P60BDCKB3G=GS2.1.s1785097227$o1$g1$t1785097277$j10$l0$h0; __cf_bm=1aBdTlLtmZsKY6D7uaaeQbiUXWjISBnN1mYmmWANCI4-1785097280.3511221-1.0.1.1-NhQYMqQUsdHUju6PmKHRPzAdn21BFSZ7WXLcxIb6QFAe3ZQpvVRh2RqC_CUcD07KDns7m6nKLKEeLFXetRJxXfTA6axliRI7VxsGDNKPziU1XlAbP9qq8.C3z712uE0v; _ga=GA1.1.1642038108.1785097282; _ga_S52WSRDB70=GS2.1.s1785097281$o1$g1$t1785097311$j30$l0$h0; cf_clearance=2jzKhgZEq9scxcPXymjCWBL_OblUIt6ETZuCo0Jw3KI-1785097315-1.2.1.1-nqSYPYk_A44h.2QOfg5OV8U0VlJuPuW0g8vVYQ0wdhJw.Ta1m2mnlzsWsi2xTboPFl.To9zXY8QKKs0ZQr.adjj94zcc5U0QBocnOxmZbjcULvVKvYuL32PLfZg_mCMzAuri7uJw6b_meTWgzUQZqUl6iH14f8ajbDcC9qZCpX3XO297mrqv4FQLpW86rw.AO1Vdvf4ZF89AJEPQC3L6H6Hs7NehAcLsN9bmlpLYBOzJF5VHQEDdVhH0G1Cx2nxpSD.wJZmEDZ3iI.YqsnUkJy0E0FsF2X7H3fMzvTgGclTa7IHrEcr8fVWyp3reiyTwG8y9xTsVPCZmRBIcl6eb.WknHlgh.dW3lGSyXyN7YE8; __cf_bm=O1Dcnqz79YK17tt7MuJZTqVyTNcyuKqiFrUwL5DOluU-1785097353.2877834-1.0.1.1-x2xekd.C62.6Awm.b5Se.faVlt0pywifvZBv4jEdHxu3PgG9uysibSeqoKZqzzmQ6RmPNvkWoeljTkxgNbwhtSuxOuMi58m5s33cGapkcQvjcSbBCc3SNAFOpJfqTDAa",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -473,7 +482,9 @@
             "tvg_name": "Blooming Vs The Strongest",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_inter_willemstad_vs_st_johns_sc_luc_0230_ngay_27_07_2026",
