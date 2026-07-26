@@ -2213,6 +2213,66 @@
         }
     },
     {
+        "id": "x_gais_vs_halmstads_luc_2130_ngay_26_07_2026",
+        "title": "\u26bd Gais Vs Halmstads",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gais-vs-halmstads-luc-2130-ngay-26-07-2026",
+            "tvg_name": "Gais Vs Halmstads",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_malmo_ff_vs_elfsborg_luc_2130_ngay_26_07_2026",
+        "title": "\u26bd Malmo Ff Vs Elfsborg",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.malmo-ff-vs-elfsborg-luc-2130-ngay-26-07-2026",
+            "tvg_name": "Malmo Ff Vs Elfsborg",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_karlsruher_sc_vs_inter_milan_luc_2130_ngay_26_07_2026",
+        "title": "\u26bd Karlsruher Sc Vs Inter Milan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.karlsruher-sc-vs-inter-milan-luc-2130-ngay-26-07-2026",
+            "tvg_name": "Karlsruher Sc Vs Inter Milan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nu_bolivia_vs_nu_ecuador_luc_2200_ngay_26_07_2026",
         "title": "\u26bd Nu Bolivia Vs Nu Ecuador",
         "category": "EVENT LIVE",
@@ -2386,29 +2446,6 @@
         "epg_metadata": {
             "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
             "tvg_name": "Luca Van Assche Vs Alexander Blockx",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xoilac",
-        "title": "\u26bd Xoilac",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilac",
-            "tvg_name": "Xoilac",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -2616,6 +2653,29 @@
         "epg_metadata": {
             "tvg_id": "m.shandong-taishan-vs-henan-fc-luc-1835-ngay-26-07-2026",
             "tvg_name": "Shandong Taishan Vs Henan Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilac",
+        "title": "\u26bd Xoilac",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilac",
+            "tvg_name": "Xoilac",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
