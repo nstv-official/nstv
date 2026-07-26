@@ -236,10 +236,17 @@
         "id": "x_fc_astana_vs_altay_fk_luc_2100_ngay_26_07_2026",
         "title": "\u26bd Fc Astana Vs Altay Fk",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=bac0fa722039d3174266d6a692cff100&wsABSTime=1785121337",
         "is_live": true,
         "match_time": "21:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel3/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not A(Brand\";v=\"24\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=BSeOukpkDG7QdhmE50qf7OLbKQRF4YjE3CxPndqVIis-1785077992.65182-1.0.1.1-uhdcYKFdx7bDZhACU3bNBdGMHmL92zofTo13CIp_Iinuny9MKcj6pnQ_nErdfuqpIKE1D2YrF84ExjZil1XguiFLZ3_czBcdCWKioIl0v.da3_4rsjdYvGf1xty4hk86; _ga=GA1.1.515346890.1785077998; cf_clearance=e9wdF7HKkP3CT8I2UjupPR5LXzSAI9pCW0PCeAT06co-1785078042-1.2.1.1-3_bNi8fIJspGC_DCOdG1DdW13aEXSzBHRSf4DnJSVl9xTs_SqtL0UA.aWSN6n37ncmn80KvQJzsa7_4mV5RvHfemI2oMzDua.jC3nc5LiCAFhyqTdUXdVs0LzIdJfW_FpvpjKFMa9M9W8J7gh8wgN15sEgJ2m7MG_vUsbiSqc4X3dDzIr1Nuyjxk0EDDMhrLQ89WAOAgLTr.VLuDdLz1l0sgSgJUXuLKtuwg5sO9jm6IF0s2C2K1bJmsGUJYSrOEeyXT41SvSWeN7c7bEvIrOoRi1NnOp2ZSt8FNItEYVFmtdQeKncoUBq77vYMEOwtRIjcdoJT.i3sfLK83ry7AP87kT4pYiEWEalKZDoSDg0c; _ga_P60BDCKB3G=GS2.1.s1785077997$o1$g1$t1785078133$j6$l0$h0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
