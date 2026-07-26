@@ -1535,10 +1535,17 @@
         "id": "x_ac_horsens_vs_nordsjaelland_luc_2300_ngay_26_07_2026",
         "title": "\u26bd Ac Horsens Vs Nordsjaelland",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?nstv_cache=1785079742",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel7/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not:A.Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=.EXd32BZuA.J_QcbPTEwNP3ApJTRftKA80jBi35y_cU-1785079636.155643-1.0.1.1-lTsY8DNwa37MyWFy3Em6Rwe.ojgm6O6MBjD18t22kcNLqUq63aZR1us6v77AmYh9VMdpSi6qhfEWU47dRMb9uTYjbHEryOuQPQKtSauzSqP4eJUe5fJvrhnjPeYRSQyu; _ga=GA1.1.1744698550.1785079638; cf_clearance=qi_SsYwbXj1tykoXJ1YXy2GhrsJFcpMTRvzfJ7O05hk-1785079668-1.2.1.1-ZWCgffrkfiXKDqseJZN8iQyfWlf0snzUeV50FVJ_DuB4lAbQRPSk_GuAZtZ9B5ZtUk_qdPTvSjWBXqzRNZaVp_UP6ypIHxZtC.g5MdIeqrQWi_Ne2YI46KhhNFa0jrKlNupzl3tANVl.eN3DYTmSGKKAVXfLvpUqHrX8b0uIJPp6lDCUmzpze3aBTpn72JU_SxyOOQ24PJW32d5Duzn2.ZvCA3dpW6Gw3i0Y8ezA8lME1QI99XvJdraHLCEB48L0VRVKnNYyEImN5SCXgtUdck4NAVBspLdW1maFFCqp6gBM7VvCZrF34jL7saotozj8nkJqkb6ih8FetwhUmD4.ex9X_uZ9CMDuYTlC06A3QiUqsqvDWOHz9SljCuBhEj_by8BEAUs0t7QGw3id6oK0pW9FP4_WMHeC8YYZPRsdhpohj7pcNGlv0cTkS8Kw0q_nIAja.xVKGYchxZtX7S8fShWwd2xxwrcIaZ0cUnWd8vIMOoKQvLunlJ5h12Vb6BbUYzD9WNIZsBpNYlZkrVvGdEKaMvLWwPGJVMTZjaRY1ovKSfMQNu1..5Zn9nxkFzbMRi.auuXvisGjsdesa6bj61Fcr1.tLZkL38KS1rFQ_RITdy_Hya6hCPpZKMklTX8gkW9Cy9LHAGBURylo1HOS8bhXa3DsIpBDeB.hGSJ_w2TAN3Us7CRmTWg5F3l8m4PbnCTWtMd0KETZVgRRlu9asnUk8UvRXm1oWu1cQ_fzUnWWlWbrOvjIDyaak3R3QBOQ48IFTCbIiNJeQ9mPEkDdw36tzHQOAFGMO_vFBcodKQcAl_Lzs_FyIIbtLklBu_7jiMuunUTacpqYfKzU3N0qNkacNbSKHteshnZdDpIDvtqAWIOnm2YnBH_wIXhJPtR8CNTbpYko_mitOFs9AgkrpCKbRUnGZCzhp6Ax59kdbxatNLoN5Qs3Z3MFTjr7.XsSR8WxFnh1nW4NxAiqBWmKow; cf_clearance=WudNgfAwAAOSmJXIJAUXbbVn2W1L9jFXUxNBPLT6u0A-1785079668-1.2.1.1-vVUdbtxK_JHKyP2t1_VNu3uVfSnlRw1PZrLYBaaAsNOGxv.NZkG.kuDtN4PR5voCmuZ24EI_zzUvYRLpf2Ha37_fg8V1w5GnStd.7ytLsLsLI9PBZsujDgidCJVU4oVZNRsvGEY0E68fGXx0tPkTIvyk_DcHfFILhGwL2fwDMFpnmRo2y5D2Pm2h7XvGgfCjYF3uuAANywTUpyYmZsUxf6WRY3k_W8Tel6_WsQcwawXkH04bAuAKiGNZ9WuQs8C5Vhg_WXz3zijnFZKL39eHiFGQCI2xtLPi2xAExha4fguY53WcBG6Wm1X77ejdmpOVdG9dFJmdEGfWrRBy6Hs88aGB.zPFRH9W9W1E9OFVZ9TOnBlIBR_EGNHxUluLc_EPeExftsffVaSvUtK6wma4t8.NqTE3.4PWdtHwJUyuZVNfp67Q7gm0YfZft0Gd4A5.hm2F9beUeAuwU9eexSTgvzb0d52KkNuHUC3MF2t6OOS7UADeWvR146WZp3AjWa89L8w._AbuZCVLx7RPvw45q6pbCVIGkqt_0H2YI9p5ogfiMebBqRrAIQSTqDOPK7YQjH5DqPxK1RDk8OWSScJG_A; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785079638$o1$g1$t1785079673$j25$l0$h0; __cf_bm=yyQP0G3UuPZfcuqmyRTDKjzTIOAVFQHx4iYNPSSdqEI-1785079674.6896532-1.0.1.1-NZp3gL9bxrhmjFr_SlrAKzSejk9Z7.rdzRZOMnAnM1WX_0zZKgJutnD._Dti5I57QTpzPixT437G5qs6gYkypj0MjIAzIYzNnLzPJs.yZKG2fFZHgCaGmGRuWkGk9gjJ; _ga=GA1.1.1494724052.1785079676; _ga_S52WSRDB70=GS2.1.s1785079675$o1$g1$t1785079702$j33$l0$h0; cf_clearance=oQlhfS8KYU9Si0ELhescGwgjf1IWQtMrLfV9f_grrkQ-1785079707-1.2.1.1-qLLFoZUkEyPNuTK3NwR2NuJ7r2229k74M9D9hhq0a3ntMfKPKQ4ZBIwsngGN_PG0KaeMQugQ1GRjNsVBF3vm7YJxUpZczejICsCAfrZcRIAv_F1ky23mrNlYVAJ1LU0VapYXo3cSMOwV2Tg2YVqL29G4Y.dFG0QkfSdKOH6.reiOvwWuiHGv6tc7qIwTKTNiDUTZVeoTydCT6jBGbZJzzu6ORDIAdyBJaslwKSE22ZboxH4yYYXhWYV9KkCCBkYdGES2cfi.tbAOGCSaDgg2cMoyIZkioX5s.S26BiKitawAMBhjDTnpStkx_4umlQd8giZdxtZX2slm6EJ6j7OhE9KQdw8Z3z0o8YLzNii6vuk"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1549,7 +1556,9 @@
             "tvg_name": "Ac Horsens Vs Nordsjaelland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
