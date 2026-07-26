@@ -676,10 +676,19 @@
         "id": "x_metropolitan_fa_vs_n_leeward_predators_luc_0300_ngay_27_07_2026",
         "title": "\u26bd Metropolitan Fa Vs N Leeward Predators",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=961ae2e5e668ae500c07227f3c2bbfe3&wsABSTime=1785141077&nstv_cache=1785097921",
         "is_live": true,
         "match_time": "03:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not;A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=xO3cAxCurhT9DvQ_MTOTQ_mLAamJKd7uQ97yroxyuU0-1785097777.319524-1.0.1.1-.FKnaMeNy9nQLrc9G4s95pdjTGxCEtF1JTvMhuhESMAmLvTyZvAFbBmwClifyFIQq7cuOWd6E2bJOIuUFGE0_Mrra_WrSbBx68RC9sDCwWiZeDgBfNbNA.1hlbqe6rae; _ga=GA1.1.1243143634.1785097784; _ga_P60BDCKB3G=GS2.1.s1785097784$o1$g1$t1785097834$j10$l0$h0; __cf_bm=FsGbC0qBVKcCneg1fo4.4F8yhEhKSaqEkf5txk105lM-1785097840.1328685-1.0.1.1-AwStDdgwRZZ2LW2MOQxZN85PPSxxQvWysKdGvDEcKYDcBG.ZGchX_U2Hzv_6Zktvyxlu6cypd9ADgbzeg2RbzMtDMWuy2Nkd3wwVHE_0XwfCkWf7e9OdT3v2HvZgc0Zb; _ga=GA1.1.988891515.1785097842; _ga_S52WSRDB70=GS2.1.s1785097842$o1$g1$t1785097876$j26$l0$h0; cf_clearance=gs2ixpk_mLQ_gJKCE74WBnzw23WzlWO3Hay1qYKKUuQ-1785097883-1.2.1.1-xHX49AQGP1ivoaXQMs_c9.oa.UOIaZK9NGVEpfdt0weKW0nsoT9pMTDhYCEvcJfxnA4bKQPjObgXFZRPf0hOElwc.sOrjaSU2g_d_.pFJUe5V.nW6ygoYf6vuRGMtWQnO3_J7BHCrhEcHBFzHbEJLHgeprsbf4pSjOsXtm_P7HDdYQag41KaF1gwx2S5_uH2FcK9e9eOM2.g_tadvAOSw2kmr13zVr2vNCIPBahDpBO2FcLH3MFStmTGlN7lZl5WdmUppPfFwL4PEaKFL0pZQPxJJKFHJGQC1g5g13vE_XxwdufAp3ZupZCi19J544wUJIpvruySdgjX56BWWNHZtHTgfjFgR41MBJmRaRLqKYg; __cf_bm=QAaymDMWeSRt.xkyL2CPv0UdnKIqfml0WTY5S__FdvY-1785097909.9377117-1.0.1.1-VSkwcKVuGtI8E7_fhV_seAGOEiLbWdph7gePvKrPRaSlRzOoHn6sdIo.KLoctvsz0WRKHi5Tg6mp090GOTjJLhAHoiugVbdOJGgngVCvjtTOI7x1u7m41m2PYJ7rRXH8",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -690,7 +699,9 @@
             "tvg_name": "Metropolitan Fa Vs N Leeward Predators",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_team_liquid_alienware_vs_cloud9_luc_0300_ngay_27_07_2026",
