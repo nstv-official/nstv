@@ -1,222 +1,5 @@
 [
     {
-        "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
-        "title": "\u26bd Nu Venezuela Vs Nu Peru",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6eddc502432f1e1c78616d43fcf11959&wsABSTime=1785129751&nstv_cache=1785086590",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=23xmvzh2n1j9qg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086550$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-venezuela-vs-nu-peru-luc-0030-ngay-27-07-2026",
-            "tvg_name": "Nu Venezuela Vs Nu Peru",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_wei_sijia_vs_wong_hong_yi_cody_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Wei Sijia Vs Wong Hong Yi Cody",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel54.flv?wsSecret=c3fd17c8dac49b0879d7c01a2e2318a0&wsABSTime=1785129492&nstv_cache=1785086329",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel54/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086290$j56$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.wei-sijia-vs-wong-hong-yi-cody-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Wei Sijia Vs Wong Hong Yi Cody",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_portland_timbers_r_vs_real_monarchs_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Portland Timbers R Vs Real Monarchs",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?nstv_cache=1785087450",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel23/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=n54qllhn0kk0qvy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=BfkPWBWMWWVCpnVNOrkvef2mjT_fPjuDZYiKjPmygoo-1785086871-1.2.1.1-toNS5m3N2h3IMy2yhnwLkOMteZEC1uIDzMQ2XQ2YHWzxzhXjA3mnQqeGuBFh_CgbuofhZDqQeA9H1sqykXSnKIPFj7ndSNtvtW7AAs9yEbuK0g7pd5it1xHBJLSaSNZtM8XElMhS1j7l6DeUTj0EVpk4xGU0Wj3YRou3asvmL8Do778v6i7.UfJ4u3VV7G_DlFn5XdS2y6TRVIPBJlLQQh6mz9umAKfBhbRnqZOQ98KMQfz92xECvasrBFh76vsNPxKWbFJcgUOBHTTmSecic89sjChbROK95kE8vZVsePneujC4fmVSZNHPz0.eP7DpcsUIoYRCgc9BoIgTaIdy.6cJ0KCFHcaNfak0OjOS8Fk; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087411$j10$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.portland-timbers-r-vs-real-monarchs-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Portland Timbers R Vs Real Monarchs",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_morocco_vs_nu_kenya_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Nu Morocco Vs Nu Kenya",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=409159e9f4ccdd989b342f375e7fbd6e&wsABSTime=1785136054&nstv_cache=1785092891",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel5/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not)A_Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dj2ryohl6o00q1z&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=h9cSLQi4fEqD64bUVoWYjIwUKZGzZXrTD4ctQRBsois-1785092669.9410217-1.0.1.1-6.rJy4zE_gwfI8HM6WUPa3Z6YQXv0T0ORowiwgZp43F2iDndntqd_3ZYzAKuBMhheakEGAxCBaxAxPxzbmnHljidmHG_ufJm342wBYOQ1_xmLITSZT6Po9u1fTBHFGYZ; _ga=GA1.1.1356915423.1785092672; cf_clearance=FeJnHNMv7UXdESyazWW7GtJ6HfA31ULqrLZYq_ntc0w-1785092700-1.2.1.1-LHLTlDjl4upHln56ZNB_0J9hfnnGV3iYxQYVg6RVMPSgy3rZw13yvabx0ugMHQdPTO5r3ks52K_tVr0mwGzarwPEtB7v2d9Bl52X0XWDfQ8Zhi3oL0Rx3OuWpOAwLdlsGBuHRuIHUZw4wyjztXhUDUX7DBqdvTxC9j2zAVc5zry_3ptW8EbjxnZrD24pUz_5UyImj_cU6X11A9_BIOSGeVjPc5j2BqqNY3OaTkIv_jPBYiAZp0qoIgWKOwl1Rt0RZgf5.9AvuZXhCfahE3.ivwgywET6dQ4cd72LCrIL6tMy3woSYQrJVRDnuZC4pRy4w8Keiw2wvhThjpoFuRuHbpyLC5v3krowPbjdQPFbBumhKyxfxO.oehxtINRkaeJZqn3h9K4HMN0M7YGMXtay_M632H2R.nqW7147dRGFRkWM6sFi1H6wCyPBSqd5iLrOLw_c3VqI6nyH9EtCYyeBG.x24NAHUvgmG1Q_z7IjJ47zCGGttN80QIJwvux_uxx5z_.G0QGXUDzXLapyk6qrLUAlDOwHt0a7Qk4Z4piCoybrIB1YYN2rFqUYhgKJ2N_OWhQJD_hWsfp82rq.vrvkVG3Cp01HTqSntIrApbwOm.NubOGl7u0pQZdwowpbiucaJZDtRVX8fqwpmeR1dzDIof4WEtWEmT7WWDReSwvUTzUnLT19dhG4Y.U_V8ktDf71ENeJF2EHaiK5pNDrChkDu5oalh1G0WsprAwYVfxWdcXwpjxkG7LzOPBo03xfzDjd9paW3MThYv.tqmlDuhk4PtZ2fIPfLLuYPA4pyvbFs_5A6rL75lLSl8zQTLGqXhwvyDW4EkDnOizgEXXlK4eBEDv8D7XZ3WYBt71DVwYPv92DtTphPqU2zVhJg2pyhgoo_9efaheZIekL14ULBEwXYhWofvkl.tL.cX7iQoInZJb3rCvxDhbc1CIqSzid9aHjcc4pfErjgAZAUdMvT28hJQ; cf_clearance=LxcyqF_Ro6fjQ37zLzyU3Xw3mbO5cVRdLXhXbDahnVA-1785092701-1.2.1.1-9aXUG98lH4XLSeLF0lw.D7bFhypJBmEOa7NLWQpcRqlQInxzGkcDl5qhXmItPk3uvxUAT1jYT6jKjOUTwWZgQ.87xud8CtDVecpzDa1WD_TYFREiTY0xVh27Hjc10jbos125KkrCh5W1QvoB99aGKQ8WtBkvWvIee3qTy1U2uv2CuRZWORA_d.thaTWLjXbvcnGhPno867sq9JDGeJaLVjqoyXfLtB5uHmwfsqpa.vdsjLQR1tJH_aKsscPqvWDZn1GO5f9pwEMLAkl1V.37MQ3Q6y9uHhl2lwPsUwPbJDa1VaKgPH6WLQy3BzZVt_KXeXT7ljAqL6BzHm4RyB7KrSJ9KS6_vJMVHBhG6gIqHfjX._sX72pFwUDCVdUrhuBYDGcoupIPfoY2JLltShhHFUhG.6PDSZtZodSvKbdLaCR0ShcTscFWfS2E6sK8AWI.qWNPbMdRZmjgqbR4QeG9RTpkhUFscjH7I4hyfSH6h2a_CQUBhursUjUuhExafU1kczQki3kTcF_VPG.oHW48tBR_.YzA6U1C.YNqgkwgSRmqguVHjAntuxuH2JQnAOAwY7VkSIp1FSmS3njz991cDQ; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785092672$o1$g1$t1785092722$j10$l0$h0; __cf_bm=RY1jBprSc0ueucivMngqHNeagaZ8RwBRKU30TRO0j2w-1785092723.5063736-1.0.1.1-m5D3QIap_qvp.AmxrWDZupIMFG7PsbPtosil6IAqejkBBCn8z0AIdvc_gPyKiAuMmtGLnW8NhbzPXuGtN4z50VFzUqPoSBz6w8UWpqIxFMPcHEY.LX4BngqGLIjRxRmk; _ga=GA1.1.934718110.1785092724; cf_clearance=O94We5xXuaLuO8HUYGRIy6ym8yvDUHH7ng_cqxYwmA8-1785092763-1.2.1.1-QqGXP6mLd39TvujZKP4fwTHl4pZVna.JNeq.Oa9Ag4Xt29oLGsv7QWAHrFSLMuzfkm4ZwJSN9HwvoCMTaBwCki8LncFB8MaUpD6UH0xgHd3IP11bIYWaMZ.O4.vYxE1Ei1VQ2tT2yFogBPcI_1BL8iU7dO1PDU1edXynOt5YhYh.60GY8_A_72b1PHtxi7c2eMqAIqCoV2DURlEjyJcXyb1mw4evx7ZQRfJsCkX_iVdhnPxpe9XdBQR5xJGrAeeGlQQP6UK8PNZu6X9KmP3Xih8KyEleV9sCJTXvqy20o8dhFoI0YncTGpDCzxkHTOFPz9yjAajrrPJ9OwzFco2ljSXdIDfNG4xdi.AGHZAgrlc; __cf_bm=W5ijp.FPhbRV0ZYYfP4mMAACw2Ad6hjq4nqwQOBVRc0-1785092779.9612134-1.0.1.1-w3ly6Gmlq96DvBoKgQEPmpiBw2iLqxo_MPUb0_1kRJvIvgsI730Md37AhXziHFGXC7S2oWq8Ks4n1W9mgKUM8owsNrWmKnxPKw_uAGAAhslZ9LRhtSwQC3bpEMrzQPZx; _ga_S52WSRDB70=GS2.1.s1785092724$o1$g1$t1785092853$j10$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-morocco-vs-nu-kenya-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Nu Morocco Vs Nu Kenya",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_panama_u20_vs_canada_u20_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Panama U Vs Canada U",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel6.flv?wsSecret=8cf83754bbd1b17e8629cfb6eea22241&wsABSTime=1785136238&nstv_cache=1785093079",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel6/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=965mkyhkdpd3r1g&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=YYUs6quppbEAkVLiFY4qoZw1Ec.P.wdCy1WgdiT6ckY-1785092960.60157-1.0.1.1-R7H23SdcK95l.wSWr3DacZbVde5xG7BPRyuQxM9bRu30HdCP7Hwu9W4sffhP9B7R4pnZYoJfrFqZWU5E9E3a3WD3N5zw9FSbIQIfMewQk66vKPpCEmuHPtr_cug5sqoa; _ga=GA1.1.848601116.1785092963; _ga_P60BDCKB3G=GS2.1.s1785092963$o1$g1$t1785093000$j23$l0$h0; __cf_bm=PLOe_a.heAONzwotmR4H9pOAC253aZVZDZ5uLk4UUTE-1785093001.2939034-1.0.1.1-hrRUTe6mXogldOUVZWShmV6OKki7D0W.Cwol6TUUKtXHmx0QX45xop6qWIOBDnvWxS.9sV29jFxPQGn6FD_omSvhjlCAbHSKAHpHCn5khgiV9dO0MsKWYhJCRF.xn2P9; _ga=GA1.1.5616248.1785093002; _ga_S52WSRDB70=GS2.1.s1785093002$o1$g1$t1785093038$j24$l0$h0; cf_clearance=tpDoTSsa5CBy1Kbcj8QrpZnG5FOVPUlScQ4EOKaWBDg-1785093040-1.2.1.1-lb5hmn_qcaVNNR3DNgOY1HPDejSjcOTjxtxvSpA5MCK33RPWGCDTIy.5fK9FnvFUDNNlcYmub6KlOvC0flAqbY3SGquOcUUk7IYsDkmRuPUpbQJB8P4V7sDgK3w2sWWavXKvloDXeXPcHLnmQT8FbeyNM3ZqRcIihigtB9l08xn7U9UAIyqDap0StfnLI1fedO6H6f91qLmsRGRy68E_jLwTRuL67Pzj4J0GE7nKkU4tHN6R2m9.v1SrlGYJ7BH0UKUJxbtJfmHdgaexbkvCXdWEuJ4UK9T0J2HImDUesusYaQIFsWtPCoLs2yEwEXLZ4kW5ZWrmMCx6Nznzlez6ljEtrZ_7ZM3DsZLHKWzokh4",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.panama-u20-vs-canada-u20-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Panama U Vs Canada U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_metropolitan_fa_vs_n_leeward_predators_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Metropolitan Fa Vs N Leeward Predators",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=961ae2e5e668ae500c07227f3c2bbfe3&wsABSTime=1785141077&nstv_cache=1785097921",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not;A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
-            "Cookie": "__cf_bm=xO3cAxCurhT9DvQ_MTOTQ_mLAamJKd7uQ97yroxyuU0-1785097777.319524-1.0.1.1-.FKnaMeNy9nQLrc9G4s95pdjTGxCEtF1JTvMhuhESMAmLvTyZvAFbBmwClifyFIQq7cuOWd6E2bJOIuUFGE0_Mrra_WrSbBx68RC9sDCwWiZeDgBfNbNA.1hlbqe6rae; _ga=GA1.1.1243143634.1785097784; _ga_P60BDCKB3G=GS2.1.s1785097784$o1$g1$t1785097834$j10$l0$h0; __cf_bm=FsGbC0qBVKcCneg1fo4.4F8yhEhKSaqEkf5txk105lM-1785097840.1328685-1.0.1.1-AwStDdgwRZZ2LW2MOQxZN85PPSxxQvWysKdGvDEcKYDcBG.ZGchX_U2Hzv_6Zktvyxlu6cypd9ADgbzeg2RbzMtDMWuy2Nkd3wwVHE_0XwfCkWf7e9OdT3v2HvZgc0Zb; _ga=GA1.1.988891515.1785097842; _ga_S52WSRDB70=GS2.1.s1785097842$o1$g1$t1785097876$j26$l0$h0; cf_clearance=gs2ixpk_mLQ_gJKCE74WBnzw23WzlWO3Hay1qYKKUuQ-1785097883-1.2.1.1-xHX49AQGP1ivoaXQMs_c9.oa.UOIaZK9NGVEpfdt0weKW0nsoT9pMTDhYCEvcJfxnA4bKQPjObgXFZRPf0hOElwc.sOrjaSU2g_d_.pFJUe5V.nW6ygoYf6vuRGMtWQnO3_J7BHCrhEcHBFzHbEJLHgeprsbf4pSjOsXtm_P7HDdYQag41KaF1gwx2S5_uH2FcK9e9eOM2.g_tadvAOSw2kmr13zVr2vNCIPBahDpBO2FcLH3MFStmTGlN7lZl5WdmUppPfFwL4PEaKFL0pZQPxJJKFHJGQC1g5g13vE_XxwdufAp3ZupZCi19J544wUJIpvruySdgjX56BWWNHZtHTgfjFgR41MBJmRaRLqKYg; __cf_bm=QAaymDMWeSRt.xkyL2CPv0UdnKIqfml0WTY5S__FdvY-1785097909.9377117-1.0.1.1-VSkwcKVuGtI8E7_fhV_seAGOEiLbWdph7gePvKrPRaSlRzOoHn6sdIo.KLoctvsz0WRKHi5Tg6mp090GOTjJLhAHoiugVbdOJGgngVCvjtTOI7x1u7m41m2PYJ7rRXH8",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.metropolitan-fa-vs-n-leeward-predators-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Metropolitan Fa Vs N Leeward Predators",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_deportivo_pasto_vs_nu_once_caldas_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Nu Deportivo Pasto Vs Nu Once Caldas",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel4.flv?wsSecret=f66427d3fefa62bb6dccb56788649844&wsABSTime=1785141500&nstv_cache=1785098370",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not;A=Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y0or5jh8p00yqwz&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=6r0BxprENYqz74PtIlxq7ZkMMG.G5wMMgwP4h5.9LwI-1785098204.3077264-1.0.1.1-ogO45Oes6oP.AHSgX422pTUuZOsN251JALMK9X2eochQaEAwlc2KwGuqAiHbcmckNPpmvDgT8C5Kod3E1tX8whuORyO83Wc1.j.lqXROKQZCGDtJbKKTtJG5HnkA3adP; _ga=GA1.1.557072854.1785098212; _ga_P60BDCKB3G=GS2.1.s1785098212$o1$g1$t1785098262$j10$l0$h0; __cf_bm=N_XB22JAeZ1NXnMDKaxBol_oboMSGf0.9a.jR1NXMSA-1785098267.023251-1.0.1.1-C1F.xU5TkZwv45NTEQzafuhmyXObk2W3RpZFMTV7kTqj57sFypIUa5EeUqkGELRnZVXGGXyHIW4VvRqGR8Iq3c81we4t8J29edZ4kLVCVhdh0WRkWshuKPGsJTzQFNQv; _ga=GA1.1.352275598.1785098270; _ga_S52WSRDB70=GS2.1.s1785098269$o1$g1$t1785098300$j29$l0$h0; cf_clearance=eFOsavs98BcTErLQFH6_t5DlJBA2q0C4bGIMM_OVnGU-1785098309-1.2.1.1-GhST3UFva_H6sBJRmfbmSzPfFxvHnDLJlqDBZ5d1YJoYF2qCNgVQO.z9gRUgFmlJvvIR7p7FMEszBCLg4Hv76lFqrktXDAfa5P4A279RHDvZZECEyCdjaEtXmW2yxWJXJuV970tMnSYrwtK5gyrsHt8q42k5LmcCVbp1EelEBcGqG12btjXgTSa8KNzqL.htZkOKNbe1HtX2ux4i_wx2zKBQpmFoggw9kEa_5qHWvPi56vHJynVjDTkSo9WJ59hzTwKUC42XnxGnZxrrP.sMD7PJq01xVWV5tPxknWIzP5IyCt_YifVtsh_49Y.aCof7JITTnkaPjd3pbu9zd47rlQgCSGPSAhoVs_YEGVbyTRI; __cf_bm=H7dhL48.psjtYpSwlI8rWAGcXmgA6mC_25g98AvFhFo-1785098349.9576335-1.0.1.1-0NtI8Hd_D57pgrVgwnjGyHoPO7iz9GKfIdgHegcdn333o7HLAwcXwUdBhLorFG5_9BiWbaFbwVvnaXyJLTkUFAWnjkmjyDii9ZG_t6woYmjigoBBogAhgPXCRtYOefKH",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-deportivo-pasto-vs-nu-once-caldas-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Nu Deportivo Pasto Vs Nu Once Caldas",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_team_liquid_alienware_vs_cloud9_luc_0300_ngay_27_07_2026",
         "title": "\u26bd Team Liquid Alienware Vs Cloud",
         "category": "EVENT LIVE",
@@ -993,26 +776,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -1699,10 +1462,19 @@
         "id": "x_honduras_u20_vs_jamaica_u20_luc_0800_ngay_27_07_2026",
         "title": "\u26bd Honduras U Vs Jamaica U",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel9.flv?wsSecret=5a4c072922a7d142e0d554ee90316740&wsABSTime=1785145506&nstv_cache=1785102363",
         "is_live": true,
         "match_time": "08:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel9/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A:Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h6g7gymoj&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=vS94GXBeR.Rt8nuN4_ZBztNbFP4xFkB2ZFDViaOeGUs-1785102207.716108-1.0.1.1-XBnMawptOIJZUDNITw6EqfzpiofojVDqHod4M939to1LKfuO4e7UBjttjRkPllMNdfABwyhwi3PKPPHmKQ.dRcmyxQuOK9HIoZdUQtt4y1JSel137e1DUE9konXuslwc; _ga=GA1.1.1108085545.1785102218; _ga_P60BDCKB3G=GS2.1.s1785102218$o1$g1$t1785102260$j18$l0$h0; __cf_bm=3i1YIgsr68RhHKsrheOOSYHg9VvKhntCMmvtKaKxwng-1785102264.0789962-1.0.1.1-MqKbotWpnwSoCLbQ0lHAWVo2P6lcPmFprK8DS5_ZrXtwoLCinKM2ovAuXCaM51PNr8VO_6JDMwCuWplL8j4sEnHzb7GbMfBBSCyms3zGKqRnjISdO8r.zOhbIxgYCKUc; _ga=GA1.1.1760666594.1785102265; _ga_S52WSRDB70=GS2.1.s1785102265$o1$g1$t1785102305$j20$l0$h0; cf_clearance=0kV2cnnBA3oQ3UQy4_TXBcJ3TPqfqfrxm9f2eZE5vf4-1785102310-1.2.1.1-KAKDSfdtVvzo4Yh6RE94LuFUwFznMeX1Q.qFadBiHvD6c17Z8Wb66MhxbPqruJ441VHe1JEOpVrt6bFiDndU5DKtKKi3F5qdVal.ugv6qhp722nLsB.0tRyDwlNLXUootOXLJhtyKSz0JlYQ9dr1oNki9o5NOMoLK345a83eOvy3O1j8Y9fjiPADDf1.B0Y5ZtLyBY3rvi_a0eORBpvnM9V5AkwUg2gKUL5yM8FxyRheJWMIcrhzVyG8DHK3m0fjk7nG25VJzTAdorHrNAVYrczmCPYyiuKFiQuhmcdBs2JalyNQ8en.7XEBUFLAbLdf66Gu7QxZnyQd4PvGrRaeVyHokG4qnNBXz3WQiNdc4a8",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1713,7 +1485,9 @@
             "tvg_name": "Honduras U Vs Jamaica U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
@@ -2825,6 +2599,26 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
