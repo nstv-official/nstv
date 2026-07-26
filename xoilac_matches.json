@@ -115,6 +115,75 @@
         }
     },
     {
+        "id": "x_AfcAjaxVsBurnley_19:00",
+        "title": "\u26bd Afc Ajax Vs Burnley",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.afc-ajax-vs-burnley-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Afc Ajax Vs Burnley",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_YoungBoysVsFcSion_19:00",
+        "title": "\u26bd Young Boys Vs Fc Sion",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.young-boys-vs-fc-sion-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Young Boys Vs Fc Sion",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_IlvesTampereVsLahti_19:00",
+        "title": "\u26bd Ilves Tampere Vs Lahti",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ilves-tampere-vs-lahti-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Ilves Tampere Vs Lahti",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x__00:00",
         "title": "\u26bd ",
         "category": "EVENT LIVE",
@@ -2479,53 +2548,6 @@
         "epg_metadata": {
             "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
             "tvg_name": "Luca Van Assche Vs Alexander Blockx",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "ls_NewYorkRedBullsVsCharlotteFc_05:30",
-        "title": "\u26bd New York Red Bulls Vs Charlotte Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "05:30",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2908658-new-york-red-bulls-vs-charlotte-fc",
-            "tvg_name": "New York Red Bulls Vs Charlotte Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_NyRedBullsVsCharlotteFc_05:30",
-        "title": "\u26bd Ny Red Bulls Vs Charlotte Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "05:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ny-red-bulls-vs-charlotte-fc-luc-0530-ngay-26-07-2026",
-            "tvg_name": "Ny Red Bulls Vs Charlotte Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -6288,6 +6310,29 @@
         "epg_metadata": {
             "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
             "tvg_name": "Luca Van Assche Vs Alexander Blockx",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MontrealImpactVsInterMiami_LIVE",
+        "title": "\u26bd Montreal Impact Vs Inter Miami",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.montreal-impact-vs-inter-miami-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Montreal Impact Vs Inter Miami",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
