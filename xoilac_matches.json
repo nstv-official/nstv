@@ -2666,26 +2666,6 @@
         }
     },
     {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "LIVE",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
         "title": "\u26bd San Van Dong To Chuc World Cup  Thong Tin Chinh Thuc Va Chi Tiet",
         "category": "EVENT LIVE",
@@ -2928,6 +2908,26 @@
         "epg_metadata": {
             "tvg_id": "m.top-nha-cai",
             "tvg_name": "Top Nha Cai",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
