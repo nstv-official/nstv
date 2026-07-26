@@ -993,6 +993,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -2646,12 +2666,12 @@
         }
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
         "category": "EVENT LIVE",
         "uri": "",
-        "is_live": false,
-        "match_time": "05:00",
+        "is_live": true,
+        "match_time": "LIVE",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -2659,8 +2679,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -2908,26 +2928,6 @@
         "epg_metadata": {
             "tvg_id": "m.top-nha-cai",
             "tvg_name": "Top Nha Cai",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
