@@ -1,11 +1,11 @@
 [
     {
-        "id": "x_kuzey_kerem_bayrak_vs_mert_naci_turker_luc_1445_ngay_26_07_2026",
-        "title": "\u26bd Kuzey Kerem Bayrak Vs Mert Naci Turker",
+        "id": "x_direborn_vs_nexa_luc_1500_ngay_26_07_2026",
+        "title": "\u26bd Direborn Vs Nexa",
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": true,
-        "match_time": "14:45",
+        "match_time": "15:11",
         "headers": {
             "Referer": "https://xoilaczzggz.tv/",
             "Origin": "https://xoilaczzggz.tv"
@@ -16,215 +16,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.kuzey-kerem-bayrak-vs-mert-naci-turker-luc-1445-ngay-26-07-2026",
-            "tvg_name": "Kuzey Kerem Bayrak Vs Mert Naci Turker",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_chen_yufei_vs_akane_yamaguchi_luc_1340_ngay_26_07_2026",
-        "title": "\u26bd Chen Yufei Vs Akane Yamaguchi",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.chen-yufei-vs-akane-yamaguchi-luc-1340-ngay-26-07-2026",
-            "tvg_name": "Chen Yufei Vs Akane Yamaguchi",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.binan-tatak-gel-vs-valenzuela-classic-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Binan Tatak Gel Vs Valenzuela Classic",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_entropy_vs_enjoy_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Entropy Vs Enjoy",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.entropy-vs-enjoy-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Entropy Vs Enjoy",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xiamen_feilu_vs_langfang_city_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Xiamen Feilu Vs Langfang City",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/1ee2ab33-a902-4c36-99c9-ab5a1ef218c8",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xiamen-feilu-vs-langfang-city-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Xiamen Feilu Vs Langfang City",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_maxime_janvier_vs_lorenzo_angelini_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Maxime Janvier Vs Lorenzo Angelini",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.maxime-janvier-vs-lorenzo-angelini-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Maxime Janvier Vs Lorenzo Angelini",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xian_ronghai_fc_vs_haimen_codion_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Xian Ronghai Fc Vs Haimen Codion",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/25d93ad7-7a7f-43ee-af8e-342152e57037",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xian-ronghai-fc-vs-haimen-codion-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Xian Ronghai Fc Vs Haimen Codion",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_levante_vs_al_qadsiah_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Levante Vs Al Qadsiah",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/2ed1afcd-0b0b-410e-83fc-346e76d457ad",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.levante-vs-al-qadsiah-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Levante Vs Al Qadsiah",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_tokyo_23_vs_shibuya_city_fc_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Tokyo  Vs Shibuya City Fc",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/d1155310-a5f0-4cc0-98f9-a3a0b4c6dfaf",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tokyo-23-vs-shibuya-city-fc-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Tokyo  Vs Shibuya City Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_guangxi_liquan_tianlong_vs_beihai_hepu_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Guangxi Liquan Tianlong Vs Beihai Hepu",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/4977795a-2d50-4128-b5a9-3a4fd44a541a",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.guangxi-liquan-tianlong-vs-beihai-hepu-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Guangxi Liquan Tianlong Vs Beihai Hepu",
+            "tvg_id": "m.direborn-vs-nexa-luc-1500-ngay-26-07-2026",
+            "tvg_name": "Direborn Vs Nexa",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -248,29 +41,6 @@
         "epg_metadata": {
             "tvg_id": "m.sk-slavia-praha-b-vs-fotbal-pribram-luc-1515-ngay-26-07-2026",
             "tvg_name": "Sk Slavia Praha B Vs Fotbal Pribram",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_direborn_vs_nexa_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Direborn Vs Nexa",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:17",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.direborn-vs-nexa-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Direborn Vs Nexa",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -529,29 +299,6 @@
         }
     },
     {
-        "id": "x_chou_tien_chen_vs_toma_junior_popov_luc_1430_ngay_26_07_2026",
-        "title": "\u26bd Chou Tien Chen Vs Toma Junior Popov",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:50",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.chou-tien-chen-vs-toma-junior-popov-luc-1430-ngay-26-07-2026",
-            "tvg_name": "Chou Tien Chen Vs Toma Junior Popov",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_nu_hefei_culture_vs_nu_wuhan_sheng_luc_1600_ngay_26_07_2026",
         "title": "\u26bd Nu Hefei Culture Vs Nu Wuhan Sheng",
         "category": "EVENT LIVE",
@@ -616,29 +363,6 @@
         "epg_metadata": {
             "tvg_id": "m.harriet-dart-maia-lumsden-vs-lucie-havlickova-laura-samson-luc-1600-ngay-26-07-2026",
             "tvg_name": "Harriet Dart Maia Lumsden Vs Lucie Havlickova Laura Samson",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_thundertalk_gaming_vs_edward_gaming_luc_1600_ngay_26_07_2026",
-        "title": "\u26bd Thundertalk Gaming Vs Edward Gaming",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "16:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.thundertalk-gaming-vs-edward-gaming-luc-1600-ngay-26-07-2026",
-            "tvg_name": "Thundertalk Gaming Vs Edward Gaming",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -767,6 +491,49 @@
         }
     },
     {
+        "id": "x_chou_tien_chen_vs_toma_junior_popov_luc_1430_ngay_26_07_2026",
+        "title": "\u26bd Chou Tien Chen Vs Toma Junior Popov",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:10",
+        "headers": {
+            "Referer": "https://xoilaczzggz.tv/",
+            "Origin": "https://xoilaczzggz.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chou-tien-chen-vs-toma-junior-popov-luc-1430-ngay-26-07-2026",
+            "tvg_name": "Chou Tien Chen Vs Toma Junior Popov",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_detonation_focusme_vs_gam_esports_luc_1600_ngay_26_07_2026",
+        "title": "\u26bd Detonation Focusme Vs Gam Esports",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.detonation-focusme-vs-gam-esports-luc-1600-ngay-26-07-2026",
+            "tvg_name": "Detonation Focusme Vs Gam Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nlex_road_warriors_vs_san_miguel_beermen_luc_1615_ngay_26_07_2026",
         "title": "\u26bd Nlex Road Warriors Vs San Miguel Beermen",
         "category": "EVENT LIVE",
@@ -795,7 +562,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": true,
-        "match_time": "16:30",
+        "match_time": "17:00",
         "headers": {
             "Referer": "https://xoilaczzggz.tv/",
             "Origin": "https://xoilaczzggz.tv"
@@ -891,6 +658,46 @@
         "epg_metadata": {
             "tvg_id": "m.yanbian-longding-vs-meizhou-hakka-luc-1700-ngay-26-07-2026",
             "tvg_name": "Yanbian Longding Vs Meizhou Hakka",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tsirang_fc_vs_transport_united_fc_luc_1700_ngay_26_07_2026",
+        "title": "\u26bd Tsirang Fc Vs Transport United Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tsirang-fc-vs-transport-united-fc-luc-1700-ngay-26-07-2026",
+            "tvg_name": "Tsirang Fc Vs Transport United Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bumprom_gomel_vs_fc_molodechno_luc_1700_ngay_26_07_2026",
+        "title": "\u26bd Bumprom Gomel Vs Fc Molodechno",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bumprom-gomel-vs-fc-molodechno-luc-1700-ngay-26-07-2026",
+            "tvg_name": "Bumprom Gomel Vs Fc Molodechno",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -2502,52 +2309,6 @@
         }
     },
     {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "LIVE",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_XiamenFeiluVsLangfangCity_15:00",
-        "title": "\u26bd Xiamen Feilu Vs Langfang City",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xiamen-feilu-vs-langfang-city-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Xiamen Feilu Vs Langfang City",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_IncheonUnitedVsBucheon_17:30",
         "title": "\u26bd Incheon United Vs Bucheon",
         "category": "EVENT LIVE",
@@ -2727,6 +2488,29 @@
         "epg_metadata": {
             "tvg_id": "m.shandong-taishan-vs-henan-fc-luc-1835-ngay-26-07-2026",
             "tvg_name": "Shandong Taishan Vs Henan Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {
+            "Referer": "https://xoilaczzggz.tv/",
+            "Origin": "https://xoilaczzggz.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
