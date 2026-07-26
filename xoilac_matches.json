@@ -1696,6 +1696,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_honduras_u20_vs_jamaica_u20_luc_0800_ngay_27_07_2026",
+        "title": "\u26bd Honduras U Vs Jamaica U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "08:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.honduras-u20-vs-jamaica-u20-luc-0800-ngay-27-07-2026",
+            "tvg_name": "Honduras U Vs Jamaica U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
         "title": "\u26bd Pachuca Vs Queretaro Fc",
         "category": "EVENT LIVE",
@@ -2035,6 +2055,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_melbourne_victory_r_vs_north_sunshine_eagles_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Melbourne Victory R Vs North Sunshine Eagles",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.melbourne-victory-r-vs-north-sunshine-eagles-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Melbourne Victory R Vs North Sunshine Eagles",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_zamboanga_master_sardines_vs_paranaque_patriots_luc_1700_ngay_28_07_2026",
