@@ -2471,6 +2471,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_tukums_2000_vs_rigas_fs_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Tukums  Vs Rigas Fs",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tukums-2000-vs-rigas-fs-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Tukums  Vs Rigas Fs",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fk_andijon_vs_buxoro_fk_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Fk Andijon Vs Buxoro Fk",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-andijon-vs-buxoro-fk-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Fk Andijon Vs Buxoro Fk",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_widzew_lodz_vs_motor_lublin_luc_2230_ngay_26_07_2026",
         "title": "\ud83c\udfce\ufe0f Widzew Lodz Vs Motor Lublin",
         "category": "EVENT LIVE",
@@ -2556,6 +2596,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_cfr_cluj_vs_fc_voluntari_luc_2230_ngay_27_07_2026",
+        "title": "\u26bd Cfr Cluj Vs Fc Voluntari",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cfr-cluj-vs-fc-voluntari-luc-2230-ngay-27-07-2026",
+            "tvg_name": "Cfr Cluj Vs Fc Voluntari",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_transinvest_vs_dziugas_telsiai_luc_2245_ngay_26_07_2026",
         "title": "\u26bd Transinvest Vs Dziugas Telsiai",
         "category": "EVENT LIVE",
@@ -2583,6 +2643,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_hegelmann_vs_fk_zalgiris_vilnius_luc_2245_ngay_27_07_2026",
+        "title": "\u26bd Hegelmann Vs Fk Zalgiris Vilnius",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.hegelmann-vs-fk-zalgiris-vilnius-luc-2245-ngay-27-07-2026",
+            "tvg_name": "Hegelmann Vs Fk Zalgiris Vilnius",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_duc_u18_vs_lithuania_u18_luc_2300_ngay_27_07_2026",
