@@ -1,51 +1,5 @@
 [
     {
-        "id": "x_direborn_vs_nexa_luc_1500_ngay_26_07_2026",
-        "title": "\u26bd Direborn Vs Nexa",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:11",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.direborn-vs-nexa-luc-1500-ngay-26-07-2026",
-            "tvg_name": "Direborn Vs Nexa",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_sk_slavia_praha_b_vs_fotbal_pribram_luc_1515_ngay_26_07_2026",
-        "title": "\u26bd Sk Slavia Praha B Vs Fotbal Pribram",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/f9d38c7f-0dd5-43cb-969d-5d38df2ee7a8",
-        "is_live": true,
-        "match_time": "15:15",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sk-slavia-praha-b-vs-fotbal-pribram-luc-1515-ngay-26-07-2026",
-            "tvg_name": "Sk Slavia Praha B Vs Fotbal Pribram",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_PsmsMedanVsPortFc_15:30",
         "title": "\u26bd Psms Medan Vs Port Fc",
         "category": "EVENT LIVE",
@@ -491,6 +445,26 @@
         }
     },
     {
+        "id": "x_alex_marti_pujolras_vs_dusan_obradovic_luc_1600_ngay_26_07_2026",
+        "title": "\u26bd Alex Marti Pujolras Vs Dusan Obradovic",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alex-marti-pujolras-vs-dusan-obradovic-luc-1600-ngay-26-07-2026",
+            "tvg_name": "Alex Marti Pujolras Vs Dusan Obradovic",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_chou_tien_chen_vs_toma_junior_popov_luc_1430_ngay_26_07_2026",
         "title": "\u26bd Chou Tien Chen Vs Toma Junior Popov",
         "category": "EVENT LIVE",
@@ -552,29 +526,6 @@
         "epg_metadata": {
             "tvg_id": "m.nlex-road-warriors-vs-san-miguel-beermen-luc-1615-ngay-26-07-2026",
             "tvg_name": "Nlex Road Warriors Vs San Miguel Beermen",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_kim_won_ho_seo_seung_jae_vs_fajar_alfian_muhammad_shohibul_fikri_luc_1520_ngay_26_07_2026",
-        "title": "\u26bd Kim Won Ho Seo Seung Jae Vs Fajar Alfian Muhammad Shohibul Fikri",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.kim-won-ho-seo-seung-jae-vs-fajar-alfian-muhammad-shohibul-fikri-luc-1520-ngay-26-07-2026",
-            "tvg_name": "Kim Won Ho Seo Seung Jae Vs Fajar Alfian Muhammad Shohibul Fikri",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -698,6 +649,29 @@
         "epg_metadata": {
             "tvg_id": "m.bumprom-gomel-vs-fc-molodechno-luc-1700-ngay-26-07-2026",
             "tvg_name": "Bumprom Gomel Vs Fc Molodechno",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_kim_won_ho_seo_seung_jae_vs_fajar_alfian_muhammad_shohibul_fikri_luc_1520_ngay_26_07_2026",
+        "title": "\u26bd Kim Won Ho Seo Seung Jae Vs Fajar Alfian Muhammad Shohibul Fikri",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:10",
+        "headers": {
+            "Referer": "https://xoilaczzggz.tv/",
+            "Origin": "https://xoilaczzggz.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kim-won-ho-seo-seung-jae-vs-fajar-alfian-muhammad-shohibul-fikri-luc-1520-ngay-26-07-2026",
+            "tvg_name": "Kim Won Ho Seo Seung Jae Vs Fajar Alfian Muhammad Shohibul Fikri",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
