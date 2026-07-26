@@ -1013,6 +1013,26 @@
         }
     },
     {
+        "id": "x_delfines_del_este_vs_elite_sc_luc_0500_ngay_27_07_2026",
+        "title": "\u26bd Delfines Del Este Vs Elite Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.delfines-del-este-vs-elite-sc-luc-0500-ngay-27-07-2026",
+            "tvg_name": "Delfines Del Este Vs Elite Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
