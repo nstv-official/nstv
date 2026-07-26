@@ -217,26 +217,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -2779,10 +2759,19 @@
         "id": "x_apr_fc_vs_al_haras_al_jumhuri_luc_2300_ngay_27_07_2026",
         "title": "\u26bd Apr Fc Vs Al Haras Al Jumhuri",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=771a11c2bd67ca97d3acf220eeefaa2c&wsABSTime=1785152443&nstv_cache=1785109303",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel7/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not(A-Brand\";v=\"99\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=1l4rjnh97k1em7v&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=wpCMMJcYmodYHroulM71s4gTSTnJ6zMRJLrBSd5UtaE-1785109140.588194-1.0.1.1-082ZpHU4LnXzIyL7JQzNGQdKVbVne4S._ce8SH_EQsx44u862DZI7LPD5dU8.cZLvmPNlAj8ptXlkgHknw.gA05D3l_xS1dTnPFe8ck40vYNztN6noahx2J5R6V__vhC; _ga=GA1.1.1299021080.1785109147; _ga_P60BDCKB3G=GS2.1.s1785109147$o1$g1$t1785109194$j13$l0$h0; __cf_bm=t6M7uAiorNIVjX.zCsT4jDHi0DsjA7v__sWmywsn_JA-1785109198.3027623-1.0.1.1-zxTHyQRIxHhTD.CyG61WEtD7ZMr2DQIC5V9u9ltEUPK4L9VEg_k38Abln351bo.BOqFpOdX5Zgo9mw2eCFKh6dPwaPG8Ju4EE7rtrM6odULwJNhbUTwI2tmMnB05AbOG; _ga=GA1.1.621775280.1785109200; _ga_S52WSRDB70=GS2.1.s1785109200$o1$g1$t1785109241$j19$l0$h0; cf_clearance=zL06sh3Aw9mVIMsolEH4nNf_oHmnh.VRIK3ivPEUYsI-1785109247-1.2.1.1-fECtUJJOMp3MfXLHS4tWybtYc.1d7KOjxKT5bOtSRpSuLfsn_Ko4Jn2s0r2ThgkmZqkXwjmrZXASkqrDnE70alNt.irS20aKVbYj9cLZo3ks0ZryumJGIs4Kw89cQtYj6B1m_aIFyI1BtvWl484Mb2Hr4c13JSLtALFSIgOFTOzp0n0Hu6rWJg2nt_SZENnU_lODiUhIN5vZbcwViHq1VfCB1ahrln14yy_LcCW5UHCZMvkg8NZ18lrJlzHR3b86n_9mmfBB89YpkLQp0lLi2slrmEylpFbCJiYL.MMyMnP5u.dDZuAo9jPyAPCIP.JQx6wrwCAa1S61x62hugvkCtPp5nKpu4qhJzgZRqSd4Eg; __cf_bm=OqfIv7ffZ22P5UP8fm3Imp8VEZCmj6.2WXOBEXgIaxM-1785109271.8765473-1.0.1.1-Pb_1X4PLy9uHQpgdaF2m79E5IZ2bK6OelA0FtnOQNoiVFmhT34w6Lr22OFTkkYifMknZFNDHayM72qC.1RsDthMvcfmQhUi8Q7k1vUXE_NE6u1glrIE2bCsclK9ZdVZG",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2793,7 +2782,9 @@
             "tvg_name": "Apr Fc Vs Al Haras Al Jumhuri",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
@@ -2962,6 +2953,26 @@
         },
         "media_id": "aHR0cHM6Ly9jaGFs",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
