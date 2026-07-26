@@ -2604,10 +2604,19 @@
         "id": "x_garde_republicaine_vs_apr_fc_luc_2300_ngay_27_07_2026",
         "title": "\u26bd Garde Republicaine Vs Apr Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?nstv_cache=1785109744",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel7/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not_A?Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=uaZOFvrm.C3hAa2PbFzBp3ll0JnVnaXghLnOagyBlqc-1785109614.552705-1.0.1.1-ZxxGpEYsqK4i7rDskmuiWM.FKvrrGIL4FkvIlVh70AHc3_H6_n8igmFMBZWpfrlm7hR3ssXirjTZHkP0Eh4P_C7G3fG8GJ_wKMYjxEnpNzhYAI1n5b_rWqab7jrCboFT; _ga_P60BDCKB3G=GS2.1.s1785109619$o1$g0$t1785109619$j60$l0$h0; _ga=GA1.1.956766812.1785109620; __cf_bm=wNlAxMg1Tcpg9T5aZgE.9kXAfhkxnLVFSQcpqa1WyrY-1785109656.2683609-1.0.1.1-scc3nZ2UkzEOC4ALDWpqF7I4iILMcojPlOps9kVTzedLBBH7X1Wh4rg3iF.7yTWWt7B66pCH3cw.6kDm5LpUXqgauWVAG99RB1xnFBXNxWnpRMTMHOIqKtfhkK4ltn44; _ga=GA1.1.124039421.1785109658; _ga_S52WSRDB70=GS2.1.s1785109658$o1$g1$t1785109692$j26$l0$h0; cf_clearance=MEz9FVcYicIm5j4SW0V.Evjba3L5QsbvdPPyghLzCPw-1785109704-1.2.1.1-pmr.XMTcyZyCRJenK0XaNeqCAicUMsviQ0KqQp7beRooPVqfZX153sm.1KOg2W15YENmdzSQE.Tgb4yp9UJzvQ1J5FafrXv.cR7SQreMQYNz1A9d8FPPTzcdAnfhDIHx1sn0luYFbJcEHrAiuyeDDuvgGr1orCEgw6VLfFHcG64LII8putY1XYqlxH_y_ejWevGLtUIccp0oPZekMWdwYkfmWoJpV4HM9iIe3DByvXV3hwX6t3Jw64uTfA7UeL1lhR7eMB__s6iC5TSWTtFh2b_cokYgMzwFAAt9sUISJkHJUBUP6dczh6T2cKPsY._qT5MB.D59p717X_JxPFSy7.1GUIvXxR.azKvxQ3ne10o",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2618,7 +2627,9 @@
             "tvg_name": "Garde Republicaine Vs Apr Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
