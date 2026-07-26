@@ -2666,10 +2666,19 @@
         "id": "x_grobina_vs_ogre_united_luc_2300_ngay_27_07_2026",
         "title": "\u26bd Grobina Vs Ogre United",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001785108301-0-0-2f07723d447b51c020d7b9e206528a11&nstv_cache=1785108325",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/5/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not A.Brand\";v=\"99\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h66y3dmoj&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Ko5EXJcbR386QDu2dDl.7gPIFZ.1RIkoO2QeK0g9J.M-1785108141.6573298-1.0.1.1-LDWhG.XH8rw7ivl0irBkAjvxQLiEYiB05VRT2RSfpYlYTCN4dDZSilLIxmK7lfIu1igJqBrTP8KhCt8AMyJZQClzdSvukHp0d.9k1KizyLIoJ2p2C1BPsT4yC4ZQyVBS; _ga=GA1.1.1729605989.1785108148; _ga_P60BDCKB3G=GS2.1.s1785108147$o1$g1$t1785108185$j22$l0$h0; __cf_bm=JnueuDB7FPIVrpALhCRqaSiSUt3GgFt3pVtYi1EWZcY-1785108188.5280156-1.0.1.1-PZ7zQUwX50_pbZgVE65S1VG98d2zaGgYAmiz33pencKwlBc7ymdnv28X65Wn5CmIDcQx5kimn0ssh3e6sJiXMGdknZoNS9cQl7VBtJ3dNlrvQHW.gQdZjF6aXlrLZunv; _ga=GA1.1.888142893.1785108190; cf_clearance=hg_TH_bVhW4fSn0OdQJVyuebR58LAn5Lh7SdArCZQq4-1785108251-1.2.1.1-htfUnuCe2j51GM6oA9zajeUCGHnmS0eX1ccIJQ6VeolYJz64w6myAPGj3vhWBRg7BpGaU_YNRiMUnNCBjhQolclF85kvKb_ckrs7izwMZn6mHmmQtiXGuDJGXiskQH8_AdRFqbdaTprOjKK.x5Bm8AC2N4MUZH68baMjuA6XnWc1h2QWM5wYzGsgL5eveC5BtcTmWU_fpX7g3VVEUfq8patw3b2MITqGTdmq5Hm4Qb9fhLYuCRKc2qozBspjNRD3GGewZz1FChM4sUVr.351vgvfAIkVti.qg7smUzEU82vc702HyEucu8EqkSZNzn7F85R.WeHRs5N6sq8ZRAKkWTDf8TYm_msoOAS957EKMHI; _ga_S52WSRDB70=GS2.1.s1785108190$o1$g1$t1785108299$j53$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2680,7 +2689,9 @@
             "tvg_name": "Grobina Vs Ogre United",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_sk_artis_brno_vs_fk_mlada_boleslav_luc_2300_ngay_27_07_2026",
