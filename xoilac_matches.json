@@ -993,26 +993,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -1295,10 +1275,19 @@
         "id": "x_houston_dynamo_b_vs_austin_fc_ii_luc_0600_ngay_27_07_2026",
         "title": "\u26bd Houston Dynamo B Vs Austin Fc Ii",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=98982347dc09eabb7b2d6867d244b1e8&wsABSTime=1785143914&nstv_cache=1785100768",
         "is_live": true,
         "match_time": "06:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel27/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=1l4rjnh9733vm7v&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Ci491mPhT62KrAkAD.YxBjUduOsHpXfBhcyQYBOpJwY-1785100602.5961378-1.0.1.1-fsybrszIu9omw_fz.IMjiZUXB3aV0gs_.81wZmTihnlcr6Auv6yKbXzCM2O1QfuV3qPsNs.XMzHlLOnXZOwneD01ElHnibGoecL6B_vXHi7rQs8Kb_HYf4vRBn0sXcdk; _ga=GA1.1.379684889.1785100609; _ga_P60BDCKB3G=GS2.1.s1785100608$o1$g1$t1785100663$j5$l0$h0; __cf_bm=SheSY5w1Dfn7fruiPep7eCRzFLVUX0CxO414fj6QpO4-1785100668.9997375-1.0.1.1-lRpcQoFqCg4uTQt3wSCdyp44eVM20WRxDrCAOZ3eWQ_FIpLaAMHuV0zq6R0tLvraYTU137mlQEd29tlrMcyLYSaU5Hu8uL5fYN7q1jhdjfa6Q7P6TW14sWjPoHMG0s4M; _ga=GA1.1.2124400578.1785100670; _ga_S52WSRDB70=GS2.1.s1785100670$o1$g1$t1785100712$j18$l0$h0; cf_clearance=f0r3JUjI1n8cCYhuNFnJYR3sAHcCWI_QA9w6SklzBC0-1785100718-1.2.1.1-.61pvyiwuGY_jEJxmpxnagXupy1yWVKjgO5rj1dFZgqBA8oXoavavfm21bvrMniS_yhXyzVGR90dYiyvivseiixH5FmaW9KaJ3VlvLd7bqNCk.Ta15Oa.SzDXmgwSqFITc835YUfptxtwYaBnKTTj.pp3wu0yIr1AUjoVtDdR44az0cdXMFo62Ka.6KVqIhQAPq6.ACAyVxU2JQJlYGER76_V8jnd5e7Lzwv8oTkjPbu1Ox1M8aVKYZ6A_KVR1n914dl9aRhT0gaPB0CR09fNzmx42bgAtFNN0F89dcQ7V_dWOuX9OGNrmmcBOpvuaOxrlFzuEyHH7nBsikTXZ3H.mDi97D8nVi7PQESVTiUCOA; __cf_bm=v6aOTGsDDUNTwFgoD8Rt_CSHh_WX_x7iXwXeP1RjOok-1785100741.1547103-1.0.1.1-hIMFJLyF.qyUHXEfrwfSm2Oml5fWxr_1uCtmPcBy4HorTO3i.FcYDfikpx10DjXWDVE7yj8uzzRFHM7cnR0jAR9rAC1wnLOJ52Y0epbll3su81Ohui4qCdOVlV_s4Ae7",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1309,7 +1298,9 @@
             "tvg_name": "Houston Dynamo B Vs Austin Fc Ii",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
@@ -2619,6 +2610,26 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
