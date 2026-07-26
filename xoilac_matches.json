@@ -248,37 +248,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_atletico_ottawa_vs_pacific_fc_luc_0100_ngay_27_07_2026",
-        "title": "\u26bd Atletico Ottawa Vs Pacific Fc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=9d144735faa55901716f73e2b3b3cdf0&wsABSTime=1785132135&nstv_cache=1785088975",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=965mkyhkyp49r1g&view=true",
-            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785088934$j36$l0$h0; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.atletico-ottawa-vs-pacific-fc-luc-0100-ngay-27-07-2026",
-            "tvg_name": "Atletico Ottawa Vs Pacific Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_nu_ec_juventude_vs_nu_ferroviaria_sp_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Nu Ec Juventude Vs Nu Ferroviaria Sp",
         "category": "EVENT LIVE",
@@ -582,6 +551,37 @@
         "epg_metadata": {
             "tvg_id": "m.deportivo-moron-vs-ferrol-carril-oeste-luc-0100-ngay-27-07-2026",
             "tvg_name": "Deportivo Moron Vs Ferrol Carril Oeste",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_atletico_ottawa_vs_pacific_fc_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Atletico Ottawa Vs Pacific Fc",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=9d144735faa55901716f73e2b3b3cdf0&wsABSTime=1785132135&nstv_cache=1785088975",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=965mkyhkyp49r1g&view=true",
+            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785088934$j36$l0$h0; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atletico-ottawa-vs-pacific-fc-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Atletico Ottawa Vs Pacific Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
@@ -3033,6 +3033,26 @@
         "epg_metadata": {
             "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
             "tvg_name": "Luca Van Assche Vs Alexander Blockx",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_guatemala_vs_nicaragua_luc_2330_ngay_28_07_2026",
+        "title": "\u26bd Guatemala Vs Nicaragua",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.guatemala-vs-nicaragua-luc-2330-ngay-28-07-2026",
+            "tvg_name": "Guatemala Vs Nicaragua",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
