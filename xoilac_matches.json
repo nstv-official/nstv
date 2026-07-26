@@ -1,212 +1,5 @@
 [
     {
-        "id": "x_ipswich_knights_sc_vs_yeronga_eagles_luc_1200_ngay_26_07_2026",
-        "title": "\u26bd Ipswich Knights Sc Vs Yeronga Eagles",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "12:20",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ipswich-knights-sc-vs-yeronga-eagles-luc-1200-ngay-26-07-2026",
-            "tvg_name": "Ipswich Knights Sc Vs Yeronga Eagles",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_carstensz_esports_vs_azteca_luc_1200_ngay_26_07_2026",
-        "title": "\u26bd Carstensz Esports Vs Azteca",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "12:21",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.carstensz-esports-vs-azteca-luc-1200-ngay-26-07-2026",
-            "tvg_name": "Carstensz Esports Vs Azteca",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_hume_city_broncos_vs_warrandyte_venom_luc_1230_ngay_26_07_2026",
-        "title": "\u26bd Hume City Broncos Vs Warrandyte Venom",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "12:30",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.hume-city-broncos-vs-warrandyte-venom-luc-1230-ngay-26-07-2026",
-            "tvg_name": "Hume City Broncos Vs Warrandyte Venom",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_roger_pascual_ferra_vs_colton_smith_luc_1230_ngay_26_07_2026",
-        "title": "\u26bd Roger Pascual Ferra Vs Colton Smith",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "12:30",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.roger-pascual-ferra-vs-colton-smith-luc-1230-ngay-26-07-2026",
-            "tvg_name": "Roger Pascual Ferra Vs Colton Smith",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_canterbury_rams_vs_franklin_bulls_luc_1300_ngay_26_07_2026",
-        "title": "\u26bd Canterbury Rams Vs Franklin Bulls",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.canterbury-rams-vs-franklin-bulls-luc-1300-ngay-26-07-2026",
-            "tvg_name": "Canterbury Rams Vs Franklin Bulls",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_lake_macquarie_vs_nu_maitland_fc_luc_1300_ngay_26_07_2026",
-        "title": "\u26bd Nu Lake Macquarie Vs Nu Maitland Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-lake-macquarie-vs-nu-maitland-fc-luc-1300-ngay-26-07-2026",
-            "tvg_name": "Nu Lake Macquarie Vs Nu Maitland Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_heilongjiang_vs_nu_shanxi_tianze_luc_1330_ngay_26_07_2026",
-        "title": "\u26bd Nu Heilongjiang Vs Nu Shanxi Tianze",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "13:30",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-heilongjiang-vs-nu-shanxi-tianze-luc-1330-ngay-26-07-2026",
-            "tvg_name": "Nu Heilongjiang Vs Nu Shanxi Tianze",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_canberra_juventus_vs_monaro_panthers_luc_1330_ngay_26_07_2026",
-        "title": "\u26bd Canberra Juventus Vs Monaro Panthers",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/1273790b-66f5-49e5-8c56-81cd0b2db6e8",
-        "is_live": true,
-        "match_time": "13:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.canberra-juventus-vs-monaro-panthers-luc-1330-ngay-26-07-2026",
-            "tvg_name": "Canberra Juventus Vs Monaro Panthers",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_palmerston_vs_garuda_fc_luc_1330_ngay_26_07_2026",
-        "title": "\u26bd Palmerston Vs Garuda Fc",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/ac10be54-4bad-4573-955a-3a891186761f",
-        "is_live": true,
-        "match_time": "13:30",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.palmerston-vs-garuda-fc-luc-1330-ngay-26-07-2026",
-            "tvg_name": "Palmerston Vs Garuda Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_liu_shengshu_tan_ning_vs_yuki_fukushima_mayu_matsumoto_luc_1250_ngay_26_07_2026",
         "title": "\ud83c\udfce\ufe0f Liu Shengshu Tan Ning Vs Yuki Fukushima Mayu Matsumoto",
         "category": "EVENT LIVE",
@@ -1058,6 +851,29 @@
         }
     },
     {
+        "id": "x_hellenic_ac_vs_mindil_aces_luc_1530_ngay_26_07_2026",
+        "title": "\u26bd Hellenic Ac Vs Mindil Aces",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "Referer": "https://xoilaczzggz.tv/",
+            "Origin": "https://xoilaczzggz.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.hellenic-ac-vs-mindil-aces-luc-1530-ngay-26-07-2026",
+            "tvg_name": "Hellenic Ac Vs Mindil Aces",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_chou_tien_chen_vs_toma_junior_popov_luc_1430_ngay_26_07_2026",
         "title": "\u26bd Chou Tien Chen Vs Toma Junior Popov",
         "category": "EVENT LIVE",
@@ -1173,8 +989,8 @@
         }
     },
     {
-        "id": "x_detonation_focusme_vs_gam_esports_luc_1600_ngay_26_07_2026",
-        "title": "\u26bd Detonation Focusme Vs Gam Esports",
+        "id": "x_yenisey_krasnoyarsk_vs_veles_moscow_luc_1600_ngay_26_07_2026",
+        "title": "\u26bd Yenisey Krasnoyarsk Vs Veles Moscow",
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": true,
@@ -1189,8 +1005,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.detonation-focusme-vs-gam-esports-luc-1600-ngay-26-07-2026",
-            "tvg_name": "Detonation Focusme Vs Gam Esports",
+            "tvg_id": "m.yenisey-krasnoyarsk-vs-veles-moscow-luc-1600-ngay-26-07-2026",
+            "tvg_name": "Yenisey Krasnoyarsk Vs Veles Moscow",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -2709,6 +2525,29 @@
         "epg_metadata": {
             "tvg_id": "m.xoilac",
             "tvg_name": "Xoilac",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilaczzggz.tv/",
+            "Origin": "https://xoilaczzggz.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -5083,29 +4922,6 @@
         }
     },
     {
-        "id": "x_CanberraJuventusVsMonaroPanthers_13:30",
-        "title": "\u26bd Canberra Juventus Vs Monaro Panthers",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:30",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.canberra-juventus-vs-monaro-panthers-luc-1330-ngay-26-07-2026",
-            "tvg_name": "Canberra Juventus Vs Monaro Panthers",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_XiamenFeiluVsLangfangCity_15:00",
         "title": "\u26bd Xiamen Feilu Vs Langfang City",
         "category": "EVENT LIVE",
@@ -5308,29 +5124,6 @@
         "epg_metadata": {
             "tvg_id": "m.shandong-taishan-vs-henan-fc-luc-1835-ngay-26-07-2026",
             "tvg_name": "Shandong Taishan Vs Henan Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "Jadwal",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
