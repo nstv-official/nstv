@@ -2082,10 +2082,19 @@
         "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_2000_ngay_27_07_2026",
         "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=a3e2db5ab4dc616221c6e6aa50b979ec&wsABSTime=1785147091&nstv_cache=1785103950",
         "is_live": true,
         "match_time": "19:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not.A.Brand\";v=\"24\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h6l1j4moj&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Ky0W2Zyq6IsF603BSkaiCTg31.zMGxCE2hI7SI4muJ4-1785103736.0090253-1.0.1.1-vdUHf5BgMlt3WIXIzpOtTihKeUK9s3HoOj7LJ9MAwJDJDb0AoUh7BHkmvhZJhOxEmbzxSFLqL0BNmdRz33fw9UHek8LkIJEGmYw3Lwv1.wP15bS92_9nmISjyLH28kr1; _ga=GA1.1.1147361023.1785103742; _ga_P60BDCKB3G=GS2.1.s1785103741$o1$g1$t1785103781$j20$l0$h0; __cf_bm=Vk6UlRdtzRLsnsA3ph.IVZ9w87gU_zvZ.Ncs2OTAjeA-1785103785.4505801-1.0.1.1-ZpICQqgSEfEkL_ek1s1Nk9crZAo9ixDAkTTIy9JXt7MX5f13tCvMld0g9bJQG3pjLVg7f1Hf9TX_ZMd8YShG0pX28.MOBpQjj5izDYIM9BiZ4KNw2ZPL0H2FwZHIFWnU; _ga=GA1.1.1265071965.1785103787; cf_clearance=j.o3L6P0TDOwCip7W.b4Wwet3.Z3_3Ki0OfFkwvrmhQ-1785103831-1.2.1.1-cTG7AEHZ9ZwohMpyvd.M9M_Zxdp.XDtP.FJdWHNnIRajVDytz7v2i6tGEiG81Btuj6xv6qwTrekkt_kaDtpuLugXi0mwrIN5Arp_p1BjW2DUSBnKW6xmht4IIZL_6JptaX1o_f37pPK1u8bfcgA4KE_S4Kg7dK_1SYh124ZSe79xNXpHyi4SmtJ624cZwgGGAtsge8T71sD4LUFRdQJBW7L_90cPpnj_mmweUza4GSFo6tuUoP1slcb6xkiClKwOtdoMO9e6g4wDzCGzB.c3n9BojAlpXw26M3yUJfS6bsqzFeWIjEgDgOZ7.WkCWRRS0aIIYhDlxdvddKuRKd.L.eZNIjIAUz4kR_r6dsAwvCA; __cf_bm=tzkQnOrirnMivLBRjt6Ppt8V7ODEuMrPraWIkW5NA4o-1785103855.5352368-1.0.1.1-chtUCE3zNvVl2w2pDXG51v4D9GzF4yCC3u6mvPIagsaSlyOwvproliHAeelTcjEH3W.V4FUoOGYk6l.vzWQTiZbKSf1olp44udzst77AhDihcIS4ohndnFJIvr6qWPz4; _ga_S52WSRDB70=GS2.1.s1785103786$o1$g1$t1785103889$j53$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2096,7 +2105,9 @@
             "tvg_name": "Samtskhe Akhaltsikhe Vs Gagra Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fk_orenburg_2_vs_krylia_sovetov_2_luc_2000_ngay_27_07_2026",
