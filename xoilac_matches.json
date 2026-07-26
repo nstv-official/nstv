@@ -310,37 +310,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_deportivo_moron_vs_ferrol_carril_oeste_luc_0100_ngay_27_07_2026",
-        "title": "\u26bd Deportivo Moron Vs Ferrol Carril Oeste",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=de87fdecb60677b99a32d7abab99be05&wsABSTime=1785132229&nstv_cache=1785089068",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=k82rekhg0xe0rep&view=true",
-            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785089028$j7$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.deportivo-moron-vs-ferrol-carril-oeste-luc-0100-ngay-27-07-2026",
-            "tvg_name": "Deportivo Moron Vs Ferrol Carril Oeste",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_agropecuario_vs_s_m_san_juan_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Agropecuario Vs S M San Juan",
         "category": "EVENT LIVE",
@@ -582,6 +551,37 @@
         "epg_metadata": {
             "tvg_id": "m.delfin-sc-vs-leones-del-norte-luc-0115-ngay-27-07-2026",
             "tvg_name": "Delfin Sc Vs Leones Del Norte",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_deportivo_moron_vs_ferrol_carril_oeste_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Deportivo Moron Vs Ferrol Carril Oeste",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=de87fdecb60677b99a32d7abab99be05&wsABSTime=1785132229&nstv_cache=1785089068",
+        "is_live": true,
+        "match_time": "01:20",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel13/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=k82rekhg0xe0rep&view=true",
+            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785089028$j7$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportivo-moron-vs-ferrol-carril-oeste-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Deportivo Moron Vs Ferrol Carril Oeste",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
