@@ -2454,10 +2454,19 @@
         "id": "x_lokomotiv_tashkent_vs_sogdiana_jizak_luc_2200_ngay_27_07_2026",
         "title": "\u26bd Lokomotiv Tashkent Vs Sogdiana Jizak",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001785107313-0-0-ec4ee2b207a911fcde863d3b5e37d319&nstv_cache=1785107351",
         "is_live": true,
         "match_time": "22:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/5/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not-A-Brand\";v=\"24\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=x7lm7phjzvyvm2w&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=m5kXEgtWOxNFXh1xHQJsFT6CEj8kiXdLmRPw0sRdQ0I-1785107124.5011146-1.0.1.1-bylDcgUuIX9duOhGHbYIgzxaMC.8qHSGUpJywBx65BT5FU8cUE22bf6Gqa0q80n6KplQlVyBX77WomF081gqADNzHRWULjiSiBAzN_0QNEtUet7lSD.NLkVCccoq_4Lc; _ga=GA1.1.330812441.1785107134; _ga_P60BDCKB3G=GS2.1.s1785107134$o1$g1$t1785107174$j20$l0$h0; __cf_bm=p_ZGVM2RqTLncoFnRgA5uYz8e_qrNDBibnyJ40mekjs-1785107179.630307-1.0.1.1-ro6.2qzkmmHWdMrMNm3qb75q9q_jw7MxHtoOepEgcCQtLVsMwD1rzhBkwaWNJr_oz3p1TnJDgWtStZ7.QaeK3814MzISDU9Do5xwNi3xnQYcPte_.LtQ0bHE8Szg.mGK; _ga=GA1.1.851200465.1785107183; cf_clearance=EnG2YVUqOEYqIoRrm._VaLcwu5SCEWcDgejjk2W5Duk-1785107236-1.2.1.1-eizzGUuh9f5rRwEEZ1L1YUJS8rXKpA5BDN5zlGgr8CkKmFUJN1mhqYohHMJRE7DP2GA7HfDSZzc3oVODMHiJNEZYOEHNUbRKa1a2fOWlEYnz9YLsOFGZoIbNgZN0Jt8A6WjKcQV7gK..syax3MqQKvRVcDzQRIbnBfMnreg4lrFZErOkIIZmveRjT3GLr5yxapS.90IUv6HTg0Nifzsjf.sTjFmuuZtb9f0fe122iKEIoplEVLSuSqfsdKuD_iqLbIjUiQ5Je1B8LNL6kYSnvk617W9k4S5oggN1ADtOJFMEIVky2usbXnHSY71L37j1yxv704ZervmxHQssR1OF3VEd_oZTK.n_xVhWc274CM0; _ga_S52WSRDB70=GS2.1.s1785107182$o1$g1$t1785107311$j45$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2468,7 +2477,9 @@
             "tvg_name": "Lokomotiv Tashkent Vs Sogdiana Jizak",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_widzew_lodz_vs_motor_lublin_luc_2230_ngay_26_07_2026",
