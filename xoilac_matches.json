@@ -158,10 +158,19 @@
         "id": "x_nu_algeria_vs_nu_senegal_luc_0000_ngay_27_07_2026",
         "title": "\u26bd Nu Algeria Vs Nu Senegal",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=a556887fe08f4f70c2dab5c0a57846ff&wsABSTime=1785131577&nstv_cache=1785088417",
         "is_live": true,
         "match_time": "00:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel5/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=318q66hxe0yyqo9&view=true",
+            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088376$j55$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -172,7 +181,9 @@
             "tvg_name": "Nu Algeria Vs Nu Senegal",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
