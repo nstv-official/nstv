@@ -623,10 +623,19 @@
         "id": "x_cerro_montevideo_vs_rc_montevideo_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Cerro Montevideo Vs Rc Montevideo",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=86c53e79e8082641615a4de65940433f&wsABSTime=1785133125&nstv_cache=1785089964",
         "is_live": true,
         "match_time": "01:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel16/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not/A)Brand\";v=\"99\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=6ypq3nhvy12nmd7&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=CLv.jyeY8tMvkkgoV3jCNjCpiPcsVVXhCTllzf03b5k-1785089814.675337-1.0.1.1-GW.b90AzOXfSo1tCG0eZjMptkgPNF4u.uly.FNGffgG0fkeCoFCkTGS2vIzODDq0ASc73Z_1eezt1JFm71GcAGPGvPwxRO6t607m_906idLfmd8Xwa0ldBZOGJz3fMab; _ga=GA1.1.412407259.1785089816; _ga_P60BDCKB3G=GS2.1.s1785089816$o1$g1$t1785089853$j23$l0$h0; __cf_bm=fqgjIs8_8pIDkPFrgJDW5a9.cth5zSNRLxEe_tg5XPA-1785089856.0420084-1.0.1.1-0wnBFhnGzfu.0CAzZEp8PVp6O8N_UOuCEMZ7xTkmL_rUuXDsheJMBACbjo9KrbnYWHgujanrGrpBSzfW25fzCW99SgrHz5IfaPP.45wiv7HxJbnpWpVlbiLQU6zlSga0; _ga=GA1.1.567017467.1785089857; cf_clearance=VHOmDjMrWw16KUAxGk2YV073SkEPMeNicVaW3GPW9Bw-1785089879-1.2.1.1-n9ztyJ6ohyEnq1LIZ59l7TqSQ7lMeruFVlPbcm7GmRvycJ5e9AkEQJfjmxAgLNgbE8QJcXvkoEX8.MpKNwkX5ref89c1tfBCkTxyvLkvLf2hKQeJGKpSK3D0BAeFVn386dVFO82areseOCHqp10kd1OiB6mnwb6sv44ZN4t41sHO992J05vZ2T00x4j1mOC.hK7XhsGwxU9MP2_Ejh5QPrMnpoLcUOALqux8cV9_H5oRAPqReA1dEhabynibR5yBpMH74apuq22q0urA7ljtm5rSE6s_NR.i..9_SC9UnuUtzh3hcwmj0073IwPBdCzHefIXhwH_MvABlRHWbt2lnHBYR47e3etWqZSrh2VDsiM; __cf_bm=caFvjTViM9SNCVAH44UlXKixKuOpbpnrA5HVA67Rkxo-1785089916.985826-1.0.1.1-nY1zIbQwFRKgNkAy9MQtH6T3lPJY2mPzJTHgoXnus2OqiXJUUwnC5v_sKMRSwXj.f2bLSsGubzUjBYymeC4mLcr5TZ6egeXFz_kTv8bjHYYGQ8xg02LNzf2.TjMQrTiQ; _ga_S52WSRDB70=GS2.1.s1785089857$o1$g1$t1785089925$j53$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -637,7 +646,9 @@
             "tvg_name": "Cerro Montevideo Vs Rc Montevideo",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
