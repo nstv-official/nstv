@@ -2484,52 +2484,6 @@
         }
     },
     {
-        "id": "x_MontrealImpactVsInterMiami_00:00",
-        "title": "\u26bd Montreal Impact Vs Inter Miami",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.montreal-impact-vs-inter-miami-luc-0630-ngay-26-07-2026",
-            "tvg_name": "Montreal Impact Vs Inter Miami",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_RiverPlateVsBarracasCentral_05:15",
-        "title": "\u26bd River Plate Vs Barracas Central",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "05:15",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.river-plate-vs-barracas-central-luc-0515-ngay-26-07-2026",
-            "tvg_name": "River Plate Vs Barracas Central",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "ls_NewYorkRedBullsVsCharlotteFc_05:30",
         "title": "\u26bd New York Red Bulls Vs Charlotte Fc",
         "category": "EVENT LIVE",
@@ -6219,6 +6173,121 @@
         "epg_metadata": {
             "tvg_id": "m.nu-tho-nhi-ky-vs-nu-brazil-luc-1830-ngay-26-07-2026",
             "tvg_name": "Nu Tho Nhi Ky Vs Nu Brazil",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_MiguelTobonVsBernardTomic_LIVE",
+        "title": "\u26bd Miguel Tobon Vs Bernard Tomic",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.miguel-tobon-vs-bernard-tomic-luc-0800-ngay-26-07-2026",
+            "tvg_name": "Miguel Tobon Vs Bernard Tomic",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_HarrietDartMaiaLumsdenVsLucieHavlickovaLauraSamson_LIVE",
+        "title": "\u26bd Harriet Dart Maia Lumsden Vs Lucie Havlickova Laura Samson",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.harriet-dart-maia-lumsden-vs-lucie-havlickova-laura-samson-luc-1600-ngay-26-07-2026",
+            "tvg_name": "Harriet Dart Maia Lumsden Vs Lucie Havlickova Laura Samson",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DariaSnigurVsLilliTagger_LIVE",
+        "title": "\u26bd Daria Snigur Vs Lilli Tagger",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.daria-snigur-vs-lilli-tagger-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Daria Snigur Vs Lilli Tagger",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TitouanDroguetKyrianJacquetVsOrlandoLuzRafaelMatos_LIVE",
+        "title": "\u26bd Titouan Droguet Kyrian Jacquet Vs Orlando Luz Rafael Matos",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.titouan-droguet-kyrian-jacquet-vs-orlando-luz-rafael-matos-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Titouan Droguet Kyrian Jacquet Vs Orlando Luz Rafael Matos",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_LucaVanAsscheVsAlexanderBlockx_LIVE",
+        "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
+            "tvg_name": "Luca Van Assche Vs Alexander Blockx",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
