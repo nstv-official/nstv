@@ -184,6 +184,29 @@
         }
     },
     {
+        "id": "x_IkSiriusFkVsIfkGoteborg_19:00",
+        "title": "\u26bd Ik Sirius Fk Vs Ifk Goteborg",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ik-sirius-fk-vs-ifk-goteborg-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Ik Sirius Fk Vs Ifk Goteborg",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x__00:00",
         "title": "\u26bd ",
         "category": "EVENT LIVE",
@@ -2548,101 +2571,6 @@
         "epg_metadata": {
             "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
             "tvg_name": "Luca Van Assche Vs Alexander Blockx",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "ls_ColumbusCrewVsFcCincinnati_06:00",
-        "title": "\u26bd Columbus Crew Vs Fc Cincinnati",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "06:00",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2908653-columbus-crew-vs-fc-cincinnati",
-            "tvg_name": "Columbus Crew Vs Fc Cincinnati",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "ls_ChivasGuadalajaraVsFcJuarez_06:00",
-        "title": "\u26bd Chivas Guadalajara Vs Fc Juarez",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "06:00",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2997353-chivas-guadalajara-vs-fc-juarez",
-            "tvg_name": "Chivas Guadalajara Vs Fc Juarez",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "ls_DetroitCityVsLasVegasLights_06:00",
-        "title": "\u26bd Detroit City Vs Las Vegas Lights",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "06:00",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2942517-detroit-city-vs-las-vegas-lights",
-            "tvg_name": "Detroit City Vs Las Vegas Lights",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ClubGuadalajaraVsFcJuarez_06:07",
-        "title": "\u26bd Club Guadalajara Vs Fc Juarez",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "06:07",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.club-guadalajara-vs-fc-juarez-luc-0607-ngay-26-07-2026",
-            "tvg_name": "Club Guadalajara Vs Fc Juarez",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -6632,6 +6560,75 @@
         "epg_metadata": {
             "tvg_id": "m.dorados-de-chihuahua-vs-freseros-de-irapuato-luc-0715-ngay-26-07-2026",
             "tvg_name": "Dorados De Chihuahua Vs Freseros De Irapuato",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_CaLanusVsSanLorenzo_LIVE",
+        "title": "\u26bd Ca Lanus Vs San Lorenzo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ca-lanus-vs-san-lorenzo-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Ca Lanus Vs San Lorenzo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_CashmereTechnicalVsMiramarRangers_LIVE",
+        "title": "\u26bd Cashmere Technical Vs Miramar Rangers",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cashmere-technical-vs-miramar-rangers-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Cashmere Technical Vs Miramar Rangers",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_HoustonDynamoVsAustinFc_LIVE",
+        "title": "\u26bd Houston Dynamo Vs Austin Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.houston-dynamo-vs-austin-fc-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Houston Dynamo Vs Austin Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
