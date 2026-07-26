@@ -1,36 +1,5 @@
 [
     {
-        "id": "x_inter_willemstad_vs_st_johns_sc_luc_0230_ngay_27_07_2026",
-        "title": "\u26bd Inter Willemstad Vs St Johns Sc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=b9da5b2f33468f4723e5b3b860a2e75b&wsABSTime=1785140597&nstv_cache=1785097448",
-        "is_live": true,
-        "match_time": "02:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel7/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not)A?Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=4wyrn4h63onxq86&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=77j6u7C8sBTNShO2rRgLnXA6VHWWoyur.6JYrakTPTQ-1785097224.613183-1.0.1.1-QzfDEapKzxPAiC4sRcieix_RLZs7oRWK4Gtp73k0I1W4mFBgLZh7K4SNt_Q3HJd1xUEJRJHPP_DXlK8JxwmXrDOP1Ki4VAznhT5Q9lVlFjBLlSDxtFW8X6ekbPnhDg1Q; _ga=GA1.1.572689908.1785097228; _ga_P60BDCKB3G=GS2.1.s1785097227$o1$g1$t1785097277$j10$l0$h0; __cf_bm=1aBdTlLtmZsKY6D7uaaeQbiUXWjISBnN1mYmmWANCI4-1785097280.3511221-1.0.1.1-NhQYMqQUsdHUju6PmKHRPzAdn21BFSZ7WXLcxIb6QFAe3ZQpvVRh2RqC_CUcD07KDns7m6nKLKEeLFXetRJxXfTA6axliRI7VxsGDNKPziU1XlAbP9qq8.C3z712uE0v; _ga=GA1.1.1642038108.1785097282; cf_clearance=2jzKhgZEq9scxcPXymjCWBL_OblUIt6ETZuCo0Jw3KI-1785097315-1.2.1.1-nqSYPYk_A44h.2QOfg5OV8U0VlJuPuW0g8vVYQ0wdhJw.Ta1m2mnlzsWsi2xTboPFl.To9zXY8QKKs0ZQr.adjj94zcc5U0QBocnOxmZbjcULvVKvYuL32PLfZg_mCMzAuri7uJw6b_meTWgzUQZqUl6iH14f8ajbDcC9qZCpX3XO297mrqv4FQLpW86rw.AO1Vdvf4ZF89AJEPQC3L6H6Hs7NehAcLsN9bmlpLYBOzJF5VHQEDdVhH0G1Cx2nxpSD.wJZmEDZ3iI.YqsnUkJy0E0FsF2X7H3fMzvTgGclTa7IHrEcr8fVWyp3reiyTwG8y9xTsVPCZmRBIcl6eb.WknHlgh.dW3lGSyXyN7YE8; __cf_bm=O1Dcnqz79YK17tt7MuJZTqVyTNcyuKqiFrUwL5DOluU-1785097353.2877834-1.0.1.1-x2xekd.C62.6Awm.b5Se.faVlt0pywifvZBv4jEdHxu3PgG9uysibSeqoKZqzzmQ6RmPNvkWoeljTkxgNbwhtSuxOuMi58m5s33cGapkcQvjcSbBCc3SNAFOpJfqTDAa; _ga_S52WSRDB70=GS2.1.s1785097281$o1$g1$t1785097395$j51$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.inter-willemstad-vs-st-johns-sc-luc-0230-ngay-27-07-2026",
-            "tvg_name": "Inter Willemstad Vs St Johns Sc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
         "title": "\u26bd Nu Venezuela Vs Nu Peru",
         "category": "EVENT LIVE",
@@ -1275,10 +1244,19 @@
         "id": "x_orlando_city_b_vs_huntsville_city_luc_0600_ngay_27_07_2026",
         "title": "\u26bd Orlando City B Vs Huntsville City",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=291dc27515c1aa45ad2338be67716a08&wsABSTime=1785143671&nstv_cache=1785100524",
         "is_live": true,
         "match_time": "06:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel28/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not A.Brand\";v=\"24\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=4jwq2ghn206om0v&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=kdohjCjwmmIFhYCS0ayUhPD6x1yn1jxk7nYvF8nlLeQ-1785100251.4842322-1.0.1.1-j_0tfCEiJ0bfoZ2vGj3FoCc7fRfL6AAt0k6NXmyLsi0VGmKvGqv0CUoIt5odyPCsC4ii3dR.d7JhKpFowXHhAVfjReOGnmOu4ZaMYxlTNrYVK1Gb_vsV5XMvZSvr4KA5; _ga=GA1.1.515069463.1785100255; _ga_P60BDCKB3G=GS2.1.s1785100255$o1$g1$t1785100301$j14$l0$h0; __cf_bm=SipTlWhn6NTDRwZVM0GK5k.OoyUL29WW0836EP84J20-1785100305.575663-1.0.1.1-eb49e0.kcBlGp_C.RmSskYCIQgb5jQqWyPsYC0YO0MnFZpnl5YIDPW0sxly4bL8EsIOvWxe_BAmGNqEgYaMJ87D50oEb2_lHYbo4NK0PX8tsvI6qdBDOeJJPYNZ38dpL; _ga=GA1.1.1087145765.1785100307; cf_clearance=Yuexn_pTWn2aE12d8UMy3kYMMJJiIZKK6Btp0Ee4R00-1785100354-1.2.1.1-r8SQD9favDoeU84yxfyBN_u1gCHF.2yrIm5Y.FmEMCI_0Q07r3UPxZSXazBU9M1R7307ZweTpdIooNdVsYG6JzVHyMcYxP7Fxg6qpU8dSf7W345t0A.dp7Ve.jTDhCDt7l2JUEc1oYYTroz1jREexQsXFZkZNldmLzlknXYvno2eLs70_wI3pknLYmE6Bbs9Iw.RvHB7z8DVirPfcAoZMl960Ea2xF0UTqaPcm_At5lFsSnHFgKi2CzUzXAKzMbkYopRFEgXz4OyNGNNDh2TJydjhCHwpOpBs1mdGjQoDRUETQ29j_OFUwnrhGICyj_hee8AjvNLf6hlGQO5BRw8706.cHK8UzNcSl4NDq2dGEY; __cf_bm=Fz3MKhe6VZOlXV2gaZtihR4x4pZ_bHWmGKXFxrFyWZU-1785100374.8183765-1.0.1.1-4X0cjHiuUH_bEetbMoQH7B6h2Q3wH_qZq1eD2PKhz7obd.Gs0RsPL23ieeUCHY17CpkE17yctyxAkEv0z1oytW6G21uDCphUP6Q_pHAX7mt7VAhZwRKgSMztdmzM9M85; _ga_S52WSRDB70=GS2.1.s1785100306$o1$g1$t1785100469$j60$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1289,7 +1267,9 @@
             "tvg_name": "Orlando City B Vs Huntsville City",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
