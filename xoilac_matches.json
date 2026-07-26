@@ -1291,6 +1291,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_dominican_republic_vs_colombia_luc_0700_ngay_27_07_2026",
+        "title": "\u26bd Dominican Republic Vs Colombia",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dominican-republic-vs-colombia-luc-0700-ngay-27-07-2026",
+            "tvg_name": "Dominican Republic Vs Colombia",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
         "title": "\u26bd Barcelona Sc Vs Ldu Quito",
         "category": "EVENT LIVE",
@@ -2284,6 +2304,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_gor_mahia_vs_vipers_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Gor Mahia Vs Vipers",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "20:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gor-mahia-vs-vipers-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Gor Mahia Vs Vipers",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tho_nhi_ky_u18_vs_slovakia_u18_luc_2030_ngay_27_07_2026",
         "title": "\u26bd Tho Nhi Ky U Vs Slovakia U",
         "category": "EVENT LIVE",
@@ -2500,6 +2540,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_gneist_vs_brann_2_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Gneist Vs Brann",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gneist-vs-brann-2-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Gneist Vs Brann",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_widzew_lodz_vs_motor_lublin_luc_2230_ngay_26_07_2026",
