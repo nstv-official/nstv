@@ -2444,10 +2444,19 @@
         "id": "x_hegelmann_vs_fk_zalgiris_vilnius_luc_2245_ngay_27_07_2026",
         "title": "\u26bd Hegelmann Vs Fk Zalgiris Vilnius",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001785107808-0-0-a52eec8ccf27836ae4e96eb0e732845e&nstv_cache=1785107837",
         "is_live": true,
         "match_time": "22:45",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/5/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not.A.Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=4wyrn4h61dkxq86&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Smz7eV.QIMD0BitBiX8A58gwZMdbuU3amqrhYMmd2LY-1785107584.0293398-1.0.1.1-HszcHcEszB8xXcvL3QbjYbAUO2eDSNzjkyhEvh16oHijZLcezMX0Rdg6qLscp5Vgu5ZQMFPHWPcGmNEckXZwDFx8kx4fKvl27xHsi1rWA5CO5Cjswxyk3vQsmkwRbdTe; _ga=GA1.1.614625930.1785107590; _ga_P60BDCKB3G=GS2.1.s1785107589$o1$g1$t1785107629$j20$l0$h0; __cf_bm=1jmWHI9.XHbdOZGhG5fkr5JDJec59pTElhXaReE02bs-1785107632.6664999-1.0.1.1-flJiSB13FOwZysR1nGV2fSV1zadhDVnNgSfQtJJVk94M9a2PDYH6Tnx8xXdOE2.YN5oXLTj2pCTBuPU2Nzt9ErsZMoHTQcO8XtNp.Q41VyiNZhZJUxJGphjxqnfiwHO2; _ga=GA1.1.123338673.1785107634; cf_clearance=HHpeUj_t0dO7xN5v4NPizRstkBsu_Ju3sDNdh2ky1q8-1785107682-1.2.1.1-vjRsZCP53PEtb3dCabRqfu9bwLAuHiBhH3Q.rtYDbn3904e6SCw0K8ctya_BtlRo9C08KdY1qqLx4pEmtGanR4hhws4yJcqU._X2Mqdfs5mLi7E.jofVPQphzEVWHpLklOmBdZgGVDOO7J.yeDYU_eAbA7.dgnAUEadUMu6y88Kg6HzBYGokbcKmpipI9dGeKIDb6G3YM34McCSNiUW_sP2TvYxbdfnu.XAoL3CBNPYpx0fckXwuQ3Ou6MQnY2ds77XiBY0ZMVS754wzfqId3VSRLjfWJIAuyz5HPiBOAk8pkAxQSNHOrV3_5yK8UBuKMixY7YCusIDWHOKoZwJlU4naNLDSwgyCeLrhsqd25Ts; __cf_bm=KF5U.5jzkMs0Qffi6QEK74yOf736.IpFTVNgfvPmhjQ-1785107719.4548721-1.0.1.1-KQV9j3ldiU3O6XlKDENdF_MpovAunTOQzLMPcEI2FlIpPcRtec2euLbJYA_.YS2QNk_3xwkqpu6cnkLvEJjl.cwYdqbkozcxqTAOGZcLhbDvOHu_idxFbaVYmDYRdi_q; _ga_S52WSRDB70=GS2.1.s1785107634$o1$g1$t1785107807$j54$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2458,7 +2467,9 @@
             "tvg_name": "Hegelmann Vs Fk Zalgiris Vilnius",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_duc_u18_vs_lithuania_u18_luc_2300_ngay_27_07_2026",
