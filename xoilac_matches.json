@@ -1637,6 +1637,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "LIVE",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_ac_horsens_vs_nordsjaelland_luc_2300_ngay_26_07_2026",
         "title": "\u26bd Ac Horsens Vs Nordsjaelland",
         "category": "EVENT LIVE",
@@ -1879,6 +1899,26 @@
         "epg_metadata": {
             "tvg_id": "m.xoilac",
             "tvg_name": "Xoilac",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_top_nha_cai",
+        "title": "\u26bd Top Nha Cai",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.top-nha-cai",
+            "tvg_name": "Top Nha Cai",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -5033,26 +5073,6 @@
         "epg_metadata": {
             "tvg_id": "m.houston-dynamo-vs-austin-fc-luc-0730-ngay-26-07-2026",
             "tvg_name": "Houston Dynamo Vs Austin Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "LIVE",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
