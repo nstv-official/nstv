@@ -1,129 +1,5 @@
 [
     {
-        "id": "x_g2_esports_vs_karmine_corp_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd G Esports Vs Karmine Corp",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=aa9b3efebfc00b5cc64e12f15d79b5f6&wsABSTime=1785129884&nstv_cache=1785086722",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=j2ryy6tx3oywr1z&view=true",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086683$j11$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.g2-esports-vs-karmine-corp-luc-0000-ngay-27-07-2026",
-            "tvg_name": "G Esports Vs Karmine Corp",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_fk_csikszereda_vs_fcsb_luc_0030_ngay_27_07_2026",
-        "title": "\u26bd Fk Csikszereda Vs Fcsb",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel10.flv?nstv_cache=1785087004",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel10/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dj2ryohl04pyq1z&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=BfkPWBWMWWVCpnVNOrkvef2mjT_fPjuDZYiKjPmygoo-1785086871-1.2.1.1-toNS5m3N2h3IMy2yhnwLkOMteZEC1uIDzMQ2XQ2YHWzxzhXjA3mnQqeGuBFh_CgbuofhZDqQeA9H1sqykXSnKIPFj7ndSNtvtW7AAs9yEbuK0g7pd5it1xHBJLSaSNZtM8XElMhS1j7l6DeUTj0EVpk4xGU0Wj3YRou3asvmL8Do778v6i7.UfJ4u3VV7G_DlFn5XdS2y6TRVIPBJlLQQh6mz9umAKfBhbRnqZOQ98KMQfz92xECvasrBFh76vsNPxKWbFJcgUOBHTTmSecic89sjChbROK95kE8vZVsePneujC4fmVSZNHPz0.eP7DpcsUIoYRCgc9BoIgTaIdy.6cJ0KCFHcaNfak0OjOS8Fk; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785086965$j4$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fk-csikszereda-vs-fcsb-luc-0030-ngay-27-07-2026",
-            "tvg_name": "Fk Csikszereda Vs Fcsb",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_puszcza_vs_polonia_warszawa_luc_0030_ngay_27_07_2026",
-        "title": "\u26bd Puszcza Vs Polonia Warszawa",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel8.flv?wsSecret=607e6732cbcd5780985b3bf32d3b06eb&wsABSTime=1785131937&nstv_cache=1785088778",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel8/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not?A Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y0or5jh8d245qwz&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=B2QFdBGNvLMxYGiqlE7EbhvFwY3yd7O5Yz.DZl.KPEY-1785088629.4381456-1.0.1.1-WuVYhiV8va5cLJ7Akmb_l7QLcO8NWZ48Wp9PZ3s3eMe0n.mfYl.cPlX2Vh0QloW5zo8OUWLgeeHRtDdrA.ganBxuXSge.z9Qoow718jqqXg5pTi.Fg6fDoBI.WbGCrmx; _ga=GA1.1.1867850133.1785088632; cf_clearance=LPtMXMz7km8OokgR1Fb5RE2_w3GKru2na52rAEh1s8s-1785088657-1.2.1.1-rpUn58UZqga.x.NG7bSPulZ.T7uykBJ17OA6YXhtYMpQNycDTLbGJYqZnxwBDLWtGLafEANABh9.xeOsylKMzEdmd8gs3ajdK1xzW9dtHVZe4021B43F6EnVLlwAvxkEGXerb3dFw8Rzn2GD_r4dzTYLt5L3YwjLXVdzzpzQLSA3wvcECEcTrV0brJ2ZLeq2u_n3tgn01lXEZzq5_B8RZu_gOqphQuoo3XGtdYhT_J6cDI8sNqdAcwPDLg_hETbPMpst126V1qdit05coCV7JpQsPb0FBv0txmcGb.PFXz4EhA2S34Es625poJ9hIvGpgRHgo3he_bxHruLidolzo9nu5xQIHL6e0T0LV3dAFnI; _ga_P60BDCKB3G=GS2.1.s1785088631$o1$g1$t1785088715$j40$l0$h0; __cf_bm=lmYfr8q5yZAqu5kD6fX3Tz.ioIu2YjLIC9I3.kObLew-1785088716.5337713-1.0.1.1-E7TERPBjHX1UqAfVnF3cVaUaq7s_DXVyu6jpBhZL9EBJ2IIFo.9DIGZfpucupT1RC67wkjGmDFevw.27a3stmIcKC63POXVSGOXrsKJ202OvI47w.ZyX7SXxRi1vJTPg; _ga=GA1.1.1717842858.1785088718; _ga_S52WSRDB70=GS2.1.s1785088717$o1$g1$t1785088737$j40$l0$h0; cf_clearance=qt2vR8qOgY8NguvK.sLWXXV5pIKI0nP__l0E.0BvLyo-1785088739-1.2.1.1-IlfUlBpnPBUuNfY1HDQWgJqlL1.TUrQSD4eT.iVFDxh1a68kIqKpSoXksKHJs8w.wqwvWjSpFTf28oLRycA.nz6xmPojtnL2jtnlJn8IhLhRUUxzCKOV0OufWlB7JogYDACEdz_siLoFPy.LrHBrFsRNO13f5aIhUuK3LHiggUdum4sWswX9n0U5OTKtB.Qpk9UA3c0SFXynPXx67F5ItTQqU6deahkOTvrUUEulJLAB4EwVT_xjDclj8e3Ec6uyx4idSzvhtcfq9Mv.hEXZfdNYkwHq1YBS0T8V3vBTMAq9U9RNNstwttx.Un7mqXVUVZBE8TXNhY0OnbI5Q9IvCC7gPuZAvHd7EG0ZfBczBcw; __cf_bm=Wa3Iu4qoIo.7eJ_U7XG4AR71uo.xnbSpYwvxpbBIZ10-1785088776.8028963-1.0.1.1-BgXGWpsgFUNXE2EmZVZ1Z22oFkoG3PdFp6CXlk3fRFOCli1tNSqmk56bNPvMG5jylfCkIsB747MSOxoPV_CqHBDx1G.Bngtyxf9EaoE8uuhJRoyrKTDiRvn4DvPe1nGh",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.puszcza-vs-polonia-warszawa-luc-0030-ngay-27-07-2026",
-            "tvg_name": "Puszcza Vs Polonia Warszawa",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_chile_vs_nu_argentina_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Nu Chile Vs Nu Argentina",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=7389fd6a3401eaee8e0a3962938991ba&wsABSTime=1785129795&nstv_cache=1785086634",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=4wyrn3hwkpl2m86&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086594$j9$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-chile-vs-nu-argentina-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Nu Chile Vs Nu Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_fc_hradec_kralove_vs_fk_pardubice_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Fc Hradec Kralove Vs Fk Pardubice",
         "category": "EVENT LIVE",
@@ -1649,10 +1525,19 @@
         "id": "x_gimnasia_ytiro_vs_deportivo_maipu_luc_0400_ngay_27_07_2026",
         "title": "\u26bd Gimnasia Ytiro Vs Deportivo Maipu",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=f0fa91e91145d8129e3e19d399f2843c&wsABSTime=1785136463&nstv_cache=1785093301",
         "is_live": true,
         "match_time": "04:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel14/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghlp0xlmoe&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=YYUs6quppbEAkVLiFY4qoZw1Ec.P.wdCy1WgdiT6ckY-1785092960.60157-1.0.1.1-R7H23SdcK95l.wSWr3DacZbVde5xG7BPRyuQxM9bRu30HdCP7Hwu9W4sffhP9B7R4pnZYoJfrFqZWU5E9E3a3WD3N5zw9FSbIQIfMewQk66vKPpCEmuHPtr_cug5sqoa; _ga=GA1.1.848601116.1785092963; _ga_P60BDCKB3G=GS2.1.s1785092963$o1$g1$t1785093000$j23$l0$h0; __cf_bm=PLOe_a.heAONzwotmR4H9pOAC253aZVZDZ5uLk4UUTE-1785093001.2939034-1.0.1.1-hrRUTe6mXogldOUVZWShmV6OKki7D0W.Cwol6TUUKtXHmx0QX45xop6qWIOBDnvWxS.9sV29jFxPQGn6FD_omSvhjlCAbHSKAHpHCn5khgiV9dO0MsKWYhJCRF.xn2P9; _ga=GA1.1.5616248.1785093002; cf_clearance=tpDoTSsa5CBy1Kbcj8QrpZnG5FOVPUlScQ4EOKaWBDg-1785093040-1.2.1.1-lb5hmn_qcaVNNR3DNgOY1HPDejSjcOTjxtxvSpA5MCK33RPWGCDTIy.5fK9FnvFUDNNlcYmub6KlOvC0flAqbY3SGquOcUUk7IYsDkmRuPUpbQJB8P4V7sDgK3w2sWWavXKvloDXeXPcHLnmQT8FbeyNM3ZqRcIihigtB9l08xn7U9UAIyqDap0StfnLI1fedO6H6f91qLmsRGRy68E_jLwTRuL67Pzj4J0GE7nKkU4tHN6R2m9.v1SrlGYJ7BH0UKUJxbtJfmHdgaexbkvCXdWEuJ4UK9T0J2HImDUesusYaQIFsWtPCoLs2yEwEXLZ4kW5ZWrmMCx6Nznzlez6ljEtrZ_7ZM3DsZLHKWzokh4; _ga_S52WSRDB70=GS2.1.s1785093002$o1$g1$t1785093263$j54$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1663,7 +1548,9 @@
             "tvg_name": "Gimnasia Ytiro Vs Deportivo Maipu",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_aguilas_doradas_vs_ind_santa_fe_luc_0405_ngay_27_07_2026",
