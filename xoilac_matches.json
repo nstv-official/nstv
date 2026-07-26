@@ -2576,29 +2576,6 @@
         }
     },
     {
-        "id": "x_ColumbusCrewVsFcCincinnati_06:15",
-        "title": "\u26bd Columbus Crew Vs Fc Cincinnati",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "06:15",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.columbus-crew-vs-fc-cincinnati-luc-0600-ngay-26-07-2026",
-            "tvg_name": "Columbus Crew Vs Fc Cincinnati",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "ls_VascoDaGamaVsMirassol_06:30",
         "title": "\u26bd Vasco Da Gama Vs Mirassol",
         "category": "EVENT LIVE",
