@@ -1385,6 +1385,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_nacional_potosi_vs_real_tomayapo_luc_0630_ngay_27_07_2026",
+        "title": "\u26bd Nacional Potosi Vs Real Tomayapo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nacional-potosi-vs-real-tomayapo-luc-0630-ngay-27-07-2026",
+            "tvg_name": "Nacional Potosi Vs Real Tomayapo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_amazonas_fc_vs_paysandu_sc_luc_0630_ngay_27_07_2026",
+        "title": "\u26bd Amazonas Fc Vs Paysandu Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.amazonas-fc-vs-paysandu-sc-luc-0630-ngay-27-07-2026",
+            "tvg_name": "Amazonas Fc Vs Paysandu Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_leones_de_ponce_vs_aguada_santeros_luc_0700_ngay_28_07_2026",
         "title": "\u26bd Leones De Ponce Vs Aguada Santeros",
         "category": "EVENT LIVE",
@@ -1509,6 +1549,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_d_concepcion_vs_o_higgins_luc_0730_ngay_27_07_2026",
+        "title": "\u26bd D Concepcion Vs O Higgins",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.d-concepcion-vs-o-higgins-luc-0730-ngay-27-07-2026",
+            "tvg_name": "D Concepcion Vs O Higgins",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tristan_boyer_vs_bernard_tomic_luc_0800_ngay_27_07_2026",
         "title": "\u26bd Tristan Boyer Vs Bernard Tomic",
         "category": "EVENT LIVE",
@@ -1570,6 +1630,26 @@
         },
         "media_id": "aHR0cHM6Ly9zdC5v",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_angel_city_vs_nu_racing_louisville_luc_0800_ngay_27_07_2026",
+        "title": "\u26bd Nu Angel City Vs Nu Racing Louisville",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "08:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-angel-city-vs-nu-racing-louisville-luc-0800-ngay-27-07-2026",
+            "tvg_name": "Nu Angel City Vs Nu Racing Louisville",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
