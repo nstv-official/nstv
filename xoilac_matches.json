@@ -1,36 +1,5 @@
 [
     {
-        "id": "x_aalesund_fk_vs_viking_luc_0015_ngay_27_07_2026",
-        "title": "\u26bd Aalesund Fk Vs Viking",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?nstv_cache=1785088695",
-        "is_live": true,
-        "match_time": "00:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not?A Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=y0or5jh8z306qwz&view=true",
-            "Cookie": "__cf_bm=B2QFdBGNvLMxYGiqlE7EbhvFwY3yd7O5Yz.DZl.KPEY-1785088629.4381456-1.0.1.1-WuVYhiV8va5cLJ7Akmb_l7QLcO8NWZ48Wp9PZ3s3eMe0n.mfYl.cPlX2Vh0QloW5zo8OUWLgeeHRtDdrA.ganBxuXSge.z9Qoow718jqqXg5pTi.Fg6fDoBI.WbGCrmx; _ga=GA1.1.1867850133.1785088632; _ga_P60BDCKB3G=GS2.1.s1785088631$o1$g1$t1785088654$j37$l0$h0; cf_clearance=LPtMXMz7km8OokgR1Fb5RE2_w3GKru2na52rAEh1s8s-1785088657-1.2.1.1-rpUn58UZqga.x.NG7bSPulZ.T7uykBJ17OA6YXhtYMpQNycDTLbGJYqZnxwBDLWtGLafEANABh9.xeOsylKMzEdmd8gs3ajdK1xzW9dtHVZe4021B43F6EnVLlwAvxkEGXerb3dFw8Rzn2GD_r4dzTYLt5L3YwjLXVdzzpzQLSA3wvcECEcTrV0brJ2ZLeq2u_n3tgn01lXEZzq5_B8RZu_gOqphQuoo3XGtdYhT_J6cDI8sNqdAcwPDLg_hETbPMpst126V1qdit05coCV7JpQsPb0FBv0txmcGb.PFXz4EhA2S34Es625poJ9hIvGpgRHgo3he_bxHruLidolzo9nu5xQIHL6e0T0LV3dAFnI",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.aalesund-fk-vs-viking-luc-0015-ngay-27-07-2026",
-            "tvg_name": "Aalesund Fk Vs Viking",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_g2_esports_vs_karmine_corp_luc_0000_ngay_27_07_2026",
         "title": "\u26bd G Esports Vs Karmine Corp",
         "category": "EVENT LIVE",
