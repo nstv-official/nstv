@@ -6338,6 +6338,305 @@
         }
     },
     {
+        "id": "x_NewEnglandVsAtlantaUnited_LIVE",
+        "title": "\u26bd New England Vs Atlanta United",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.new-england-vs-atlanta-united-luc-0630-ngay-26-07-2026",
+            "tvg_name": "New England Vs Atlanta United",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NewYorkCityVsChicagoFire_LIVE",
+        "title": "\u26bd New York City Vs Chicago Fire",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.new-york-city-vs-chicago-fire-luc-0630-ngay-26-07-2026",
+            "tvg_name": "New York City Vs Chicago Fire",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DcUnitedVsTorontoFc_LIVE",
+        "title": "\u26bd Dc United Vs Toronto Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dc-united-vs-toronto-fc-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Dc United Vs Toronto Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_BrooklynFcVsSanAntonio_LIVE",
+        "title": "\u26bd Brooklyn Fc Vs San Antonio",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.brooklyn-fc-vs-san-antonio-luc-0645-ngay-26-07-2026",
+            "tvg_name": "Brooklyn Fc Vs San Antonio",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuNorthCarolinaVsNuUtahRoyals_LIVE",
+        "title": "\u26bd Nu North Carolina Vs Nu Utah Royals",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-north-carolina-vs-nu-utah-royals-luc-0645-ngay-26-07-2026",
+            "tvg_name": "Nu North Carolina Vs Nu Utah Royals",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VenadosFcYucatanVsAlebrijesDeOaxaca_LIVE",
+        "title": "\u26bd Venados Fc Yucatan Vs Alebrijes De Oaxaca",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.venados-fc-yucatan-vs-alebrijes-de-oaxaca-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Venados Fc Yucatan Vs Alebrijes De Oaxaca",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_UnivCatolicaVsDeportesLaSerena_LIVE",
+        "title": "\u26bd Univ Catolica Vs Deportes La Serena",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.univ-catolica-vs-deportes-la-serena-luc-0700-ngay-26-07-2026",
+            "tvg_name": "Univ Catolica Vs Deportes La Serena",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TecnicoUniVsMantaFc_LIVE",
+        "title": "\u26bd Tecnico Uni Vs Manta Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tecnico-uni-vs-manta-fc-luc-0700-ngay-26-07-2026",
+            "tvg_name": "Tecnico Uni Vs Manta Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ManaguaFcVsJalapa_LIVE",
+        "title": "\u26bd Managua Fc Vs Jalapa",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.managua-fc-vs-jalapa-luc-0700-ngay-26-07-2026",
+            "tvg_name": "Managua Fc Vs Jalapa",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_RealCartagenaVsRealSantander_LIVE",
+        "title": "\u26bd Real Cartagena Vs Real Santander",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.real-cartagena-vs-real-santander-luc-0700-ngay-26-07-2026",
+            "tvg_name": "Real Cartagena Vs Real Santander",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_FcTulsaVsLexington_LIVE",
+        "title": "\u26bd Fc Tulsa Vs Lexington",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-tulsa-vs-lexington-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Fc Tulsa Vs Lexington",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_CorpusChristiFcVsGreenvilleTriumph_LIVE",
+        "title": "\u26bd Corpus Christi Fc Vs Greenville Triumph",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.corpus-christi-fc-vs-greenville-triumph-luc-0730-ngay-26-07-2026",
+            "tvg_name": "Corpus Christi Fc Vs Greenville Triumph",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DoradosDeChihuahuaVsFreserosDeIrapuato_LIVE",
+        "title": "\u26bd Dorados De Chihuahua Vs Freseros De Irapuato",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dorados-de-chihuahua-vs-freseros-de-irapuato-luc-0715-ngay-26-07-2026",
+            "tvg_name": "Dorados De Chihuahua Vs Freseros De Irapuato",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_StandardLiegeVsJuventus_00:00",
         "title": "\u26bd Standard Liege Vs Juventus",
         "category": "EVENT LIVE",
