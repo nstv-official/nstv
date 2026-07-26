@@ -707,10 +707,19 @@
         "id": "x_nu_deportivo_pasto_vs_nu_once_caldas_luc_0300_ngay_27_07_2026",
         "title": "\u26bd Nu Deportivo Pasto Vs Nu Once Caldas",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel4.flv?wsSecret=f66427d3fefa62bb6dccb56788649844&wsABSTime=1785141500&nstv_cache=1785098370",
         "is_live": true,
         "match_time": "03:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel4/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not;A=Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y0or5jh8p00yqwz&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=6r0BxprENYqz74PtIlxq7ZkMMG.G5wMMgwP4h5.9LwI-1785098204.3077264-1.0.1.1-ogO45Oes6oP.AHSgX422pTUuZOsN251JALMK9X2eochQaEAwlc2KwGuqAiHbcmckNPpmvDgT8C5Kod3E1tX8whuORyO83Wc1.j.lqXROKQZCGDtJbKKTtJG5HnkA3adP; _ga=GA1.1.557072854.1785098212; _ga_P60BDCKB3G=GS2.1.s1785098212$o1$g1$t1785098262$j10$l0$h0; __cf_bm=N_XB22JAeZ1NXnMDKaxBol_oboMSGf0.9a.jR1NXMSA-1785098267.023251-1.0.1.1-C1F.xU5TkZwv45NTEQzafuhmyXObk2W3RpZFMTV7kTqj57sFypIUa5EeUqkGELRnZVXGGXyHIW4VvRqGR8Iq3c81we4t8J29edZ4kLVCVhdh0WRkWshuKPGsJTzQFNQv; _ga=GA1.1.352275598.1785098270; _ga_S52WSRDB70=GS2.1.s1785098269$o1$g1$t1785098300$j29$l0$h0; cf_clearance=eFOsavs98BcTErLQFH6_t5DlJBA2q0C4bGIMM_OVnGU-1785098309-1.2.1.1-GhST3UFva_H6sBJRmfbmSzPfFxvHnDLJlqDBZ5d1YJoYF2qCNgVQO.z9gRUgFmlJvvIR7p7FMEszBCLg4Hv76lFqrktXDAfa5P4A279RHDvZZECEyCdjaEtXmW2yxWJXJuV970tMnSYrwtK5gyrsHt8q42k5LmcCVbp1EelEBcGqG12btjXgTSa8KNzqL.htZkOKNbe1HtX2ux4i_wx2zKBQpmFoggw9kEa_5qHWvPi56vHJynVjDTkSo9WJ59hzTwKUC42XnxGnZxrrP.sMD7PJq01xVWV5tPxknWIzP5IyCt_YifVtsh_49Y.aCof7JITTnkaPjd3pbu9zd47rlQgCSGPSAhoVs_YEGVbyTRI; __cf_bm=H7dhL48.psjtYpSwlI8rWAGcXmgA6mC_25g98AvFhFo-1785098349.9576335-1.0.1.1-0NtI8Hd_D57pgrVgwnjGyHoPO7iz9GKfIdgHegcdn333o7HLAwcXwUdBhLorFG5_9BiWbaFbwVvnaXyJLTkUFAWnjkmjyDii9ZG_t6woYmjigoBBogAhgPXCRtYOefKH",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -721,7 +730,9 @@
             "tvg_name": "Nu Deportivo Pasto Vs Nu Once Caldas",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_team_liquid_alienware_vs_cloud9_luc_0300_ngay_27_07_2026",
