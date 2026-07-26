@@ -656,6 +656,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_marcos_giron_vs_andre_ilagan_luc_2210_ngay_26_07_2026",
+        "title": "\u26bd Marcos Giron Vs Andre Ilagan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:35",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.marcos-giron-vs-andre-ilagan-luc-2210-ngay-26-07-2026",
+            "tvg_name": "Marcos Giron Vs Andre Ilagan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
         "title": "\u26bd San Van Dong To Chuc World Cup  Thong Tin Chinh Thuc Va Chi Tiet",
         "category": "EVENT LIVE",
