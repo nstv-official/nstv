@@ -3041,10 +3041,19 @@
         "id": "x_guatemala_vs_nicaragua_luc_2330_ngay_28_07_2026",
         "title": "\u26bd Guatemala Vs Nicaragua",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=ef2d1adc7b15d3dd514dd908e801d7d3&wsABSTime=1785135465&nstv_cache=1785092303",
         "is_live": true,
         "match_time": "23:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel42/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A-Brand\";v=\"24\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=zp5rzkt6v8p0r82&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=1MUJIbPm9Zo4AxWmTHFqZivbV9kqgIfY1YasBlJduu4-1785092201.5750663-1.0.1.1-x1olB92sdcrTa7Oxti0BLGjFkBWWr8KCF9GhMtprHuskGiVmSiH3ZUbXlYhU9Knn5NXLL8R.dmB6tu.I01QYGhIsjflovgUwqHNfQVNwzd8LNzo4De2lb5BnOi7xUWFP; _ga=GA1.1.957883363.1785092203; _ga_P60BDCKB3G=GS2.1.s1785092203$o1$g1$t1785092241$j22$l0$h0; __cf_bm=r2EB0CQI2YK41DPWozM5bIGEU9yHHiZna4D9vk2pLeg-1785092242.842914-1.0.1.1-UJ0hhiulXsQT1Pq21dKdFZVNcjbmWjPkFk07Ixf5fINOWZO2nNsymu9Cbp1EqpSSm1Gi9iHvO4DWVpuNLYAqb3Mpx.Bu0Z0nJ9trNJQSg23h420GoV.Kv0jN9oLuJFBK; _ga=GA1.1.1498902877.1785092244; _ga_S52WSRDB70=GS2.1.s1785092243$o1$g1$t1785092263$j40$l0$h0; cf_clearance=bG8m_etw0ASZoXWCAcfeCHZPp46ht9XcgbXHyI0PECQ-1785092266-1.2.1.1-Ca5IRhJaH5yvvI4p.SKgzCIZj1d7ABCFA_XqsGKuv7t5qUhB0YpHcy9XRkW__mTAjd1m6szG1O0B1G3WPqEv_rFA3hvx9yb_x5kI4gvNqFsfsQFAVz8txuoiv.StX7gT8MgI1vSMACfoPQ7Wn_2MUIEou8l0dZ7d22Z51dMxuKv3Ggb6q1ekDHd9.rJO6UqCMXYBktMjIBob9Md2Tn8q1pi6AqH_z9BdGpAKExFM5NhoLcKBXkS5rRM60LL5s2lx.vQl4PWVkzZW2VegHdO2iQ8cA4ai_0LYPf4yw5avCZBKFmXbPmvKaRJR4k61vtU3jL0lktMCs7QxKOuiLkMHGvtGY2EePytEEGY8NOf3_OI; __cf_bm=6_eJFF.p.1.Cmn3z.bVazQK3vUY.PCPOtzvGrj4JZ.Q-1785092302.5702562-1.0.1.1-k7y0ub5h7JH4Movjk_p.p5pV_1iarMi5mnTSS76ieZGmbm4S20iVdgLHVrQuPoAbxSiMJDCuwoWP7.VeA1RMpW90ILZTl1WldmrM7k1nA_.CuMdu_bNSZYzg8ZXCTWct",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -3055,7 +3064,9 @@
             "tvg_name": "Guatemala Vs Nicaragua",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_100_thieves_vs_spirit_luc_0030_ngay_27_07_2026",
