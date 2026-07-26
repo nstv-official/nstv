@@ -659,10 +659,19 @@
         "id": "x_marcos_giron_vs_andre_ilagan_luc_2210_ngay_26_07_2026",
         "title": "\u26bd Marcos Giron Vs Andre Ilagan",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel63.flv?wsSecret=194d3265d96b6d117748f65be4a22d8d&wsABSTime=1785128197&nstv_cache=1785085037",
         "is_live": true,
         "match_time": "23:35",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel63/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not)A?Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/tennis?profile=9gm9whe87ueuzr0&uuid=23xmvvf2nje2mg8&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=eAQm6xaKpCGAT8v88MqfAmwf1EwT3TXsSDNjrmsxW_I-1785084950.8133204-1.0.1.1-wT3SjjWGH2ug6n9fQCfzCxy7wpWShOc.E3d5a0.68RWLe6cQzLfeiOr0qIoK_EXMpzWx3BnS65cN70_ZOw35BogICBC00jmcbKaLVXvIm_YYaQvM9wcBFbDqBGqMRWaW; _ga=GA1.1.259885413.1785084953; _ga_P60BDCKB3G=GS2.1.s1785084953$o1$g1$t1785084973$j40$l0$h0; __cf_bm=7eIXmoSiQh9dh3.GbY0eRBTP5EQ3HbdIz36yw7KDJmM-1785084974.7383187-1.0.1.1-981tNqwvuTB0pvQ_KB.DYb6c4OUSEDlbDK2ChmYq30MCkSwzA6ugdTnkRyo13JG_g.vEsGhrYfsgL.pkbw9agpfyguix3n2MZWPv0PvY1548CxG8UaIdKS8qjHYgwqZZ; _ga=GA1.1.351237283.1785084975; _ga_S52WSRDB70=GS2.1.s1785084975$o1$g1$t1785084996$j39$l0$h0; cf_clearance=Td4DzRgs0tNPxkIs9JUnjxXhGKJ3N4FjcaTsNnrrTb4-1785085000-1.2.1.1-B5GIyuNLtF_G__UxAPaQkmiMJ_zgC6C.JBlqM_wBFOhZFAC9DiUWHH7VA_noXN4yyiiufDIPDVWlR9xI5gqAXPkusQ3iKqLHfTM8mZR4dst5sR9lWu0ggyAP50Qcb1ciWl5HGXN1wxZp6E3rAy1oUurPaeYFD7bkiNJWheDKkN7ZRnGBrbrODbbOqlgoXzogm1qmChhS6faGxyb2qzp4uVBZeYppekcMRz1fuwxr5XmYcAV4.Apcar.96MQOigU0JHT5RhA7Gsi3G4OEiqy2agFtcsIt_Glfvp2RWjfASacoP8wnEnlQA5xxDYPvtSZUXmMywLmKaJGu69lWeqfRJURPdwRb5BoUnMXIPp.fvhY",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -673,7 +682,9 @@
             "tvg_name": "Marcos Giron Vs Andre Ilagan",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
