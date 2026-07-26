@@ -2185,98 +2185,6 @@
         }
     },
     {
-        "id": "x_ColumbusCrewVsFcCincinnati_00:00",
-        "title": "\u26bd Columbus Crew Vs Fc Cincinnati",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.columbus-crew-vs-fc-cincinnati-luc-0600-ngay-26-07-2026",
-            "tvg_name": "Columbus Crew Vs Fc Cincinnati",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_CarolinaCoreVsChicagoFlameB_00:00",
-        "title": "\u26bd Carolina Core Vs Chicago Flame B",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.carolina-core-vs-chicago-flame-b-luc-0630-ngay-26-07-2026",
-            "tvg_name": "Carolina Core Vs Chicago Flame B",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_VascoDaGamaVsMirassolSp_00:00",
-        "title": "\u26bd Vasco Da Gama Vs Mirassol Sp",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.vasco-da-gama-vs-mirassol-sp-luc-0630-ngay-26-07-2026",
-            "tvg_name": "Vasco Da Gama Vs Mirassol Sp",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_InPetroleroVsOrientePetrolero_00:00",
-        "title": "\u26bd In Petrolero Vs Oriente Petrolero",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "00:00",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.in-petrolero-vs-oriente-petrolero-luc-0630-ngay-26-07-2026",
-            "tvg_name": "In Petrolero Vs Oriente Petrolero",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "ls_LiverpoolVsSunderlandAfc_05:00",
         "title": "\u26bd Liverpool Vs Sunderland Afc",
         "category": "EVENT LIVE",
@@ -3390,29 +3298,6 @@
         "epg_metadata": {
             "tvg_id": "m.gazovik-orenburg-vs-fk-rostov-luc-1830-ngay-26-07-2026",
             "tvg_name": "Gazovik Orenburg Vs Fk Rostov",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ShandongTaishanVsHenanFc_18:35",
-        "title": "\u26bd Shandong Taishan Vs Henan Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "18:35",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.shandong-taishan-vs-henan-fc-luc-1835-ngay-26-07-2026",
-            "tvg_name": "Shandong Taishan Vs Henan Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -5877,6 +5762,98 @@
         "epg_metadata": {
             "tvg_id": "m.alianza-fc-pan-vs-umecit-luc-0615-ngay-26-07-2026",
             "tvg_name": "Alianza Fc Pan Vs Umecit",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ColumbusCrewVsFcCincinnati_LIVE",
+        "title": "\u26bd Columbus Crew Vs Fc Cincinnati",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.columbus-crew-vs-fc-cincinnati-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Columbus Crew Vs Fc Cincinnati",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_CarolinaCoreVsChicagoFlameB_LIVE",
+        "title": "\u26bd Carolina Core Vs Chicago Flame B",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.carolina-core-vs-chicago-flame-b-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Carolina Core Vs Chicago Flame B",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VascoDaGamaVsMirassolSp_LIVE",
+        "title": "\u26bd Vasco Da Gama Vs Mirassol Sp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.vasco-da-gama-vs-mirassol-sp-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Vasco Da Gama Vs Mirassol Sp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_InPetroleroVsOrientePetrolero_LIVE",
+        "title": "\u26bd In Petrolero Vs Oriente Petrolero",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.in-petrolero-vs-oriente-petrolero-luc-0630-ngay-26-07-2026",
+            "tvg_name": "In Petrolero Vs Oriente Petrolero",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
