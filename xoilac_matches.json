@@ -1048,6 +1048,46 @@
         }
     },
     {
+        "id": "x_mfk_ruzomberok_vs_dunajska_streda_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Mfk Ruzomberok Vs Dunajska Streda",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mfk-ruzomberok-vs-dunajska-streda-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Mfk Ruzomberok Vs Dunajska Streda",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_atlanta_united_fc_ii_vs_new_york_city_b_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Atlanta United Fc Ii Vs New York City B",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atlanta-united-fc-ii-vs-new-york-city-b-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Atlanta United Fc Ii Vs New York City B",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_marcos_giron_vs_andre_ilagan_luc_2210_ngay_26_07_2026",
         "title": "\u26bd Marcos Giron Vs Andre Ilagan",
         "category": "EVENT LIVE",
@@ -1092,6 +1132,86 @@
         "epg_metadata": {
             "tvg_id": "m.widzew-lodz-vs-motor-lublin-luc-2230-ngay-26-07-2026",
             "tvg_name": "Widzew Lodz Vs Motor Lublin",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_cannes_as_vs_as_roma_luc_2230_ngay_26_07_2026",
+        "title": "\u26bd Cannes As Vs As Roma",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cannes-as-vs-as-roma-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Cannes As Vs As Roma",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_jelgava_vs_fk_liepaja_luc_2230_ngay_26_07_2026",
+        "title": "\u26bd Jelgava Vs Fk Liepaja",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.jelgava-vs-fk-liepaja-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Jelgava Vs Fk Liepaja",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fk_jablonec_vs_sk_sigma_olomouc_luc_2230_ngay_26_07_2026",
+        "title": "\u26bd Fk Jablonec Vs Sk Sigma Olomouc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-jablonec-vs-sk-sigma-olomouc-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Fk Jablonec Vs Sk Sigma Olomouc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_transinvest_vs_dziugas_telsiai_luc_2245_ngay_26_07_2026",
+        "title": "\u26bd Transinvest Vs Dziugas Telsiai",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.transinvest-vs-dziugas-telsiai-luc-2245-ngay-26-07-2026",
+            "tvg_name": "Transinvest Vs Dziugas Telsiai",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1240,6 +1360,146 @@
         }
     },
     {
+        "id": "x_ac_horsens_vs_nordsjaelland_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Ac Horsens Vs Nordsjaelland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ac-horsens-vs-nordsjaelland-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Ac Horsens Vs Nordsjaelland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_saku_sporting_vs_nu_paide_linnameeskond_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Nu Saku Sporting Vs Nu Paide Linnameeskond",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-saku-sporting-vs-nu-paide-linnameeskond-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Nu Saku Sporting Vs Nu Paide Linnameeskond",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_chertanovo_moscow_vs_zvezda_sint_petersburg_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Chertanovo Moscow Vs Zvezda Sint Petersburg",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chertanovo-moscow-vs-zvezda-sint-petersburg-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Chertanovo Moscow Vs Zvezda Sint Petersburg",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bursaspor_vs_shakhtar_donetsk_luc_0000_ngay_27_07_2026",
+        "title": "\u26bd Bursaspor Vs Shakhtar Donetsk",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bursaspor-vs-shakhtar-donetsk-luc-0000-ngay-27-07-2026",
+            "tvg_name": "Bursaspor Vs Shakhtar Donetsk",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_wiener_sc_vs_austria_vienna_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Wiener Sc Vs Austria Vienna",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.wiener-sc-vs-austria-vienna-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Wiener Sc Vs Austria Vienna",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_debreceni_vsc_vs_puskas_akademia_fc_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Debreceni Vsc Vs Puskas Akademia Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.debreceni-vsc-vs-puskas-akademia-fc-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Debreceni Vsc Vs Puskas Akademia Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fk_auda_riga_vs_bfc_daugavpils_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Fk Auda Riga Vs Bfc Daugavpils",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-auda-riga-vs-bfc-daugavpils-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Fk Auda Riga Vs Bfc Daugavpils",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
         "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
         "category": "EVENT LIVE",
@@ -1316,12 +1576,12 @@
         }
     },
     {
-        "id": "x_cannes_as_vs_as_roma_luc_2230_ngay_26_07_2026",
-        "title": "\u26bd Cannes As Vs As Roma",
+        "id": "x_frosinone_vs_ascoli_luc_2330_ngay_26_07_2026",
+        "title": "\u26bd Frosinone Vs Ascoli",
         "category": "EVENT LIVE",
         "uri": "",
-        "is_live": false,
-        "match_time": "22:30",
+        "is_live": true,
+        "match_time": "23:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1329,48 +1589,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.cannes-as-vs-as-roma-luc-2230-ngay-26-07-2026",
-            "tvg_name": "Cannes As Vs As Roma",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_jelgava_vs_fk_liepaja_luc_2230_ngay_26_07_2026",
-        "title": "\u26bd Jelgava Vs Fk Liepaja",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.jelgava-vs-fk-liepaja-luc-2230-ngay-26-07-2026",
-            "tvg_name": "Jelgava Vs Fk Liepaja",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ac_horsens_vs_nordsjaelland_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Ac Horsens Vs Nordsjaelland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "23:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ac-horsens-vs-nordsjaelland-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Ac Horsens Vs Nordsjaelland",
+            "tvg_id": "m.frosinone-vs-ascoli-luc-2330-ngay-26-07-2026",
+            "tvg_name": "Frosinone Vs Ascoli",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1598,6 +1818,26 @@
         "epg_metadata": {
             "tvg_id": "m.top-nha-cai",
             "tvg_name": "Top Nha Cai",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilac",
+        "title": "\u26bd Xoilac",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "Jadwal",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilac",
+            "tvg_name": "Xoilac",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
