@@ -2185,61 +2185,12 @@
         }
     },
     {
-        "id": "ls_AtleticoParanaenseVsInternacionalRs_04:30",
-        "title": "\u26bd Atletico Paranaense Vs Internacional Rs",
+        "id": "x_ColumbusCrewVsFcCincinnati_00:00",
+        "title": "\u26bd Columbus Crew Vs Fc Cincinnati",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:30",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2910817-atletico-paranaense-vs-internacional-rs",
-            "tvg_name": "Atletico Paranaense Vs Internacional Rs",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "ls_SantosVsChapecoenseSc_04:30",
-        "title": "\u26bd Santos Vs Chapecoense Sc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "04:30",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.2910825-santos-vs-chapecoense-sc",
-            "tvg_name": "Santos Vs Chapecoense Sc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_AtlParanaenseVsInternacionalRs_04:30",
-        "title": "\u26bd Atl Paranaense Vs Internacional Rs",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "04:30",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -2250,20 +2201,19 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.atl-paranaense-vs-internacional-rs-luc-0430-ngay-26-07-2026",
-            "tvg_name": "Atl Paranaense Vs Internacional Rs",
+            "tvg_id": "m.columbus-crew-vs-fc-cincinnati-luc-0600-ngay-26-07-2026",
+            "tvg_name": "Columbus Crew Vs Fc Cincinnati",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_SantosVsChapecoenseSc_04:30",
-        "title": "\u26bd Santos Vs Chapecoense Sc",
+        "id": "x_CarolinaCoreVsChicagoFlameB_00:00",
+        "title": "\u26bd Carolina Core Vs Chicago Flame B",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "04:30",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -2274,8 +2224,54 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.santos-vs-chapecoense-sc-luc-0430-ngay-26-07-2026",
-            "tvg_name": "Santos Vs Chapecoense Sc",
+            "tvg_id": "m.carolina-core-vs-chicago-flame-b-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Carolina Core Vs Chicago Flame B",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_VascoDaGamaVsMirassolSp_00:00",
+        "title": "\u26bd Vasco Da Gama Vs Mirassol Sp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.vasco-da-gama-vs-mirassol-sp-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Vasco Da Gama Vs Mirassol Sp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_InPetroleroVsOrientePetrolero_00:00",
+        "title": "\u26bd In Petrolero Vs Oriente Petrolero",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.in-petrolero-vs-oriente-petrolero-luc-0630-ngay-26-07-2026",
+            "tvg_name": "In Petrolero Vs Oriente Petrolero",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -3394,6 +3390,29 @@
         "epg_metadata": {
             "tvg_id": "m.gazovik-orenburg-vs-fk-rostov-luc-1830-ngay-26-07-2026",
             "tvg_name": "Gazovik Orenburg Vs Fk Rostov",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ShandongTaishanVsHenanFc_18:35",
+        "title": "\u26bd Shandong Taishan Vs Henan Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:35",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.shandong-taishan-vs-henan-fc-luc-1835-ngay-26-07-2026",
+            "tvg_name": "Shandong Taishan Vs Henan Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
