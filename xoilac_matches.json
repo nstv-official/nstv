@@ -2601,6 +2601,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_garde_republicaine_vs_apr_fc_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Garde Republicaine Vs Apr Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.garde-republicaine-vs-apr-fc-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Garde Republicaine Vs Apr Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
         "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
         "category": "EVENT LIVE",
