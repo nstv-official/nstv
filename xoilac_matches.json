@@ -332,6 +332,26 @@
         }
     },
     {
+        "id": "x_fk_yelimay_semey_vs_kaisar_kyzylorda_luc_2000_ngay_26_07_2026",
+        "title": "\u26bd Fk Yelimay Semey Vs Kaisar Kyzylorda",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-yelimay-semey-vs-kaisar-kyzylorda-luc-2000-ngay-26-07-2026",
+            "tvg_name": "Fk Yelimay Semey Vs Kaisar Kyzylorda",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_movistar_koi_vs_team_vitality_luc_2100_ngay_26_07_2026",
         "title": "\u26bd Movistar Koi Vs Team Vitality",
         "category": "EVENT LIVE",
@@ -488,6 +508,53 @@
         }
     },
     {
+        "id": "x_sokol_saratov_vs_dynamo_kirov_luc_2130_ngay_26_07_2026",
+        "title": "\u26bd Sokol Saratov Vs Dynamo Kirov",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sokol-saratov-vs-dynamo-kirov-luc-2130-ngay-26-07-2026",
+            "tvg_name": "Sokol Saratov Vs Dynamo Kirov",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_wildcard_vs_the_mongolz_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Wildcard Vs The Mongolz",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=9b30efdcf8c07411f2e57765c935377a&wsABSTime=1785119386",
+        "is_live": true,
+        "match_time": "21:35",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076185$j11$l0$h0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.wildcard-vs-the-mongolz-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Wildcard Vs The Mongolz",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nu_bolivia_vs_nu_ecuador_luc_2200_ngay_26_07_2026",
         "title": "\u26bd Nu Bolivia Vs Nu Ecuador",
         "category": "EVENT LIVE",
@@ -515,28 +582,261 @@
         }
     },
     {
-        "id": "x_wildcard_vs_the_mongolz_luc_2200_ngay_26_07_2026",
-        "title": "\u26bd Wildcard Vs The Mongolz",
+        "id": "x_kfum_oslo_vs_molde_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Kfum Oslo Vs Molde",
         "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=9b30efdcf8c07411f2e57765c935377a&wsABSTime=1785119386",
+        "uri": "",
         "is_live": true,
         "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076185$j11$l0$h0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.wildcard-vs-the-mongolz-luc-2200-ngay-26-07-2026",
-            "tvg_name": "Wildcard Vs The Mongolz",
+            "tvg_id": "m.kfum-oslo-vs-molde-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Kfum Oslo Vs Molde",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sarpsborg_08_vs_ham_kam_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Sarpsborg  Vs Ham Kam",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sarpsborg-08-vs-ham-kam-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Sarpsborg  Vs Ham Kam",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sandefjord_vs_bodo_glimt_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Sandefjord Vs Bodo Glimt",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sandefjord-vs-bodo-glimt-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Sandefjord Vs Bodo Glimt",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_rangers_vs_west_ham_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Rangers Vs West Ham",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.rangers-vs-west-ham-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Rangers Vs West Ham",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_msk_zilina_vs_fk_kosice_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Msk Zilina Vs Fk Kosice",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.msk-zilina-vs-fk-kosice-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Msk Zilina Vs Fk Kosice",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fk_kaspyi_aktau_vs_zhenis_astana_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Fk Kaspyi Aktau Vs Zhenis Astana",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-kaspyi-aktau-vs-zhenis-astana-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Fk Kaspyi Aktau Vs Zhenis Astana",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fc_sochi_vs_arsenal_tula_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Fc Sochi Vs Arsenal Tula",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-sochi-vs-arsenal-tula-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Fc Sochi Vs Arsenal Tula",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bunyodkor_vs_pakhtakor_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Bunyodkor Vs Pakhtakor",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bunyodkor-vs-pakhtakor-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Bunyodkor Vs Pakhtakor",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sandnes_ulf_vs_kongsvinger_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Sandnes Ulf Vs Kongsvinger",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sandnes-ulf-vs-kongsvinger-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Sandnes Ulf Vs Kongsvinger",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_asane_fotball_vs_egersunds_ik_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Asane Fotball Vs Egersunds Ik",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.asane-fotball-vs-egersunds-ik-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Asane Fotball Vs Egersunds Ik",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_unia_skierniewice_vs_stal_mielec_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Unia Skierniewice Vs Stal Mielec",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.unia-skierniewice-vs-stal-mielec-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Unia Skierniewice Vs Stal Mielec",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_moss_vs_raufoss_il_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Moss Vs Raufoss Il",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.moss-vs-raufoss-il-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Moss Vs Raufoss Il",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_strommen_vs_odd_grenland_luc_2200_ngay_26_07_2026",
+        "title": "\u26bd Strommen Vs Odd Grenland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.strommen-vs-odd-grenland-luc-2200-ngay-26-07-2026",
+            "tvg_name": "Strommen Vs Odd Grenland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -559,6 +859,66 @@
         "epg_metadata": {
             "tvg_id": "m.marcos-giron-vs-andre-ilagan-luc-2210-ngay-26-07-2026",
             "tvg_name": "Marcos Giron Vs Andre Ilagan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_cannes_as_vs_as_roma_luc_2230_ngay_26_07_2026",
+        "title": "\u26bd Cannes As Vs As Roma",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cannes-as-vs-as-roma-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Cannes As Vs As Roma",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_jelgava_vs_fk_liepaja_luc_2230_ngay_26_07_2026",
+        "title": "\u26bd Jelgava Vs Fk Liepaja",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.jelgava-vs-fk-liepaja-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Jelgava Vs Fk Liepaja",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_widzew_lodz_vs_motor_lublin_luc_2230_ngay_26_07_2026",
+        "title": "\ud83c\udfce\ufe0f Widzew Lodz Vs Motor Lublin",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.widzew-lodz-vs-motor-lublin-luc-2230-ngay-26-07-2026",
+            "tvg_name": "Widzew Lodz Vs Motor Lublin",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -653,6 +1013,66 @@
         }
     },
     {
+        "id": "x_cherno_more_varna_vs_spartak_varna_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Cherno More Varna Vs Spartak Varna",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cherno-more-varna-vs-spartak-varna-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Cherno More Varna Vs Spartak Varna",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ac_horsens_vs_nordsjaelland_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Ac Horsens Vs Nordsjaelland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ac-horsens-vs-nordsjaelland-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Ac Horsens Vs Nordsjaelland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_napoli_vs_carrarese_luc_2300_ngay_26_07_2026",
+        "title": "\u26bd Napoli Vs Carrarese",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.napoli-vs-carrarese-luc-2300-ngay-26-07-2026",
+            "tvg_name": "Napoli Vs Carrarese",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
         "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
         "category": "EVENT LIVE",
@@ -675,24 +1095,41 @@
         }
     },
     {
-        "id": "x_xoilac",
-        "title": "\u26bd Xoilac",
+        "id": "x_gazovik_orenburg_vs_fk_rostov_luc_2330_ngay_26_07_2026",
+        "title": "\u26bd Gazovik Orenburg Vs Fk Rostov",
         "category": "EVENT LIVE",
         "uri": "",
-        "is_live": false,
-        "match_time": "Jadwal",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
+        "is_live": true,
+        "match_time": "23:30",
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.xoilac",
-            "tvg_name": "Xoilac",
+            "tvg_id": "m.gazovik-orenburg-vs-fk-rostov-luc-2330-ngay-26-07-2026",
+            "tvg_name": "Gazovik Orenburg Vs Fk Rostov",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_rubin_kazan_vs_fk_krasnodar_luc_2330_ngay_26_07_2026",
+        "title": "\u26bd Rubin Kazan Vs Fk Krasnodar",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.rubin-kazan-vs-fk-krasnodar-luc-2330-ngay-26-07-2026",
+            "tvg_name": "Rubin Kazan Vs Fk Krasnodar",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
