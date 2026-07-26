@@ -1262,6 +1262,106 @@
         }
     },
     {
+        "id": "x_nublense_vs_palestino_luc_0200_ngay_27_07_2026",
+        "title": "\u26bd Nublense Vs Palestino",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nublense-vs-palestino-luc-0200-ngay-27-07-2026",
+            "tvg_name": "Nublense Vs Palestino",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_macva_sabac_vs_partizan_belgrade_luc_0200_ngay_27_07_2026",
+        "title": "\u26bd Macva Sabac Vs Partizan Belgrade",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.macva-sabac-vs-partizan-belgrade-luc-0200-ngay-27-07-2026",
+            "tvg_name": "Macva Sabac Vs Partizan Belgrade",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sao_bernardo_vs_ceara_luc_0200_ngay_27_07_2026",
+        "title": "\u26bd Sao Bernardo Vs Ceara",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sao-bernardo-vs-ceara-luc-0200-ngay-27-07-2026",
+            "tvg_name": "Sao Bernardo Vs Ceara",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_criciuma_vs_nautico_pe_luc_0200_ngay_27_07_2026",
+        "title": "\u26bd Criciuma Vs Nautico Pe",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.criciuma-vs-nautico-pe-luc-0200-ngay-27-07-2026",
+            "tvg_name": "Criciuma Vs Nautico Pe",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_olimpia_asuncion_vs_club_libertad_luc_0200_ngay_27_07_2026",
+        "title": "\u26bd Olimpia Asuncion Vs Club Libertad",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.olimpia-asuncion-vs-club-libertad-luc-0200-ngay-27-07-2026",
+            "tvg_name": "Olimpia Asuncion Vs Club Libertad",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tyler_zink_vs_nicolas_arseneault_luc_0220_ngay_27_07_2026",
         "title": "\u26bd Tyler Zink Vs Nicolas Arseneault",
         "category": "EVENT LIVE",
