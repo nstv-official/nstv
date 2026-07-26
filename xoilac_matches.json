@@ -558,6 +558,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_agropecuario_vs_s_m_san_juan_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Agropecuario Vs S M San Juan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.agropecuario-vs-s-m-san-juan-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Agropecuario Vs S M San Juan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
         "title": "\u26bd Lokomotiv Plovdiv Vs Septemvri Sofia",
         "category": "EVENT LIVE",
