@@ -961,6 +961,66 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_marino_vs_tenerife_luc_0130_ngay_27_07_2026",
+        "title": "\u26bd Marino Vs Tenerife",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.marino-vs-tenerife-luc-0130-ngay-27-07-2026",
+            "tvg_name": "Marino Vs Tenerife",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ca_san_miguel_vs_club_atletico_acassuso_luc_0130_ngay_27_07_2026",
+        "title": "\u26bd Ca San Miguel Vs Club Atletico Acassuso",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ca-san-miguel-vs-club-atletico-acassuso-luc-0130-ngay-27-07-2026",
+            "tvg_name": "Ca San Miguel Vs Club Atletico Acassuso",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mauritania_u20_vs_elche_u20_luc_0130_ngay_27_07_2026",
+        "title": "\u26bd Mauritania U Vs Elche U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mauritania-u20-vs-elche-u20-luc-0130-ngay-27-07-2026",
+            "tvg_name": "Mauritania U Vs Elche U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_anh_vs_argentina_0200_16_07",
         "title": "\u26bd Anh Vs Argentina",
         "category": "EVENT LIVE",
