@@ -496,6 +496,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_katherine_sebov_vs_maria_aran_teixido_garcia_luc_0615_ngay_27_07_2026",
+        "title": "\u26bd Katherine Sebov Vs Maria Aran Teixido Garcia",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.katherine-sebov-vs-maria-aran-teixido-garcia-luc-0615-ngay-27-07-2026",
+            "tvg_name": "Katherine Sebov Vs Maria Aran Teixido Garcia",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nacional_potosi_vs_real_tomayapo_luc_0630_ngay_27_07_2026",
         "title": "\u26bd Nacional Potosi Vs Real Tomayapo",
         "category": "EVENT LIVE",
@@ -711,6 +731,66 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_connor_church_vs_justin_boulais_luc_0700_ngay_27_07_2026",
+        "title": "\u26bd Connor Church Vs Justin Boulais",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.connor-church-vs-justin-boulais-luc-0700-ngay-27-07-2026",
+            "tvg_name": "Connor Church Vs Justin Boulais",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mikael_arseneault_vs_james_kent_trotter_luc_0700_ngay_27_07_2026",
+        "title": "\u26bd Mikael Arseneault Vs James Kent Trotter",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mikael-arseneault-vs-james-kent-trotter-luc-0700-ngay-27-07-2026",
+            "tvg_name": "Mikael Arseneault Vs James Kent Trotter",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tatiana_barkova_vs_kennedy_drenser_hagmann_luc_0710_ngay_27_07_2026",
+        "title": "\u26bd Tatiana Barkova Vs Kennedy Drenser Hagmann",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tatiana-barkova-vs-kennedy-drenser-hagmann-luc-0710-ngay-27-07-2026",
+            "tvg_name": "Tatiana Barkova Vs Kennedy Drenser Hagmann",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
