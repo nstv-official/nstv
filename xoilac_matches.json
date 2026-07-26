@@ -768,10 +768,19 @@
         "id": "x_shopify_rebellion_vs_disguised_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Shopify Rebellion Vs Disguised",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=1c5791746dce149f9ef52481a83c2279&wsABSTime=1785148852&nstv_cache=1785105698",
         "is_live": true,
         "match_time": "05:15",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=p5rz5pfwek74r82",
+            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105651$j7$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -782,7 +791,9 @@
             "tvg_name": "Shopify Rebellion Vs Disguised",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_remo_belem_vs_vitoria_ba_luc_0530_ngay_27_07_2026",
