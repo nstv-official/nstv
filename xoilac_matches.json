@@ -6043,6 +6043,98 @@
         }
     },
     {
+        "id": "x_WrexhamVsLeedsUnited_LIVE",
+        "title": "\u26bd Wrexham Vs Leeds United",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.wrexham-vs-leeds-united-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Wrexham Vs Leeds United",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_PhiladelphiaUnionVsSeattleSounders_LIVE",
+        "title": "\u26bd Philadelphia Union Vs Seattle Sounders",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.philadelphia-union-vs-seattle-sounders-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Philadelphia Union Vs Seattle Sounders",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuTrungQuocVsNuItaly_LIVE",
+        "title": "\u26bd Nu Trung Quoc Vs Nu Italy",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-trung-quoc-vs-nu-italy-luc-1430-ngay-26-07-2026",
+            "tvg_name": "Nu Trung Quoc Vs Nu Italy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_NuThoNhiKyVsNuBrazil_LIVE",
+        "title": "\u26bd Nu Tho Nhi Ky Vs Nu Brazil",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-tho-nhi-ky-vs-nu-brazil-luc-1830-ngay-26-07-2026",
+            "tvg_name": "Nu Tho Nhi Ky Vs Nu Brazil",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_StandardLiegeVsJuventus_00:00",
         "title": "\u26bd Standard Liege Vs Juventus",
         "category": "EVENT LIVE",
