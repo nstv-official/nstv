@@ -1169,6 +1169,46 @@
         }
     },
     {
+        "id": "x_fram_reykjavik_vs_hafnarfjordur_luc_0215_ngay_27_07_2026",
+        "title": "\u26bd Fram Reykjavik Vs Hafnarfjordur",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fram-reykjavik-vs-hafnarfjordur-luc-0215-ngay-27-07-2026",
+            "tvg_name": "Fram Reykjavik Vs Hafnarfjordur",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_akranes_vs_stjarnan_gardabaer_luc_0215_ngay_27_07_2026",
+        "title": "\u26bd Akranes Vs Stjarnan Gardabaer",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.akranes-vs-stjarnan-gardabaer-luc-0215-ngay-27-07-2026",
+            "tvg_name": "Akranes Vs Stjarnan Gardabaer",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tyler_zink_vs_nicolas_arseneault_luc_0220_ngay_27_07_2026",
         "title": "\u26bd Tyler Zink Vs Nicolas Arseneault",
         "category": "EVENT LIVE",
@@ -1322,6 +1362,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_morocco_vs_nu_kenya_luc_0300_ngay_27_07_2026",
+        "title": "\u26bd Nu Morocco Vs Nu Kenya",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-morocco-vs-nu-kenya-luc-0300-ngay-27-07-2026",
+            "tvg_name": "Nu Morocco Vs Nu Kenya",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_haruka_kaji_vs_taylah_preston_luc_0330_ngay_27_07_2026",
@@ -3122,26 +3182,6 @@
         }
     },
     {
-        "id": "x_xoilacz",
-        "title": "\u26bd Xoilacz",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "LIVE",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.xoilacz",
-            "tvg_name": "Xoilacz",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
         "title": "\u26bd San Van Dong To Chuc World Cup  Thong Tin Chinh Thuc Va Chi Tiet",
         "category": "EVENT LIVE",
@@ -3384,6 +3424,26 @@
         "epg_metadata": {
             "tvg_id": "m.top-nha-cai",
             "tvg_name": "Top Nha Cai",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_xoilacz",
+        "title": "\u26bd Xoilacz",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "LIVE",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.xoilacz",
+            "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
