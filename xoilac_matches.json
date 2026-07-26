@@ -501,10 +501,19 @@
         "id": "x_debreceni_vsc_vs_puskas_akademia_fc_luc_2300_ngay_26_07_2026",
         "title": "\u26bd Debreceni Vsc Vs Puskas Akademia Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=a0f959d2e753cf83a25ead03cf383515&wsABSTime=1785128336&nstv_cache=1785085173",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel28/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not?A.Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=l7oqdehgk8vkr51&view=true",
+            "Cookie": "__cf_bm=w6IkB4NZWaqCo4mCjiKFHNBF8bsRjuSnJ6XcYnFWrB0-1785085107.4558587-1.0.1.1-V4Yaqm7fu4JNRyOINmMgxXkM6SYGmRtQt_xFqDv3a1SQo8wNYvwrlYRXxxxxwjzxPYlHfub3LOyyTS4d9mXprUl4i3OdFc93e9cYQZAA5eAE5DD7BvfTJxsGdbZ2Vod5; _ga=GA1.1.576570118.1785085109; _ga_P60BDCKB3G=GS2.1.s1785085109$o1$g1$t1785085134$j35$l0$h0; cf_clearance=9CfR_gKrlp9obFHjxYEhjVBJxbE35OGRPpqVBGGZJ.o-1785085139-1.2.1.1-G3fHJd5M__j0AnCwQiuQkO8Cl29sQaONxkX0mjuLVHEBDfuAkX7xWDATPbA.JmwitpIq6R01P2Wzgmrh.eLQdwRVEebMds1VS0yRn8S9u7Y2dxly8GOg86ozTtoiyPI_Z1TYralWHdPjpm0l82fgQFu0XikGuOipAuKs6dDfyuEUIi4Om4TBF37axb4k5jgiPrLZywkVZB9XGrkwcL7iF6aonBpHm5lC6BCmJ5VIZ0YS7f3RohBWDN5eCSpNNmXrpuIDE79TqLe.XWrRFaT_GvTXVQ4bLLrkEi9H8zSahVNN6lWa26NL._A.EVjDBBcCjXNarIhI9YpycoqYgxrJx6xcs.kcjXhEvklECH6NsGs",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -515,7 +524,9 @@
             "tvg_name": "Debreceni Vsc Vs Puskas Akademia Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_tay_ban_nha_u18_vs_italy_u18_luc_2300_ngay_26_07_2026",
