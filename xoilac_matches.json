@@ -589,6 +589,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_paksi_fc_vs_ferencvarosi_tc_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Paksi Fc Vs Ferencvarosi Tc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.paksi-fc-vs-ferencvarosi-tc-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Paksi Fc Vs Ferencvarosi Tc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_cerro_montevideo_vs_rc_montevideo_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Cerro Montevideo Vs Rc Montevideo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cerro-montevideo-vs-rc-montevideo-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Cerro Montevideo Vs Rc Montevideo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
         "title": "\u26bd Lokomotiv Plovdiv Vs Septemvri Sofia",
         "category": "EVENT LIVE",
@@ -649,6 +689,46 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_wisla_krakow_vs_gks_katowice_luc_0115_ngay_27_07_2026",
+        "title": "\u26bd Wisla Krakow Vs Gks Katowice",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.wisla-krakow-vs-gks-katowice-luc-0115-ngay-27-07-2026",
+            "tvg_name": "Wisla Krakow Vs Gks Katowice",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_deportiva_aucas_vs_macara_luc_0115_ngay_27_07_2026",
+        "title": "\u26bd Deportiva Aucas Vs Macara",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportiva-aucas-vs-macara-luc-0115-ngay-27-07-2026",
+            "tvg_name": "Deportiva Aucas Vs Macara",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_serbia_u18_vs_tho_nhi_ky_u18_luc_0130_ngay_27_07_2026",
