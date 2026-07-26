@@ -1,222 +1,5 @@
 [
     {
-        "id": "x_rb_bragantino_vs_coritiba_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Rb Bragantino Vs Coritiba",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel12.flv?nstv_cache=1785087586",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel12/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehg8y7nr51&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=BfkPWBWMWWVCpnVNOrkvef2mjT_fPjuDZYiKjPmygoo-1785086871-1.2.1.1-toNS5m3N2h3IMy2yhnwLkOMteZEC1uIDzMQ2XQ2YHWzxzhXjA3mnQqeGuBFh_CgbuofhZDqQeA9H1sqykXSnKIPFj7ndSNtvtW7AAs9yEbuK0g7pd5it1xHBJLSaSNZtM8XElMhS1j7l6DeUTj0EVpk4xGU0Wj3YRou3asvmL8Do778v6i7.UfJ4u3VV7G_DlFn5XdS2y6TRVIPBJlLQQh6mz9umAKfBhbRnqZOQ98KMQfz92xECvasrBFh76vsNPxKWbFJcgUOBHTTmSecic89sjChbROK95kE8vZVsePneujC4fmVSZNHPz0.eP7DpcsUIoYRCgc9BoIgTaIdy.6cJ0KCFHcaNfak0OjOS8Fk; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087546$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.rb-bragantino-vs-coritiba-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Rb Bragantino Vs Coritiba",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_flamengo_rj_vs_sao_paulo_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Flamengo Rj Vs Sao Paulo",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel18.flv?nstv_cache=1785087632",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel18/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=4wyrn4h6o8zdq86&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087591$j10$l0$h0; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.flamengo-rj-vs-sao-paulo-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Flamengo Rj Vs Sao Paulo",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_gremio_rs_vs_fluminense_rj_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Gremio Rs Vs Fluminense Rj",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel13.flv?nstv_cache=1785087676",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghlp44emoe&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087637$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.gremio-rs-vs-fluminense-rj-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Gremio Rs Vs Fluminense Rj",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_audax_italiano_vs_universidad_de_chile_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Audax Italiano Vs Universidad De Chile",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=2017c4abc4130c0ff6487a03f1205fd1&wsABSTime=1785139904&nstv_cache=1785096742",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel19/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A;Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=23xmvkh6p18yqg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=Pjvl9xXqaWVOWuxsAOCy8fDL1_bbq7l5ZhQTCB_XoT4-1785096614.0557961-1.0.1.1-ynPhZyQ6Eu1kmNs7UU6ZLpr0AcXq2Lmzy_8JMBVw2nOiiy.rx9sXQ7gknuAADnjf0Kak0KVFeOVjXPkdWm27EMDA69Mfyvfehd0gDwDmqymgztxBCRy.xRzV4YMek3S3; _ga=GA1.1.1018357210.1785096617; _ga_P60BDCKB3G=GS2.1.s1785096616$o1$g1$t1785096661$j15$l0$h0; __cf_bm=mcEzoSJGwA.GBZhAmzK09LvYf6QyVc6JS.dYMRGB7Eg-1785096665.1112552-1.0.1.1-s7EoGoevOKGdiAEBNgBHkioo.OQjDijs4uR7.kLl6_Ks9Q.Kdl2pMlcpls53udmr1ydR9UR_OoHV.KpwsZ.pJGjShnVrdFHEfFKNqpKsMWIlyMavDGney8glN066tlhl; _ga=GA1.1.1588905828.1785096667; _ga_S52WSRDB70=GS2.1.s1785096666$o1$g1$t1785096703$j23$l0$h0; cf_clearance=dIdIEAKBqK8Sg_UGt2B2JQaaZF2E5Wu_uNBGKJulros-1785096706-1.2.1.1-jb6M80jd96X0H1066JszzAPreDZj_u6BmFtbmmMDIPsku3KxeEw1C8rkZgtnH_z7Zp9Qmn5ApeoSBVTrx7HFk26X.6EfiXkIb6WI8rfnZYo_WcArzxkANCyGYdZKy0ySUoqtmPg5qxjsdEqvnNopKIO3cqTh4Lh65FTcKEFBXZtzIx88WGC4fPwk3HjLTrak3c3Qix6SqfLDojz_qyehThlKG8FjXs1HBVt22.s4SghJWuVVdNSKcVk1gb0zxDrVSvukyhwz52KeMg7KpK05fYjNZhon34R8dVD1kLWeKa5B5LzUYVjG0CXKBQrt8t3Fj6qi14i1z4lFFENRd11zQAcIosR55SOeQs1PoN8T.Xs; __cf_bm=9neI2dmcP6OqhSFcuY_DYws7_.TLnGphN1O2h69lKIc-1785096715.2433722-1.0.1.1-9HMu2zjf4dkhkubTnCVdhb0vCKRdkrfRGW9Ikwbu9w4Gih0RjvuTkj2r.X.lXWpXUsqof1ocYJNffp4Mmc1hLJ9uk7yINMf7znQc5miJWtzuv6vYWXWxU5DGa1RVckXT",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.audax-italiano-vs-universidad-de-chile-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Audax Italiano Vs Universidad De Chile",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_america_mg_vs_goias_ec_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd America Mg Vs Goias Ec",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=75cd927658679827a8574279f8eaa3d1&wsABSTime=1785139948&nstv_cache=1785096786",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A;Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=318q66hxxv41qo9&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=Pjvl9xXqaWVOWuxsAOCy8fDL1_bbq7l5ZhQTCB_XoT4-1785096614.0557961-1.0.1.1-ynPhZyQ6Eu1kmNs7UU6ZLpr0AcXq2Lmzy_8JMBVw2nOiiy.rx9sXQ7gknuAADnjf0Kak0KVFeOVjXPkdWm27EMDA69Mfyvfehd0gDwDmqymgztxBCRy.xRzV4YMek3S3; _ga=GA1.1.1018357210.1785096617; _ga_P60BDCKB3G=GS2.1.s1785096616$o1$g1$t1785096661$j15$l0$h0; __cf_bm=mcEzoSJGwA.GBZhAmzK09LvYf6QyVc6JS.dYMRGB7Eg-1785096665.1112552-1.0.1.1-s7EoGoevOKGdiAEBNgBHkioo.OQjDijs4uR7.kLl6_Ks9Q.Kdl2pMlcpls53udmr1ydR9UR_OoHV.KpwsZ.pJGjShnVrdFHEfFKNqpKsMWIlyMavDGney8glN066tlhl; _ga=GA1.1.1588905828.1785096667; cf_clearance=dIdIEAKBqK8Sg_UGt2B2JQaaZF2E5Wu_uNBGKJulros-1785096706-1.2.1.1-jb6M80jd96X0H1066JszzAPreDZj_u6BmFtbmmMDIPsku3KxeEw1C8rkZgtnH_z7Zp9Qmn5ApeoSBVTrx7HFk26X.6EfiXkIb6WI8rfnZYo_WcArzxkANCyGYdZKy0ySUoqtmPg5qxjsdEqvnNopKIO3cqTh4Lh65FTcKEFBXZtzIx88WGC4fPwk3HjLTrak3c3Qix6SqfLDojz_qyehThlKG8FjXs1HBVt22.s4SghJWuVVdNSKcVk1gb0zxDrVSvukyhwz52KeMg7KpK05fYjNZhon34R8dVD1kLWeKa5B5LzUYVjG0CXKBQrt8t3Fj6qi14i1z4lFFENRd11zQAcIosR55SOeQs1PoN8T.Xs; __cf_bm=9neI2dmcP6OqhSFcuY_DYws7_.TLnGphN1O2h69lKIc-1785096715.2433722-1.0.1.1-9HMu2zjf4dkhkubTnCVdhb0vCKRdkrfRGW9Ikwbu9w4Gih0RjvuTkj2r.X.lXWpXUsqof1ocYJNffp4Mmc1hLJ9uk7yINMf7znQc5miJWtzuv6vYWXWxU5DGa1RVckXT; _ga_S52WSRDB70=GS2.1.s1785096666$o1$g1$t1785096747$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.america-mg-vs-goias-ec-luc-0430-ngay-27-07-2026",
-            "tvg_name": "America Mg Vs Goias Ec",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_londrina_pr_vs_novorizontino_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Londrina Pr Vs Novorizontino",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=70548e3d86529e73494c78e2ef8416d0&wsABSTime=1785139993&nstv_cache=1785096830",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel21/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A;Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehgg40pr51&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=Pjvl9xXqaWVOWuxsAOCy8fDL1_bbq7l5ZhQTCB_XoT4-1785096614.0557961-1.0.1.1-ynPhZyQ6Eu1kmNs7UU6ZLpr0AcXq2Lmzy_8JMBVw2nOiiy.rx9sXQ7gknuAADnjf0Kak0KVFeOVjXPkdWm27EMDA69Mfyvfehd0gDwDmqymgztxBCRy.xRzV4YMek3S3; _ga=GA1.1.1018357210.1785096617; _ga_P60BDCKB3G=GS2.1.s1785096616$o1$g1$t1785096661$j15$l0$h0; __cf_bm=mcEzoSJGwA.GBZhAmzK09LvYf6QyVc6JS.dYMRGB7Eg-1785096665.1112552-1.0.1.1-s7EoGoevOKGdiAEBNgBHkioo.OQjDijs4uR7.kLl6_Ks9Q.Kdl2pMlcpls53udmr1ydR9UR_OoHV.KpwsZ.pJGjShnVrdFHEfFKNqpKsMWIlyMavDGney8glN066tlhl; _ga=GA1.1.1588905828.1785096667; cf_clearance=dIdIEAKBqK8Sg_UGt2B2JQaaZF2E5Wu_uNBGKJulros-1785096706-1.2.1.1-jb6M80jd96X0H1066JszzAPreDZj_u6BmFtbmmMDIPsku3KxeEw1C8rkZgtnH_z7Zp9Qmn5ApeoSBVTrx7HFk26X.6EfiXkIb6WI8rfnZYo_WcArzxkANCyGYdZKy0ySUoqtmPg5qxjsdEqvnNopKIO3cqTh4Lh65FTcKEFBXZtzIx88WGC4fPwk3HjLTrak3c3Qix6SqfLDojz_qyehThlKG8FjXs1HBVt22.s4SghJWuVVdNSKcVk1gb0zxDrVSvukyhwz52KeMg7KpK05fYjNZhon34R8dVD1kLWeKa5B5LzUYVjG0CXKBQrt8t3Fj6qi14i1z4lFFENRd11zQAcIosR55SOeQs1PoN8T.Xs; __cf_bm=9neI2dmcP6OqhSFcuY_DYws7_.TLnGphN1O2h69lKIc-1785096715.2433722-1.0.1.1-9HMu2zjf4dkhkubTnCVdhb0vCKRdkrfRGW9Ikwbu9w4Gih0RjvuTkj2r.X.lXWpXUsqof1ocYJNffp4Mmc1hLJ9uk7yINMf7znQc5miJWtzuv6vYWXWxU5DGa1RVckXT; _ga_S52WSRDB70=GS2.1.s1785096666$o1$g1$t1785096793$j9$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.londrina-pr-vs-novorizontino-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Londrina Pr Vs Novorizontino",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_club_guarani_vs_sportivo_luqueno_luc_0430_ngay_27_07_2026",
-        "title": "\u26bd Club Guarani Vs Sportivo Luqueno",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=991661b4d3e5b09dca26b3673cbeb149&wsABSTime=1785140675&nstv_cache=1785097526",
-        "is_live": true,
-        "match_time": "04:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel22/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not)A?Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=pxwrxlhy3o8dryk&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=77j6u7C8sBTNShO2rRgLnXA6VHWWoyur.6JYrakTPTQ-1785097224.613183-1.0.1.1-QzfDEapKzxPAiC4sRcieix_RLZs7oRWK4Gtp73k0I1W4mFBgLZh7K4SNt_Q3HJd1xUEJRJHPP_DXlK8JxwmXrDOP1Ki4VAznhT5Q9lVlFjBLlSDxtFW8X6ekbPnhDg1Q; _ga=GA1.1.572689908.1785097228; _ga_P60BDCKB3G=GS2.1.s1785097227$o1$g1$t1785097277$j10$l0$h0; __cf_bm=1aBdTlLtmZsKY6D7uaaeQbiUXWjISBnN1mYmmWANCI4-1785097280.3511221-1.0.1.1-NhQYMqQUsdHUju6PmKHRPzAdn21BFSZ7WXLcxIb6QFAe3ZQpvVRh2RqC_CUcD07KDns7m6nKLKEeLFXetRJxXfTA6axliRI7VxsGDNKPziU1XlAbP9qq8.C3z712uE0v; _ga=GA1.1.1642038108.1785097282; cf_clearance=2jzKhgZEq9scxcPXymjCWBL_OblUIt6ETZuCo0Jw3KI-1785097315-1.2.1.1-nqSYPYk_A44h.2QOfg5OV8U0VlJuPuW0g8vVYQ0wdhJw.Ta1m2mnlzsWsi2xTboPFl.To9zXY8QKKs0ZQr.adjj94zcc5U0QBocnOxmZbjcULvVKvYuL32PLfZg_mCMzAuri7uJw6b_meTWgzUQZqUl6iH14f8ajbDcC9qZCpX3XO297mrqv4FQLpW86rw.AO1Vdvf4ZF89AJEPQC3L6H6Hs7NehAcLsN9bmlpLYBOzJF5VHQEDdVhH0G1Cx2nxpSD.wJZmEDZ3iI.YqsnUkJy0E0FsF2X7H3fMzvTgGclTa7IHrEcr8fVWyp3reiyTwG8y9xTsVPCZmRBIcl6eb.WknHlgh.dW3lGSyXyN7YE8; __cf_bm=O1Dcnqz79YK17tt7MuJZTqVyTNcyuKqiFrUwL5DOluU-1785097353.2877834-1.0.1.1-x2xekd.C62.6Awm.b5Se.faVlt0pywifvZBv4jEdHxu3PgG9uysibSeqoKZqzzmQ6RmPNvkWoeljTkxgNbwhtSuxOuMi58m5s33cGapkcQvjcSbBCc3SNAFOpJfqTDAa; _ga_S52WSRDB70=GS2.1.s1785097281$o1$g1$t1785097474$j34$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.club-guarani-vs-sportivo-luqueno-luc-0430-ngay-27-07-2026",
-            "tvg_name": "Club Guarani Vs Sportivo Luqueno",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_quilmes_vs_colegiales_luc_0500_ngay_27_07_2026",
         "title": "\u26bd Quilmes Vs Colegiales",
         "category": "EVENT LIVE",
@@ -432,26 +215,6 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -2474,10 +2237,19 @@
         "id": "x_tukums_2000_vs_rigas_fs_luc_2200_ngay_27_07_2026",
         "title": "\u26bd Tukums  Vs Rigas Fs",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001785107675-0-0-179c1534caa2c46f6cac2dc91e38bbb7&nstv_cache=1785107719",
         "is_live": true,
         "match_time": "22:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/5/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not.A.Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=ednm9whwwvk7ryo&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Smz7eV.QIMD0BitBiX8A58gwZMdbuU3amqrhYMmd2LY-1785107584.0293398-1.0.1.1-HszcHcEszB8xXcvL3QbjYbAUO2eDSNzjkyhEvh16oHijZLcezMX0Rdg6qLscp5Vgu5ZQMFPHWPcGmNEckXZwDFx8kx4fKvl27xHsi1rWA5CO5Cjswxyk3vQsmkwRbdTe; _ga=GA1.1.614625930.1785107590; _ga_P60BDCKB3G=GS2.1.s1785107589$o1$g1$t1785107629$j20$l0$h0; __cf_bm=1jmWHI9.XHbdOZGhG5fkr5JDJec59pTElhXaReE02bs-1785107632.6664999-1.0.1.1-flJiSB13FOwZysR1nGV2fSV1zadhDVnNgSfQtJJVk94M9a2PDYH6Tnx8xXdOE2.YN5oXLTj2pCTBuPU2Nzt9ErsZMoHTQcO8XtNp.Q41VyiNZhZJUxJGphjxqnfiwHO2; _ga=GA1.1.123338673.1785107634; _ga_S52WSRDB70=GS2.1.s1785107634$o1$g1$t1785107674$j20$l0$h0; cf_clearance=HHpeUj_t0dO7xN5v4NPizRstkBsu_Ju3sDNdh2ky1q8-1785107682-1.2.1.1-vjRsZCP53PEtb3dCabRqfu9bwLAuHiBhH3Q.rtYDbn3904e6SCw0K8ctya_BtlRo9C08KdY1qqLx4pEmtGanR4hhws4yJcqU._X2Mqdfs5mLi7E.jofVPQphzEVWHpLklOmBdZgGVDOO7J.yeDYU_eAbA7.dgnAUEadUMu6y88Kg6HzBYGokbcKmpipI9dGeKIDb6G3YM34McCSNiUW_sP2TvYxbdfnu.XAoL3CBNPYpx0fckXwuQ3Ou6MQnY2ds77XiBY0ZMVS754wzfqId3VSRLjfWJIAuyz5HPiBOAk8pkAxQSNHOrV3_5yK8UBuKMixY7YCusIDWHOKoZwJlU4naNLDSwgyCeLrhsqd25Ts",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2488,7 +2260,9 @@
             "tvg_name": "Tukums  Vs Rigas Fs",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fk_andijon_vs_buxoro_fk_luc_2200_ngay_27_07_2026",
@@ -2929,6 +2703,26 @@
         },
         "media_id": "aHR0cHM6Ly9jaGFs",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
