@@ -1648,10 +1648,19 @@
         "id": "x_nu_angel_city_vs_nu_racing_louisville_luc_0800_ngay_27_07_2026",
         "title": "\u26bd Nu Angel City Vs Nu Racing Louisville",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel8.flv?wsSecret=eeb95a2e51dbe09fcec3bd2ab9e20330&wsABSTime=1785145271&nstv_cache=1785102118",
         "is_live": true,
         "match_time": "08:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel8/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not?A)Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=x7lm7phjx5xlm2w&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=d_wDV4N5mjYCxJpyPPuC1te3re_EG_8uUS6EdeUv3Gc-1785101797.3717735-1.0.1.1-wk516QPEX1xYF0sBKGmqFlohsvUCJ0TjesFR_G3eT0EtA0kFI377oWMhjQxJB5scRgwuGTVICkELL3IpJXhnlu16mALTddGTuFM3SzUB1B4br989eSf5gc9gvGXXoFzn; _ga=GA1.1.329369831.1785101804; _ga_P60BDCKB3G=GS2.1.s1785101804$o1$g1$t1785101843$j21$l0$h0; __cf_bm=I.lAVz.zj_36XkGsdWw.bhucGWL4dTighaPlw1zOdzM-1785101846.6914575-1.0.1.1-NV6X.DaczWrjoSpNa8h0tEuBor4.Wjg7MA5x4VqGnpO2Nmg83xGMktZ3N9ek8dUTRc9078hBlm0es0oPLE1hQsducMI3FcddflUpy5J_iW_BH2N11JLpOxnTc3SejqTr; _ga=GA1.1.691515788.1785101848; cf_clearance=jCc3MyiQmb3EIdRbxIKY5HIGqOwbiE_Ofl5UHsaLf7o-1785101899-1.2.1.1-QVM2E8sJr8S89sBI8TXc5lXdbBV5_evVMG3MBSsn2Emc88xXvBP_YwbfaI3x7MPW5DMXGVM3vIr9Bf1YlPiDaGWBqEx3b9Btxrg_hQnx0wrzXxmyD6CVvzx9p4ZK8ggm9itUzjOZRmOcryPsyn6gPtHLbRkstBMc1zA.uSfA_x0KxOt7k3.N3FnjyLYAmR8M_jofDPvMA_OYSOPj3SCL2mGfo_uld_qzl6vLh7b56WaAiNTdLcGKPw2GyMmgKie8Y5t0q.hyheAYb1PDP9qfrFkaS_KN8TThu8DO520BUReBQEzuDy46VIzQPi5Mb_I_HechEYw.O0OtskgL2HUN3pfjE0jOGy.dPzEm2PdK9zE; __cf_bm=ezejFJ7Iib8uupCrhjhOOcsHqQfsTs9xP5nSe.otzsg-1785101903.708981-1.0.1.1-l1HYDHC3GY4hmwseag8MwhB0PlMCCTPcnly9G.N_IwVwZZvGgBwZhx.heiCsjyZzfRyNsQrpDvzMrNWNHBI3obwEAF02m397NyDCbqZ3tAEFEqodBIOFUEYQ7Fl3rmQv; _ga_S52WSRDB70=GS2.1.s1785101847$o1$g1$t1785102070$j60$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1662,7 +1671,9 @@
             "tvg_name": "Nu Angel City Vs Nu Racing Louisville",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
