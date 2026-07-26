@@ -1025,26 +1025,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fram_reykjavik_vs_hafnarfjordur_luc_0215_ngay_27_07_2026",
         "title": "\u26bd Fram Reykjavik Vs Hafnarfjordur",
         "category": "EVENT LIVE",
@@ -1700,10 +1680,19 @@
         "id": "x_bolivar_vs_real_potosi_luc_0415_ngay_27_07_2026",
         "title": "\u26bd Bolivar Vs Real Potosi",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel17.flv?wsSecret=d3155d331fcca511102e0d450fb9181e&wsABSTime=1785137121&nstv_cache=1785093960",
         "is_live": true,
         "match_time": "04:15",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel17/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A=Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=ednm9whwpp7jryo&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=76y6xfFnEPJWu7fnLMcm9gV5uFYjka3OPWRKLGWgRJQ-1785093843.416166-1.0.1.1-5HYJpdb2JTMG.AsWjpnuXHm1wzyoyFvV9vuoEpi6QCZYZWkwKsbJcYVIN28SB0capovhJgt1DU2eohpdNahp.R74k2TdP2PNEN9RBXPoaqTVP00vNLdWaPo51es97dUI; _ga=GA1.1.704852166.1785093846; _ga_P60BDCKB3G=GS2.1.s1785093846$o1$g1$t1785093883$j23$l0$h0; __cf_bm=Hmh0vzGLl8.6S2FP5fZmjKWpvT3FcNUHJrKO1snq3hw-1785093884.612787-1.0.1.1-UJcd3gK_Qx.eMI9J8THd51cfPylZ95uJ781N_DAkOVNawl.juJIaQQL.iRfrOCOWRvhvJ.uVQzTNWL31JQXv37bE5EhEjzyDNW7PCrKabREArZsNWjX6fxoHiJ.QfWg6; _ga=GA1.1.405407789.1785093886; _ga_S52WSRDB70=GS2.1.s1785093885$o1$g1$t1785093921$j24$l0$h0; cf_clearance=53fpRbSghdPwuBYXfqRX22d6hzxTQIZSr4.HnqlH.eA-1785093923-1.2.1.1-xDeHR2cjZ8cGzC2053cSKEANOiDGDj1nQlbRuEt8O4zHMu.WJDiz1zRn9FEdBNwyo.bKsZNgfKUG8lgcMNrZZn66COvbx9pHlUXCDHOGrQzts_CkotR9Lzf9Ereei3vbQwSjiPdiQJmdivE8eQh.0iMThWZlWqVAH1f3gVlBRxi2h7.lPQrxNF09KTe7mH.sRJqxuXZzdt80FBoz2Os3qTMAYDxWJmuFnvF9_Dgs4jlNNrXwwGHWgisDoraKRtg_dznTFq7L8P7._GU0he4Y.VDHy5ZgrJDeCGOg7EahQvh6aSQTVmND7djOqZVxqW0UDH5OniS8CEB_09Zi9j_m9axPFD1pPl28B8TyoBV6PqQ; __cf_bm=D2jR7fq2naHEP3c9Jtw2VET0R_Sp4o8KR_Iuy.7gjRI-1785093945.0547464-1.0.1.1-bsA0ejYoE7ddHicL5i3drIstDJltfIRoh2M8yKzH3.2l5QeR_QNt.Dh1wJRHkbt89NbVaydoqAPQDiLXJCRzXkEregKXKNBy9qdTzvTrb7zAyVC8fnorNdPioiEDdXp1",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1714,7 +1703,9 @@
             "tvg_name": "Bolivar Vs Real Potosi",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_rb_bragantino_vs_coritiba_luc_0430_ngay_27_07_2026",
@@ -1808,26 +1799,6 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -3323,6 +3294,46 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
