@@ -189,10 +189,19 @@
         "id": "x_fc_tbilisi_2025_vs_fc_metalurgi_rustavi_luc_0000_ngay_27_07_2026",
         "title": "\u26bd Fc Tbilisi  Vs Fc Metalurgi Rustavi",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel6.flv?wsSecret=f8907079a4e3c5e8d4904544435b7a3a&wsABSTime=1785131661&nstv_cache=1785088501",
         "is_live": true,
         "match_time": "00:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel6/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=zp5rzghgkxzxq82&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088437$j60$l0$h0; __cf_bm=GaJo2vHIfF2RUiuvpm3sWFlYm0rFVjtSzumkp3x0XoM-1785088438.8774588-1.0.1.1-_FzEXkIhakzdn6zswcZUlci89y.sK7WdfzTan1twPe0_4egnI.wynmF3htzeLyoIktYf7pQYqaOs94tcLuvFgkidz1XaNecnciZeC1CE63cEXAcr_Wm6am7_5zB_48TS; _ga=GA1.1.242154808.1785088440; _ga_S52WSRDB70=GS2.1.s1785088439$o1$g1$t1785088461$j38$l0$h0; cf_clearance=2MDID.nZYrB.NSfC08.IPHnlNLRZv2DFNDbSa04kwSw-1785088463-1.2.1.1-1M.uLJJs_Vwgrc7zPme13SC4vtV4_DfgO9P8vpDTu6FmPQCZsRlMGM07vg76PBeGppKlR7EAj4r5lICvygiqrf8NYK6.3kWyqAXQ5PQffw2gU0BRu3bVE1tQeiGMVje9yr_gGtOWwhn4eRSt_8xYa3tPQmKuAHsmI0yjlb113CAuT5e_1icHXaK5UID.h5BOlhtWPk9cfj0ZMHA_sNZsNMliqBIkdKRtsmRpuQ_xEnMyZe7xbNDHbpy1vnAm2cEGLno_6TDUOlOpMgACOuQle06.gZlRENnmU80AXZXlNC413g7URre5SS.ieNKcPOsryRctyT2ov6SBusVAeilRYxQlbdAUCAF.HPbbCnFnD5w; __cf_bm=waAynKxVKbMaWZ.7yazZpy28aaBi0grDubuKRdafZfI-1785088499.107008-1.0.1.1-.cswcXbAvs3e_V6_URSKetD1pCmDhTHn1YPN9uCX7.l5oxUCBYwWSCrfPjQ6EfLp84ob3O_7dp72m2T8wTMlLvmgb41sy.8jd9IDDaLr1LJJ12PNA6aK6rnyTwwgN3Yu",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -203,7 +212,9 @@
             "tvg_name": "Fc Tbilisi  Vs Fc Metalurgi Rustavi",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
