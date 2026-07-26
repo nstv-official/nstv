@@ -993,26 +993,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -1326,10 +1306,19 @@
         "id": "x_ad_san_carlos_vs_escorpiones_belen_luc_0600_ngay_27_07_2026",
         "title": "\u26bd Ad San Carlos Vs Escorpiones Belen",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=ce328da5967eca6f46d368ebb24fdea6&wsABSTime=1785144161&nstv_cache=1785101009",
         "is_live": true,
         "match_time": "06:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel26/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not?A-Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=V1V6Tc4dggw4w5FQ.DWpPl9VI7TJUaXLb8yxSPF8LH4-1785100844.7961562-1.0.1.1-kwsO4Cit0dNyWRjHuaPK5p5XRbBlCo6FA25bwVn3jQjshsmNmQOa7DxlX.TtKxYLPLMA6LvxrTS6_fKAKTqCMHhdb8KsY20bhTSwQH50PdewVKMlYxN.o7SdvDy_gc7a; _ga=GA1.1.812934821.1785100852; cf_clearance=D1VXBelMBiiuzGkE.IVNYPqeAdy0dZd9A3r.hjcTfFw-1785100893-1.2.1.1-ayeheZ60eE2fyLCi4MZ7ROTTJjzw8xWtV0TuhuqTtYeOONUgCegf3MlfZSkW.ROtGMalleb.fKinlWIY5X2JCXXwq2J4mYGpCdO3NFGfiahcFk7el9X_5NYnhKiLIo9VFNMyqdfKiw2akE4HKw3I_bzxysv0G42VyCmUVvC6WktbrDd9ampp0dtZCZJju6BMlC7NLDvXcdoS0IMqH0tsMMnFWddMrSTYfRFa7hFoo7dAwQjdK15HrYEh2ML.GoxHAbAyAnzXjVzTn.TToPjYs_xyFNA5CAihlB3JM33PPaPPwQ0TKn8TQUFnmFOBps2ySXtbPTNX_e7ZkemimYxcqli6iCzMa7VPvkgU2ybLSTifzGEs6FI.53YQn9RIZvKKNOgrj8DQiz4ChqVq4JPsDVTrO6N95TS3XgrJQ.L48NtwHOWoTiMMHs52BCQdzwYMyinb.pwJSaCNcy8407CEiwxOfrqwEMgH6wYedT5AREcbCYa1DBuhWLcY_URLfDT3h3sFEzmVIvsIHpKg_H2xjgyE1pF21Ty4M85kY67kkSwrBqTRl3VU8_p0ddQ0lWXL1IWI1_N_kXuTWaq7FPiJQQx9CMq159fA1Uy8xDtXBQycKYpyModaKTq4cZYr8KjVh9xhVKKdNu72r6LBe50q9LbRGph5lIPmD2b7SmwSDTDzV3tX8Gdm7Hk403Rg9ka58EUmmWVrb1iUKfi2H1RIDRM4txcahzUB_53zXIa5eVwcPB1G1J8JmuBYhZ_vR4rdcYBPvIUhMKDXrh.kzCbBCb8RM7uvdV3OkZf3XMGN1JOjbsg3GSk68JKhI.4NalN30.Bkwz2FIt7gJvausui3vY1K.9kGxQr5plL57AwOcyPEpSCY21bvbuIaVm724IdUe4bMPRiwDmPW6xgIRNSa3MJ9EdzIcRpdrrp6YTGiLAtBEKf6YnvUwB5VYshUbToBObNgqBdiEclam2RPsChiCQ; cf_clearance=d8AsLfTJJmgwhwjMZ0gBrpwYKrKylGniPTOP.hzTgD0-1785100893-1.2.1.1-IfMcfMNzKp_K2pu0lDMH5.BNFtKxBGFxYwosKckq2b5W2G1c99M5hUVNOYEgFEkspdGiGu_da_GGm27cBEBle4XdDPnV4mNmAly0OjVgbzGjejsE6SmWCMc71O0KJt9nbRpviKQNF4tH7_hZ9qY6BsRAPxL873AkNBSIkTGLqeTO2AjiiC7JJrxbSyM4L2u5pNgC.xPRzcZhQc9UH490aPTJwhM3wZmpZD4mPhjOaOLiGZZ.3ksGZX3WoOwJ_ETlPYBmqD3n2EJFn4bm2WTtxsAOOinAy5MHSSgkLS_J.rkA1MKELzkQ05m5rYZoCNgjBcVGetMKXv0vls3FPKL2.4okgM6BnVY6m9GYMXF8onPDvLrSCbiDxNskSckjnJhmor42YUeXJBqG_SaZKoCCgqnWE0WSbpGgUg0FmmHZgrASHUuUtMKm0ix9lES_rsYtfyTz9W_8cCNjq0EerZWKmE7WinwQVYPeVTQRz3On6J4ZNhhHoO020ods_8znPrUzqV_OtH.mmgNXhge3vZ4KaStx0vS5_CYnKdbkLp7jheQ98jhzYlgcRg8BfWLrt45P_M2_obdRkYPybxJawkzJlg; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785100851$o1$g1$t1785100908$j3$l0$h0; __cf_bm=3_W1xo_f8Eqq7iGLSxBMTD0aIogo9fQGEELiSFuqZMc-1785100914.4272501-1.0.1.1-Q0slPkPImwYRx.NXlKvJ1SQYe_3gfCwuueSzn25KicowDybaDLKctz1S_AIabP4NurtGOZuXkJkFCEGXAy5ZZOnFp8r5sLuZ7C.bLXeEOiDzWPUW9e7bEChKlhsu4GFR; _ga=GA1.1.373989881.1785100916; _ga_S52WSRDB70=GS2.1.s1785100916$o1$g1$t1785100959$j17$l0$h0; cf_clearance=Ub1duZYk8SrPq9h2lRYHMhTa9_soX6lTBDk7eGK8dMQ-1785100970-1.2.1.1-VbVxZe8t.ovFZa1N3xY4TwI.xtBruGqA72V3LTki2m7C8WYytH63hbJQVuE2ZXqO6u7BgFjZOavBkqyPAWtohaHFjBdmLIpqFeJVdrx1Mj3JKgL03gAID8Y0pf5wDnzG4Lf5o2RvDV61wH_wpoa8YGhFsSGiDzm4.NOdLgn8U96zF0pem1Eb53GkdDcOCjrLYtyklvmLcxiasMI01Trc_2ChS4K4lNYVQbP1U3QF3UIzbAvStdKdm_x5aEsrjeQVarFxAFOfylacaNUMoSpnAB0CgxxjuKPhXeZ5Hacy_LeifQrimpW.XjewZSETAFwWZN..AT2yuXU.cEk0hZBdc2zK6WEkLrs8WIzDBVs7w7s",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1340,7 +1329,9 @@
             "tvg_name": "Ad San Carlos Vs Escorpiones Belen",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
@@ -2650,6 +2641,26 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
