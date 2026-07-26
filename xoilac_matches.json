@@ -374,26 +374,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fram_reykjavik_vs_hafnarfjordur_luc_0215_ngay_27_07_2026",
         "title": "\u26bd Fram Reykjavik Vs Hafnarfjordur",
         "category": "EVENT LIVE",
@@ -1387,33 +1367,22 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_quilmes_vs_colegiales_luc_0500_ngay_27_07_2026",
         "title": "\u26bd Quilmes Vs Colegiales",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=0610d80186cd65d8e7a58d4d67115a70&wsABSTime=1785141782&nstv_cache=1785098628",
         "is_live": true,
         "match_time": "05:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel33/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehg83xzr51&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=e5HMKLvMAd05_TJ2eYvWi5Sy0BgTGcF07gsxHbSfNsU-1785098462.7096753-1.0.1.1-5pWY3izO5Xn_0wiFOAdhH1Ahut5avrLVbL1ztFQ.YvhxhcRzyKVUA7NZ7lNVLHX0fzLM84eLe06K8JuZwW8sQnD7XhX7eDaLGXfHRP3ApB6XKtHcSYtik8YQffgDpUad; _ga=GA1.1.1575346020.1785098466; _ga_P60BDCKB3G=GS2.1.s1785098466$o1$g1$t1785098520$j6$l0$h0; __cf_bm=KTGAaYvo6lYcLcYeHUzwVSjMGRGe_SxA9EbyQRjxuTs-1785098525.3407867-1.0.1.1-BBN.pzhxN_uC.yeEn2.lTXiwLl6UycYxUCesLXREZKUBKi4KobAPeQ35X0UjykFsEW3SRJRJQYHHBkv_ddRXnE3rQ1M0KAy0k8YSxKJL1PnRkeTsK.BbYLTCXamsfdob; _ga=GA1.1.632156737.1785098526; _ga_S52WSRDB70=GS2.1.s1785098526$o1$g1$t1785098580$j6$l0$h0; cf_clearance=28WxSny4Z2RUqTikeV5oXjgJsMvKVKNh3D7YfAZ05Ko-1785098588-1.2.1.1-QwvEGHvv_1pSYJNmpDPoCjiLp1mMAAU5oHPnyJLUUsBXTw1PdRAVLcz.TeafKoY5_XmaJq4bQ0ot5abNguzO1wggwZW95plL3EyCDdnMI5CL.P32kDVSeYjnTmtf5X6i11pZUsLW5WByDxbXcE7_vOTAWDjySPwvezm6ovx9XBv5Rkf6RoKMBMf8V1WrS7NMtOU0VPvpPBto4mZ4.SQ6yQK98N.HjFCnccCbtZ5KHtS06bv3LTD72Mzy6lA.bpcY4NInM_qKoBIUvQHorHfj9HWyjET3TaS9GuKv5ni110FPnnSRpEZ7Ug2Zv4wswj2DW38rQlushGO4tdXNuaiFg0xuyNvM0Vt0nASs.tFEdC8",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1424,7 +1393,9 @@
             "tvg_name": "Quilmes Vs Colegiales",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -2920,6 +2891,46 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
