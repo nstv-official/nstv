@@ -1407,6 +1407,26 @@
         }
     },
     {
+        "id": "x_quilmes_vs_colegiales_luc_0500_ngay_27_07_2026",
+        "title": "\u26bd Quilmes Vs Colegiales",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.quilmes-vs-colegiales-luc-0500-ngay-27-07-2026",
+            "tvg_name": "Quilmes Vs Colegiales",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
