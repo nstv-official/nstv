@@ -456,6 +456,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_blooming_vs_the_strongest_luc_0630_ngay_27_07_2026",
+        "title": "\u26bd Blooming Vs The Strongest",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.blooming-vs-the-strongest-luc-0630-ngay-27-07-2026",
+            "tvg_name": "Blooming Vs The Strongest",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_inter_willemstad_vs_st_johns_sc_luc_0230_ngay_27_07_2026",
+        "title": "\u26bd Inter Willemstad Vs St Johns Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.inter-willemstad-vs-st-johns-sc-luc-0230-ngay-27-07-2026",
+            "tvg_name": "Inter Willemstad Vs St Johns Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
         "title": "\u26bd Nu Venezuela Vs Nu Peru",
         "category": "EVENT LIVE",
@@ -1230,6 +1270,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_club_guarani_vs_sportivo_luqueno_luc_0430_ngay_27_07_2026",
+        "title": "\u26bd Club Guarani Vs Sportivo Luqueno",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.club-guarani-vs-sportivo-luqueno-luc-0430-ngay-27-07-2026",
+            "tvg_name": "Club Guarani Vs Sportivo Luqueno",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_liverpool_vs_sunderland_0500_26_07",
