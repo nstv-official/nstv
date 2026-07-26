@@ -1,222 +1,5 @@
 [
     {
-        "id": "x_alex_michelsen_vs_jacob_fearnley_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Alex Michelsen Vs Jacob Fearnley",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel51.flv?wsSecret=5ebc2ec8bbfbd5afa8d69d1cd9ba1668&wsABSTime=1785129360&nstv_cache=1785086197",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel51/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086159$j13$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.alex-michelsen-vs-jacob-fearnley-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Alex Michelsen Vs Jacob Fearnley",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_crvena_zvezda_vs_vojvodina_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Crvena Zvezda Vs Vojvodina",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?nstv_cache=1785086909",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel24/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=x7lm7phjd39dm2w&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785086868$j38$l0$h0; cf_clearance=BfkPWBWMWWVCpnVNOrkvef2mjT_fPjuDZYiKjPmygoo-1785086871-1.2.1.1-toNS5m3N2h3IMy2yhnwLkOMteZEC1uIDzMQ2XQ2YHWzxzhXjA3mnQqeGuBFh_CgbuofhZDqQeA9H1sqykXSnKIPFj7ndSNtvtW7AAs9yEbuK0g7pd5it1xHBJLSaSNZtM8XElMhS1j7l6DeUTj0EVpk4xGU0Wj3YRou3asvmL8Do778v6i7.UfJ4u3VV7G_DlFn5XdS2y6TRVIPBJlLQQh6mz9umAKfBhbRnqZOQ98KMQfz92xECvasrBFh76vsNPxKWbFJcgUOBHTTmSecic89sjChbROK95kE8vZVsePneujC4fmVSZNHPz0.eP7DpcsUIoYRCgc9BoIgTaIdy.6cJ0KCFHcaNfak0OjOS8Fk",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.crvena-zvezda-vs-vojvodina-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Crvena Zvezda Vs Vojvodina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_dukla_banska_bystrica_vs_slovan_bratislava_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Dukla Banska Bystrica Vs Slovan Bratislava",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel8.flv?nstv_cache=1785088282",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel8/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=l7oqdehgzw6kr51&view=true",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088243$j37$l0$h0; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dukla-banska-bystrica-vs-slovan-bratislava-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Dukla Banska Bystrica Vs Slovan Bratislava",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_gyirmot_se_vs_csakvari_tk_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Gyirmot Se Vs Csakvari Tk",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=31de6e40d0b5c6309cc12d8dc78fcfd2&wsABSTime=1785131488&nstv_cache=1785088327",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel3/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=l5ergph46dxpr8k&view=true",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088287$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.gyirmot-se-vs-csakvari-tk-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Gyirmot Se Vs Csakvari Tk",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_slavia_mozyr_vs_dinamo_brest_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Slavia Mozyr Vs Dinamo Brest",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel4.flv?wsSecret=d167a231421bec06c5b515ac6802d223&wsABSTime=1785131532&nstv_cache=1785088371",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=4jwq2ghn2xj3m0v&view=true",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088331$j11$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.slavia-mozyr-vs-dinamo-brest-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Slavia Mozyr Vs Dinamo Brest",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_algeria_vs_nu_senegal_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Nu Algeria Vs Nu Senegal",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=a556887fe08f4f70c2dab5c0a57846ff&wsABSTime=1785131577&nstv_cache=1785088417",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel5/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=318q66hxe0yyqo9&view=true",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088376$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-algeria-vs-nu-senegal-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Nu Algeria Vs Nu Senegal",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_fc_tbilisi_2025_vs_fc_metalurgi_rustavi_luc_0000_ngay_27_07_2026",
-        "title": "\u26bd Fc Tbilisi  Vs Fc Metalurgi Rustavi",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel6.flv?wsSecret=f8907079a4e3c5e8d4904544435b7a3a&wsABSTime=1785131661&nstv_cache=1785088501",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel6/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=zp5rzghgkxzxq82&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088437$j60$l0$h0; __cf_bm=GaJo2vHIfF2RUiuvpm3sWFlYm0rFVjtSzumkp3x0XoM-1785088438.8774588-1.0.1.1-_FzEXkIhakzdn6zswcZUlci89y.sK7WdfzTan1twPe0_4egnI.wynmF3htzeLyoIktYf7pQYqaOs94tcLuvFgkidz1XaNecnciZeC1CE63cEXAcr_Wm6am7_5zB_48TS; _ga=GA1.1.242154808.1785088440; _ga_S52WSRDB70=GS2.1.s1785088439$o1$g1$t1785088461$j38$l0$h0; cf_clearance=2MDID.nZYrB.NSfC08.IPHnlNLRZv2DFNDbSa04kwSw-1785088463-1.2.1.1-1M.uLJJs_Vwgrc7zPme13SC4vtV4_DfgO9P8vpDTu6FmPQCZsRlMGM07vg76PBeGppKlR7EAj4r5lICvygiqrf8NYK6.3kWyqAXQ5PQffw2gU0BRu3bVE1tQeiGMVje9yr_gGtOWwhn4eRSt_8xYa3tPQmKuAHsmI0yjlb113CAuT5e_1icHXaK5UID.h5BOlhtWPk9cfj0ZMHA_sNZsNMliqBIkdKRtsmRpuQ_xEnMyZe7xbNDHbpy1vnAm2cEGLno_6TDUOlOpMgACOuQle06.gZlRENnmU80AXZXlNC413g7URre5SS.ieNKcPOsryRctyT2ov6SBusVAeilRYxQlbdAUCAF.HPbbCnFnD5w; __cf_bm=waAynKxVKbMaWZ.7yazZpy28aaBi0grDubuKRdafZfI-1785088499.107008-1.0.1.1-.cswcXbAvs3e_V6_URSKetD1pCmDhTHn1YPN9uCX7.l5oxUCBYwWSCrfPjQ6EfLp84ob3O_7dp72m2T8wTMlLvmgb41sy.8jd9IDDaLr1LJJ12PNA6aK6rnyTwwgN3Yu",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fc-tbilisi-2025-vs-fc-metalurgi-rustavi-luc-0000-ngay-27-07-2026",
-            "tvg_name": "Fc Tbilisi  Vs Fc Metalurgi Rustavi",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_aalesund_fk_vs_viking_luc_0015_ngay_27_07_2026",
         "title": "\u26bd Aalesund Fk Vs Viking",
         "category": "EVENT LIVE",
@@ -1397,6 +1180,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tyler_zink_vs_nicolas_arseneault_luc_0220_ngay_27_07_2026",
         "title": "\u26bd Tyler Zink Vs Nicolas Arseneault",
         "category": "EVENT LIVE",
@@ -1830,6 +1633,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -3294,46 +3117,6 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
