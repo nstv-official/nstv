@@ -1,170 +1,5 @@
 [
     {
-        "id": "x_latvia_u18_vs_estonia_u18_luc_2030_ngay_26_07_2026",
-        "title": "\u26bd Latvia U Vs Estonia U",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/7e804f53-9bc6-4fbd-8e3a-7d781dc6ec01",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "Cookie": "__cf_bm=o43NU9MGxlJCwelJ8gtGxiAfR1llxT3sNl40nBkMGwQ-1785074446.462145-1.0.1.1-uCynxY9La1YfrzOK9hPA1yhcrxOe2PKwOoC.hG8iK29.LlzR2tG8LWjg7SGOQlsMfET8BXxygUnLWP0IEo1x6tZb4DKYWLFd_zUQQ5UCt1jUozGF3eceP_RqFzOd7hIh; _ga=GA1.1.1353198704.1785074449; cf_clearance=25mGXH64E9xHaUfwoflXe1lhDIktQ7k.gJo.3F_oNdw-1785074488-1.2.1.1-cXxMi7P467u8C5_B1e5hmWnWrsHEIZVTYvSAaOHakRo1EQ4aDoK_j5D7dekZtWWdVCZMpMdYkM7kCNr20dJ3j7fZCJI_O6mdrE9Ylus3EsV.XQpF.Qf84kvgtx001wr6yx_AjEs4duWY9yip1HrjlWcl3cYkV20FgvEHxGagxgNwnVBtREZqy_AKb_l1BA2sOxE0NE89Ug.4YtIAhbYLjwfwaklz4cpagi1jvSOR1SfEcxDnoiD4YvbB5spPYWEIBWO3UBg93hCN7FebUaWXVEykC0J.p3s4Huw5wLxMnhp8AbAwfk8Tp8PovkH9LsUZ4EpFYMiF3lsRyOAnExiLhF37r.r2cUu01UvVxxxjF2M; _ga_P60BDCKB3G=GS2.1.s1785074449$o1$g1$t1785074588$j47$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.latvia-u18-vs-estonia-u18-luc-2030-ngay-26-07-2026",
-            "tvg_name": "Latvia U Vs Estonia U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_tho_nhi_ky_u18_vs_slovakia_u18_luc_2030_ngay_27_07_2026",
-        "title": "\u26bd Tho Nhi Ky U Vs Slovakia U",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/2105655f-e8e4-4416-b990-e87a10d25dd4",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "Cookie": "__cf_bm=o43NU9MGxlJCwelJ8gtGxiAfR1llxT3sNl40nBkMGwQ-1785074446.462145-1.0.1.1-uCynxY9La1YfrzOK9hPA1yhcrxOe2PKwOoC.hG8iK29.LlzR2tG8LWjg7SGOQlsMfET8BXxygUnLWP0IEo1x6tZb4DKYWLFd_zUQQ5UCt1jUozGF3eceP_RqFzOd7hIh; _ga=GA1.1.1353198704.1785074449; cf_clearance=25mGXH64E9xHaUfwoflXe1lhDIktQ7k.gJo.3F_oNdw-1785074488-1.2.1.1-cXxMi7P467u8C5_B1e5hmWnWrsHEIZVTYvSAaOHakRo1EQ4aDoK_j5D7dekZtWWdVCZMpMdYkM7kCNr20dJ3j7fZCJI_O6mdrE9Ylus3EsV.XQpF.Qf84kvgtx001wr6yx_AjEs4duWY9yip1HrjlWcl3cYkV20FgvEHxGagxgNwnVBtREZqy_AKb_l1BA2sOxE0NE89Ug.4YtIAhbYLjwfwaklz4cpagi1jvSOR1SfEcxDnoiD4YvbB5spPYWEIBWO3UBg93hCN7FebUaWXVEykC0J.p3s4Huw5wLxMnhp8AbAwfk8Tp8PovkH9LsUZ4EpFYMiF3lsRyOAnExiLhF37r.r2cUu01UvVxxxjF2M; _ga_P60BDCKB3G=GS2.1.s1785074449$o1$g1$t1785074643$j55$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tho-nhi-ky-u18-vs-slovakia-u18-luc-2030-ngay-27-07-2026",
-            "tvg_name": "Tho Nhi Ky U Vs Slovakia U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_timor_leste_vs_viet_nam_2030_24_07",
-        "title": "\u26bd Timor Leste Vs Viet Nam",
-        "category": "EVENT LIVE",
-        "uri": "https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&quot;https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp11.swf&quot;,&quot;html5url&quot;:&quot;//st.okcdn.ru/static/MegaPlayer/10-12-24/okHtml5Player.min&quot;,&quot;okVideoPlayerEnabled&quot;:true,&quot;minFlashVersionNewPlayer&quot;:&quot;11.2&quot;,&quot;wmode&quot;:&quot;opaque&quot;,&quot;asa&quot;:true,&quot;provider&quot;:&quot;UPLOADED_ODKL&quot;,&quot;liveRertyTimeout&quot;:5000,&quot;poster&quot;:&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\u0026type=38\\u0026idx=0\\u0026scl=4\\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\\u0026fn=external_8&quot;,&quot;isExternalPlayer&quot;:false,&quot;isIframePlayer&quot;:false,&quot;isHtml5Player&quot;:true,&quot;timestamp&quot;:&quot;1785037128561&quot;,&quot;stubEnabled&quot;:false,&quot;verifyInline&quot;:false,&quot;webrtcBrokenH264&quot;:false,&quot;instantLayer&quot;:false,&quot;playerLocalizationEnabled&quot;:true,&quot;flashvars&quot;:{&quot;referer&quot;:&quot;https://xoilaczzkkz.tv/&quot;,&quot;relatedAlways&quot;:&quot;1&quot;,&quot;metadata&quot;:&quot;{\\&quot;movie\\&quot;:{\\&quot;id\\&quot;:\\&quot;15970165393956\\&quot;,\\&quot;movieId\\&quot;:\\&quot;15970165393956\\&quot;,\\&quot;likeId\\&quot;:\\&quot;15970165393956\\&quot;,\\&quot;contentId\\&quot;:\\&quot;18870925003300\\&quot;,\\&quot;poster\\&quot;:\\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\\\u0026type=38\\\\u0026idx=0\\\\u0026scl=4\\\\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\\\\u0026fn=external_8\\&quot;,\\&quot;duration\\&quot;:\\&quot;247\\&quot;,\\&quot;title\\&quot;:\\&quot;YTSave_YouTube_TIMOR-LESTE-0-7-VIETNAM-HIGHLIGHTS_Media_JLd6jSo91KY_001_1080p\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok.ru/video/15970165393956\\&quot;,\\&quot;link\\&quot;:\\&quot;/video/15970165393956\\&quot;,\\&quot;collageInfo\\&quot;:{\\&quot;imageType\\&quot;:\\&quot;COLLAGE\\&quot;,\\&quot;url\\&quot;:\\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\\\u0026type=36\\\\u0026idx=0\\\\u0026scl=4\\\\u0026tkn=uWRJ2mEuef_oIOjTnTvpdPgRV-Q\\&quot;,\\&quot;frequency\\&quot;:2,\\&quot;height\\&quot;:44,\\&quot;width\\&quot;:80,\\&quot;count\\&quot;:124,\\&quot;tileWidth\\&quot;:40,\\&quot;tileHeight\\&quot;:4},\\&quot;status\\&quot;:\\&quot;OK\\&quot;,\\&quot;statusText\\&quot;:\\&quot;OK\\&quot;,\\&quot;isLive\\&quot;:false,\\&quot;notPublished\\&quot;:false,\\&quot;isClip\\&quot;:false,\\&quot;width\\&quot;:1920,\\&quot;height\\&quot;:1080},\\&quot;failoverHosts\\&quot;:[\\&quot;vd734.okcdn.ru\\&quot;,\\&quot;vd653.okcdn.ru\\&quot;],\\&quot;provider\\&quot;:\\&quot;UPLOADED_ODKL\\&quot;,\\&quot;service\\&quot;:\\&quot;ok\\&quot;,\\&quot;owner\\&quot;:false,\\&quot;voted\\&quot;:false,\\&quot;likeCount\\&quot;:0,\\&quot;subscribed\\&quot;:false,\\&quot;isWatchLater\\&quot;:false,\\&quot;slot\\&quot;:690,\\&quot;siteZone\\&quot;:-1,\\&quot;showAd\\&quot;:true,\\&quot;fromTime\\&quot;:0,\\&quot;author\\&quot;:{},\\&quot;admanMetadata\\&quot;:{},\\&quot;partnerId\\&quot;:-1,\\&quot;ownerMovieId\\&quot;:\\&quot;15970165393956\\&quot;,\\&quot;alwaysShowRec\\&quot;:false,\\&quot;videos\\&quot;:[{\\&quot;name\\&quot;:\\&quot;mobile\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=4\\\\u0026sig=hV5xGzptBXY\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;lowest\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=0\\\\u0026sig=j7YRvHAo1oo\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;low\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=1\\\\u0026sig=nhSBv1WzsfI\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;sd\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=2\\\\u0026sig=bfSqwnmD-X8\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;hd\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=3\\\\u0026sig=Pl-oKVYUNzM\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false},{\\&quot;name\\&quot;:\\&quot;full\\&quot;,\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ms=95.142.206.135\\\\u0026type=5\\\\u0026sig=div287rHpZI\\\\u0026ct=0\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;seekSchema\\&quot;:3,\\&quot;disallowed\\&quot;:false}],\\&quot;vkMovie\\&quot;:false,\\&quot;metadataUrl\\&quot;:\\&quot;https://ok6-8.vkuser.net/?expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ch=-1610167797\\\\u0026ms=95.142.206.135\\\\u0026type=1\\\\u0026sig=8UY9fIZ76Hk\\\\u0026ct=6\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;hlsManifestUrl\\&quot;:\\&quot;https://ok6-8.vkuser.net/video.m3u8?cmd=videoPlayerCdn\\\\u0026expires=1785123528555\\\\u0026srcIp=110.138.88.187\\\\u0026pr=10\\\\u0026srcAg=CHROME\\\\u0026ch=-536166974\\\\u0026ms=95.142.206.135\\\\u0026type=2\\\\u0026sig=DWXuFXiCcQk\\\\u0026ct=8\\\\u0026urls=95.163.35.11%3B178.237.23.4\\\\u0026clientType=0\\\\u0026zs=43\\\\u0026id=18870925003300\\&quot;,\\&quot;autoplay\\&quot;:{\\&quot;autoplayEnabled\\&quot;:true,\\&quot;timeFromEnabled\\&quot;:true,\\&quot;noRec\\&quot;:false,\\&quot;fullScreenExit\\&quot;:false,\\&quot;vitrinaSection\\&quot;:\\&quot;recommended_movie\\&quot;},\\&quot;security\\&quot;:{\\&quot;url\\&quot;:\\&quot;https://ok6-8.vkuser.net/usr_login\\&quot;,\\&quot;cookie\\&quot;:\\&quot;vdsig\\&quot;},\\&quot;p2pInfo\\&quot;:{\\&quot;isPeerEnabled\\&quot;:false,\\&quot;ubsc\\&quot;:0,\\&quot;pbsc\\&quot;:0,\\&quot;mptpc\\&quot;:0,\\&quot;pctmt\\&quot;:0,\\&quot;pbesc\\&quot;:0,\\&quot;prrt\\&quot;:0,\\&quot;srt\\&quot;:0,\\&quot;swrt\\&quot;:0,\\&quot;dctt\\&quot;:0},\\&quot;stunServers\\&quot;:[{\\&quot;urls\\&quot;:[\\&quot;stun:videostun.okcdn.ru:19302\\&quot;]}],\\&quot;episodes\\&quot;:[]}&quot;,&quot;saveLastPlayingTimeFrom&quot;:&quot;30&quot;,&quot;castId&quot;:&quot;559D7832&quot;,&quot;noDownload&quot;:&quot;1&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;noChatLikes&quot;:&quot;1&quot;,&quot;noChannel&quot;:&quot;1&quot;,&quot;webmSec&quot;:&quot;20&quot;,&quot;enabledLocalStorage&quot;:&quot;1&quot;,&quot;minCacheTime&quot;:&quot;120&quot;,&quot;maxCachePartOfDurationMQ&quot;:&quot;30&quot;,&quot;checkMQ&quot;:&quot;1&quot;,&quot;noTrailer&quot;:&quot;1&quot;,&quot;recSlot&quot;:&quot;7178&quot;,&quot;noOldDash&quot;:&quot;1&quot;,&quot;noLikeButton&quot;:&quot;1&quot;,&quot;maxCachePartOfDuration&quot;:&quot;10&quot;,&quot;isAnonym&quot;:&quot;1&quot;,&quot;jidx&quot;:&quot;1&quot;,&quot;hideWatermark&quot;:&quot;0&quot;,&quot;isEmbed&quot;:&quot;1&quot;,&quot;noOkliveBanner&quot;:&quot;1&quot;,&quot;minCacheTimeMQ&quot;:&quot;20&quot;,&quot;adLogFullscreen&quot;:&quot;1&quot;,&quot;adLogFeed&quot;:&quot;1&quot;,&quot;adLogExternal&quot;:&quot;1&quot;,&quot;ldChunk&quot;:&quot;2000&quot;,&quot;showChat&quot;:&quot;1&quot;,&quot;ldBuffer&quot;:&quot;6000&quot;,&quot;feedAdLogic&quot;:&quot;15,3,3,14400&quot;,&quot;siteId&quot;:&quot;504&quot;,&quot;location&quot;:&quot;AnonymVideoEmbed/anonymVideoEmbed/anonym&quot;,&quot;watchCoverageEvent&quot;:&quot;watch_coverage_record&quot;,&quot;hideExpand&quot;:&quot;1&quot;,&quot;adLogic&quot;:&quot;15,0,3,14400&quot;,&quot;checkAutoplayBrowsers&quot;:&quot;safari,chrome,opera,yandex,firefox&quot;}}",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.timor-leste-vs-viet-nam-2030-24-07",
-            "tvg_name": "Timor Leste Vs Viet Nam",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_trabzonspor_vs_eintracht_frankfurt_luc_2030_ngay_26_07_2026",
-        "title": "\u26bd Trabzonspor Vs Eintracht Frankfurt",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel8.flv",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel8/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785075929$j10$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.trabzonspor-vs-eintracht-frankfurt-luc-2030-ngay-26-07-2026",
-            "tvg_name": "Trabzonspor Vs Eintracht Frankfurt",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ukraine_u18_vs_ba_lan_u18_luc_2030_ngay_26_07_2026",
-        "title": "\u26bd Ukraine U Vs Ba Lan U",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/8ef0e17c-e6f3-427c-95b2-d62ad754582a",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "Cookie": "__cf_bm=o43NU9MGxlJCwelJ8gtGxiAfR1llxT3sNl40nBkMGwQ-1785074446.462145-1.0.1.1-uCynxY9La1YfrzOK9hPA1yhcrxOe2PKwOoC.hG8iK29.LlzR2tG8LWjg7SGOQlsMfET8BXxygUnLWP0IEo1x6tZb4DKYWLFd_zUQQ5UCt1jUozGF3eceP_RqFzOd7hIh; _ga=GA1.1.1353198704.1785074449; cf_clearance=25mGXH64E9xHaUfwoflXe1lhDIktQ7k.gJo.3F_oNdw-1785074488-1.2.1.1-cXxMi7P467u8C5_B1e5hmWnWrsHEIZVTYvSAaOHakRo1EQ4aDoK_j5D7dekZtWWdVCZMpMdYkM7kCNr20dJ3j7fZCJI_O6mdrE9Ylus3EsV.XQpF.Qf84kvgtx001wr6yx_AjEs4duWY9yip1HrjlWcl3cYkV20FgvEHxGagxgNwnVBtREZqy_AKb_l1BA2sOxE0NE89Ug.4YtIAhbYLjwfwaklz4cpagi1jvSOR1SfEcxDnoiD4YvbB5spPYWEIBWO3UBg93hCN7FebUaWXVEykC0J.p3s4Huw5wLxMnhp8AbAwfk8Tp8PovkH9LsUZ4EpFYMiF3lsRyOAnExiLhF37r.r2cUu01UvVxxxjF2M; _ga_P60BDCKB3G=GS2.1.s1785074449$o1$g1$t1785074616$j19$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ukraine-u18-vs-ba-lan-u18-luc-2030-ngay-26-07-2026",
-            "tvg_name": "Ukraine U Vs Ba Lan U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_federico_zeballos_vs_francesco_forti_luc_2030_ngay_26_07_2026",
-        "title": "\u26bd Federico Zeballos Vs Francesco Forti",
-        "category": "EVENT LIVE",
-        "uri": "blob:https://xlz.livepingscorex.com/22944b3c-1194-43a4-90ff-6e49a4ed1aed",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "Cookie": "__cf_bm=o43NU9MGxlJCwelJ8gtGxiAfR1llxT3sNl40nBkMGwQ-1785074446.462145-1.0.1.1-uCynxY9La1YfrzOK9hPA1yhcrxOe2PKwOoC.hG8iK29.LlzR2tG8LWjg7SGOQlsMfET8BXxygUnLWP0IEo1x6tZb4DKYWLFd_zUQQ5UCt1jUozGF3eceP_RqFzOd7hIh; _ga=GA1.1.1353198704.1785074449; cf_clearance=25mGXH64E9xHaUfwoflXe1lhDIktQ7k.gJo.3F_oNdw-1785074488-1.2.1.1-cXxMi7P467u8C5_B1e5hmWnWrsHEIZVTYvSAaOHakRo1EQ4aDoK_j5D7dekZtWWdVCZMpMdYkM7kCNr20dJ3j7fZCJI_O6mdrE9Ylus3EsV.XQpF.Qf84kvgtx001wr6yx_AjEs4duWY9yip1HrjlWcl3cYkV20FgvEHxGagxgNwnVBtREZqy_AKb_l1BA2sOxE0NE89Ug.4YtIAhbYLjwfwaklz4cpagi1jvSOR1SfEcxDnoiD4YvbB5spPYWEIBWO3UBg93hCN7FebUaWXVEykC0J.p3s4Huw5wLxMnhp8AbAwfk8Tp8PovkH9LsUZ4EpFYMiF3lsRyOAnExiLhF37r.r2cUu01UvVxxxjF2M; _ga_P60BDCKB3G=GS2.1.s1785074449$o1$g1$t1785074687$j11$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.federico-zeballos-vs-francesco-forti-luc-2030-ngay-26-07-2026",
-            "tvg_name": "Federico Zeballos Vs Francesco Forti",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_d_makhachkala_b_vs_fk_rostov_2_luc_2030_ngay_26_07_2026",
-        "title": "\u26bd D Makhachkala B Vs Fk Rostov",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=6176d6d4f880a342171f4e9d7924cde2&wsABSTime=1785119084",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel28/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785075879$j60$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.d-makhachkala-b-vs-fk-rostov-2-luc-2030-ngay-26-07-2026",
-            "tvg_name": "D Makhachkala B Vs Fk Rostov",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_vasas_fc_vs_gyori_eto_fc_luc_2045_ngay_26_07_2026",
         "title": "\u26bd Vasas Fc Vs Gyori Eto Fc",
         "category": "EVENT LIVE",
@@ -362,6 +197,68 @@
         "epg_metadata": {
             "tvg_id": "m.fk-yelimay-semey-vs-kaisar-kyzylorda-luc-2000-ngay-26-07-2026",
             "tvg_name": "Fk Yelimay Semey Vs Kaisar Kyzylorda",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fc_kairat_vs_ordabasy_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Fc Kairat Vs Ordabasy",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-kairat-vs-ordabasy-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Fc Kairat Vs Ordabasy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fc_astana_vs_altay_fk_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Fc Astana Vs Altay Fk",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-astana-vs-altay-fk-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Fc Astana Vs Altay Fk",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_federico_zeballos_vs_francesco_forti_luc_2030_ngay_26_07_2026",
+        "title": "\u26bd Federico Zeballos Vs Francesco Forti",
+        "category": "EVENT LIVE",
+        "uri": "blob:https://xlz.livepingscorex.com/22944b3c-1194-43a4-90ff-6e49a4ed1aed",
+        "is_live": true,
+        "match_time": "21:25",
+        "headers": {
+            "Cookie": "__cf_bm=o43NU9MGxlJCwelJ8gtGxiAfR1llxT3sNl40nBkMGwQ-1785074446.462145-1.0.1.1-uCynxY9La1YfrzOK9hPA1yhcrxOe2PKwOoC.hG8iK29.LlzR2tG8LWjg7SGOQlsMfET8BXxygUnLWP0IEo1x6tZb4DKYWLFd_zUQQ5UCt1jUozGF3eceP_RqFzOd7hIh; _ga=GA1.1.1353198704.1785074449; cf_clearance=25mGXH64E9xHaUfwoflXe1lhDIktQ7k.gJo.3F_oNdw-1785074488-1.2.1.1-cXxMi7P467u8C5_B1e5hmWnWrsHEIZVTYvSAaOHakRo1EQ4aDoK_j5D7dekZtWWdVCZMpMdYkM7kCNr20dJ3j7fZCJI_O6mdrE9Ylus3EsV.XQpF.Qf84kvgtx001wr6yx_AjEs4duWY9yip1HrjlWcl3cYkV20FgvEHxGagxgNwnVBtREZqy_AKb_l1BA2sOxE0NE89Ug.4YtIAhbYLjwfwaklz4cpagi1jvSOR1SfEcxDnoiD4YvbB5spPYWEIBWO3UBg93hCN7FebUaWXVEykC0J.p3s4Huw5wLxMnhp8AbAwfk8Tp8PovkH9LsUZ4EpFYMiF3lsRyOAnExiLhF37r.r2cUu01UvVxxxjF2M; _ga_P60BDCKB3G=GS2.1.s1785074449$o1$g1$t1785074687$j11$l0$h0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.federico-zeballos-vs-francesco-forti-luc-2030-ngay-26-07-2026",
+            "tvg_name": "Federico Zeballos Vs Francesco Forti",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
