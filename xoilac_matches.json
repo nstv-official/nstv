@@ -1913,6 +1913,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_fc_bulleen_lions_vs_langwarrin_luc_1730_ngay_27_07_2026",
+        "title": "\u26bd Fc Bulleen Lions Vs Langwarrin",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-bulleen-lions-vs-langwarrin-luc-1730-ngay-27-07-2026",
+            "tvg_name": "Fc Bulleen Lions Vs Langwarrin",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_phap_u18_vs_greece_u18_luc_1800_ngay_27_07_2026",
         "title": "\u26bd Phap U Vs Greece U",
         "category": "EVENT LIVE",
@@ -2066,6 +2086,46 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "19:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.samtskhe-akhaltsikhe-vs-gagra-fc-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Samtskhe Akhaltsikhe Vs Gagra Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fk_orenburg_2_vs_krylia_sovetov_2_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Fk Orenburg  Vs Krylia Sovetov",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "20:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-orenburg-2-vs-krylia-sovetov-2-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Fk Orenburg  Vs Krylia Sovetov",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_tho_nhi_ky_u18_vs_slovakia_u18_luc_2030_ngay_27_07_2026",
