@@ -344,10 +344,19 @@
         "id": "x_puszcza_vs_polonia_warszawa_luc_0030_ngay_27_07_2026",
         "title": "\u26bd Puszcza Vs Polonia Warszawa",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel8.flv?wsSecret=607e6732cbcd5780985b3bf32d3b06eb&wsABSTime=1785131937&nstv_cache=1785088778",
         "is_live": true,
         "match_time": "00:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel8/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not?A Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y0or5jh8d245qwz&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=B2QFdBGNvLMxYGiqlE7EbhvFwY3yd7O5Yz.DZl.KPEY-1785088629.4381456-1.0.1.1-WuVYhiV8va5cLJ7Akmb_l7QLcO8NWZ48Wp9PZ3s3eMe0n.mfYl.cPlX2Vh0QloW5zo8OUWLgeeHRtDdrA.ganBxuXSge.z9Qoow718jqqXg5pTi.Fg6fDoBI.WbGCrmx; _ga=GA1.1.1867850133.1785088632; cf_clearance=LPtMXMz7km8OokgR1Fb5RE2_w3GKru2na52rAEh1s8s-1785088657-1.2.1.1-rpUn58UZqga.x.NG7bSPulZ.T7uykBJ17OA6YXhtYMpQNycDTLbGJYqZnxwBDLWtGLafEANABh9.xeOsylKMzEdmd8gs3ajdK1xzW9dtHVZe4021B43F6EnVLlwAvxkEGXerb3dFw8Rzn2GD_r4dzTYLt5L3YwjLXVdzzpzQLSA3wvcECEcTrV0brJ2ZLeq2u_n3tgn01lXEZzq5_B8RZu_gOqphQuoo3XGtdYhT_J6cDI8sNqdAcwPDLg_hETbPMpst126V1qdit05coCV7JpQsPb0FBv0txmcGb.PFXz4EhA2S34Es625poJ9hIvGpgRHgo3he_bxHruLidolzo9nu5xQIHL6e0T0LV3dAFnI; _ga_P60BDCKB3G=GS2.1.s1785088631$o1$g1$t1785088715$j40$l0$h0; __cf_bm=lmYfr8q5yZAqu5kD6fX3Tz.ioIu2YjLIC9I3.kObLew-1785088716.5337713-1.0.1.1-E7TERPBjHX1UqAfVnF3cVaUaq7s_DXVyu6jpBhZL9EBJ2IIFo.9DIGZfpucupT1RC67wkjGmDFevw.27a3stmIcKC63POXVSGOXrsKJ202OvI47w.ZyX7SXxRi1vJTPg; _ga=GA1.1.1717842858.1785088718; _ga_S52WSRDB70=GS2.1.s1785088717$o1$g1$t1785088737$j40$l0$h0; cf_clearance=qt2vR8qOgY8NguvK.sLWXXV5pIKI0nP__l0E.0BvLyo-1785088739-1.2.1.1-IlfUlBpnPBUuNfY1HDQWgJqlL1.TUrQSD4eT.iVFDxh1a68kIqKpSoXksKHJs8w.wqwvWjSpFTf28oLRycA.nz6xmPojtnL2jtnlJn8IhLhRUUxzCKOV0OufWlB7JogYDACEdz_siLoFPy.LrHBrFsRNO13f5aIhUuK3LHiggUdum4sWswX9n0U5OTKtB.Qpk9UA3c0SFXynPXx67F5ItTQqU6deahkOTvrUUEulJLAB4EwVT_xjDclj8e3Ec6uyx4idSzvhtcfq9Mv.hEXZfdNYkwHq1YBS0T8V3vBTMAq9U9RNNstwttx.Un7mqXVUVZBE8TXNhY0OnbI5Q9IvCC7gPuZAvHd7EG0ZfBczBcw; __cf_bm=Wa3Iu4qoIo.7eJ_U7XG4AR71uo.xnbSpYwvxpbBIZ10-1785088776.8028963-1.0.1.1-BgXGWpsgFUNXE2EmZVZ1Z22oFkoG3PdFp6CXlk3fRFOCli1tNSqmk56bNPvMG5jylfCkIsB747MSOxoPV_CqHBDx1G.Bngtyxf9EaoE8uuhJRoyrKTDiRvn4DvPe1nGh",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -358,7 +367,9 @@
             "tvg_name": "Puszcza Vs Polonia Warszawa",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_fc_hradec_kralove_vs_fk_pardubice_luc_0100_ngay_27_07_2026",
