@@ -487,10 +487,19 @@
         "id": "x_nu_shanxi_tianze_vs_nu_wuhan_sheng_luc_0900_ngay_28_07_2026",
         "title": "\u26bd Nu Shanxi Tianze Vs Nu Wuhan Sheng",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=c7c91dcdc79d2163001be395ec6819fb&wsABSTime=1785128970&nstv_cache=1785085808",
         "is_live": true,
         "match_time": "09:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel42/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=3glrwyt32826qdy&view=true",
+            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=FqCyLVDktoI03QYG72ymjLPi1YNXmNRNHwYqP_K_4CM-1785085293-1.2.1.1-nIFK1v70prz8xoIIvIVuUJQuxhRGKDWBzSIcJUL6RsGlhwGEwNBvv2LWBgdmGq4pOT_KJFBLNFe9B8xt7Yx8T2o893t_IfRVN4lxh9kMxKtiWrrh99RtAg3KD5eENVX9ekG44PBA1DD9ntqE4iPmmgHBNn0c49uMrSa5NmVEs_YZxoVwn6TP_C2WFvFOE.KTrqKmp4hRagHYSJjAS3gVeY8p1LMvLswJ6uTQjGezkqgEUae3qQ0WbdrxQXu8gaE.JVnVFWUu6G0sMuUb7gOE7jPScHBGmi90jWTA07sawdLKdbP2GmbkiY4iSOxJg8VIo1T7z4j_oIbdP7__H_ncNqv4REmSBaCBI6WOJUiayrw; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785085770$j55$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -501,7 +510,9 @@
             "tvg_name": "Nu Shanxi Tianze Vs Nu Wuhan Sheng",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alex_hernandez_vs_alan_magadan_luc_0910_ngay_27_07_2026",
