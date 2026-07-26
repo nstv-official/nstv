@@ -2576,29 +2576,6 @@
         }
     },
     {
-        "id": "x_MontrealImpactVsInterMiami_06:40",
-        "title": "\u26bd Montreal Impact Vs Inter Miami",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "06:40",
-        "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.montreal-impact-vs-inter-miami-luc-0630-ngay-26-07-2026",
-            "tvg_name": "Montreal Impact Vs Inter Miami",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_StLouisCityVsColoradoRapids_07:30",
         "title": "\u26bd St Louis City Vs Colorado Rapids",
         "category": "EVENT LIVE",
