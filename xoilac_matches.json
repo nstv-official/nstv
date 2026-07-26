@@ -1573,6 +1573,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_nu_san_diego_vs_nu_seattle_reign_luc_0400_ngay_27_07_2026",
+        "title": "\u26bd Nu San Diego Vs Nu Seattle Reign",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-san-diego-vs-nu-seattle-reign-luc-0400-ngay-27-07-2026",
+            "tvg_name": "Nu San Diego Vs Nu Seattle Reign",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_aguilas_doradas_vs_ind_santa_fe_luc_0405_ngay_27_07_2026",
         "title": "\u26bd Aguilas Doradas Vs Ind Santa Fe",
         "category": "EVENT LIVE",
