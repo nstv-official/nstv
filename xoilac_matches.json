@@ -2776,6 +2776,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_apr_fc_vs_al_haras_al_jumhuri_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Apr Fc Vs Al Haras Al Jumhuri",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.apr-fc-vs-al-haras-al-jumhuri-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Apr Fc Vs Al Haras Al Jumhuri",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
         "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
         "category": "EVENT LIVE",
