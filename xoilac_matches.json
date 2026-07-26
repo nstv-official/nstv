@@ -964,10 +964,19 @@
         "id": "x_marino_vs_tenerife_luc_0130_ngay_27_07_2026",
         "title": "\u26bd Marino Vs Tenerife",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=de53591b885e5726395202fdf014d0de&wsABSTime=1785133670&nstv_cache=1785090513",
         "is_live": true,
         "match_time": "01:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel19/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A.Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehgp2k4r51&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=0q_GrXb5veF90_kw6TPGEc7fo5iov.ulALGzrX7KDu4-1785090390.2118742-1.0.1.1-Mk8cKZwXnWSXmqfbX7zxOEwfipmqQlo0y2DOyf4v3eenlxRDKtj9huJpG2nApJogDJL.iQtIdYkS5dQXqVeTu9KBi6WsbNQCxU7FgOgIXy0D5rsTPhPpcET5_wHTFpTy; _ga=GA1.1.1746217458.1785090394; _ga_P60BDCKB3G=GS2.1.s1785090393$o1$g1$t1785090431$j22$l0$h0; __cf_bm=8gBKmbqtgeYZsZ4nWdLTqpZCrY8osC2610C5UPkiI8I-1785090432.2614226-1.0.1.1-CNeiMK4bfetQ3h7eYJB0G5TDYCURkPHgQWnrxX8bxahOUYyEtIIQZf92bLSQwhmV2SHU37Ipaq83bLjNQK541rEwFAV05ineRoeg3YixC1WEi3L1elfp4Az7Q8W.MKIm; _ga=GA1.1.850728742.1785090433; _ga_S52WSRDB70=GS2.1.s1785090432$o1$g1$t1785090470$j22$l0$h0; cf_clearance=Nbrda8CuRy_bR7DD8Gw23.NwwSEv3TbZx79.so50gbw-1785090471-1.2.1.1-XCKtbt_Rbk4PBeHD5Y1FwdJ9ltE9nafMten4lt7Cj_WQ0gR_3ZQAG.PU3KkKw5Bej.2mZLMefe6vc59b6XJKE2.8GyDoyn1NpJmsravJL1Mc1vyLmVBVCd0qwnnk4bVbZvdJt87F.ibS4v9ZoMFzGTf_BQpkSrDelRrOFr0K2FOMkDMkJXIWABwpo7aCaMnccN8Z8aEXkESUwhNhqfop5LGP3ahLYPN13o7n7dxFlxaTzpDjc9Kp7kiqz_h35a4XzzVB5nMtyxz4_IObR1SuN1JnNN6Q_3V_3qeOUfDBwA_Ig3zdE3HoOjX6503I.63aQlSXN_kkivb0Sm7ZHAfihqI7HT2LpZ1IhibBAncxAFc; __cf_bm=7akCAzS61.V_36BYY1iSOUUWkZWFWNARA1MCV2Ko01M-1785090487.4609814-1.0.1.1-bv1yPp3bODWMRAgJMMx9dHSCy0X7LG1HbWkAEwWcPVJQl7NFZtjhWD.AwcHQoR9u0UmU54j7zdrVjt10dw233cMbKROpJ.f65w77G5cpPmB2LrROzQkwhTfwkhnrGx4U",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -978,7 +987,9 @@
             "tvg_name": "Marino Vs Tenerife",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_ca_san_miguel_vs_club_atletico_acassuso_luc_0130_ngay_27_07_2026",
@@ -1207,26 +1218,6 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     },
     {
         "id": "x_tyler_zink_vs_nicolas_arseneault_luc_0220_ngay_27_07_2026",
@@ -1662,26 +1653,6 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -3229,6 +3200,46 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
