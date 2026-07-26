@@ -217,26 +217,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -674,10 +654,19 @@
         "id": "x_ad_san_carlos_vs_escorpiones_belen_luc_0600_ngay_27_07_2026",
         "title": "\u26bd Ad San Carlos Vs Escorpiones Belen",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=8f8c09633718dc99b188403cc72b3928&wsABSTime=1785151206&nstv_cache=1785108039",
         "is_live": true,
         "match_time": "06:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel26/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not_A Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=318q66hxdgv9qo9&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=kLY5p0l8WPHbr9EH28.lnDxG6LCgNg_Us0rMDEmlghY-1785107912.301723-1.0.1.1-LBZHb9.uuCCp7y6P0Nh_bo.ZPOskZx5dHiFgn.4aC0PdpMBI7SULiR9zIhiydRDnxdiHzmH28RML6FOlTxzbHx4LqADtE8HiAb_CQBP0Ad2hn7qQo_PiWiaRIIIQdwdb; _ga=GA1.1.802044038.1785107916; _ga_P60BDCKB3G=GS2.1.s1785107916$o1$g1$t1785107954$j22$l0$h0; __cf_bm=UOfA2GJwCBVNVJzBrsqxCaKRYRvUR3EoZES0Rga8qKM-1785107960.3911555-1.0.1.1-al9gc1kEwwgOWGljY5A.KI0yMYswkkdjxNYet7NDDABH1z0_ovooQ2vMui0wgqcWfGKoFEnIz66EcZuzJWxSg5ShOwwupeksmJxmaTihh7T6zRXATlSrTFYWw8UFfL2f; _ga=GA1.1.36341595.1785107962; _ga_S52WSRDB70=GS2.1.s1785107962$o1$g1$t1785108005$j17$l0$h0; cf_clearance=a.XkwQLO.wzyy5Gh_Fy1ToAEZ0Ede0uwOh8j26Ng2k0-1785108011-1.2.1.1-WrLNZSLLHhE0LGfEPrURwxIZ0vUTF1_k3l3dCohgOmHub0Lq2nAXymI8v7bg60pAD83.7TIVgVzUX.P55kRgQyaHcAjeTCD76vn4R4zlWYzAwUCG0TyDlu98g4LdtPtqiToLgsx9YoP.RLLR4GG5a3EXUs..UQRFfRiz9QWmCLgHGVIihsNGNdYlDthrX_FkKtQBrDz9LqOPBD5JearAMYW9VfnrHvkqZjU_J7KWZUJrfwTqyrJUweoEqVWL3VSkcVFy6VgOa7EOO.1cI4PpFkgojUgr14phk6gIYOjCoOpUOd5IVSjfI6eHx_JWN98d8UsLhJX.8L2NCN9CWbqt.OavLJeMqjV5u3ReYoopLmw",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -688,7 +677,9 @@
             "tvg_name": "Ad San Carlos Vs Escorpiones Belen",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
@@ -2796,6 +2787,26 @@
         },
         "media_id": "aHR0cHM6Ly9jaGFs",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
