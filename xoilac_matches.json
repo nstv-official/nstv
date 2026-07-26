@@ -671,6 +671,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_ad_san_carlos_vs_escorpiones_belen_luc_0600_ngay_27_07_2026",
+        "title": "\u26bd Ad San Carlos Vs Escorpiones Belen",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ad-san-carlos-vs-escorpiones-belen-luc-0600-ngay-27-07-2026",
+            "tvg_name": "Ad San Carlos Vs Escorpiones Belen",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
         "title": "\u26bd Alianza Petrolera Vs Fortaleza F C",
         "category": "EVENT LIVE",
@@ -2585,6 +2605,26 @@
         "epg_metadata": {
             "tvg_id": "m.tay-ban-nha-u18-vs-italy-u18-luc-2300-ngay-26-07-2026",
             "tvg_name": "Tay Ban Nha U Vs Italy U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_slezsky_fc_opava_vs_mfk_karvina_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Slezsky Fc Opava Vs Mfk Karvina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.slezsky-fc-opava-vs-mfk-karvina-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Slezsky Fc Opava Vs Mfk Karvina",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
