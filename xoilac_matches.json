@@ -1047,10 +1047,19 @@
         "id": "x_cd_espanol_talca_lnb2_vs_colegio_los_leones_luc_0600_ngay_27_07_2026",
         "title": "\u26bd Cd Espanol Talca Lnb Vs Colegio Los Leones",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel46.flv?wsSecret=105ead05a2930c78f80caea5b1c3469e&wsABSTime=1785148448&nstv_cache=1785105300",
         "is_live": true,
         "match_time": "06:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel46/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=8yomovtgld9dq0j&view=true",
+            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105248$j52$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1061,7 +1070,9 @@
             "tvg_name": "Cd Espanol Talca Lnb Vs Colegio Los Leones",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
