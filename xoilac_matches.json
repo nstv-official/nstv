@@ -1418,6 +1418,66 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_audax_italiano_vs_universidad_de_chile_luc_0430_ngay_27_07_2026",
+        "title": "\u26bd Audax Italiano Vs Universidad De Chile",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.audax-italiano-vs-universidad-de-chile-luc-0430-ngay-27-07-2026",
+            "tvg_name": "Audax Italiano Vs Universidad De Chile",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_america_mg_vs_goias_ec_luc_0430_ngay_27_07_2026",
+        "title": "\u26bd America Mg Vs Goias Ec",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.america-mg-vs-goias-ec-luc-0430-ngay-27-07-2026",
+            "tvg_name": "America Mg Vs Goias Ec",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_londrina_pr_vs_novorizontino_luc_0430_ngay_27_07_2026",
+        "title": "\u26bd Londrina Pr Vs Novorizontino",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.londrina-pr-vs-novorizontino-luc-0430-ngay-27-07-2026",
+            "tvg_name": "Londrina Pr Vs Novorizontino",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_liverpool_vs_sunderland_0500_26_07",
         "title": "\u26bd Liverpool Vs Sunderland",
         "category": "EVENT LIVE",
