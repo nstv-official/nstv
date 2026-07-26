@@ -65,10 +65,19 @@
         "id": "x_dukla_banska_bystrica_vs_slovan_bratislava_luc_0000_ngay_27_07_2026",
         "title": "\u26bd Dukla Banska Bystrica Vs Slovan Bratislava",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel8.flv?nstv_cache=1785088282",
         "is_live": true,
         "match_time": "00:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel8/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=l7oqdehgzw6kr51&view=true",
+            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088243$j37$l0$h0; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -79,7 +88,9 @@
             "tvg_name": "Dukla Banska Bystrica Vs Slovan Bratislava",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_gyirmot_se_vs_csakvari_tk_luc_0000_ngay_27_07_2026",
