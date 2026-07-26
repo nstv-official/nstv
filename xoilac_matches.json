@@ -1189,10 +1189,17 @@
         "id": "x_jelgava_vs_fk_liepaja_luc_2230_ngay_26_07_2026",
         "title": "\u26bd Jelgava Vs Fk Liepaja",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel21.flv?nstv_cache=1785079415",
         "is_live": true,
         "match_time": "22:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel21/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=pjQKW04nZjh86qLmy2wv4LN7q00pM6bFIyJXJQeoPD8-1785079311.845042-1.0.1.1-vm3X4UjG38CSsJRsrcoSIw8nPtPRmzqB9Z26sEYP3lOkOU8K52G898bO3lPrJ5ukRBntzXdgOm.jGfsh2GU4dcUDyPPFhfWrvLkP4pjY46eX7CksCqF5bUOs06mRxycp; _ga=GA1.1.2112883329.1785079314; cf_clearance=1mSBZ_TwkXKwu4gVatuadarZps7ObzMOfMjcD4jZKxI-1785079344-1.2.1.1-DUxzuJzTQ_Hr3rlLkl_8lLslIbV4ZpBvq.otqeTgy1xAcZAqwkQN2n.BO_xmZIY5iCUqjK_Qr.qyZGeJs_W1HpGy1hy_fKc9BNjyf5VW9U_68rrljIkpah6JnJcwIySaugpm6dL9N9wCWGqALe9qri4Ht6ZEk4owVoTjGzh4GjsLX1AnJzSaEuHOkLSmF0BOEcqpQMMLT_SGx3KqtgDzhhbzMGxrO1TZDFNQfacGhc8hCNTPKuFdb2NBqQV2gz6zD_pXuqd3iVbIlNVd53HPHWd2hwmREiO1_LJ1utzpDNOYpWtanHF9A6_RszkSds2oHeMhf5t_iiOaYAbQXodp6RRb5cc6zZ47JVXYimeGyzDyAhCMYdXBu4E6nQ6Lzdb3LMpJ5RLwac.mjI9JiTW5RDqenBfqfEXcAJSIDLRbxC4xUIuLaJWOB1V98TkAj3pTv8amFByFZKh5X2z2d01.BaHyX4mFFqQSCI0n8jbZF37UTzjE.skdqoM4.8h3mc8y8fD4sWL5IEv.0oXv7p70zg3KtPQ3R7XV5mRNTobjCPPW38e.TI4dFQYHyk9dGZiPr_A9jhe00FqMaHD3l_tBJhFj9o3SjJ49m2orR5gCfd6h0Lp6b_0knabE4QTkU0hs0GH_SAy3Veaipbi.B3z5qtF8YUf7JvBU.lvu0jq7duvUPSM3ZJW1z8Elividsl1uG6y5knGH1cqtS4_1BItywjHJ516IOmOHdY3rg64x9epbYjTUhBWLL5TYsM0Sp3QGCejo7eOI0t1gfnKeF1ROaqLUElEHTUNXKo04oHN3x9fBS4I5oYgrqdLJjzjmveSOhM2CoLyI3UfIccpw03UG.DW_zqjtqGc7blkdVR8wZ95p8LftG.XSyzaD1mxCkzhjiLWnkJ95MvATIVkoHy4BwYdCl4vMIwR8XiNQUeigaxpEM20ro5DTm2zNoyHVKQKEu4DHC5KjRWV88DAPX2Zo7Q; cf_clearance=VIamQsUKqbinSdAyobn4GrmGwrTsO3yzyJc26hhAAv8-1785079345-1.2.1.1-mR40tkx1_4Xu1goXIeMfvyssdRQZJWVZv9V47t10IAJYUsLf0kIx1I2H2itRP2UTPnWjlwxTQXssGVu_gf1n9seSyAjHZxaIfMAzE2E7zovMLGpuqtypoh8gBRxDiu_BnYBp8Sr7CXfneKaphd91LzMMAmVfsKObzPwztXbuufMe8KxXP5Pu1MD.O.CSZZ0esj4aZN.WtHF.Zj7tLX4LCDe.XwWTIS4XdJ1EFYkIC.JRiS39SfHwdSXehy.qd_rgo7eKk_weJcuvK2jV37hEyqfsIZgYTmtCp4LWOoujWIDHVC.Y6v8T8hI1EIBXv7i0f6xzjdmsv.wsvBSHVgaKmhdHToy.tacltI7KnJ7US1sGVw.3aIL0FIQf.PykrEHtc5SGiXJdraxln6uNGL7Gy5to3v9eBFbr4Eh_2gvNZrSoXmkeMJXHEm1j_VqhY30xf.xhVRNAG2MKQbGS91lKnSQnDC0Prr0Qq6z8Cm1mopXTvao6hMhKDBadTSEUxzHIaRabq86XUOzHznEbHHDAv.viBB_zJxsOR_kyEnQqtkjWJm3I0LescCC1lbDb898Vr1HlTHne5MOOfnkBnol_sg; cf_chl_rc_ni=1; _ga_P60BDCKB3G=GS2.1.s1785079314$o1$g1$t1785079350$j24$l0$h0; __cf_bm=z5ktVyG3eOqgarTK1rvVLAb7R6O1NOZwYjyeYfr9I4s-1785079351.8235211-1.0.1.1-qNJWhBo.U9Q3Vec0ctB1lxH9sEvXSqJw.5umalVWt1xoP32GY8onaUcVEBGd0RMuPXSd8EPybmGL5LDyf4Q6S7TUaGK4vjdbm.AB.o4b_12W8oYKzwjKDIQBWdfpI8HK; _ga=GA1.1.1460489686.1785079353; _ga_S52WSRDB70=GS2.1.s1785079352$o1$g1$t1785079374$j38$l0$h0; cf_clearance=zMeDkq6WLbAJ.c8Bc44GBQ6PH4qRiyyLgwgw7LtGiJM-1785079377-1.2.1.1-_.R30eo3zyvPASTX9si8kL5e4k73oD4xn6dJ6k9UY7Qa4VeCixynKUzDD6MaTMtxssmd_6gv9Ac_EmGFVCbEcmkEe4_LFo1LRqneKHkAtV.VZI70Bqr5_buDtY.m2vJPOxGbmKiAMs.iVXBSp9gkn98Y2mgn9aZv0RIMv17iM_Z9.j4CHMTTi2C3k8q8ExW1ZsLMLI1we_Pel1Wc_3DswhTjPlP9hMR_rGH.TxnRpS1c8eKcKluN3Hj3hLzxEtAB3_g3L1OEHDdGSRkNGWgOhDz3mERdIb_AcDSHE_9JHyl6JsUFrcrEoRdDWixKJCi3MESb1HHfsNud0UQoBOSzun_0f2UzA2At.5040AUMEpU"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1203,7 +1210,9 @@
             "tvg_name": "Jelgava Vs Fk Liepaja",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_transinvest_vs_dziugas_telsiai_luc_2245_ngay_26_07_2026",
