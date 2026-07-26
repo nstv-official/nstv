@@ -1294,10 +1294,19 @@
         "id": "x_dominican_republic_vs_colombia_luc_0700_ngay_27_07_2026",
         "title": "\u26bd Dominican Republic Vs Colombia",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel83.flv?wsSecret=bab0382fd6114a3957c70b2bbfdf5870&wsABSTime=1785149208&nstv_cache=1785106078",
         "is_live": true,
         "match_time": "07:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel83/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not_A;Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=3glrwjh96yndqdy&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=VNS9mJvKXKFE2SMOQBSpcAlZh_w6CjWXlqkqsjNHhKA-1785105844.738964-1.0.1.1-mwcVYdtjw.cqja8WF0MS2cRksvgopyBiprkrkw19PSCaUPe.CgFAT2bvHbqPvJvi7T4oIm9KDP.YJvZvq2wjX7bVfy06XCJ0oiWPVjdM.t67E3Mk_IsD4nsvhbrYwrWH; _ga=GA1.1.927598039.1785105853; cf_clearance=6fdMjsjW89dixuz.2Xs2obZ3RDce_hINyxPW6hbsrIY-1785105895-1.2.1.1-_YXN_nW_dc.DcsA5gYyq8233jQPmOSZOUaR3gwgK7iAgBCjjRlG.k5N1j.6rcMtld47HW.s_iDMEHAZRRucbDm7wU_w7qsFEGZZAtjlIL0BibNN0szLIt0NFiReGtW0URrOjBqYbjirE_plG6N12WWzFnMzfSRJCKp82DHB8u820Q3iQl0ZsSyWG3xFfx2Gm9jh2f8fFOhaDcxhOEwfLaTlqE6vUDPhQnEdIN06Je71fgKU43KB72BXlGMRv2Ce4REqX2XI7PmQDGm6VZAiPYqmK8un_nz4wRA3UXvOP1Jh_M2JHApn4lrK1s_LSBB9.O3xiNMXmjq5GjAY2xHTOLCeJ9tu_syILoT0.etMiLGMFbKvaB.F_NSIAYYbiR0.EKX6cOQ2IIoyJC0xEEy6ArNi0e27qeMeOpr1n2tUu5qFr5Mhtg4PBcvcnAkBGBmi.Y2N2tPbdEPYMxu.L6S72J42JBVzBBRtiH2UCPwDYWdaYtbEh0b17vIzPKotKBnTR.e8F3r01O3_tulRHi0.gzX0WbA3sm24vzgAp7JZ5BR_XKbCR_MbfOaqr99Goq8qbU3Ag81jUIo7xPLle_Hxlv8OXiioDKg9EUIIrSeJAw6wC6BsPT6UGL7sIeeTtdp1FltCRPgg.rBt8sZqKhvgUhmQqrkUbL4rDWJgyw_7CGJJGzds0AayQpRvDNWsFFD8O_fFcGA3r2vk0Q8TEpKlw2cEqQkB0AQo8Sb5Hymt.lmC0l4m44YrWlFs7BCFZBGeTAhxRa3SM1d0vKw4gb7OdnICJNHMOOjZvxJ2go.c8xGAXVmhcSeiQCCxsxB7..pf5tKMFAP5qkXw9zHFe6oj0dKXh5A1eT2N9P_a1HQz4m4olP6JtPL3dWHD9QkyzhmhUVcdwbswOzHW5_eepCDOMbUQepuUZK7JzZ4rmgtlpdVz5tzrN0EuhydEWq0AION271jCjrgVJ9SzT7JYDo30JrA; cf_clearance=PtiQhJa4yNZ062oP3n1xHLZG.a2HW.ft43cMIb1l0Lg-1785105895-1.2.1.1-zzXlrxDmOGv0awTCEdHNlywvyeBO1rF8Wzzp34OtpwDN.fMv1vkV22jaClmgVH5XtCjiyYlgeco.fpN7cQYxRdsXRXK9bk95okxmGBfDbJ7R3yPZNdDKnXR8hxd7CP1JeY_47ThrzwUmDolRSfdN0ZjeSe_Ss0mb._Zu9DQEVPC2EdwMeQEkWsUlMy126WNQWiZA8uucF_fBD3gc8yuDbqqJIOzSEzvd8ZGwGbNbgrHaJffbsHMLCc4xEhHrrNUjQeFkDA21CzwC._RULtiidyLh7q22V9FTRxcGUWTd11u2BzfST9FkBtShbY08fPn.gv8mmbP5m2IN9SYbJ0UmHqgv4acdRE1HifvUHw2u7LXQesWZ8HFPlkC71qROwLEPLECcV1AWtJzqC4O3XgMTFAPBm3BqQHBNtymYQPV7UKaNGjxrCe7WVjHZbzXDJwyRoJbgqpeMeeCGXQyOpVZPUsNivDTJzVFHliS3iT263xOvfp09JvLgac7DbJf5adsKcdUodQUWEJ.AkWRe3B4HA415lRFt93Ewz0GY1kQ7jU_CjIA7tsAWsAvzIuWBR72n9KunCBENaZAhR0oU8fj3.A; cf_chl_rc_ni=1; cf_clearance=jsaYFB76RMz1xhVDJGw2yJSTf5KeSIP9AZMYOZrgI70-1785105909-1.2.1.1-9CthVv9.4AAtZrZfWv3PweE3wcv9c5ul3KqWw7krac6WXvfVpxl4.R5MAi.HhGvIQE8kYbFnAUkRinq6_hq9WPj8WvjVfa4YQaWIGVuBXWbSQcGsvTvx90stCPS6wRl3aFrbv.WYCpFDYbYdRydBv6t7vAgt9hJZAAxGBtUGjswfMV3XKJZq10KGSkiDLpu33LHlanAi4GbRCaZ8n.CVtEWFELSTqb7UL7ccgXDiKHKeara7ZlOz91gE3HSweOm2eViKuZ3gbe_Lpj1abYi7KI92VogStDQKCTVG_zxnBJB128XxKJTJWFmE3B5sCN5YZ502FK9ZawHuIrCyUjNWi75G7pZeMFk2R_H6QomlZVw; _ga_P60BDCKB3G=GS2.1.s1785105852$o1$g1$t1785105972$j45$l0$h0; __cf_bm=LPMyAL1oK0iZ5a0.AWKItrHn1zNY81TKH.0ZmLsfQcs-1785105976.4146516-1.0.1.1-4p8guzHl5MxJ2mnbzeacpbbcFC.Pga6lYY3AC7VNjQJFkS3EYi6nXpX9G2pjDyK8BxP8PFWcRbybSivSlir8mgXdYont4RZ927QwPy5e42xr5LZ3GXkW_MY0J4cMf.nI; _ga=GA1.1.825323893.1785105978; _ga_S52WSRDB70=GS2.1.s1785105977$o1$g1$t1785106008$j29$l0$h0; cf_clearance=am6DBjuRoeFwh7AwKoWCkzDxBHm3MlIrV1j38hpLZV8-1785106013-1.2.1.1-4OcU6fX.u10ugUq9sRqTP2aaaWsVlLgmD_aDDVJy9Gh3cLm_VL9ydX.PIa7wl9w0X4m66lb4SgYJyfpAxQzET40SrSCU_gGlZ.3mH5jcL8c0GTXElDORdEXejIpgkHrldoW1xmmxghwFgIMkSTroFG15JaZbrkpDhI.Xz8Lyp9IsR0z1L7gunCJ1Z9lN7oMLmDGY8BpcV68QNchehzoWnvoKn1uRilTHnu_HxIhdF23nsi0jXco7ZWE_egmiGOAla7FVcH7VdvN_I5RLmfZJ1bFtTCrdQjttMnbW1rR5AUfbaIII9axttGAIx7CtwEGvBM11DL6wEJDFo6zB3PyE_8zBDjh9.rRZzgbsNzeCUU8; __cf_bm=GUR_2Uxpkcu4JSeJQLr6JyeIR2t66aETu.0lpsDNvjM-1785106056.0924668-1.0.1.1-ORYV6LfBN8GU4JucsmM.BbD2O7YBpsxHcn4o3jTtNXUP8Znm2Ws_BZ1t2pk9RILkGKKdAhHMEszpPvoQtXvPaJV864LsDyVpEHGvdkx4pYM.FxJ5suFMIOFmIjNSQE9U",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1308,7 +1317,9 @@
             "tvg_name": "Dominican Republic Vs Colombia",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
