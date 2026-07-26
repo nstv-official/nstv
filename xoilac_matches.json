@@ -186,6 +186,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_fc_tbilisi_2025_vs_fc_metalurgi_rustavi_luc_0000_ngay_27_07_2026",
+        "title": "\u26bd Fc Tbilisi  Vs Fc Metalurgi Rustavi",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-tbilisi-2025-vs-fc-metalurgi-rustavi-luc-0000-ngay-27-07-2026",
+            "tvg_name": "Fc Tbilisi  Vs Fc Metalurgi Rustavi",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
         "title": "\u26bd Nu Venezuela Vs Nu Peru",
         "category": "EVENT LIVE",
@@ -1687,6 +1707,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_tacoma_defiance_vs_colorado_rapids_ii_luc_0900_ngay_27_07_2026",
+        "title": "\u26bd Tacoma Defiance Vs Colorado Rapids Ii",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "09:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tacoma-defiance-vs-colorado-rapids-ii-luc-0900-ngay-27-07-2026",
+            "tvg_name": "Tacoma Defiance Vs Colorado Rapids Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_alex_hernandez_vs_alan_magadan_luc_0910_ngay_27_07_2026",
         "title": "\u26bd Alex Hernandez Vs Alan Magadan",
         "category": "EVENT LIVE",
@@ -2465,149 +2505,6 @@
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_cherno_more_varna_vs_spartak_varna_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Cherno More Varna Vs Spartak Varna",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel4.flv",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076230$j57$l0$h0; _ga=GA1.1.1212282819.1785076233; __cf_bm=GL.fhOdDkjJ6l4QZ1uhPWEKdUP3o0C54ApFyvwAxfsg-1785076234.1539233-1.0.1.1-yjyHecu5Lw9dcrf94D1rkwcKCqtL5Evm6Wvk3LSGwhNGWp0UtKHRd6XxHQjzJVvEkE1RvstOWgSEqZrVecoQDSlLx.2TQUijY9lttH2MOh.9TcafzA0WTavJA.wBiY5A; __cf_bm=Gciu5vANVSeB8oV9VSn3d0XtTsI25Vxr5Uc5wMybSyo-1785076295.207707-1.0.1.1-DY6sjkfs4i4Uwn1YLt1dIoEcXZ4H50BL1dbIXyxnCudSNMcsLn9YbpWwOXhj4v_7BR719Qvg340x1RQf0EhTr6hBBweLxX1zimi7ObKHL6mRi6RPW7HHqu5LOGu.9Rsa; cf_clearance=.v80656WYxRTA4ZctaFLvqV4uACf_Up7BMTyMNikHuw-1785076983-1.2.1.1-9U9OuxfGgEh7pIHa88nr3S7n5yqyQDbTlyFDsq.w7XCWjO7RXNeP5fpCaB.neo2yeot0Ubae5g2eldmxvrDyxooMI._HvF7ES1_WTVKYpU.rabqTCJiXpTCc5wJzJkq_5LPObCTNc_YvLvMupMaTjBZWS.mfvlnXFQvwQycWlhEckVDMAOMjzOHVt5F19cSGYIvtum5szjI5IXN.SE30ozLbxO_siQfGUbNut8tuvgAqY3XjSJsqhiXfmtam5xqA.a1gAGkXjA6_3liKuGn_b.K.vIO12YpDgFOpFa_bfH9ncmkM0IEqwLJss4_6OkFvTQPxlXgBSQ5U8NGGKRSV956BV9IMQFIC.VIUNuok.1E; _ga_S52WSRDB70=GS2.1.s1785076232$o1$g1$t1785077026$j2$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.cherno-more-varna-vs-spartak-varna-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Cherno More Varna Vs Spartak Varna",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_saku_sporting_vs_nu_paide_linnameeskond_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Nu Saku Sporting Vs Nu Paide Linnameeskond",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=8630031a7acc0e64a3abef7043c312ca&wsABSTime=1785122103&nstv_cache=1785078941",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel27/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A:Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=Q5Y5d0B_K_yQHdvMVLIkeso5.WRX0a4iioMCo82w9vA-1785078224.5144181-1.0.1.1-yB4tWTfaJ96ntduU42jvmf12aIMEHo9R8MGRE9tWGMnVYzemgF1e_6PSFOiy7trXDqHXSaC9ZOM8vOTnkDGZi._Jz.ocQwkzGo6s7nzFV2MJ.6DKQPU2Fds3k2jK.N7V; _ga=GA1.1.2057529728.1785078228; cf_clearance=PD_ELMcjZrT4pgX.UPHW..HcTEJY1N3.ijtUZ3.4FQo-1785078282-1.2.1.1-_hX76lBvzEyjndwehCtK9yZq1Z7N7YqWM_UGnfT_qknQpajng.SupfkrWKFcgoUyc4Xx6koQbWEnYPEX2voHlUwFeSiZgX3h9vq9MrEny12UmW63gGzndu_FDKxsG6tHl6C4ykwqKv_40kjXYwoLjscIzl2t1FyAaTlNVWFS41kHac.rMyiJe1pxpF1LeJkhJlyzUdsG0qvcEhGIM7xPCPAb9PoL0noSCpzwP1aK.2OmSurFLplcfgQjKA3VtVeWJbEX1vMlnPJJF3exMvTUv9Ula6NlTw8eK3iXt.3nrPN3xaU9A98.1dyb9Ak.o.tLyruwKvgxvBiEhSgDMl5ThebmmodBPl30ioQEcTe_Djc; _ga_P60BDCKB3G=GS2.1.s1785078228$o1$g1$t1785078528$j9$l0$h0; __cf_bm=.YYEPDXiVi5cumNsdl8Flr2TeMTaFJbgGn3DPnmuQTg-1785078530.1786394-1.0.1.1-5y4AfMT18DsKUNyK5HDMkQ10Ee5ejkbZ5Hu7h0H23ltx1orsv_yc7HM5IfY26wdIZ.lCdSkqgCaxRXOFBpgSp73_3P9VjfYop4WReFyRtbndHrf.9WDwU0quiSiyR.HR; _ga=GA1.1.967868174.1785078531; cf_clearance=uWn4Ych59dIpGHD2b.RTzVgzzWVhuQ5HGojsAJXFwf0-1785078567-1.2.1.1-v0VcWxcHytyNiSg8m5u7UXA8LApXUvhNb7tw8bwlXOXqBJdPnVF26vOffz2OLAeeDqgwZ.tMKHhfOGNEWgnK4SsSBMW9wFoSO1gmvJDj.Od4oVfMzTC3juuUACnNkTQPo6VCQ_iqqtP88.FUzVX7PUIris4OvWdSPQsj49hTOFA4N14YUkVOXSTz57g47x4sa4uuxcBMLK6XplCrvwFQUvOLc0lwdZCaTl42wi86cxMqVcEprgia4exe3r40M6DWEcaJziW83iHkeXLHtGF.0U_gT093ZzBOdMnHWraNzILpvWrRKN6IrFupXsSTfOYdYiUmUAYjumlQpUIQK0.AOv27bAFzMJneeRMV0HqZc98; _ga_S52WSRDB70=GS2.1.s1785078530$o1$g1$t1785078901$j47$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-saku-sporting-vs-nu-paide-linnameeskond-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Nu Saku Sporting Vs Nu Paide Linnameeskond",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_chertanovo_moscow_vs_zvezda_sint_petersburg_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Chertanovo Moscow Vs Zvezda Sint Petersburg",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=e66e8db8b3e6a2ac048998615875aa7c&wsABSTime=1785122153&nstv_cache=1785078990",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel25/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A:Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=Q5Y5d0B_K_yQHdvMVLIkeso5.WRX0a4iioMCo82w9vA-1785078224.5144181-1.0.1.1-yB4tWTfaJ96ntduU42jvmf12aIMEHo9R8MGRE9tWGMnVYzemgF1e_6PSFOiy7trXDqHXSaC9ZOM8vOTnkDGZi._Jz.ocQwkzGo6s7nzFV2MJ.6DKQPU2Fds3k2jK.N7V; _ga=GA1.1.2057529728.1785078228; cf_clearance=PD_ELMcjZrT4pgX.UPHW..HcTEJY1N3.ijtUZ3.4FQo-1785078282-1.2.1.1-_hX76lBvzEyjndwehCtK9yZq1Z7N7YqWM_UGnfT_qknQpajng.SupfkrWKFcgoUyc4Xx6koQbWEnYPEX2voHlUwFeSiZgX3h9vq9MrEny12UmW63gGzndu_FDKxsG6tHl6C4ykwqKv_40kjXYwoLjscIzl2t1FyAaTlNVWFS41kHac.rMyiJe1pxpF1LeJkhJlyzUdsG0qvcEhGIM7xPCPAb9PoL0noSCpzwP1aK.2OmSurFLplcfgQjKA3VtVeWJbEX1vMlnPJJF3exMvTUv9Ula6NlTw8eK3iXt.3nrPN3xaU9A98.1dyb9Ak.o.tLyruwKvgxvBiEhSgDMl5ThebmmodBPl30ioQEcTe_Djc; _ga_P60BDCKB3G=GS2.1.s1785078228$o1$g1$t1785078528$j9$l0$h0; __cf_bm=.YYEPDXiVi5cumNsdl8Flr2TeMTaFJbgGn3DPnmuQTg-1785078530.1786394-1.0.1.1-5y4AfMT18DsKUNyK5HDMkQ10Ee5ejkbZ5Hu7h0H23ltx1orsv_yc7HM5IfY26wdIZ.lCdSkqgCaxRXOFBpgSp73_3P9VjfYop4WReFyRtbndHrf.9WDwU0quiSiyR.HR; _ga=GA1.1.967868174.1785078531; cf_clearance=uWn4Ych59dIpGHD2b.RTzVgzzWVhuQ5HGojsAJXFwf0-1785078567-1.2.1.1-v0VcWxcHytyNiSg8m5u7UXA8LApXUvhNb7tw8bwlXOXqBJdPnVF26vOffz2OLAeeDqgwZ.tMKHhfOGNEWgnK4SsSBMW9wFoSO1gmvJDj.Od4oVfMzTC3juuUACnNkTQPo6VCQ_iqqtP88.FUzVX7PUIris4OvWdSPQsj49hTOFA4N14YUkVOXSTz57g47x4sa4uuxcBMLK6XplCrvwFQUvOLc0lwdZCaTl42wi86cxMqVcEprgia4exe3r40M6DWEcaJziW83iHkeXLHtGF.0U_gT093ZzBOdMnHWraNzILpvWrRKN6IrFupXsSTfOYdYiUmUAYjumlQpUIQK0.AOv27bAFzMJneeRMV0HqZc98; _ga_S52WSRDB70=GS2.1.s1785078530$o1$g1$t1785078951$j60$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.chertanovo-moscow-vs-zvezda-sint-petersburg-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Chertanovo Moscow Vs Zvezda Sint Petersburg",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_wiener_sc_vs_austria_vienna_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Wiener Sc Vs Austria Vienna",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=e2588bdec08d330fae63316fe8ce1bae&wsABSTime=1785122254&nstv_cache=1785079093",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A:Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=Q5Y5d0B_K_yQHdvMVLIkeso5.WRX0a4iioMCo82w9vA-1785078224.5144181-1.0.1.1-yB4tWTfaJ96ntduU42jvmf12aIMEHo9R8MGRE9tWGMnVYzemgF1e_6PSFOiy7trXDqHXSaC9ZOM8vOTnkDGZi._Jz.ocQwkzGo6s7nzFV2MJ.6DKQPU2Fds3k2jK.N7V; _ga=GA1.1.2057529728.1785078228; cf_clearance=PD_ELMcjZrT4pgX.UPHW..HcTEJY1N3.ijtUZ3.4FQo-1785078282-1.2.1.1-_hX76lBvzEyjndwehCtK9yZq1Z7N7YqWM_UGnfT_qknQpajng.SupfkrWKFcgoUyc4Xx6koQbWEnYPEX2voHlUwFeSiZgX3h9vq9MrEny12UmW63gGzndu_FDKxsG6tHl6C4ykwqKv_40kjXYwoLjscIzl2t1FyAaTlNVWFS41kHac.rMyiJe1pxpF1LeJkhJlyzUdsG0qvcEhGIM7xPCPAb9PoL0noSCpzwP1aK.2OmSurFLplcfgQjKA3VtVeWJbEX1vMlnPJJF3exMvTUv9Ula6NlTw8eK3iXt.3nrPN3xaU9A98.1dyb9Ak.o.tLyruwKvgxvBiEhSgDMl5ThebmmodBPl30ioQEcTe_Djc; _ga_P60BDCKB3G=GS2.1.s1785078228$o1$g1$t1785078528$j9$l0$h0; __cf_bm=.YYEPDXiVi5cumNsdl8Flr2TeMTaFJbgGn3DPnmuQTg-1785078530.1786394-1.0.1.1-5y4AfMT18DsKUNyK5HDMkQ10Ee5ejkbZ5Hu7h0H23ltx1orsv_yc7HM5IfY26wdIZ.lCdSkqgCaxRXOFBpgSp73_3P9VjfYop4WReFyRtbndHrf.9WDwU0quiSiyR.HR; _ga=GA1.1.967868174.1785078531; cf_clearance=uWn4Ych59dIpGHD2b.RTzVgzzWVhuQ5HGojsAJXFwf0-1785078567-1.2.1.1-v0VcWxcHytyNiSg8m5u7UXA8LApXUvhNb7tw8bwlXOXqBJdPnVF26vOffz2OLAeeDqgwZ.tMKHhfOGNEWgnK4SsSBMW9wFoSO1gmvJDj.Od4oVfMzTC3juuUACnNkTQPo6VCQ_iqqtP88.FUzVX7PUIris4OvWdSPQsj49hTOFA4N14YUkVOXSTz57g47x4sa4uuxcBMLK6XplCrvwFQUvOLc0lwdZCaTl42wi86cxMqVcEprgia4exe3r40M6DWEcaJziW83iHkeXLHtGF.0U_gT093ZzBOdMnHWraNzILpvWrRKN6IrFupXsSTfOYdYiUmUAYjumlQpUIQK0.AOv27bAFzMJneeRMV0HqZc98; _ga_S52WSRDB70=GS2.1.s1785078530$o1$g1$t1785079051$j54$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.wiener-sc-vs-austria-vienna-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Wiener Sc Vs Austria Vienna",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_fk_auda_riga_vs_bfc_daugavpils_luc_2300_ngay_26_07_2026",
-        "title": "\u26bd Fk Auda Riga Vs Bfc Daugavpils",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=676ebcb7d8c4a6ef282f9e73cea3dcc3&wsABSTime=1785122354&nstv_cache=1785079193",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A:Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=Q5Y5d0B_K_yQHdvMVLIkeso5.WRX0a4iioMCo82w9vA-1785078224.5144181-1.0.1.1-yB4tWTfaJ96ntduU42jvmf12aIMEHo9R8MGRE9tWGMnVYzemgF1e_6PSFOiy7trXDqHXSaC9ZOM8vOTnkDGZi._Jz.ocQwkzGo6s7nzFV2MJ.6DKQPU2Fds3k2jK.N7V; _ga=GA1.1.2057529728.1785078228; cf_clearance=PD_ELMcjZrT4pgX.UPHW..HcTEJY1N3.ijtUZ3.4FQo-1785078282-1.2.1.1-_hX76lBvzEyjndwehCtK9yZq1Z7N7YqWM_UGnfT_qknQpajng.SupfkrWKFcgoUyc4Xx6koQbWEnYPEX2voHlUwFeSiZgX3h9vq9MrEny12UmW63gGzndu_FDKxsG6tHl6C4ykwqKv_40kjXYwoLjscIzl2t1FyAaTlNVWFS41kHac.rMyiJe1pxpF1LeJkhJlyzUdsG0qvcEhGIM7xPCPAb9PoL0noSCpzwP1aK.2OmSurFLplcfgQjKA3VtVeWJbEX1vMlnPJJF3exMvTUv9Ula6NlTw8eK3iXt.3nrPN3xaU9A98.1dyb9Ak.o.tLyruwKvgxvBiEhSgDMl5ThebmmodBPl30ioQEcTe_Djc; _ga_P60BDCKB3G=GS2.1.s1785078228$o1$g1$t1785078528$j9$l0$h0; __cf_bm=.YYEPDXiVi5cumNsdl8Flr2TeMTaFJbgGn3DPnmuQTg-1785078530.1786394-1.0.1.1-5y4AfMT18DsKUNyK5HDMkQ10Ee5ejkbZ5Hu7h0H23ltx1orsv_yc7HM5IfY26wdIZ.lCdSkqgCaxRXOFBpgSp73_3P9VjfYop4WReFyRtbndHrf.9WDwU0quiSiyR.HR; _ga=GA1.1.967868174.1785078531; cf_clearance=uWn4Ych59dIpGHD2b.RTzVgzzWVhuQ5HGojsAJXFwf0-1785078567-1.2.1.1-v0VcWxcHytyNiSg8m5u7UXA8LApXUvhNb7tw8bwlXOXqBJdPnVF26vOffz2OLAeeDqgwZ.tMKHhfOGNEWgnK4SsSBMW9wFoSO1gmvJDj.Od4oVfMzTC3juuUACnNkTQPo6VCQ_iqqtP88.FUzVX7PUIris4OvWdSPQsj49hTOFA4N14YUkVOXSTz57g47x4sa4uuxcBMLK6XplCrvwFQUvOLc0lwdZCaTl42wi86cxMqVcEprgia4exe3r40M6DWEcaJziW83iHkeXLHtGF.0U_gT093ZzBOdMnHWraNzILpvWrRKN6IrFupXsSTfOYdYiUmUAYjumlQpUIQK0.AOv27bAFzMJneeRMV0HqZc98; _ga_S52WSRDB70=GS2.1.s1785078530$o1$g1$t1785079153$j13$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fk-auda-riga-vs-bfc-daugavpils-luc-2300-ngay-26-07-2026",
-            "tvg_name": "Fk Auda Riga Vs Bfc Daugavpils",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_pisa_vs_pro_vercelli_luc_2300_ngay_26_07_2026",
