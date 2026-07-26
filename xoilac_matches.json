@@ -499,10 +499,19 @@
         "id": "x_katherine_sebov_vs_maria_aran_teixido_garcia_luc_0615_ngay_27_07_2026",
         "title": "\u26bd Katherine Sebov Vs Maria Aran Teixido Garcia",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel51.flv?wsSecret=3f95168a37359cb93e3beda7aee81be8&wsABSTime=1785153459&nstv_cache=1785110313",
         "is_live": true,
         "match_time": "06:15",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel51/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/tennis/animation?id=4jwq2pfw3y4lm0v&view=true",
+            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110256$j30$l0$h0; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -513,7 +522,9 @@
             "tvg_name": "Katherine Sebov Vs Maria Aran Teixido Garcia",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_nacional_potosi_vs_real_tomayapo_luc_0630_ngay_27_07_2026",
