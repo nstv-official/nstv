@@ -1834,10 +1834,19 @@
         "id": "x_melbourne_victory_r_vs_north_sunshine_eagles_luc_1630_ngay_27_07_2026",
         "title": "\u26bd Melbourne Victory R Vs North Sunshine Eagles",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=8d20e4c152da41e0722178ee134becbb&wsABSTime=1785145574&nstv_cache=1785102405",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel1/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A:Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=4jwq2ghnzpx9m0v&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=vS94GXBeR.Rt8nuN4_ZBztNbFP4xFkB2ZFDViaOeGUs-1785102207.716108-1.0.1.1-XBnMawptOIJZUDNITw6EqfzpiofojVDqHod4M939to1LKfuO4e7UBjttjRkPllMNdfABwyhwi3PKPPHmKQ.dRcmyxQuOK9HIoZdUQtt4y1JSel137e1DUE9konXuslwc; _ga=GA1.1.1108085545.1785102218; _ga_P60BDCKB3G=GS2.1.s1785102218$o1$g1$t1785102260$j18$l0$h0; __cf_bm=3i1YIgsr68RhHKsrheOOSYHg9VvKhntCMmvtKaKxwng-1785102264.0789962-1.0.1.1-MqKbotWpnwSoCLbQ0lHAWVo2P6lcPmFprK8DS5_ZrXtwoLCinKM2ovAuXCaM51PNr8VO_6JDMwCuWplL8j4sEnHzb7GbMfBBSCyms3zGKqRnjISdO8r.zOhbIxgYCKUc; _ga=GA1.1.1760666594.1785102265; cf_clearance=0kV2cnnBA3oQ3UQy4_TXBcJ3TPqfqfrxm9f2eZE5vf4-1785102310-1.2.1.1-KAKDSfdtVvzo4Yh6RE94LuFUwFznMeX1Q.qFadBiHvD6c17Z8Wb66MhxbPqruJ441VHe1JEOpVrt6bFiDndU5DKtKKi3F5qdVal.ugv6qhp722nLsB.0tRyDwlNLXUootOXLJhtyKSz0JlYQ9dr1oNki9o5NOMoLK345a83eOvy3O1j8Y9fjiPADDf1.B0Y5ZtLyBY3rvi_a0eORBpvnM9V5AkwUg2gKUL5yM8FxyRheJWMIcrhzVyG8DHK3m0fjk7nG25VJzTAdorHrNAVYrczmCPYyiuKFiQuhmcdBs2JalyNQ8en.7XEBUFLAbLdf66Gu7QxZnyQd4PvGrRaeVyHokG4qnNBXz3WQiNdc4a8; _ga_S52WSRDB70=GS2.1.s1785102265$o1$g1$t1785102373$j51$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1848,7 +1857,9 @@
             "tvg_name": "Melbourne Victory R Vs North Sunshine Eagles",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_zamboanga_master_sardines_vs_paranaque_patriots_luc_1700_ngay_28_07_2026",
