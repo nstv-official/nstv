@@ -2440,6 +2440,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_fc_okmk_olmaliq_vs_mashal_muborak_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Fc Okmk Olmaliq Vs Mashal Muborak",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fc-okmk-olmaliq-vs-mashal-muborak-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Fc Okmk Olmaliq Vs Mashal Muborak",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_lokomotiv_tashkent_vs_sogdiana_jizak_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Lokomotiv Tashkent Vs Sogdiana Jizak",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.lokomotiv-tashkent-vs-sogdiana-jizak-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Lokomotiv Tashkent Vs Sogdiana Jizak",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_widzew_lodz_vs_motor_lublin_luc_2230_ngay_26_07_2026",
         "title": "\ud83c\udfce\ufe0f Widzew Lodz Vs Motor Lublin",
         "category": "EVENT LIVE",
