@@ -341,6 +341,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_puszcza_vs_polonia_warszawa_luc_0030_ngay_27_07_2026",
+        "title": "\u26bd Puszcza Vs Polonia Warszawa",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "00:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.puszcza-vs-polonia-warszawa-luc-0030-ngay-27-07-2026",
+            "tvg_name": "Puszcza Vs Polonia Warszawa",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fc_hradec_kralove_vs_fk_pardubice_luc_0100_ngay_27_07_2026",
         "title": "\u26bd Fc Hradec Kralove Vs Fk Pardubice",
         "category": "EVENT LIVE",
@@ -401,6 +421,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_utc_cajamarca_vs_moquegua_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Utc Cajamarca Vs Moquegua",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.utc-cajamarca-vs-moquegua-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Utc Cajamarca Vs Moquegua",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
