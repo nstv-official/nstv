@@ -1083,6 +1083,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_100_thieves_vs_spirit_luc_0030_ngay_27_07_2026",
+        "title": "\u26bd Thieves Vs Spirit",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:35",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.100-thieves-vs-spirit-luc-0030-ngay-27-07-2026",
+            "tvg_name": "Thieves Vs Spirit",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
         "title": "\u26bd San Van Dong To Chuc World Cup  Thong Tin Chinh Thuc Va Chi Tiet",
         "category": "EVENT LIVE",
