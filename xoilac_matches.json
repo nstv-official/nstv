@@ -3188,7 +3188,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "LIVE",
+        "match_time": "Jadwal",
         "headers": {},
         "drm_info": {
             "is_protected": false,
