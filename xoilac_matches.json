@@ -703,6 +703,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_venezuela_vs_puerto_rico_luc_0500_ngay_27_07_2026",
+        "title": "\u26bd Venezuela Vs Puerto Rico",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.venezuela-vs-puerto-rico-luc-0500-ngay-27-07-2026",
+            "tvg_name": "Venezuela Vs Puerto Rico",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
         "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
         "category": "EVENT LIVE",
@@ -732,6 +752,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_shopify_rebellion_vs_disguised_luc_0515_ngay_27_07_2026",
+        "title": "\u26bd Shopify Rebellion Vs Disguised",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.shopify-rebellion-vs-disguised-luc-0515-ngay-27-07-2026",
+            "tvg_name": "Shopify Rebellion Vs Disguised",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_remo_belem_vs_vitoria_ba_luc_0530_ngay_27_07_2026",
@@ -825,6 +865,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_colombia_vs_nu_brazil_u23_luc_0530_ngay_27_07_2026",
+        "title": "\u26bd Nu Colombia Vs Nu Brazil U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-colombia-vs-nu-brazil-u23-luc-0530-ngay-27-07-2026",
+            "tvg_name": "Nu Colombia Vs Nu Brazil U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_necaxa_vs_monterrey_luc_0600_ngay_27_07_2026",
@@ -1230,6 +1290,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_criollos_de_caguas_vs_baamon_cattle_herder_luc_0700_ngay_27_07_2026",
+        "title": "\u26bd Criollos De Caguas Vs Baamon Cattle Herder",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.criollos-de-caguas-vs-baamon-cattle-herder-luc-0700-ngay-27-07-2026",
+            "tvg_name": "Criollos De Caguas Vs Baamon Cattle Herder",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_osorno_vs_cd_puerto_varas_luc_0700_ngay_27_07_2026",
+        "title": "\u26bd Osorno Vs Cd Puerto Varas",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.osorno-vs-cd-puerto-varas-luc-0700-ngay-27-07-2026",
+            "tvg_name": "Osorno Vs Cd Puerto Varas",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
         "title": "\u26bd Barcelona Sc Vs Ldu Quito",
         "category": "EVENT LIVE",
@@ -1321,6 +1421,46 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_deportivo_valdivia_vs_las_animas_luc_0730_ngay_27_07_2026",
+        "title": "\u26bd Deportivo Valdivia Vs Las Animas",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportivo-valdivia-vs-las-animas-luc-0730-ngay-27-07-2026",
+            "tvg_name": "Deportivo Valdivia Vs Las Animas",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_dominican_republic_vs_guatemala_luc_0730_ngay_27_07_2026",
+        "title": "\u26bd Dominican Republic Vs Guatemala",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "07:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dominican-republic-vs-guatemala-luc-0730-ngay-27-07-2026",
+            "tvg_name": "Dominican Republic Vs Guatemala",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_tristan_boyer_vs_bernard_tomic_luc_0800_ngay_27_07_2026",
@@ -1446,6 +1586,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_laredo_heat_vs_vermont_green_luc_0800_ngay_27_07_2026",
+        "title": "\u26bd Laredo Heat Vs Vermont Green",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "08:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.laredo-heat-vs-vermont-green-luc-0800-ngay-27-07-2026",
+            "tvg_name": "Laredo Heat Vs Vermont Green",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
