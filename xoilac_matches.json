@@ -1882,6 +1882,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_qingdao_rl_vs_beijing_it_luc_1730_ngay_27_07_2026",
+        "title": "\u26bd Qingdao Rl Vs Beijing It",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.qingdao-rl-vs-beijing-it-luc-1730-ngay-27-07-2026",
+            "tvg_name": "Qingdao Rl Vs Beijing It",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_phap_u18_vs_greece_u18_luc_1800_ngay_27_07_2026",
         "title": "\u26bd Phap U Vs Greece U",
         "category": "EVENT LIVE",
