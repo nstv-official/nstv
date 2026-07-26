@@ -950,10 +950,19 @@
         "id": "x_great_britain_u18_vs_ireland_u18_luc_2300_ngay_28_07_2026",
         "title": "\u26bd Great Britain U Vs Ireland U",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=8be7f2a4db9fbff1cb6a15e5788f7418&wsABSTime=1785126114&nstv_cache=1785082953",
         "is_live": true,
         "match_time": "23:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel41/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not=A?Brand\";v=\"99\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=y0or5gtzkwzkqwz&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=XY_O4MMSL1udejpCaTiXlbaUdJAUilUlETc7309Xowo-1785082866.0142026-1.0.1.1-OjQxF8tL3LETKcq_dsz8nC7zzZYumt_pWkfPxUpPhenSYhn7G9_6C0dtFMjKg6XN9.zZsCRejqNMuOl4hWxmQepKeqykI_ml805nJ3wNuPNBu5uuTHfhEE20xvBbrzM3; _ga=GA1.1.2049618683.1785082869; _ga_P60BDCKB3G=GS2.1.s1785082868$o1$g1$t1785082891$j37$l0$h0; __cf_bm=gKWgToWSBoQwBZTxTasEKlNsaj_.pjnbbGCsR29CUec-1785082892.679972-1.0.1.1-3Tlk7jescl_C2ZLiOWkvOKWj1AXAXSlxWcsUaW2SQq7I6gmJbhTaSr31z0LA6IjQ9rMfBg6TR_MDWL9cSz.Nhep4NxNpMDTqgv7dxAQXLXukxUNoiHmQiHbgTamHPbuw; _ga=GA1.1.563503935.1785082893; _ga_S52WSRDB70=GS2.1.s1785082893$o1$g1$t1785082914$j39$l0$h0; cf_clearance=B_qVnAdIwAAqc.nBootW.N4msaPQgQqAmuUglLaDR_Q-1785082917-1.2.1.1-EF3dUhdhvUUKEOWPS_I1eALrnzACbBPubwxYhhDu9jkwOYhf2uoGnoM1F.R0XdzScV.yWD6a8MpkM_2h9v41UjNSbtlngdVXFnGlD.M7.LiaZr5X1_GIWgMwIktJcAaFAeh6Z4oDOsDwxAbR9RNcDyXxFyijHezF88cc9HPH5GIpvHD05xuoKU_8QvqBatk3yPNWSpD2D5dUeHINR7Sj1lBXM7HKFxtjUWHIozWwy2Z9GyLqFNM1YfDMie2PGSCC5S5wATsmXF8OtS1F.eozDii_dobbjIIehDj5C2NXRId2OqWLJdAmIxcHDu3TvrdugS01xBhLhVq.5XIQVI3GHRHtHv5KzkSojv_Jua47zho",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -964,7 +973,9 @@
             "tvg_name": "Great Britain U Vs Ireland U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
