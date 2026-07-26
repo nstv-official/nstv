@@ -1,284 +1,5 @@
 [
     {
-        "id": "x_atletico_ottawa_vs_pacific_fc_luc_0100_ngay_27_07_2026",
-        "title": "\u26bd Atletico Ottawa Vs Pacific Fc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=9d144735faa55901716f73e2b3b3cdf0&wsABSTime=1785132135&nstv_cache=1785088975",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=965mkyhkyp49r1g&view=true",
-            "Cookie": "__cf_bm=d.Q6tgZVRIlv5HyIJwUHUlcdqRCySY6cKibxT0CtpAY-1785088908.837776-1.0.1.1-Ltb6xRPeFPg2j7yaFcWRLh9FWln5b_9srR8.86CjbUqzAh7c3fw66Gmr2cPgzGAfQ.69gXANjw5FR0tPANQLrdFZsgrmSmEoNY_biaUcWX_jAjo0SlUAdA2AJQY5IquK; _ga=GA1.1.1300735170.1785088910; _ga_P60BDCKB3G=GS2.1.s1785088910$o1$g1$t1785088934$j36$l0$h0; cf_clearance=61.WsWOMFVDgp6CYQV3BKRzUoaF5oceXzPbKzLVu5BI-1785088937-1.2.1.1-82331LPEXpUjpW6zgbeCgmhA4ZZztU0q6D_II0IEovOsSmpkMs0y2MLINWRWTJ2w2lc7odqZDFhyN6hOerHWOXePT_OPRdvuCL5f5C7eV8S1NOwedIK_vY_2d4LJuCWPkHlauygkfo9c_IWtwT2zVOPBU2Q32GCEFHtTbcFnEemPbLGoCtpbQw9FM8sxM6sekhxRuql9dnY19VqUUrThj9tWZjav9Svp7YDeqAQ0wtmtzvg.fDJNgopdDshGXq9uJWXB1S1ylzf7yf4SxztvkZqqOYA5w_sebk5lo0_9qmr4sWl0ctspm7v6QzRWHoXTyoc9Gkto1DDBnOjBSArx0IJICBzcJDI_TrWWg.HZtk8",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.atletico-ottawa-vs-pacific-fc-luc-0100-ngay-27-07-2026",
-            "tvg_name": "Atletico Ottawa Vs Pacific Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_serbia_u18_vs_tho_nhi_ky_u18_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Serbia U Vs Tho Nhi Ky U",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?nstv_cache=1785085419",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel25/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=6ypq3kt7opevmd7&view=true",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=FqCyLVDktoI03QYG72ymjLPi1YNXmNRNHwYqP_K_4CM-1785085293-1.2.1.1-nIFK1v70prz8xoIIvIVuUJQuxhRGKDWBzSIcJUL6RsGlhwGEwNBvv2LWBgdmGq4pOT_KJFBLNFe9B8xt7Yx8T2o893t_IfRVN4lxh9kMxKtiWrrh99RtAg3KD5eENVX9ekG44PBA1DD9ntqE4iPmmgHBNn0c49uMrSa5NmVEs_YZxoVwn6TP_C2WFvFOE.KTrqKmp4hRagHYSJjAS3gVeY8p1LMvLswJ6uTQjGezkqgEUae3qQ0WbdrxQXu8gaE.JVnVFWUu6G0sMuUb7gOE7jPScHBGmi90jWTA07sawdLKdbP2GmbkiY4iSOxJg8VIo1T7z4j_oIbdP7__H_ncNqv4REmSBaCBI6WOJUiayrw; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785085379$j12$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.serbia-u18-vs-tho-nhi-ky-u18-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Serbia U Vs Tho Nhi Ky U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_tay_ban_nha_u18_vs_latvia_u18_luc_0130_ngay_28_07_2026",
-        "title": "\u26bd Tay Ban Nha U Vs Latvia U",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=9577674564a4970f3cc71e68dab824c3&wsABSTime=1785128884&nstv_cache=1785085722",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel42/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=vjxm8xt567x5q6o&view=true",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=FqCyLVDktoI03QYG72ymjLPi1YNXmNRNHwYqP_K_4CM-1785085293-1.2.1.1-nIFK1v70prz8xoIIvIVuUJQuxhRGKDWBzSIcJUL6RsGlhwGEwNBvv2LWBgdmGq4pOT_KJFBLNFe9B8xt7Yx8T2o893t_IfRVN4lxh9kMxKtiWrrh99RtAg3KD5eENVX9ekG44PBA1DD9ntqE4iPmmgHBNn0c49uMrSa5NmVEs_YZxoVwn6TP_C2WFvFOE.KTrqKmp4hRagHYSJjAS3gVeY8p1LMvLswJ6uTQjGezkqgEUae3qQ0WbdrxQXu8gaE.JVnVFWUu6G0sMuUb7gOE7jPScHBGmi90jWTA07sawdLKdbP2GmbkiY4iSOxJg8VIo1T7z4j_oIbdP7__H_ncNqv4REmSBaCBI6WOJUiayrw; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785085683$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-u18-vs-latvia-u18-luc-0130-ngay-28-07-2026",
-            "tvg_name": "Tay Ban Nha U Vs Latvia U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_francesca_jones_vs_fiona_ferro_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Francesca Jones Vs Fiona Ferro",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel52.flv?wsSecret=c6db5ac2915be53e52a424adbf0b8ee6&wsABSTime=1785129403&nstv_cache=1785086242",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel52/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086203$j54$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.francesca-jones-vs-fiona-ferro-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Francesca Jones Vs Fiona Ferro",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_mladost_lucani_vs_novi_pazar_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Mladost Lucani Vs Novi Pazar",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel21.flv?nstv_cache=1785087226",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel21/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=23xmvkh6zp45qg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=BfkPWBWMWWVCpnVNOrkvef2mjT_fPjuDZYiKjPmygoo-1785086871-1.2.1.1-toNS5m3N2h3IMy2yhnwLkOMteZEC1uIDzMQ2XQ2YHWzxzhXjA3mnQqeGuBFh_CgbuofhZDqQeA9H1sqykXSnKIPFj7ndSNtvtW7AAs9yEbuK0g7pd5it1xHBJLSaSNZtM8XElMhS1j7l6DeUTj0EVpk4xGU0Wj3YRou3asvmL8Do778v6i7.UfJ4u3VV7G_DlFn5XdS2y6TRVIPBJlLQQh6mz9umAKfBhbRnqZOQ98KMQfz92xECvasrBFh76vsNPxKWbFJcgUOBHTTmSecic89sjChbROK95kE8vZVsePneujC4fmVSZNHPz0.eP7DpcsUIoYRCgc9BoIgTaIdy.6cJ0KCFHcaNfak0OjOS8Fk; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087188$j54$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.mladost-lucani-vs-novi-pazar-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Mladost Lucani Vs Novi Pazar",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_sv_wienerberger_vs_rapid_wien_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Sv Wienerberger Vs Rapid Wien",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=943507db8cd14dffc74cf5ded6c58c68&wsABSTime=1785133471&nstv_cache=1785090313",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A.Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghld6w8moe&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=s5THMtAOkLLn.DBzFTf5rrnKv1rG2nC46VhQhtDE9eM-1785090144.6044405-1.0.1.1-YlYMODFVsUDgKV2smEWJN16n76eeTGMqPgBUNBSkmeXJJz5CsJUxEAFgg1M2Bp.v2DCibpluDdO.vD1B0DeAmahLw5ZnPwKSjQkdUGVaI33hGCG4MsSkEZayP0RRunUn; _ga=GA1.1.1950727886.1785090147; _ga_P60BDCKB3G=GS2.1.s1785090146$o1$g1$t1785090185$j21$l0$h0; __cf_bm=DaGPGegkfpT84gU_4DI0owcDnHetvDGgTP6ark2Ng_c-1785090186.0009649-1.0.1.1-iN53rAMjIeZOmwDJJDMb152R1LZfF1Fd0rp2TqajxcSOjEENVwWEhpf0m9Mz_B84cek4A3l.XmznDKCQIEYJj.XgEzoS3Ak44MOX3CvBiPVI5KJs5Bk8qspx443ptabs; _ga=GA1.1.1130001157.1785090187; cf_clearance=WIidS8m2cja1A7qqCl8vl34Kerf4K8vr3z_37ICgxGc-1785090225-1.2.1.1-OxYIHhNKcZawzSncYXuw6_xSGME.EVDXMEzinOC9q6GuPdYSJyOPjzA0G9Zh32rjFn7TNPv2nfEJL_fqo1DzS6YlqmI6otOsHJW9ctcyf0HOTTWPjCoHXiupqqjOcuSdAw6HNAtjZdk4kjKUnSNXG0Aoqa7QdTXNg8hed2dOmpLn7OKVIdGfMNQK0a5IfKuFYGVR6uJSwL6bMuo11FN1Ib4MwY9fxV5wQl5HkPp42Fj9AOUECUgeyRPvirnrNhva5FuSlnnnc3WoZgltMzLcNoOJNzJlq20TTRwdJGBedcP2GKDnJsO0poGYhKVwGIDAb2yOHXLZnhIuBwlxg7iejoujg68Zwu2YNpWd0.2YkEA; __cf_bm=WWYTG9qSzXULexoHFLpaYo0ilYkZ_FgI0S8PFEZ_x8A-1785090247.0219164-1.0.1.1-H7rRahFcJEFSAuxzWXrgNoIDbIy7hCeQRQH8wOqDomEzCBqar2x4HKSBjUbcnwZAhuxNoICCVJKwVTkjxqBIsc7OzPx1htnP75BZhMvR4ijchV2cWUEg5zAYXYRfELjN; _ga_S52WSRDB70=GS2.1.s1785090186$o1$g1$t1785090270$j54$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sv-wienerberger-vs-rapid-wien-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Sv Wienerberger Vs Rapid Wien",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_marino_vs_tenerife_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Marino Vs Tenerife",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=de53591b885e5726395202fdf014d0de&wsABSTime=1785133670&nstv_cache=1785090513",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel19/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A.Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l7oqdehgp2k4r51&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=0q_GrXb5veF90_kw6TPGEc7fo5iov.ulALGzrX7KDu4-1785090390.2118742-1.0.1.1-Mk8cKZwXnWSXmqfbX7zxOEwfipmqQlo0y2DOyf4v3eenlxRDKtj9huJpG2nApJogDJL.iQtIdYkS5dQXqVeTu9KBi6WsbNQCxU7FgOgIXy0D5rsTPhPpcET5_wHTFpTy; _ga=GA1.1.1746217458.1785090394; _ga_P60BDCKB3G=GS2.1.s1785090393$o1$g1$t1785090431$j22$l0$h0; __cf_bm=8gBKmbqtgeYZsZ4nWdLTqpZCrY8osC2610C5UPkiI8I-1785090432.2614226-1.0.1.1-CNeiMK4bfetQ3h7eYJB0G5TDYCURkPHgQWnrxX8bxahOUYyEtIIQZf92bLSQwhmV2SHU37Ipaq83bLjNQK541rEwFAV05ineRoeg3YixC1WEi3L1elfp4Az7Q8W.MKIm; _ga=GA1.1.850728742.1785090433; _ga_S52WSRDB70=GS2.1.s1785090432$o1$g1$t1785090470$j22$l0$h0; cf_clearance=Nbrda8CuRy_bR7DD8Gw23.NwwSEv3TbZx79.so50gbw-1785090471-1.2.1.1-XCKtbt_Rbk4PBeHD5Y1FwdJ9ltE9nafMten4lt7Cj_WQ0gR_3ZQAG.PU3KkKw5Bej.2mZLMefe6vc59b6XJKE2.8GyDoyn1NpJmsravJL1Mc1vyLmVBVCd0qwnnk4bVbZvdJt87F.ibS4v9ZoMFzGTf_BQpkSrDelRrOFr0K2FOMkDMkJXIWABwpo7aCaMnccN8Z8aEXkESUwhNhqfop5LGP3ahLYPN13o7n7dxFlxaTzpDjc9Kp7kiqz_h35a4XzzVB5nMtyxz4_IObR1SuN1JnNN6Q_3V_3qeOUfDBwA_Ig3zdE3HoOjX6503I.63aQlSXN_kkivb0Sm7ZHAfihqI7HT2LpZ1IhibBAncxAFc; __cf_bm=7akCAzS61.V_36BYY1iSOUUWkZWFWNARA1MCV2Ko01M-1785090487.4609814-1.0.1.1-bv1yPp3bODWMRAgJMMx9dHSCy0X7LG1HbWkAEwWcPVJQl7NFZtjhWD.AwcHQoR9u0UmU54j7zdrVjt10dw233cMbKROpJ.f65w77G5cpPmB2LrROzQkwhTfwkhnrGx4U",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.marino-vs-tenerife-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Marino Vs Tenerife",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_ca_san_miguel_vs_club_atletico_acassuso_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Ca San Miguel Vs Club Atletico Acassuso",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=f4eb730f79c5d4b57fcdfe73fc734626&wsABSTime=1785133720&nstv_cache=1785090559",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel21/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A.Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=8yomo4h1g48pq0j&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=0q_GrXb5veF90_kw6TPGEc7fo5iov.ulALGzrX7KDu4-1785090390.2118742-1.0.1.1-Mk8cKZwXnWSXmqfbX7zxOEwfipmqQlo0y2DOyf4v3eenlxRDKtj9huJpG2nApJogDJL.iQtIdYkS5dQXqVeTu9KBi6WsbNQCxU7FgOgIXy0D5rsTPhPpcET5_wHTFpTy; _ga=GA1.1.1746217458.1785090394; _ga_P60BDCKB3G=GS2.1.s1785090393$o1$g1$t1785090431$j22$l0$h0; __cf_bm=8gBKmbqtgeYZsZ4nWdLTqpZCrY8osC2610C5UPkiI8I-1785090432.2614226-1.0.1.1-CNeiMK4bfetQ3h7eYJB0G5TDYCURkPHgQWnrxX8bxahOUYyEtIIQZf92bLSQwhmV2SHU37Ipaq83bLjNQK541rEwFAV05ineRoeg3YixC1WEi3L1elfp4Az7Q8W.MKIm; _ga=GA1.1.850728742.1785090433; cf_clearance=Nbrda8CuRy_bR7DD8Gw23.NwwSEv3TbZx79.so50gbw-1785090471-1.2.1.1-XCKtbt_Rbk4PBeHD5Y1FwdJ9ltE9nafMten4lt7Cj_WQ0gR_3ZQAG.PU3KkKw5Bej.2mZLMefe6vc59b6XJKE2.8GyDoyn1NpJmsravJL1Mc1vyLmVBVCd0qwnnk4bVbZvdJt87F.ibS4v9ZoMFzGTf_BQpkSrDelRrOFr0K2FOMkDMkJXIWABwpo7aCaMnccN8Z8aEXkESUwhNhqfop5LGP3ahLYPN13o7n7dxFlxaTzpDjc9Kp7kiqz_h35a4XzzVB5nMtyxz4_IObR1SuN1JnNN6Q_3V_3qeOUfDBwA_Ig3zdE3HoOjX6503I.63aQlSXN_kkivb0Sm7ZHAfihqI7HT2LpZ1IhibBAncxAFc; __cf_bm=7akCAzS61.V_36BYY1iSOUUWkZWFWNARA1MCV2Ko01M-1785090487.4609814-1.0.1.1-bv1yPp3bODWMRAgJMMx9dHSCy0X7LG1HbWkAEwWcPVJQl7NFZtjhWD.AwcHQoR9u0UmU54j7zdrVjt10dw233cMbKROpJ.f65w77G5cpPmB2LrROzQkwhTfwkhnrGx4U; _ga_S52WSRDB70=GS2.1.s1785090432$o1$g1$t1785090519$j54$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.ca-san-miguel-vs-club-atletico-acassuso-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Ca San Miguel Vs Club Atletico Acassuso",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_mauritania_u20_vs_elche_u20_luc_0130_ngay_27_07_2026",
-        "title": "\u26bd Mauritania U Vs Elche U",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=0a4cc4ec24375e4b922eddbc7f33c9cf&wsABSTime=1785133765&nstv_cache=1785090604",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel22/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A.Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=6ypq3nhv9wd7md7&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=0q_GrXb5veF90_kw6TPGEc7fo5iov.ulALGzrX7KDu4-1785090390.2118742-1.0.1.1-Mk8cKZwXnWSXmqfbX7zxOEwfipmqQlo0y2DOyf4v3eenlxRDKtj9huJpG2nApJogDJL.iQtIdYkS5dQXqVeTu9KBi6WsbNQCxU7FgOgIXy0D5rsTPhPpcET5_wHTFpTy; _ga=GA1.1.1746217458.1785090394; _ga_P60BDCKB3G=GS2.1.s1785090393$o1$g1$t1785090431$j22$l0$h0; __cf_bm=8gBKmbqtgeYZsZ4nWdLTqpZCrY8osC2610C5UPkiI8I-1785090432.2614226-1.0.1.1-CNeiMK4bfetQ3h7eYJB0G5TDYCURkPHgQWnrxX8bxahOUYyEtIIQZf92bLSQwhmV2SHU37Ipaq83bLjNQK541rEwFAV05ineRoeg3YixC1WEi3L1elfp4Az7Q8W.MKIm; _ga=GA1.1.850728742.1785090433; cf_clearance=Nbrda8CuRy_bR7DD8Gw23.NwwSEv3TbZx79.so50gbw-1785090471-1.2.1.1-XCKtbt_Rbk4PBeHD5Y1FwdJ9ltE9nafMten4lt7Cj_WQ0gR_3ZQAG.PU3KkKw5Bej.2mZLMefe6vc59b6XJKE2.8GyDoyn1NpJmsravJL1Mc1vyLmVBVCd0qwnnk4bVbZvdJt87F.ibS4v9ZoMFzGTf_BQpkSrDelRrOFr0K2FOMkDMkJXIWABwpo7aCaMnccN8Z8aEXkESUwhNhqfop5LGP3ahLYPN13o7n7dxFlxaTzpDjc9Kp7kiqz_h35a4XzzVB5nMtyxz4_IObR1SuN1JnNN6Q_3V_3qeOUfDBwA_Ig3zdE3HoOjX6503I.63aQlSXN_kkivb0Sm7ZHAfihqI7HT2LpZ1IhibBAncxAFc; __cf_bm=7akCAzS61.V_36BYY1iSOUUWkZWFWNARA1MCV2Ko01M-1785090487.4609814-1.0.1.1-bv1yPp3bODWMRAgJMMx9dHSCy0X7LG1HbWkAEwWcPVJQl7NFZtjhWD.AwcHQoR9u0UmU54j7zdrVjt10dw233cMbKROpJ.f65w77G5cpPmB2LrROzQkwhTfwkhnrGx4U; _ga_S52WSRDB70=GS2.1.s1785090432$o1$g1$t1785090564$j9$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.mauritania-u20-vs-elche-u20-luc-0130-ngay-27-07-2026",
-            "tvg_name": "Mauritania U Vs Elche U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_anh_vs_argentina_0200_16_07",
         "title": "\u26bd Anh Vs Argentina",
         "category": "EVENT LIVE",
@@ -620,6 +341,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_fram_reykjavik_vs_hafnarfjordur_luc_0215_ngay_27_07_2026",
@@ -1489,6 +1230,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -2984,46 +2745,6 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
