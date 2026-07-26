@@ -1697,6 +1697,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_bolivar_vs_real_potosi_luc_0415_ngay_27_07_2026",
+        "title": "\u26bd Bolivar Vs Real Potosi",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "04:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bolivar-vs-real-potosi-luc-0415-ngay-27-07-2026",
+            "tvg_name": "Bolivar Vs Real Potosi",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_rb_bragantino_vs_coritiba_luc_0430_ngay_27_07_2026",
         "title": "\u26bd Rb Bragantino Vs Coritiba",
         "category": "EVENT LIVE",
