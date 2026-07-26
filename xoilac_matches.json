@@ -937,10 +937,17 @@
         "id": "x_moss_vs_raufoss_il_luc_2200_ngay_26_07_2026",
         "title": "\u26bd Moss Vs Raufoss Il",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=b1c6ffae15135133a4fd05cc1b863c3e&wsABSTime=1785121024",
         "is_live": true,
         "match_time": "22:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel19/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "_ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076230$j57$l0$h0; _ga=GA1.1.1212282819.1785076233; __cf_bm=Gciu5vANVSeB8oV9VSn3d0XtTsI25Vxr5Uc5wMybSyo-1785076295.207707-1.0.1.1-DY6sjkfs4i4Uwn1YLt1dIoEcXZ4H50BL1dbIXyxnCudSNMcsLn9YbpWwOXhj4v_7BR719Qvg340x1RQf0EhTr6hBBweLxX1zimi7ObKHL6mRi6RPW7HHqu5LOGu.9Rsa; __cf_bm=fYsfHvVPzMWEECsR.fO3skwiXVshqDhKIJ2.5AAcPZA-1785077148.4017224-1.0.1.1-5vTqXq2YLOdsHn4GOprnd89ifzo6yQAoc1kj5LhbyrsY7CskpDEE5zaRMcC39L1XGlZ0y8pXgZtDOqjvxlOV5_EYYQDKKlBigMIJg1vuCLC_kmc7mDCcc6yCvpYlRHkW; _ga_S52WSRDB70=GS2.1.s1785076232$o1$g1$t1785077823$j7$l0$h0; cf_clearance=BX7d0pIv0tbVHL11EoeI4o_IdQZPQi10aJwEJGiXB_E-1785077828-1.2.1.1-N2hcDs6ExanUcSx1AIfSPACDIETM3dkJ6sokrABBgRNsbTaOBqXm7pmtcKeXSSniam5k_82UxZYab8E2pFQG8SzRTq.ywYqhgfBuxFm.ZVTSUhlTVE4EMkoqjGSviliBLd1YqozEYJ4fXvo3xM6BF5I01HhGx36dLkVZU3wB7_P4cmFEKfp56OnslCyq7Id9ihSaRCJUG.D4HDPQBRnctAnqe9GT0C_kiQTWdbSDza7lE.RTLR_1_NML_va1FpXL6cuBjexQXSi3_sgxSiKRrUt0Z4x.ZHM3LIrxOhDSL32txoDtUeYBaWKh8yvf.pc7Fu9o2QjpzKFm3_jaJghQG8UISdVS5nL.ZJP2Xf52o5Q"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
