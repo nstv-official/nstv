@@ -1618,10 +1618,19 @@
         "id": "x_herrera_fc_vs_union_cocle_luc_0400_ngay_27_07_2026",
         "title": "\u26bd Herrera Fc Vs Union Cocle",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=acb858520f400a9e4637eb30d27ac835&wsABSTime=1785136418&nstv_cache=1785093257",
         "is_live": true,
         "match_time": "04:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel13/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not(A;Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghljvk5moe&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=YYUs6quppbEAkVLiFY4qoZw1Ec.P.wdCy1WgdiT6ckY-1785092960.60157-1.0.1.1-R7H23SdcK95l.wSWr3DacZbVde5xG7BPRyuQxM9bRu30HdCP7Hwu9W4sffhP9B7R4pnZYoJfrFqZWU5E9E3a3WD3N5zw9FSbIQIfMewQk66vKPpCEmuHPtr_cug5sqoa; _ga=GA1.1.848601116.1785092963; _ga_P60BDCKB3G=GS2.1.s1785092963$o1$g1$t1785093000$j23$l0$h0; __cf_bm=PLOe_a.heAONzwotmR4H9pOAC253aZVZDZ5uLk4UUTE-1785093001.2939034-1.0.1.1-hrRUTe6mXogldOUVZWShmV6OKki7D0W.Cwol6TUUKtXHmx0QX45xop6qWIOBDnvWxS.9sV29jFxPQGn6FD_omSvhjlCAbHSKAHpHCn5khgiV9dO0MsKWYhJCRF.xn2P9; _ga=GA1.1.5616248.1785093002; cf_clearance=tpDoTSsa5CBy1Kbcj8QrpZnG5FOVPUlScQ4EOKaWBDg-1785093040-1.2.1.1-lb5hmn_qcaVNNR3DNgOY1HPDejSjcOTjxtxvSpA5MCK33RPWGCDTIy.5fK9FnvFUDNNlcYmub6KlOvC0flAqbY3SGquOcUUk7IYsDkmRuPUpbQJB8P4V7sDgK3w2sWWavXKvloDXeXPcHLnmQT8FbeyNM3ZqRcIihigtB9l08xn7U9UAIyqDap0StfnLI1fedO6H6f91qLmsRGRy68E_jLwTRuL67Pzj4J0GE7nKkU4tHN6R2m9.v1SrlGYJ7BH0UKUJxbtJfmHdgaexbkvCXdWEuJ4UK9T0J2HImDUesusYaQIFsWtPCoLs2yEwEXLZ4kW5ZWrmMCx6Nznzlez6ljEtrZ_7ZM3DsZLHKWzokh4; _ga_S52WSRDB70=GS2.1.s1785093002$o1$g1$t1785093218$j11$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1632,7 +1641,9 @@
             "tvg_name": "Herrera Fc Vs Union Cocle",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_gimnasia_ytiro_vs_deportivo_maipu_luc_0400_ngay_27_07_2026",
