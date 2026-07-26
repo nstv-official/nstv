@@ -260,6 +260,106 @@
         }
     },
     {
+        "id": "x_fk_lida_vs_k_slonim_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Fk Lida Vs K Slonim",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fk-lida-vs-k-slonim-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Fk Lida Vs K Slonim",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_torpedo_moscow_vs_shinnik_yaroslavl_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Torpedo Moscow Vs Shinnik Yaroslavl",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.torpedo-moscow-vs-shinnik-yaroslavl-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Torpedo Moscow Vs Shinnik Yaroslavl",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_belgrano_vs_nu_social_atletico_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Nu Belgrano Vs Nu Social Atletico",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-belgrano-vs-nu-social-atletico-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Nu Belgrano Vs Nu Social Atletico",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_sc_corinthians_vs_nu_vitoria_das_tabocas_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Nu Sc Corinthians Vs Nu Vitoria Das Tabocas",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-sc-corinthians-vs-nu-vitoria-das-tabocas-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Nu Sc Corinthians Vs Nu Vitoria Das Tabocas",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bo_bien_nga_u20_vs_benin_u20_luc_2100_ngay_26_07_2026",
+        "title": "\u26bd Bo Bien Nga U Vs Benin U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bo-bien-nga-u20-vs-benin-u20-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Bo Bien Nga U Vs Benin U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_federico_zeballos_vs_francesco_forti_luc_2030_ngay_26_07_2026",
         "title": "\u26bd Federico Zeballos Vs Francesco Forti",
         "category": "EVENT LIVE",
