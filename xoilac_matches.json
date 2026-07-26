@@ -2792,10 +2792,19 @@
         "id": "x_xoilacz",
         "title": "\u26bd Xoilacz",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/ci/a217058d1f45fd2b/1785106839299/LbygXhPfC8bf_KBZVwSzBSIv6hOCEBmawNAAtF8aCNQ-1785106839-1.3.1.1-Bp65OIhR7WFwnzPJEYMzaJBVtkQoP3HaR3go_ZmT0c4QYpSiku4nP8nduB5LkZp3M6MCI7U2B9B_4M6.LJ21_eKOHlsCwmjPzxuuidg_BZngNhoJciFahBiH0ymZ.N70C2zY23Ba6ZsrIhjeZzZ_a53vyNfJzPaZ7Art9isNG.V8MU11m0YYVjvl8ph8q.jIOKL1prDw9gFLs5wHltd6DwvASCCjaYcW6y3p9y_gnWNhx17NW6beZ0XkD9RjpTbnrgTaUp.KaLIclsC_j7DmMCZPhwxLQEf1mhDziQ2nwhPuBStG7mjjol4WMVWLtAwRvlolFO4l.cbo9Dn9FZsk3ICdmhg2JLsI0dhazm_UcI1zc7xwYIe5COWNOVD9xp9CjroiVgAYQZEk8oW65LSKiZ8Yhp98D5HVqo4FxDsWQnL_ZOGvjAPFbJlyhjj1o.mmRTQrO9PEQVvk0sqtHpEFfZIIITVbFWzrkL3VuFp13zGuy5jNZi33OpYxN_oUlNZqNmt8GsbJzcRwSVGVhkTUTeRq_J0TNS6s4JGFbjVciJMI8toAleq6GmiXjrZS9gSxSDOFjq_ZKeUbPOxK2XGiJxRGU7dQ97nGN06s9MJqWcAp7rYmP4eI01dxvB36e.KPakIuq9cf.6Te1WXtjRhwDvRv0rqpjesxTiP0dylCbwEk1NhLgcdgn_Kr5xXh50.uXCP6opVpXPHDQxa0b6lPJ8s04o7aDVlJlNgC6vessBM?nstv_cache=1785106843",
         "is_live": true,
         "match_time": "LIVE",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/9dk03/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not:A Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/av0/rch/9dk03/0x4AAAAAAADnPIDROrmt1Wwj/light/fbE/new/normal?lang=auto",
+            "Cookie": "__cf_bm=wavkutQfTMVTD0w869Plz7l3XjKtnhyfpWZKJNWEhyg-1785106793.4293365-1.0.1.1-a3CO3moXsV74ga2BsI39f0QFjkeDXw2qZS9hfFUwJbpCNfvtaHcQR7tt45O_2YiXIFmOUiV75Xyes1n3QhoWHLZKZ3ZOmARWBJ2CfE2jBVUwSL8jwjNWJ17yvSNPwUF2; _ga_P60BDCKB3G=GS2.1.s1785106799$o1$g0$t1785106799$j60$l0$h0; _ga=GA1.1.417613839.1785106800",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -2806,7 +2815,9 @@
             "tvg_name": "Xoilacz",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9jaGFs",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_san_van_dong_to_chuc_world_cup_2026_thong_tin_chinh_thuc_va_chi_tiet",
