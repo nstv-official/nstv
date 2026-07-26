@@ -1432,10 +1432,19 @@
         "id": "x_america_mg_vs_goias_ec_luc_0430_ngay_27_07_2026",
         "title": "\u26bd America Mg Vs Goias Ec",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=75cd927658679827a8574279f8eaa3d1&wsABSTime=1785139948&nstv_cache=1785096786",
         "is_live": true,
         "match_time": "04:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A;Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=318q66hxxv41qo9&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=Pjvl9xXqaWVOWuxsAOCy8fDL1_bbq7l5ZhQTCB_XoT4-1785096614.0557961-1.0.1.1-ynPhZyQ6Eu1kmNs7UU6ZLpr0AcXq2Lmzy_8JMBVw2nOiiy.rx9sXQ7gknuAADnjf0Kak0KVFeOVjXPkdWm27EMDA69Mfyvfehd0gDwDmqymgztxBCRy.xRzV4YMek3S3; _ga=GA1.1.1018357210.1785096617; _ga_P60BDCKB3G=GS2.1.s1785096616$o1$g1$t1785096661$j15$l0$h0; __cf_bm=mcEzoSJGwA.GBZhAmzK09LvYf6QyVc6JS.dYMRGB7Eg-1785096665.1112552-1.0.1.1-s7EoGoevOKGdiAEBNgBHkioo.OQjDijs4uR7.kLl6_Ks9Q.Kdl2pMlcpls53udmr1ydR9UR_OoHV.KpwsZ.pJGjShnVrdFHEfFKNqpKsMWIlyMavDGney8glN066tlhl; _ga=GA1.1.1588905828.1785096667; cf_clearance=dIdIEAKBqK8Sg_UGt2B2JQaaZF2E5Wu_uNBGKJulros-1785096706-1.2.1.1-jb6M80jd96X0H1066JszzAPreDZj_u6BmFtbmmMDIPsku3KxeEw1C8rkZgtnH_z7Zp9Qmn5ApeoSBVTrx7HFk26X.6EfiXkIb6WI8rfnZYo_WcArzxkANCyGYdZKy0ySUoqtmPg5qxjsdEqvnNopKIO3cqTh4Lh65FTcKEFBXZtzIx88WGC4fPwk3HjLTrak3c3Qix6SqfLDojz_qyehThlKG8FjXs1HBVt22.s4SghJWuVVdNSKcVk1gb0zxDrVSvukyhwz52KeMg7KpK05fYjNZhon34R8dVD1kLWeKa5B5LzUYVjG0CXKBQrt8t3Fj6qi14i1z4lFFENRd11zQAcIosR55SOeQs1PoN8T.Xs; __cf_bm=9neI2dmcP6OqhSFcuY_DYws7_.TLnGphN1O2h69lKIc-1785096715.2433722-1.0.1.1-9HMu2zjf4dkhkubTnCVdhb0vCKRdkrfRGW9Ikwbu9w4Gih0RjvuTkj2r.X.lXWpXUsqof1ocYJNffp4Mmc1hLJ9uk7yINMf7znQc5miJWtzuv6vYWXWxU5DGa1RVckXT; _ga_S52WSRDB70=GS2.1.s1785096666$o1$g1$t1785096747$j55$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1446,7 +1455,9 @@
             "tvg_name": "America Mg Vs Goias Ec",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_londrina_pr_vs_novorizontino_luc_0430_ngay_27_07_2026",
