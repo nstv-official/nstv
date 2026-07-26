@@ -775,10 +775,17 @@
         "id": "x_fk_kaspyi_aktau_vs_zhenis_astana_luc_2200_ngay_26_07_2026",
         "title": "\u26bd Fk Kaspyi Aktau Vs Zhenis Astana",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=01e142a8accd2e7872038ced6e85010b&wsABSTime=1785120632",
         "is_live": true,
         "match_time": "22:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel13/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076230$j57$l0$h0; _ga=GA1.1.1212282819.1785076233; __cf_bm=Gciu5vANVSeB8oV9VSn3d0XtTsI25Vxr5Uc5wMybSyo-1785076295.207707-1.0.1.1-DY6sjkfs4i4Uwn1YLt1dIoEcXZ4H50BL1dbIXyxnCudSNMcsLn9YbpWwOXhj4v_7BR719Qvg340x1RQf0EhTr6hBBweLxX1zimi7ObKHL6mRi6RPW7HHqu5LOGu.9Rsa; cf_clearance=.v80656WYxRTA4ZctaFLvqV4uACf_Up7BMTyMNikHuw-1785076983-1.2.1.1-9U9OuxfGgEh7pIHa88nr3S7n5yqyQDbTlyFDsq.w7XCWjO7RXNeP5fpCaB.neo2yeot0Ubae5g2eldmxvrDyxooMI._HvF7ES1_WTVKYpU.rabqTCJiXpTCc5wJzJkq_5LPObCTNc_YvLvMupMaTjBZWS.mfvlnXFQvwQycWlhEckVDMAOMjzOHVt5F19cSGYIvtum5szjI5IXN.SE30ozLbxO_siQfGUbNut8tuvgAqY3XjSJsqhiXfmtam5xqA.a1gAGkXjA6_3liKuGn_b.K.vIO12YpDgFOpFa_bfH9ncmkM0IEqwLJss4_6OkFvTQPxlXgBSQ5U8NGGKRSV956BV9IMQFIC.VIUNuok.1E; __cf_bm=fYsfHvVPzMWEECsR.fO3skwiXVshqDhKIJ2.5AAcPZA-1785077148.4017224-1.0.1.1-5vTqXq2YLOdsHn4GOprnd89ifzo6yQAoc1kj5LhbyrsY7CskpDEE5zaRMcC39L1XGlZ0y8pXgZtDOqjvxlOV5_EYYQDKKlBigMIJg1vuCLC_kmc7mDCcc6yCvpYlRHkW; _ga_S52WSRDB70=GS2.1.s1785076232$o1$g1$t1785077431$j9$l0$h0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
