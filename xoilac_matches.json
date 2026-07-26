@@ -1,28 +1,5 @@
 [
     {
-        "id": "x_mega_vs_ultimate_strike_ww_luc_1930_ngay_26_07_2026",
-        "title": "\u26bd Mega Vs Ultimate Strike Ww",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "19:57",
-        "headers": {
-            "Referer": "https://xoilaczzggz.tv/",
-            "Origin": "https://xoilaczzggz.tv"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.mega-vs-ultimate-strike-ww-luc-1930-ngay-26-07-2026",
-            "tvg_name": "Mega Vs Ultimate Strike Ww",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_galions_sharks_vs_team_high_ground_luc_2000_ngay_26_07_2026",
         "title": "\u26bd Galions Sharks Vs Team High Ground",
         "category": "EVENT LIVE",
@@ -427,10 +404,17 @@
         "id": "x_vasas_fc_vs_gyori_eto_fc_luc_2045_ngay_26_07_2026",
         "title": "\u26bd Vasas Fc Vs Gyori Eto Fc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel29.flv?wsSecret=1bb67822aed7ff5338b62b0257b6e53e&wsABSTime=1785119180",
         "is_live": true,
         "match_time": "20:45",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel29/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785075978$j55$l0$h0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
