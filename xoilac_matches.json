@@ -2346,37 +2346,12 @@
         }
     },
     {
-        "id": "ls_LiverpoolVsSunderlandAfc_05:00",
-        "title": "\u26bd Liverpool Vs Sunderland Afc",
+        "id": "x_PhiladelphiaUnionVsSeattleSounders_00:00",
+        "title": "\u26bd Philadelphia Union Vs Seattle Sounders",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "05:00",
-        "headers": {
-            "Referer": "https://idn281.livesports088.is/id/football.html/",
-            "Origin": "https://idn281.livesports088.is"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.3040316-liverpool-vs-sunderland-afc",
-            "tvg_name": "Liverpool Vs Sunderland Afc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "xoi_LiverpoolVsSunderland_05:00",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "is_live": false,
-        "match_time": "05:00",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -2387,20 +2362,19 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-luc-0500-ngay-26-07-2026",
-            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_id": "m.philadelphia-union-vs-seattle-sounders-luc-0630-ngay-26-07-2026",
+            "tvg_name": "Philadelphia Union Vs Seattle Sounders",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_LiverpoolVsSunderland_05:00",
-        "title": "\u26bd Liverpool Vs Sunderland",
+        "id": "x_MiguelTobonVsBernardTomic_00:00",
+        "title": "\u26bd Miguel Tobon Vs Bernard Tomic",
         "category": "EVENT LIVE",
         "uri": "",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "is_live": false,
-        "match_time": "05:00",
+        "match_time": "00:00",
         "headers": {
             "Referer": "https://xoilacxtu.tv/",
             "Origin": "https://xoilacxtu.tv"
@@ -2411,8 +2385,100 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-luc-0500-ngay-26-07-2026",
-            "tvg_name": "Liverpool Vs Sunderland",
+            "tvg_id": "m.miguel-tobon-vs-bernard-tomic-luc-0800-ngay-26-07-2026",
+            "tvg_name": "Miguel Tobon Vs Bernard Tomic",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_HarrietDartMaiaLumsdenVsLucieHavlickovaLauraSamson_00:00",
+        "title": "\u26bd Harriet Dart Maia Lumsden Vs Lucie Havlickova Laura Samson",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.harriet-dart-maia-lumsden-vs-lucie-havlickova-laura-samson-luc-1600-ngay-26-07-2026",
+            "tvg_name": "Harriet Dart Maia Lumsden Vs Lucie Havlickova Laura Samson",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_DariaSnigurVsLilliTagger_00:00",
+        "title": "\u26bd Daria Snigur Vs Lilli Tagger",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.daria-snigur-vs-lilli-tagger-luc-1900-ngay-26-07-2026",
+            "tvg_name": "Daria Snigur Vs Lilli Tagger",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_TitouanDroguetKyrianJacquetVsOrlandoLuzRafaelMatos_00:00",
+        "title": "\u26bd Titouan Droguet Kyrian Jacquet Vs Orlando Luz Rafael Matos",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.titouan-droguet-kyrian-jacquet-vs-orlando-luz-rafael-matos-luc-2100-ngay-26-07-2026",
+            "tvg_name": "Titouan Droguet Kyrian Jacquet Vs Orlando Luz Rafael Matos",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_LucaVanAsscheVsAlexanderBlockx_00:00",
+        "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "00:00",
+        "headers": {
+            "Referer": "https://xoilacxtu.tv/",
+            "Origin": "https://xoilacxtu.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.luca-van-assche-vs-alexander-blockx-luc-2330-ngay-26-07-2026",
+            "tvg_name": "Luca Van Assche Vs Alexander Blockx",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
