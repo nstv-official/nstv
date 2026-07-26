@@ -1025,26 +1025,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
-        "title": "\u26bd Tay Ban Nha Vs Argentina",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
-            "tvg_name": "Tay Ban Nha Vs Argentina",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_fram_reykjavik_vs_hafnarfjordur_luc_0215_ngay_27_07_2026",
         "title": "\u26bd Fram Reykjavik Vs Hafnarfjordur",
         "category": "EVENT LIVE",
@@ -1576,10 +1556,19 @@
         "id": "x_nu_san_diego_vs_nu_seattle_reign_luc_0400_ngay_27_07_2026",
         "title": "\u26bd Nu San Diego Vs Nu Seattle Reign",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=520fd8c50428ba107e1844574634c19e&wsABSTime=1785136933&nstv_cache=1785093771",
         "is_live": true,
         "match_time": "04:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel15/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A Brand\";v=\"24\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=vjxm8ghek2kzr6o&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=iPlmiAqvfOAZt5Uuso682Wkgc3oKIJUp4YKYPncIg2k-1785093654.292145-1.0.1.1-5rBLwWB19moqmGLlLJEiRCr.k7dre1hEQS_OiZFj3kCgrdSEMJk.6h4mZ.fAFe6G.GCrgO4ZrDXK38v75V0cfrgrZ_k1ai1R32lmmIP8Jx1LFb1Cl6uDkoFkSRUXLML3; _ga=GA1.1.1547593224.1785093656; _ga_P60BDCKB3G=GS2.1.s1785093655$o1$g1$t1785093693$j22$l0$h0; __cf_bm=QAWY.5Pi69dteRWVcfh2hyn17MCy02wzFqXBoQ9J9X0-1785093694.4577138-1.0.1.1-o7GuaOcvhP4VZHxs3g5VabyhA9TB6Z6KwoiRcSjd6MjAS1e97zWFGP6si3Jacu_Ph6C6AoZbq4z4wkF5U2E_iSG2q4F_.SBYsp7VBrl53xyLeGWxI3JzkxDhlRBFIcO1; _ga=GA1.1.1072686942.1785093695; _ga_S52WSRDB70=GS2.1.s1785093695$o1$g1$t1785093733$j22$l0$h0; cf_clearance=2AZ7pegi4FwN_6bxeJeKv5olqgUQW4qSutGLbwBsO4E-1785093735-1.2.1.1-Xdq6oCZlI8knri_ugxIZiwvIT8OR839QTuMP0zmIkju8gUeE3jCNd1.1H9HrY72yxkDvSaAoij0L6J4cTwRH1yvw2AJLcysxVhlWnvvLYQfpGTH0w9AkH9bWayuw.Ld9BIFu0SnezQ.pCwsrcW1nxwRjtIgPqFfLii0GiDVpAqE8mAuW_hcBqUOXGALAN4fx_I7GrDVxfJVeDo2WKdz5CK9fGD5f71SSfIq6RO3MjQlrFjAmXiF_DYqg1Ind7PvtdOUOqN4PSf0_pvkoVmhmtstED5SZ4GrTlR.tSFGXENIwbLCo3Dlm05Xk3b9pTL35jl3I8ykVYOimedlXfnoVLcDszs510TAJMvX9K0RklWU",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1590,7 +1579,9 @@
             "tvg_name": "Nu San Diego Vs Nu Seattle Reign",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_aguilas_doradas_vs_ind_santa_fe_luc_0405_ngay_27_07_2026",
@@ -1777,26 +1768,6 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_liverpool_vs_sunderland_0500_26_07",
-        "title": "\u26bd Liverpool Vs Sunderland",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": true,
-        "match_time": "05:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
-            "tvg_name": "Liverpool Vs Sunderland",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     },
     {
         "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
@@ -3292,6 +3263,46 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tay_ban_nha_vs_argentina_0200_20_07",
+        "title": "\u26bd Tay Ban Nha Vs Argentina",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "02:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tay-ban-nha-vs-argentina-0200-20-07",
+            "tvg_name": "Tay Ban Nha Vs Argentina",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_liverpool_vs_sunderland_0500_26_07",
+        "title": "\u26bd Liverpool Vs Sunderland",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "05:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.liverpool-vs-sunderland-0500-26-07",
+            "tvg_name": "Liverpool Vs Sunderland",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
