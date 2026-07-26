@@ -1190,6 +1190,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_great_britain_u18_vs_ireland_u18_luc_2300_ngay_28_07_2026",
+        "title": "\u26bd Great Britain U Vs Ireland U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.great-britain-u18-vs-ireland-u18-luc-2300-ngay-28-07-2026",
+            "tvg_name": "Great Britain U Vs Ireland U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_luca_van_assche_vs_alexander_blockx_luc_2330_ngay_26_07_2026",
         "title": "\u26bd Luca Van Assche Vs Alexander Blockx",
         "category": "EVENT LIVE",
