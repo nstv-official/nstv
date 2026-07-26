@@ -248,37 +248,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
-        "title": "\u26bd Nu Venezuela Vs Nu Peru",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6eddc502432f1e1c78616d43fcf11959&wsABSTime=1785129751&nstv_cache=1785086590",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=23xmvzh2n1j9qg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086550$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-venezuela-vs-nu-peru-luc-0030-ngay-27-07-2026",
-            "tvg_name": "Nu Venezuela Vs Nu Peru",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_g2_esports_vs_karmine_corp_luc_0000_ngay_27_07_2026",
         "title": "\u26bd G Esports Vs Karmine Corp",
         "category": "EVENT LIVE",
@@ -365,6 +334,37 @@
         "epg_metadata": {
             "tvg_id": "m.puszcza-vs-polonia-warszawa-luc-0030-ngay-27-07-2026",
             "tvg_name": "Puszcza Vs Polonia Warszawa",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_chile_vs_nu_argentina_luc_0300_ngay_27_07_2026",
+        "title": "\u26bd Nu Chile Vs Nu Argentina",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=7389fd6a3401eaee8e0a3962938991ba&wsABSTime=1785129795&nstv_cache=1785086634",
+        "is_live": true,
+        "match_time": "00:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=4wyrn3hwkpl2m86&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086594$j9$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-chile-vs-nu-argentina-luc-0300-ngay-27-07-2026",
+            "tvg_name": "Nu Chile Vs Nu Argentina",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
@@ -463,6 +463,66 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_atletico_ottawa_vs_pacific_fc_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Atletico Ottawa Vs Pacific Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.atletico-ottawa-vs-pacific-fc-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Atletico Ottawa Vs Pacific Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_ec_juventude_vs_nu_ferroviaria_sp_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Nu Ec Juventude Vs Nu Ferroviaria Sp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-ec-juventude-vs-nu-ferroviaria-sp-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Nu Ec Juventude Vs Nu Ferroviaria Sp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_deportivo_moron_vs_ferrol_carril_oeste_luc_0100_ngay_27_07_2026",
+        "title": "\u26bd Deportivo Moron Vs Ferrol Carril Oeste",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.deportivo-moron-vs-ferrol-carril-oeste-luc-0100-ngay-27-07-2026",
+            "tvg_name": "Deportivo Moron Vs Ferrol Carril Oeste",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_lokomotiv_plovdiv_vs_septemvri_sofia_luc_0115_ngay_27_07_2026",
@@ -890,6 +950,37 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_nu_venezuela_vs_nu_peru_luc_0030_ngay_27_07_2026",
+        "title": "\u26bd Nu Venezuela Vs Nu Peru",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=6eddc502432f1e1c78616d43fcf11959&wsABSTime=1785129751&nstv_cache=1785086590",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=23xmvzh2n1j9qg8&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086550$j53$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-venezuela-vs-nu-peru-luc-0030-ngay-27-07-2026",
+            "tvg_name": "Nu Venezuela Vs Nu Peru",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
         "id": "x_wei_sijia_vs_wong_hong_yi_cody_luc_0300_ngay_27_07_2026",
         "title": "\u26bd Wei Sijia Vs Wong Hong Yi Cody",
         "category": "EVENT LIVE",
@@ -914,37 +1005,6 @@
         "epg_metadata": {
             "tvg_id": "m.wei-sijia-vs-wong-hong-yi-cody-luc-0300-ngay-27-07-2026",
             "tvg_name": "Wei Sijia Vs Wong Hong Yi Cody",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_chile_vs_nu_argentina_luc_0300_ngay_27_07_2026",
-        "title": "\u26bd Nu Chile Vs Nu Argentina",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel81.flv?wsSecret=7389fd6a3401eaee8e0a3962938991ba&wsABSTime=1785129795&nstv_cache=1785086634",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel81/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=4wyrn3hwkpl2m86&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086594$j9$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-chile-vs-nu-argentina-luc-0300-ngay-27-07-2026",
-            "tvg_name": "Nu Chile Vs Nu Argentina",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
