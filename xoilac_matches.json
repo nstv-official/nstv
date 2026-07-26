@@ -1230,6 +1230,66 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_cincinnati_ii_vs_new_england_ii_luc_0600_ngay_27_07_2026",
+        "title": "\u26bd Cincinnati Ii Vs New England Ii",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cincinnati-ii-vs-new-england-ii-luc-0600-ngay-27-07-2026",
+            "tvg_name": "Cincinnati Ii Vs New England Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_saint_louis_city_b_vs_vancouver_whitecaps_ii_luc_0600_ngay_27_07_2026",
+        "title": "\u26bd Saint Louis City B Vs Vancouver Whitecaps Ii",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.saint-louis-city-b-vs-vancouver-whitecaps-ii-luc-0600-ngay-27-07-2026",
+            "tvg_name": "Saint Louis City B Vs Vancouver Whitecaps Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_orlando_city_b_vs_huntsville_city_luc_0600_ngay_27_07_2026",
+        "title": "\u26bd Orlando City B Vs Huntsville City",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.orlando-city-b-vs-huntsville-city-luc-0600-ngay-27-07-2026",
+            "tvg_name": "Orlando City B Vs Huntsville City",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_alianza_petrolera_vs_fortaleza_f_c_luc_0610_ngay_27_07_2026",
         "title": "\u26bd Alianza Petrolera Vs Fortaleza F C",
         "category": "EVENT LIVE",
