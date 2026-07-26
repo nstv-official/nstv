@@ -933,10 +933,19 @@
         "id": "x_sv_wienerberger_vs_rapid_wien_luc_0130_ngay_27_07_2026",
         "title": "\u26bd Sv Wienerberger Vs Rapid Wien",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=943507db8cd14dffc74cf5ded6c58c68&wsABSTime=1785133471&nstv_cache=1785090313",
         "is_live": true,
         "match_time": "01:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A.Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=dn1m1ghld6w8moe&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=s5THMtAOkLLn.DBzFTf5rrnKv1rG2nC46VhQhtDE9eM-1785090144.6044405-1.0.1.1-YlYMODFVsUDgKV2smEWJN16n76eeTGMqPgBUNBSkmeXJJz5CsJUxEAFgg1M2Bp.v2DCibpluDdO.vD1B0DeAmahLw5ZnPwKSjQkdUGVaI33hGCG4MsSkEZayP0RRunUn; _ga=GA1.1.1950727886.1785090147; _ga_P60BDCKB3G=GS2.1.s1785090146$o1$g1$t1785090185$j21$l0$h0; __cf_bm=DaGPGegkfpT84gU_4DI0owcDnHetvDGgTP6ark2Ng_c-1785090186.0009649-1.0.1.1-iN53rAMjIeZOmwDJJDMb152R1LZfF1Fd0rp2TqajxcSOjEENVwWEhpf0m9Mz_B84cek4A3l.XmznDKCQIEYJj.XgEzoS3Ak44MOX3CvBiPVI5KJs5Bk8qspx443ptabs; _ga=GA1.1.1130001157.1785090187; cf_clearance=WIidS8m2cja1A7qqCl8vl34Kerf4K8vr3z_37ICgxGc-1785090225-1.2.1.1-OxYIHhNKcZawzSncYXuw6_xSGME.EVDXMEzinOC9q6GuPdYSJyOPjzA0G9Zh32rjFn7TNPv2nfEJL_fqo1DzS6YlqmI6otOsHJW9ctcyf0HOTTWPjCoHXiupqqjOcuSdAw6HNAtjZdk4kjKUnSNXG0Aoqa7QdTXNg8hed2dOmpLn7OKVIdGfMNQK0a5IfKuFYGVR6uJSwL6bMuo11FN1Ib4MwY9fxV5wQl5HkPp42Fj9AOUECUgeyRPvirnrNhva5FuSlnnnc3WoZgltMzLcNoOJNzJlq20TTRwdJGBedcP2GKDnJsO0poGYhKVwGIDAb2yOHXLZnhIuBwlxg7iejoujg68Zwu2YNpWd0.2YkEA; __cf_bm=WWYTG9qSzXULexoHFLpaYo0ilYkZ_FgI0S8PFEZ_x8A-1785090247.0219164-1.0.1.1-H7rRahFcJEFSAuxzWXrgNoIDbIy7hCeQRQH8wOqDomEzCBqar2x4HKSBjUbcnwZAhuxNoICCVJKwVTkjxqBIsc7OzPx1htnP75BZhMvR4ijchV2cWUEg5zAYXYRfELjN; _ga_S52WSRDB70=GS2.1.s1785090186$o1$g1$t1785090270$j54$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -947,7 +956,9 @@
             "tvg_name": "Sv Wienerberger Vs Rapid Wien",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_anh_vs_argentina_0200_16_07",
