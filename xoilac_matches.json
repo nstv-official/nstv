@@ -447,12 +447,16 @@
         "id": "x_sepsi_osk_vs_universitatea_cluj_luc_2130_ngay_26_07_2026",
         "title": "\u26bd Sepsi Osk Vs Universitatea Cluj",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel17.flv",
         "is_live": true,
         "match_time": "21:30",
         "headers": {
-            "Referer": "https://xoilacxtu.tv/",
-            "Origin": "https://xoilacxtu.tv"
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel17/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A.Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=95IfS30UxwHQ_O.9vvriL1RIL9SwME02M2bpqN0d74A-1785075678.6226146-1.0.1.1-5QbQ3sA4AqAeaaV75jalk9VU8dP7HZmwufEbUfisxJoL9rR9O0CQvS0qNrAnXeVG1N7HtG16nfbHrtqptBlEND_e_D3thQddWeAeFjOSxmr60c.9kkJvVs5mO4RqpMfp; _ga=GA1.1.1797918211.1785075682; cf_clearance=uPjnQLn7GqUp9AYDIqcPdYQrYEL8hU4iLkTT2jJ3H_4-1785075715-1.2.1.1-Nt_yCQHZzl4PGZj2aG7wCC3F5PzW9vCcz0wq6c80H_9DMtWw7XCAB16br9ByzQzI5Zewu0cAE4a8jE3SbwTkgxcUQTWrT4x4ZrvIvjHnn2DO60ae_Orz9mY1VZyCXMT3Qq1xk.MU_q3tjEwx9SyeocGVd5qqapEv6nTMr.UgvUneHtl3d8RhZvPKYpv32S90z6aEzRHGAQ16tUM67B6ibH_IgEvZ6l.tsm.mwQytce74pUKAbvi3ZbEAh9trtuQeC4sLAARKrCyGvGMz1zyznbIbSpKk9glxDnQK8yEEOOMFvaA5CWh8H8pi.BllJkWbRFZSXLhZKRkPtUR9NgwkAbpMNpNh5NQV.A.PxtNE6uM; _ga_P60BDCKB3G=GS2.1.s1785075682$o1$g1$t1785076230$j57$l0$h0; _ga=GA1.1.1212282819.1785076233; __cf_bm=GL.fhOdDkjJ6l4QZ1uhPWEKdUP3o0C54ApFyvwAxfsg-1785076234.1539233-1.0.1.1-yjyHecu5Lw9dcrf94D1rkwcKCqtL5Evm6Wvk3LSGwhNGWp0UtKHRd6XxHQjzJVvEkE1RvstOWgSEqZrVecoQDSlLx.2TQUijY9lttH2MOh.9TcafzA0WTavJA.wBiY5A; cf_clearance=1dyLaxNN2RZemI12mVW6bm_T1gjeveFMghFURbyEa.4-1785076257-1.2.1.1-9YKuj4a3tyOhffiIPiIp1zO0eMfbu550RnsFLk8Q260NwgljGkhb7AEMybJcAswxn37wYPzLiCn6s_5VehBgBtcHAUXMxHW9wkigebB5vWqGf5TmcZ_7D0T.s04ZK8StLF_j5sjvzHTGOWahBTOgtQVn.OWfHHQWnxx3VNxQJ72Ri6qA7aBSAnTVAU3_Xckc46wCPApO4bgWJ_rVuNeRmawvMzrMiZQkvFqhImmBPlHj6mNsQ1aog21j2BHmtecC3V_vSmpt4Ju_nhpDATXOUA7tf21ihNp_sjjrxncElFcA9TuIRQsioMaNlzgv.4MamBdx0joO67WfCn31Fo_RD.P3P4CqOH.S_9NBWHIpozs; __cf_bm=Gciu5vANVSeB8oV9VSn3d0XtTsI25Vxr5Uc5wMybSyo-1785076295.207707-1.0.1.1-DY6sjkfs4i4Uwn1YLt1dIoEcXZ4H50BL1dbIXyxnCudSNMcsLn9YbpWwOXhj4v_7BR719Qvg340x1RQf0EhTr6hBBweLxX1zimi7ObKHL6mRi6RPW7HHqu5LOGu.9Rsa; _ga_S52WSRDB70=GS2.1.s1785076232$o1$g1$t1785076448$j2$l0$h0"
         },
         "drm_info": {
             "is_protected": false,
