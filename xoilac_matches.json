@@ -1,5 +1,25 @@
 [
     {
+        "id": "x_carstensz_esports_vs_kicked_luc_1200_ngay_27_07_2026",
+        "title": "\u26bd Carstensz Esports Vs Kicked",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "12:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.carstensz-esports-vs-kicked-luc-1200-ngay-27-07-2026",
+            "tvg_name": "Carstensz Esports Vs Kicked",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -509,26 +529,6 @@
             "tvg_id": "vtv6.fpt",
             "tvg_name": "VTV6",
             "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_carstensz_esports_vs_kicked_luc_1200_ngay_27_07_2026",
-        "title": "\u26bd Carstensz Esports Vs Kicked",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "12:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.carstensz-esports-vs-kicked-luc-1200-ngay-27-07-2026",
-            "tvg_name": "Carstensz Esports Vs Kicked",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
     },
