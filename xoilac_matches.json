@@ -1,18 +1,15 @@
 [
     {
         "id": "fixed_vtv6",
-        "title": "\ud83d\udcfa VTV6 (24/7)",
+        "title": "\ud83d\udcfa VTV6 HD (Sports)",
         "category": "CHANNEL TV",
-        "uri": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+        "uri": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8",
         "is_live": true,
         "match_time": "24/7",
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "Referer": "https://fptplay.vn/",
-            "Origin": "https://fptplay.vn",
-            "X-Requested-With": "vn.fptplay.fptplay",
-            "Sec-Fetch-Mode": "cors",
-            "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7"
+            "Referer": "https://vtvgo.vn/",
+            "Origin": "https://vtvgo.vn"
         },
         "drm_info": {
             "is_protected": false,
@@ -20,73 +17,11 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "vtv6.fpt",
+            "tvg_id": "vtv6.vn",
             "tvg_name": "VTV6",
             "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Bnk Fearx Vs Gen G Esports",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785110901",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not_A Brand\";v=\"24\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=ypq3e3und9n7md7",
-            "Cookie": "__cf_bm=SmtrMo63z0fV_0Ca9omlkP3W_PTtBcEtiIsXix_leM4-1785110753.2274642-1.0.1.1-Nw3uxZPIJ5Gu1.k3y0Vo2v_H3bFj8b8EQCQBUvHbyxG7rd1_wp42_4hLqVWz7.rWQePPrzcRiuYBw_zmqUU4sUQ1PAfgpaQjvYewaXIaWg0ndY5BLMygMJexU.e3ZLC3; _ga_P60BDCKB3G=GS2.1.s1785110760$o1$g0$t1785110760$j60$l0$h0; _ga=GA1.1.562530160.1785110761; __cf_bm=Ui78PvlA._44xQCAokcrHBPxK_qJzFG8XjNwZy4ICdg-1785110797.6311824-1.0.1.1-8Me2EOV4O6G7KrZaAG7orVljftWjHqs7GQNg8ET1kNlXjw2UcTp1zL5IkmfgXgbJjri9CFyQEkiVCgPM.JHpG8HQ.vYYC4ue0hiwW6J2F0ZqF6_L8nQUklm3cV6wsj00; _ga=GA1.1.2058878675.1785110799; _ga_S52WSRDB70=GS2.1.s1785110798$o1$g1$t1785110829$j29$l0$h0; cf_clearance=psmB3QWRjwsVRIfUkasRxV7TEQSRyHY6nKIxCNc5GjU-1785110838-1.2.1.1-cDveo.2WVcFQQ.rCXLbLVmkPcawta4Ua.uPZa6rRKf2pZ.Rna01Lw.SXDjlOEKLY1csQtPl7HPOsupQ_cVGCxZIFKaNTFV0KC4FfQLavM9NqzGjtnLhxZv9ZScnHkwJEE6GBeGMFEIeHCcyenxw2jUkqHBnWUvzpucvet3SRhaBd7HTRa9xbegsd.4Q0PQK7X4lEDE03.sF1PE7ypE2ayhICoCb2lYUoYwdwFRYITKAOtHehjxO43jzCwmzHzJV1hNOnUlKMYXVe3MoUnvsQ41p8wJu.zAxBhrMr9nGZPXGjgGmb1.oNOZ7P_EStDMitjyyJwXR5DfBfe4Ftkeemu2H7KSE3UkJ0CpubLzTO7Ts",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bnk-fearx-vs-gen-g-esports-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Bnk Fearx Vs Gen G Esports",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_kairat_almaty_vs_nu_ulytau_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Nu Kairat Almaty Vs Nu Ulytau",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=380c3d3029ddbfbdbe6d73625d665bb3&wsABSTime=1785175335&nstv_cache=1785132173",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not/A=Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=ednm9whwn45xryo&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=lig7XwVVs6rUE15n9xHHouSYhLkw12k9mk3xPLPH5i8-1785131953.1258998-1.0.1.1-a51oN.NwlFJoIxIW.zxl1cD62rYMaAij.73xQk7EBu2h3SoKOih31wNHAoCoKX8ViF1SEmi4zABCEHedLYSHMIzK_l5.8pMiO9iyFHfXzcZPSTvEdQV9TDGpCUL21E8J; _ga=GA1.1.1630421065.1785131962; _ga_P60BDCKB3G=GS2.1.s1785131961$o1$g1$t1785132046$j60$l0$h0; __cf_bm=o_TRCm8EJIXS7Wd4bcRVQMhKru9l6kOyo_R8CdvV_Tw-1785132071.653267-1.0.1.1-1EN7uxt16vHIXQ0Y8W1LFtkqS0vj4jVsw0emZFWhD5CQAZFOc.magU7dOieWkztQtYtoB6UFc_JaT7GygeWhQHAhzlznaJrYrt_DxI_yiISLl3ZUDPDnEfzJvKAjJ2_p; _ga=GA1.1.1292938258.1785132074; _ga_S52WSRDB70=GS2.1.s1785132074$o1$g1$t1785132099$j35$l0$h0; cf_clearance=P4jD5PFmy7Zr02F2vHlgYHbk3.jo5_lPR1O9aEMQ3iI-1785132140-1.2.1.1-ufJ.F3SYUdThjPxuWIJfTq9blVQCZgOi2qWsPAwnycso18pMmXzO1KWmCx_kcQxOx_7uajcovZADEMlsj4I2wqw2ovive9zBa0ms5WJICxtIbIlcyLfoOo6m2dLbNRodNhlFpse0Geppcp7gOjbxHfhaGuGNa06isZSmIrEPxCpX9of48hBdlyJeyub.NzI2E7K4VIeBHb9bFSbvmiIHJdrEk11mkBrPCqpw.im_K3.UzNhIDWesGE3DAFYE2MGcV3KRqf4cN1no.2lqS4XW3EiSg5KFhIg5fcLU4x3Fw78Paga8CsraRh_bXRDuNF30rOAmoXPHb6kC8GstszAyCsfD1yDcPm6I2k7mbcP9haM; FilterOption=2; Hidden_MatchID=_; Hidden_SclassID=_; Filter_Type=0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-kairat-almaty-vs-nu-ulytau-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Nu Kairat Almaty Vs Nu Ulytau",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
@@ -311,7 +246,7 @@
         "category": "EVENT LIVE",
         "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=e412649582a6f29d10aa87830d470542&wsABSTime=1785181629&nstv_cache=1785138466",
         "is_live": true,
-        "match_time": "14:45",
+        "match_time": "15:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
@@ -335,6 +270,208 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_toufik_sahtali_vs_mert_naci_turker_luc_1455_ngay_27_07_2026",
+        "title": "\u26bd Toufik Sahtali Vs Mert Naci Turker",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.toufik-sahtali-vs-mert-naci-turker-luc-1455-ngay-27-07-2026",
+            "tvg_name": "Toufik Sahtali Vs Mert Naci Turker",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_t1_esports_academy_vs_nongshim_esports_academy_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd T Esports Academy Vs Nongshim Esports Academy",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111104",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=39mp8xu48lxoqoj&view=true",
+            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111074$j52$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-esports-academy-vs-nongshim-esports-academy-luc-1500-ngay-27-07-2026",
+            "tvg_name": "T Esports Academy Vs Nongshim Esports Academy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_saikhamakawn_fc_vs_mizoram_police_fc_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Saikhamakawn Fc Vs Mizoram Police Fc",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=6db2815b6e7757b6244c885e9a4a2367&wsABSTime=1785183597&nstv_cache=1785140434",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel23/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not;A.Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=jw2r09hkzv22rz8&view=true",
+            "Cookie": "_ga=GA1.1.1891869002.1785140366; _ga_P60BDCKB3G=GS2.1.s1785140366$o1$g1$t1785140396$j30$l0$h0; cf_clearance=ij9wDEEiGoCrmjC1eWHLmB0U3Rs45_a..wfYtuYco2Q-1785140401-1.2.1.1-SI0ut0ZYKHSyoqE1jaal1yFJZP98ZUiiakfQG7oNYL6Pyq420sdlCsJt576l.3JoylW7bzB7VG1Mo30asz8lTz5d5MqZVez3FMG7i0WPndn4jmEPQBIoS.RAyjXbVFBa1EBpn8R3d66WTnlIOGbYFqH.ivYYivT.wEfJ7JUCL6mj1xX1ctxa97GaL.IuLddPYKg4EgkV1pyyZRwHId0utHFD8xQqGLk8YVePy5zIPzNz7g9osnOs6zdd0POOFueHLch2VIkWd2Gx.Y16MJ64NpNyRB4cXtFA7ucnliQAm.VVBokEL9ly3fiDVfRmx.040UQoyAAdulb9XS4ro4bOIJunYYKlTiohkY7M_B3nW5A; NID=533=KucBFlqvRlDQbIl-2XbL5WLKccM2VGEukWdRskviWPc0Jo4t4QE9RpkvNS0WpSI5RmWIHnkecZYJwWK98yO6K2XjIpeGGWtGGzWkVKRbHSNx6Q8FUnYKielWMi7OGgcWlftJRCnSBz5GXaOUcyG4gheKMnjQ744QoFbj9Ppe6ejMFY_mchF45SdDIbpG2XR0w9lJWrc",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.saikhamakawn-fc-vs-mizoram-police-fc-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Saikhamakawn Fc Vs Mizoram Police Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_dali_blanch_vs_tommaso_compagnucci_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Dali Blanch Vs Tommaso Compagnucci",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dali-blanch-vs-tommaso-compagnucci-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Dali Blanch Vs Tommaso Compagnucci",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mili_poljicak_vs_jozef_kovalik_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Mili Poljicak Vs Jozef Kovalik",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mili-poljicak-vs-jozef-kovalik-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Mili Poljicak Vs Jozef Kovalik",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_michael_vrbensky_vs_maxime_janvier_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Michael Vrbensky Vs Maxime Janvier",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.michael-vrbensky-vs-maxime-janvier-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Michael Vrbensky Vs Maxime Janvier",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_just_players_vs_ex_young_ninjas_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Just Players Vs Ex Young Ninjas",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.just-players-vs-ex-young-ninjas-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Just Players Vs Ex Young Ninjas",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_inox_division_vs_atreides_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Inox Division Vs Atreides",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.inox-division-vs-atreides-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Inox Division Vs Atreides",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bulleen_lions_u23_vs_langwarrin_u23_luc_1515_ngay_27_07_2026",
+        "title": "\u26bd Bulleen Lions U Vs Langwarrin U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bulleen-lions-u23-vs-langwarrin-u23-luc-1515-ngay-27-07-2026",
+            "tvg_name": "Bulleen Lions U Vs Langwarrin U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
@@ -827,203 +964,12 @@
         }
     },
     {
-        "id": "x_toufik_sahtali_vs_mert_naci_turker_luc_1455_ngay_27_07_2026",
-        "title": "\u26bd Toufik Sahtali Vs Mert Naci Turker",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:55",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.toufik-sahtali-vs-mert-naci-turker-luc-1455-ngay-27-07-2026",
-            "tvg_name": "Toufik Sahtali Vs Mert Naci Turker",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_t1_esports_academy_vs_nongshim_esports_academy_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd T Esports Academy Vs Nongshim Esports Academy",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111104",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=39mp8xu48lxoqoj&view=true",
-            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111074$j52$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.t1-esports-academy-vs-nongshim-esports-academy-luc-1500-ngay-27-07-2026",
-            "tvg_name": "T Esports Academy Vs Nongshim Esports Academy",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_saikhamakawn_fc_vs_mizoram_police_fc_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Saikhamakawn Fc Vs Mizoram Police Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.saikhamakawn-fc-vs-mizoram-police-fc-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Saikhamakawn Fc Vs Mizoram Police Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_dali_blanch_vs_tommaso_compagnucci_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Dali Blanch Vs Tommaso Compagnucci",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dali-blanch-vs-tommaso-compagnucci-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Dali Blanch Vs Tommaso Compagnucci",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_mili_poljicak_vs_jozef_kovalik_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Mili Poljicak Vs Jozef Kovalik",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.mili-poljicak-vs-jozef-kovalik-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Mili Poljicak Vs Jozef Kovalik",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_michael_vrbensky_vs_maxime_janvier_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Michael Vrbensky Vs Maxime Janvier",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.michael-vrbensky-vs-maxime-janvier-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Michael Vrbensky Vs Maxime Janvier",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_just_players_vs_ex_young_ninjas_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Just Players Vs Ex Young Ninjas",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.just-players-vs-ex-young-ninjas-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Just Players Vs Ex Young Ninjas",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_inox_division_vs_atreides_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Inox Division Vs Atreides",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.inox-division-vs-atreides-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Inox Division Vs Atreides",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_bulleen_lions_u23_vs_langwarrin_u23_luc_1515_ngay_27_07_2026",
-        "title": "\u26bd Bulleen Lions U Vs Langwarrin U",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:15",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bulleen-lions-u23-vs-langwarrin-u23-luc-1515-ngay-27-07-2026",
-            "tvg_name": "Bulleen Lions U Vs Langwarrin U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_dplus_vs_t1_luc_1515_ngay_27_07_2026",
         "title": "\u26bd Dplus Vs T",
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "15:30",
+        "match_time": "15:45",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1214,7 +1160,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "16:15",
+        "match_time": "16:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1360,26 +1306,6 @@
         }
     },
     {
-        "id": "x_t1_vs_nongshim_redforce_luc_1645_ngay_27_07_2026",
-        "title": "\u26bd T Vs Nongshim Redforce",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.t1-vs-nongshim-redforce-luc-1645-ngay-27-07-2026",
-            "tvg_name": "T Vs Nongshim Redforce",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_gen_g_challengers_vs_bnk_fearx_youth_luc_1700_ngay_27_07_2026",
         "title": "\u26bd Gen G Challengers Vs Bnk Fearx Youth",
         "category": "EVENT LIVE",
@@ -1409,6 +1335,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_t1_vs_nongshim_redforce_luc_1645_ngay_27_07_2026",
+        "title": "\u26bd T Vs Nongshim Redforce",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-vs-nongshim-redforce-luc-1645-ngay-27-07-2026",
+            "tvg_name": "T Vs Nongshim Redforce",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_qingdao_rl_vs_beijing_it_luc_1730_ngay_27_07_2026",
@@ -1498,7 +1444,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "17:45",
+        "match_time": "18:00",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1755,26 +1701,6 @@
         }
     },
     {
-        "id": "x_t1_vs_dn_soopers_luc_1815_ngay_27_07_2026",
-        "title": "\u26bd T Vs Dn Soopers",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "18:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.t1-vs-dn-soopers-luc-1815-ngay-27-07-2026",
-            "tvg_name": "T Vs Dn Soopers",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_olimpia_asuncion_r_vs_libertad_asuncion_r_luc_1830_ngay_27_07_2026",
         "title": "\u26bd Olimpia Asuncion R Vs Libertad Asuncion R",
         "category": "EVENT LIVE",
@@ -1830,6 +1756,26 @@
         "epg_metadata": {
             "tvg_id": "m.trung-quoc-vs-cameroon-luc-1830-ngay-27-07-2026",
             "tvg_name": "Trung Quoc Vs Cameroon",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_t1_vs_dn_soopers_luc_1815_ngay_27_07_2026",
+        "title": "\u26bd T Vs Dn Soopers",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-vs-dn-soopers-luc-1815-ngay-27-07-2026",
+            "tvg_name": "T Vs Dn Soopers",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
