@@ -100,34 +100,9 @@
         }
     },
     {
-        "id": "5",
-        "title": "RCTI SPORTS",
-        "category": "Sports Indo",
-        "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
-        "user_agent": "android-R+",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://r-plus.sedotcw3.workers.dev/",
-            "Origin": "https://r-plus.sedotcw3.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "auto.rcti.sports",
-            "tvg_name": "RCTI SPORTS",
-            "tvg_logo": "https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "6",
         "title": "RCTI HD (V+)",
-        "category": "Indonesia Channels",
+        "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
         "is_live": true,
