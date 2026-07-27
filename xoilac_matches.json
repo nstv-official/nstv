@@ -249,7 +249,7 @@
         "category": "EVENT LIVE",
         "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111066",
         "is_live": true,
-        "match_time": "13:45",
+        "match_time": "14:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
@@ -268,6 +268,37 @@
         "epg_metadata": {
             "tvg_id": "m.dplus-vs-hanwha-life-esports-luc-1345-ngay-27-07-2026",
             "tvg_name": "Dplus Vs Hanwha Life Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_huda_hue_vs_shb_da_nang_luc_1400_ngay_27_07_2026",
+        "title": "\u26bd Huda Hue Vs Shb Da Nang",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=0ccabec8e403685af3c669fdfde47857&wsABSTime=1785178917&nstv_cache=1785135754",
+        "is_live": true,
+        "match_time": "14:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A:Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=x3ZU88fom43US4HM7S8NYimZolDlha4Q7h2D4cAm.Gw-1785135689.7714791-1.0.1.1-j2qPwwj0nglPvdMVsitH2puwxlqv1_qySO3NHJsTrTquLq7gp1V3pW7yRNKhDgFHnRX2Lx8R2JKomWebE7QrYc1p3JDq8DMLi6Iv0OP.XHjxnFzzel6E5kE63PZ8rhTX; _ga=GA1.1.1423480065.1785135692; _ga_P60BDCKB3G=GS2.1.s1785135692$o1$g1$t1785135717$j35$l0$h0; cf_clearance=x.KL1zYbp3ANBHyHgWrl7XZAwU1nS7hOCZpsynvpu0M-1785135721-1.2.1.1-leOFU412Cgg4HFXy4RoPmBvdz3.H.CUZ2lZiF0QuF10RQph6vfKSVKJlhYgpA_zmmka7hXnK_TurqkpRcDFtfvoh9Sh8CJZARMxfp.8JhW_9jTQ9IQ9kCudgkeSQlBGNthsHjXcy6eh7IC326pa1hHLyn8wM2U9k2kOOirGxMaxG3BWSAXQ39j..hym.Jj1zTUi.C1Jxzbn7BHLwp15BHSdM6gi5yfFT0Ljz_ntwhZsIzFi8QeUi_jmTDOGZev.Uy4vG1V_Y5tmwuA6cn5mRt8gNscgDuzdxOsR6RM1ul2026p0voIpBoGijO1ssYdaZ3S9rtxNb6tL8pscg60sq6reSEcEvcOMLHXaNimMaPVM",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.huda-hue-vs-shb-da-nang-luc-1400-ngay-27-07-2026",
+            "tvg_name": "Huda Hue Vs Shb Da Nang",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
@@ -765,26 +796,6 @@
         }
     },
     {
-        "id": "x_huda_hue_vs_shb_da_nang_luc_1400_ngay_27_07_2026",
-        "title": "\u26bd Huda Hue Vs Shb Da Nang",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.huda-hue-vs-shb-da-nang-luc-1400-ngay-27-07-2026",
-            "tvg_name": "Huda Hue Vs Shb Da Nang",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
         "title": "\u26bd Marbisu Sc Vs Lumshyiap Sc",
         "category": "EVENT LIVE",
@@ -810,7 +821,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "14:30",
+        "match_time": "14:45",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1072,7 +1083,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "15:15",
+        "match_time": "15:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1158,26 +1169,6 @@
         }
     },
     {
-        "id": "x_hanwha_life_esports_vs_kiwoom_drx_luc_1600_ngay_27_07_2026",
-        "title": "\u26bd Hanwha Life Esports Vs Kiwoom Drx",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.hanwha-life-esports-vs-kiwoom-drx-luc-1600-ngay-27-07-2026",
-            "tvg_name": "Hanwha Life Esports Vs Kiwoom Drx",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
         "title": "\u26bd Level Up Vs Puckchamp",
         "category": "EVENT LIVE",
@@ -1253,6 +1244,26 @@
         "epg_metadata": {
             "tvg_id": "m.juan-pablo-varillas-vs-francesco-forti-luc-1610-ngay-27-07-2026",
             "tvg_name": "Juan Pablo Varillas Vs Francesco Forti",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_hanwha_life_esports_vs_kiwoom_drx_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Hanwha Life Esports Vs Kiwoom Drx",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.hanwha-life-esports-vs-kiwoom-drx-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Hanwha Life Esports Vs Kiwoom Drx",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1394,7 +1405,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "16:45",
+        "match_time": "17:00",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -1502,26 +1513,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_fredit_brion_vs_dplus_luc_1730_ngay_27_07_2026",
-        "title": "\u26bd Fredit Brion Vs Dplus",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fredit-brion-vs-dplus-luc-1730-ngay-27-07-2026",
-            "tvg_name": "Fredit Brion Vs Dplus",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_daniel_rincon_vs_juan_carlos_prado_angelo_luc_1740_ngay_27_07_2026",
         "title": "\u26bd Daniel Rincon Vs Juan Carlos Prado Angelo",
         "category": "EVENT LIVE",
@@ -1537,6 +1528,26 @@
         "epg_metadata": {
             "tvg_id": "m.daniel-rincon-vs-juan-carlos-prado-angelo-luc-1740-ngay-27-07-2026",
             "tvg_name": "Daniel Rincon Vs Juan Carlos Prado Angelo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_fredit_brion_vs_dplus_luc_1730_ngay_27_07_2026",
+        "title": "\u26bd Fredit Brion Vs Dplus",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fredit-brion-vs-dplus-luc-1730-ngay-27-07-2026",
+            "tvg_name": "Fredit Brion Vs Dplus",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
@@ -1769,7 +1780,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "18:15",
+        "match_time": "18:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
