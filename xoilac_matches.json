@@ -185,10 +185,19 @@
         "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
         "title": "\u26bd Arcred Vs Flacons",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=a037aa68d61d755bd1b781682937c42a&wsABSTime=1785177104&nstv_cache=1785133945",
         "is_live": true,
         "match_time": "13:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A Brand\";v=\"99\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/csgo/desktop",
+            "Cookie": "__cf_bm=DPfAgDk8bFCVujv7RJeqan6_sWI8xAfL7fmgoEwDMS0-1785133828.0743005-1.0.1.1-yUgUoqG2W5cvVfpbvHAtwKGQhHJfjwQl0HzOgFiKssRMnmNDGfi8Cu0XadhNRb9XIAODXE2GnkU46OoVp81AGG6RGKoEOhU1RkDhf4.6U.yNoW8lLkyD8t7PTk_smdqG; _ga=GA1.1.235264206.1785133831; cf_clearance=gHPUkMjWaLxzcFsmTF2y5Ljz88R94VT7MTkyFhwaDBE-1785133858-1.2.1.1-7BxEr7xuhfjB37RhUNfeJFcUHkVKH9r.bWm4N2lKhUloGD_SgMh1XffKCDhaQZl2mBOvko7JHRUW.uwCMDpc2jSluSyGtWSgcSNG0X_tD9.L16wKiwD48G2UhM615mtyf6cUJapNZLL7YfFMzspGKIDb_vCOaYJ2g3mE8IWPHOht1xAQgl.DbHzyB6XcC08MZamtDS5yvsfvohQRVxr9sCoZlz2MwoGJ7xsN8I.EKs4QBNU58XbeH97jZAb4n3hmKVGcu..PZWCHAv4eenbhw1vFbwghNXfbKakNzcLrnfc5anIyprY10as.45oCMmhcAXuhgcYpoAa2cSboGpZXAwnoO0.bISgLHuGMjiNHUqY; _ga_P60BDCKB3G=GS2.1.s1785133831$o1$g1$t1785133902$j51$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -199,7 +208,9 @@
             "tvg_name": "Arcred Vs Flacons",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_cybershoke_vs_comanche_luc_1300_ngay_27_07_2026",
