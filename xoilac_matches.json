@@ -1616,10 +1616,19 @@
         "id": "x_gen_g_challengers_vs_bnk_fearx_youth_luc_1700_ngay_27_07_2026",
         "title": "\u26bd Gen G Challengers Vs Bnk Fearx Youth",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111135",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=82repjtxdk5jqep&view=true",
+            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111112$j14$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1630,7 +1639,9 @@
             "tvg_name": "Gen G Challengers Vs Bnk Fearx Youth",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_qingdao_rl_vs_beijing_it_luc_1730_ngay_27_07_2026",
