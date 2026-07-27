@@ -120,6 +120,68 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Bnk Fearx Vs Gen G Esports",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785110901",
+        "is_live": true,
+        "match_time": "13:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not_A Brand\";v=\"24\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=ypq3e3und9n7md7",
+            "Cookie": "__cf_bm=SmtrMo63z0fV_0Ca9omlkP3W_PTtBcEtiIsXix_leM4-1785110753.2274642-1.0.1.1-Nw3uxZPIJ5Gu1.k3y0Vo2v_H3bFj8b8EQCQBUvHbyxG7rd1_wp42_4hLqVWz7.rWQePPrzcRiuYBw_zmqUU4sUQ1PAfgpaQjvYewaXIaWg0ndY5BLMygMJexU.e3ZLC3; _ga_P60BDCKB3G=GS2.1.s1785110760$o1$g0$t1785110760$j60$l0$h0; _ga=GA1.1.562530160.1785110761; __cf_bm=Ui78PvlA._44xQCAokcrHBPxK_qJzFG8XjNwZy4ICdg-1785110797.6311824-1.0.1.1-8Me2EOV4O6G7KrZaAG7orVljftWjHqs7GQNg8ET1kNlXjw2UcTp1zL5IkmfgXgbJjri9CFyQEkiVCgPM.JHpG8HQ.vYYC4ue0hiwW6J2F0ZqF6_L8nQUklm3cV6wsj00; _ga=GA1.1.2058878675.1785110799; _ga_S52WSRDB70=GS2.1.s1785110798$o1$g1$t1785110829$j29$l0$h0; cf_clearance=psmB3QWRjwsVRIfUkasRxV7TEQSRyHY6nKIxCNc5GjU-1785110838-1.2.1.1-cDveo.2WVcFQQ.rCXLbLVmkPcawta4Ua.uPZa6rRKf2pZ.Rna01Lw.SXDjlOEKLY1csQtPl7HPOsupQ_cVGCxZIFKaNTFV0KC4FfQLavM9NqzGjtnLhxZv9ZScnHkwJEE6GBeGMFEIeHCcyenxw2jUkqHBnWUvzpucvet3SRhaBd7HTRa9xbegsd.4Q0PQK7X4lEDE03.sF1PE7ypE2ayhICoCb2lYUoYwdwFRYITKAOtHehjxO43jzCwmzHzJV1hNOnUlKMYXVe3MoUnvsQ41p8wJu.zAxBhrMr9nGZPXGjgGmb1.oNOZ7P_EStDMitjyyJwXR5DfBfe4Ftkeemu2H7KSE3UkJ0CpubLzTO7Ts",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bnk-fearx-vs-gen-g-esports-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Bnk Fearx Vs Gen G Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_kairat_almaty_vs_nu_ulytau_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Nu Kairat Almaty Vs Nu Ulytau",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=380c3d3029ddbfbdbe6d73625d665bb3&wsABSTime=1785175335&nstv_cache=1785132173",
+        "is_live": true,
+        "match_time": "13:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not/A=Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=ednm9whwn45xryo&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=lig7XwVVs6rUE15n9xHHouSYhLkw12k9mk3xPLPH5i8-1785131953.1258998-1.0.1.1-a51oN.NwlFJoIxIW.zxl1cD62rYMaAij.73xQk7EBu2h3SoKOih31wNHAoCoKX8ViF1SEmi4zABCEHedLYSHMIzK_l5.8pMiO9iyFHfXzcZPSTvEdQV9TDGpCUL21E8J; _ga=GA1.1.1630421065.1785131962; _ga_P60BDCKB3G=GS2.1.s1785131961$o1$g1$t1785132046$j60$l0$h0; __cf_bm=o_TRCm8EJIXS7Wd4bcRVQMhKru9l6kOyo_R8CdvV_Tw-1785132071.653267-1.0.1.1-1EN7uxt16vHIXQ0Y8W1LFtkqS0vj4jVsw0emZFWhD5CQAZFOc.magU7dOieWkztQtYtoB6UFc_JaT7GygeWhQHAhzlznaJrYrt_DxI_yiISLl3ZUDPDnEfzJvKAjJ2_p; _ga=GA1.1.1292938258.1785132074; _ga_S52WSRDB70=GS2.1.s1785132074$o1$g1$t1785132099$j35$l0$h0; cf_clearance=P4jD5PFmy7Zr02F2vHlgYHbk3.jo5_lPR1O9aEMQ3iI-1785132140-1.2.1.1-ufJ.F3SYUdThjPxuWIJfTq9blVQCZgOi2qWsPAwnycso18pMmXzO1KWmCx_kcQxOx_7uajcovZADEMlsj4I2wqw2ovive9zBa0ms5WJICxtIbIlcyLfoOo6m2dLbNRodNhlFpse0Geppcp7gOjbxHfhaGuGNa06isZSmIrEPxCpX9of48hBdlyJeyub.NzI2E7K4VIeBHb9bFSbvmiIHJdrEk11mkBrPCqpw.im_K3.UzNhIDWesGE3DAFYE2MGcV3KRqf4cN1no.2lqS4XW3EiSg5KFhIg5fcLU4x3Fw78Paga8CsraRh_bXRDuNF30rOAmoXPHb6kC8GstszAyCsfD1yDcPm6I2k7mbcP9haM; FilterOption=2; Hidden_MatchID=_; Hidden_SclassID=_; Filter_Type=0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-kairat-almaty-vs-nu-ulytau-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Nu Kairat Almaty Vs Nu Ulytau",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -605,57 +667,6 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Bnk Fearx Vs Gen G Esports",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785110901",
-        "is_live": false,
-        "match_time": "13:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not_A Brand\";v=\"24\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=ypq3e3und9n7md7",
-            "Cookie": "__cf_bm=SmtrMo63z0fV_0Ca9omlkP3W_PTtBcEtiIsXix_leM4-1785110753.2274642-1.0.1.1-Nw3uxZPIJ5Gu1.k3y0Vo2v_H3bFj8b8EQCQBUvHbyxG7rd1_wp42_4hLqVWz7.rWQePPrzcRiuYBw_zmqUU4sUQ1PAfgpaQjvYewaXIaWg0ndY5BLMygMJexU.e3ZLC3; _ga_P60BDCKB3G=GS2.1.s1785110760$o1$g0$t1785110760$j60$l0$h0; _ga=GA1.1.562530160.1785110761; __cf_bm=Ui78PvlA._44xQCAokcrHBPxK_qJzFG8XjNwZy4ICdg-1785110797.6311824-1.0.1.1-8Me2EOV4O6G7KrZaAG7orVljftWjHqs7GQNg8ET1kNlXjw2UcTp1zL5IkmfgXgbJjri9CFyQEkiVCgPM.JHpG8HQ.vYYC4ue0hiwW6J2F0ZqF6_L8nQUklm3cV6wsj00; _ga=GA1.1.2058878675.1785110799; _ga_S52WSRDB70=GS2.1.s1785110798$o1$g1$t1785110829$j29$l0$h0; cf_clearance=psmB3QWRjwsVRIfUkasRxV7TEQSRyHY6nKIxCNc5GjU-1785110838-1.2.1.1-cDveo.2WVcFQQ.rCXLbLVmkPcawta4Ua.uPZa6rRKf2pZ.Rna01Lw.SXDjlOEKLY1csQtPl7HPOsupQ_cVGCxZIFKaNTFV0KC4FfQLavM9NqzGjtnLhxZv9ZScnHkwJEE6GBeGMFEIeHCcyenxw2jUkqHBnWUvzpucvet3SRhaBd7HTRa9xbegsd.4Q0PQK7X4lEDE03.sF1PE7ypE2ayhICoCb2lYUoYwdwFRYITKAOtHehjxO43jzCwmzHzJV1hNOnUlKMYXVe3MoUnvsQ41p8wJu.zAxBhrMr9nGZPXGjgGmb1.oNOZ7P_EStDMitjyyJwXR5DfBfe4Ftkeemu2H7KSE3UkJ0CpubLzTO7Ts",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bnk-fearx-vs-gen-g-esports-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Bnk Fearx Vs Gen G Esports",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_kairat_almaty_vs_nu_ulytau_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Nu Kairat Almaty Vs Nu Ulytau",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-kairat-almaty-vs-nu-ulytau-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Nu Kairat Almaty Vs Nu Ulytau",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
