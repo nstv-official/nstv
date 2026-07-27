@@ -1334,6 +1334,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_dplus_vs_hanwha_life_esports_luc_1345_ngay_27_07_2026",
+        "title": "\u26bd Dplus Vs Hanwha Life Esports",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "13:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dplus-vs-hanwha-life-esports-luc-1345-ngay-27-07-2026",
+            "tvg_name": "Dplus Vs Hanwha Life Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1500_ngay_27_07_2026",
         "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
         "category": "EVENT LIVE",
@@ -1394,6 +1414,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_t1_esports_academy_vs_nongshim_esports_academy_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd T Esports Academy Vs Nongshim Esports Academy",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-esports-academy-vs-nongshim-esports-academy-luc-1500-ngay-27-07-2026",
+            "tvg_name": "T Esports Academy Vs Nongshim Esports Academy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
@@ -1549,6 +1589,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_gen_g_challengers_vs_bnk_fearx_youth_luc_1700_ngay_27_07_2026",
+        "title": "\u26bd Gen G Challengers Vs Bnk Fearx Youth",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.gen-g-challengers-vs-bnk-fearx-youth-luc-1700-ngay-27-07-2026",
+            "tvg_name": "Gen G Challengers Vs Bnk Fearx Youth",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_qingdao_rl_vs_beijing_it_luc_1730_ngay_27_07_2026",
