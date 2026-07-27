@@ -309,10 +309,19 @@
         "id": "x_kt_rolster_vs_gen_g_esports_luc_1430_ngay_27_07_2026",
         "title": "\u26bd Kt Rolster Vs Gen G Esports",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=e412649582a6f29d10aa87830d470542&wsABSTime=1785181629&nstv_cache=1785138466",
         "is_live": true,
         "match_time": "14:45",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not.A)Brand\";v=\"8\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/lol/desktop",
+            "Cookie": "_ga=GA1.1.1371573498.1785138284; cf_clearance=N3kEk2.s.EsJRTEdm6TV07FJUTKtxbOZh_TCQCDWBwU-1785138311-1.2.1.1-Vjbr790diuhC7iSWHHEMs9O6Bl2J6SbwvJhYgHYMc0sjPNQrqFivVGks3LOLFUSHHxZ0ctPgnwRQz5YoZaHZrLANMm4PQV0OGN6M8345zyHbgsERg4bGNakvDFRW3ueN837RkiYHugfDiyG3p9TRUYsqlN.ZjbJJQKTGIfvrSnSOUHa4l8uMfEHaJhf3z_mrnZz6UbpkeZB8boeIeTDBoNPMEvasEQu8R90DeKKDjaFRLNB3A7fDminTYYQagl2vuCVi9IUFy0YrcltzRHH0xXM8mI0Po7My00gOxyAz3XOQ9SvgfocNpfkZ1R5gteFhFqRYVZXsG1jgaIc064AooNwGqX4m_VXnkm4rvn1Qvk8; _ga_P60BDCKB3G=GS2.1.s1785138284$o1$g1$t1785138358$j49$l0$h0; __cf_bm=5D7ALuXGM5QHv5BotSkM1x2WCCAWiJN4KMxNDy1E8Lk-1785138360.4149077-1.0.1.1-R7TroFt.kLhR9Xp9X.ZOL_8PNWa25QBzNS4xjDjAoHQOTfvQUIs9qMMyjNZj4KDUAtmBokL5Je8eEyH.TFzmM9jrexUhCNE1OFP7hHXG9AQxNHhTMMsMCN3EEF6GVJDf; _ga=GA1.1.662899509.1785138362; cf_clearance=LaPthu93WAUutvSd3ZucdBUwHGe.6fFGiHlpM5PuN5g-1785138385-1.2.1.1-UfEJipZYe1lbXY_Ooy2vfQOTJKrfAl1cUiYeEveuKyvCgk_5c3Mi0V49cxrbfAfh7bkAcI7jAhAYOR0Y1MHX5zimyplh_YMrSqAUtBN5U8C4BnOT.KIDU08SPv_yDnDe3suMlsBJfPOaLCbKhwgKxg6VHuw3VpUMvYgkSWJIrXnPNBgexSI4Kf0u0iR3p4FePphyb1ExVCAkct94eYS8N39t9gKvyTPRUjaZeJo4CUDS4i8YesGjQKw5I0WHHfZKTBjIgETm8T5H74Cyh2rvSdjxwKqVD9mzWidvHew1Ol8uCZ3Pdny0txpYAsaQbso5E2wSMwsJcYBwkST3HVMvT_A4OyVglCIqPwCQlMO_k40; FilterOption=2; Hidden_MatchID=_; Hidden_SclassID=_; Filter_Type=0; _ga_S52WSRDB70=GS2.1.s1785138361$o1$g1$t1785138428$j60$l0$h0; __cf_bm=SqAH7fRB7sfjuwXJNUPt.qa7juoK_8rgwQgHeUu8yHM-1785138449.073325-1.0.1.1-w9oOQ628zorDOdR6AkTJ5ZuSmVk1sbfFPSmRPBdatyqn8zpP8CioQdMBXMjhyKrDJMWl6c8EfciVbfkeNibNbevjx_Epyp4sFngRvoGA_RyJgRb_2z5aJpWD8pcwbSsx",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -323,7 +332,9 @@
             "tvg_name": "Kt Rolster Vs Gen G Esports",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
