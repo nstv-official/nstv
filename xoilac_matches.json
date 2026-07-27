@@ -218,7 +218,7 @@
         "category": "EVENT LIVE",
         "uri": "https://live1.streambylivepulse.com/live/channel77.flv?wsSecret=5e05928916bc54bfcf250d46a8348341&wsABSTime=1785177176&nstv_cache=1785134017",
         "is_live": true,
-        "match_time": "13:30",
+        "match_time": "13:40",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel77/off-tvc",
@@ -237,6 +237,37 @@
         "epg_metadata": {
             "tvg_id": "m.cybershoke-vs-comanche-luc-1300-ngay-27-07-2026",
             "tvg_name": "Cybershoke Vs Comanche",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_dplus_vs_hanwha_life_esports_luc_1345_ngay_27_07_2026",
+        "title": "\u26bd Dplus Vs Hanwha Life Esports",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111066",
+        "is_live": true,
+        "match_time": "13:45",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=xwrx81u3w435qyk&view=true",
+            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111016$j24$l0$h0; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dplus-vs-hanwha-life-esports-luc-1345-ngay-27-07-2026",
+            "tvg_name": "Dplus Vs Hanwha Life Esports",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
@@ -732,37 +763,6 @@
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_dplus_vs_hanwha_life_esports_luc_1345_ngay_27_07_2026",
-        "title": "\u26bd Dplus Vs Hanwha Life Esports",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111066",
-        "is_live": false,
-        "match_time": "13:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=xwrx81u3w435qyk&view=true",
-            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111016$j24$l0$h0; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dplus-vs-hanwha-life-esports-luc-1345-ngay-27-07-2026",
-            "tvg_name": "Dplus Vs Hanwha Life Esports",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_huda_hue_vs_shb_da_nang_luc_1400_ngay_27_07_2026",
