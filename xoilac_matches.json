@@ -461,10 +461,19 @@
         "id": "x_just_players_vs_ex_young_ninjas_luc_1500_ngay_27_07_2026",
         "title": "\u26bd Just Players Vs Ex Young Ninjas",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel78.flv?wsSecret=5d22380765c6ecee611e983265aaa82b&wsABSTime=1785183936&nstv_cache=1785140773",
         "is_live": true,
         "match_time": "15:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel78/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not;A.Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/csgo/desktop",
+            "Cookie": "_ga=GA1.1.1891869002.1785140366; cf_clearance=ij9wDEEiGoCrmjC1eWHLmB0U3Rs45_a..wfYtuYco2Q-1785140401-1.2.1.1-SI0ut0ZYKHSyoqE1jaal1yFJZP98ZUiiakfQG7oNYL6Pyq420sdlCsJt576l.3JoylW7bzB7VG1Mo30asz8lTz5d5MqZVez3FMG7i0WPndn4jmEPQBIoS.RAyjXbVFBa1EBpn8R3d66WTnlIOGbYFqH.ivYYivT.wEfJ7JUCL6mj1xX1ctxa97GaL.IuLddPYKg4EgkV1pyyZRwHId0utHFD8xQqGLk8YVePy5zIPzNz7g9osnOs6zdd0POOFueHLch2VIkWd2Gx.Y16MJ64NpNyRB4cXtFA7ucnliQAm.VVBokEL9ly3fiDVfRmx.040UQoyAAdulb9XS4ro4bOIJunYYKlTiohkY7M_B3nW5A; NID=533=KucBFlqvRlDQbIl-2XbL5WLKccM2VGEukWdRskviWPc0Jo4t4QE9RpkvNS0WpSI5RmWIHnkecZYJwWK98yO6K2XjIpeGGWtGGzWkVKRbHSNx6Q8FUnYKielWMi7OGgcWlftJRCnSBz5GXaOUcyG4gheKMnjQ744QoFbj9Ppe6ejMFY_mchF45SdDIbpG2XR0w9lJWrc; _ga_P60BDCKB3G=GS2.1.s1785140366$o1$g1$t1785140734$j9$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -475,7 +484,9 @@
             "tvg_name": "Just Players Vs Ex Young Ninjas",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_inox_division_vs_atreides_luc_1500_ngay_27_07_2026",
