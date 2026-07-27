@@ -19,7 +19,7 @@
         "epg_metadata": {
             "tvg_id": "vtv6.vn",
             "tvg_name": "VTV6",
-            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "tvg_logo": "https://logowik.com/content/uploads/images/vietnam-television-vtv6-20131260.logowik.com.webp",
             "source_xml": "Embedded"
         }
     },
@@ -39,7 +39,7 @@
         "epg_metadata": {
             "tvg_id": "vtv6.s1",
             "tvg_name": "VTV6 Relay",
-            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "tvg_logo": "https://logowik.com/content/uploads/images/vietnam-television-vtv6-20131260.logowik.com.webp",
             "source_xml": "Embedded"
         }
     },
@@ -63,7 +63,7 @@
         "epg_metadata": {
             "tvg_id": "vtv6.s2",
             "tvg_name": "VTV6 FPT",
-            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "tvg_logo": "https://logowik.com/content/uploads/images/vietnam-television-vtv6-20131260.logowik.com.webp",
             "source_xml": "Embedded"
         }
     },
