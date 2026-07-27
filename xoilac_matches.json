@@ -334,37 +334,6 @@
         "mime_type": "application/x-mpegURL"
     },
     {
-        "id": "x_saikhamakawn_fc_vs_mizoram_police_fc_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Saikhamakawn Fc Vs Mizoram Police Fc",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=6db2815b6e7757b6244c885e9a4a2367&wsABSTime=1785183597&nstv_cache=1785140434",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel23/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not;A.Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=jw2r09hkzv22rz8&view=true",
-            "Cookie": "_ga=GA1.1.1891869002.1785140366; _ga_P60BDCKB3G=GS2.1.s1785140366$o1$g1$t1785140396$j30$l0$h0; cf_clearance=ij9wDEEiGoCrmjC1eWHLmB0U3Rs45_a..wfYtuYco2Q-1785140401-1.2.1.1-SI0ut0ZYKHSyoqE1jaal1yFJZP98ZUiiakfQG7oNYL6Pyq420sdlCsJt576l.3JoylW7bzB7VG1Mo30asz8lTz5d5MqZVez3FMG7i0WPndn4jmEPQBIoS.RAyjXbVFBa1EBpn8R3d66WTnlIOGbYFqH.ivYYivT.wEfJ7JUCL6mj1xX1ctxa97GaL.IuLddPYKg4EgkV1pyyZRwHId0utHFD8xQqGLk8YVePy5zIPzNz7g9osnOs6zdd0POOFueHLch2VIkWd2Gx.Y16MJ64NpNyRB4cXtFA7ucnliQAm.VVBokEL9ly3fiDVfRmx.040UQoyAAdulb9XS4ro4bOIJunYYKlTiohkY7M_B3nW5A; NID=533=KucBFlqvRlDQbIl-2XbL5WLKccM2VGEukWdRskviWPc0Jo4t4QE9RpkvNS0WpSI5RmWIHnkecZYJwWK98yO6K2XjIpeGGWtGGzWkVKRbHSNx6Q8FUnYKielWMi7OGgcWlftJRCnSBz5GXaOUcyG4gheKMnjQ744QoFbj9Ppe6ejMFY_mchF45SdDIbpG2XR0w9lJWrc",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.saikhamakawn-fc-vs-mizoram-police-fc-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Saikhamakawn Fc Vs Mizoram Police Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_dali_blanch_vs_tommaso_compagnucci_luc_1500_ngay_27_07_2026",
         "title": "\u26bd Dali Blanch Vs Tommaso Compagnucci",
         "category": "EVENT LIVE",
@@ -513,6 +482,37 @@
         "epg_metadata": {
             "tvg_id": "m.inox-division-vs-atreides-luc-1500-ngay-27-07-2026",
             "tvg_name": "Inox Division Vs Atreides",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_saikhamakawn_fc_vs_mizoram_police_fc_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Saikhamakawn Fc Vs Mizoram Police Fc",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=6db2815b6e7757b6244c885e9a4a2367&wsABSTime=1785183597&nstv_cache=1785140434",
+        "is_live": true,
+        "match_time": "15:15",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel23/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not;A.Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.api-score.com/api/sport/football/animation?id=jw2r09hkzv22rz8&view=true",
+            "Cookie": "_ga=GA1.1.1891869002.1785140366; _ga_P60BDCKB3G=GS2.1.s1785140366$o1$g1$t1785140396$j30$l0$h0; cf_clearance=ij9wDEEiGoCrmjC1eWHLmB0U3Rs45_a..wfYtuYco2Q-1785140401-1.2.1.1-SI0ut0ZYKHSyoqE1jaal1yFJZP98ZUiiakfQG7oNYL6Pyq420sdlCsJt576l.3JoylW7bzB7VG1Mo30asz8lTz5d5MqZVez3FMG7i0WPndn4jmEPQBIoS.RAyjXbVFBa1EBpn8R3d66WTnlIOGbYFqH.ivYYivT.wEfJ7JUCL6mj1xX1ctxa97GaL.IuLddPYKg4EgkV1pyyZRwHId0utHFD8xQqGLk8YVePy5zIPzNz7g9osnOs6zdd0POOFueHLch2VIkWd2Gx.Y16MJ64NpNyRB4cXtFA7ucnliQAm.VVBokEL9ly3fiDVfRmx.040UQoyAAdulb9XS4ro4bOIJunYYKlTiohkY7M_B3nW5A; NID=533=KucBFlqvRlDQbIl-2XbL5WLKccM2VGEukWdRskviWPc0Jo4t4QE9RpkvNS0WpSI5RmWIHnkecZYJwWK98yO6K2XjIpeGGWtGGzWkVKRbHSNx6Q8FUnYKielWMi7OGgcWlftJRCnSBz5GXaOUcyG4gheKMnjQ744QoFbj9Ppe6ejMFY_mchF45SdDIbpG2XR0w9lJWrc",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.saikhamakawn-fc-vs-mizoram-police-fc-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Saikhamakawn Fc Vs Mizoram Police Fc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
