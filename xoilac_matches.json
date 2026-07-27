@@ -592,10 +592,17 @@
         "id": "x_kwon_soon_woo_vs_edward_winter_luc_0800_ngay_27_07_2026",
         "title": "\u26bd Kwon Soon Woo Vs Edward Winter",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel32.flv",
         "is_live": true,
         "match_time": "08:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A=Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Cookie": "__cf_bm=d9v1Gc_MFlBvLjT94n15HbPBpvRxxFQbs41WK7dQvHo-1785115187.828147-1.0.1.1-MgDu24TatDk60N2Cfqxg2Y2mtgiU_ZWFZAkAk1wmAN9FAoNyCbe4vfw8O.iouzQtTSZTMQoDUmqCxkSb1ddng24gCVpvt2T6ayGedQ5.BrUWkB00nZtyY2KoaRRv_Xp2; _ga=GA1.1.1238250393.1785115190; cf_clearance=fAfc4wdmcYGjsf6dBoYvnxLxE7NZURBsvHVV_2P.goE-1785115212-1.2.1.1-pYVSzBH34o45LNLWnsgfVX4R.OVInPxwb7VveUUFKwvzNA4c0bF2Ac4HDyJKwxgY1TnLDKAq1T4eSIdp1Q1nObWRjRkrG7Go3pmeijq68YGv6Lp1w0628n4KVMtyY45ZhNFyOf2BngtXKPl90gilD.btMRzM2q2Vd0kMEo82PytOfo0vWKbUcVOoDcGxlH6TSpj4pugt7QRlG2qOA9fcJLx3GM4PenXSGBwz1dI8OXH9eB1DBuCyM7JsVMaO.KtZ7oZYdGJTn4cA23GBEuKD9A9wunEf6Fh_mPafs.mAx.mvvMEWZMudy_RU0dLvb_N4b8Zx0KXMxj7bNOADfM8TPjWynP.DoSjjcKZhb43Jxfg; _ga_P60BDCKB3G=GS2.1.s1785115189$o1$g1$t1785115252$j60$l0$h0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
