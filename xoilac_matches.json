@@ -1744,6 +1744,26 @@
         }
     },
     {
+        "id": "x_phap_u18_vs_hy_lap_u18_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Phap U Vs Hy Lap U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.phap-u18-vs-hy-lap-u18-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Phap U Vs Hy Lap U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_t1_vs_dn_soopers_luc_1815_ngay_27_07_2026",
         "title": "\u26bd T Vs Dn Soopers",
         "category": "EVENT LIVE",
@@ -2500,6 +2520,26 @@
         "epg_metadata": {
             "tvg_id": "m.alejandro-tabilo-vs-tallon-griekspoor-luc-2200-ngay-27-07-2026",
             "tvg_name": "Alejandro Tabilo Vs Tallon Griekspoor",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_elisabetta_cocciaretto_vs_clara_tauson_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Elisabetta Cocciaretto Vs Clara Tauson",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.elisabetta-cocciaretto-vs-clara-tauson-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Elisabetta Cocciaretto Vs Clara Tauson",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
