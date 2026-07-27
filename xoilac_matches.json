@@ -1,435 +1,5 @@
 [
     {
-        "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
-        "title": "\u26bd Barcelona Sc Vs Ldu Quito",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?nstv_cache=1785088010",
-        "is_live": true,
-        "match_time": "07:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel7/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y0or5jh8n78pqwz&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087971$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.barcelona-sc-vs-ldu-quito-luc-0715-ngay-27-07-2026",
-            "tvg_name": "Barcelona Sc Vs Ldu Quito",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_club_america_vs_nu_tigres_luc_0730_ngay_27_07_2026",
-        "title": "\u26bd Nu Club America Vs Nu Tigres",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?nstv_cache=1785088056",
-        "is_live": true,
-        "match_time": "07:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel16/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=vjxm8ghe156nr6o&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785088017$j7$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-club-america-vs-nu-tigres-luc-0730-ngay-27-07-2026",
-            "tvg_name": "Nu Club America Vs Nu Tigres",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_d_concepcion_vs_o_higgins_luc_0730_ngay_27_07_2026",
-        "title": "\u26bd D Concepcion Vs O Higgins",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=b4668b7db9b82de76cd3e682c9d4f97d&wsABSTime=1785145213&nstv_cache=1785102063",
-        "is_live": true,
-        "match_time": "07:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel7/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not?A)Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h60gkomoj&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=d_wDV4N5mjYCxJpyPPuC1te3re_EG_8uUS6EdeUv3Gc-1785101797.3717735-1.0.1.1-wk516QPEX1xYF0sBKGmqFlohsvUCJ0TjesFR_G3eT0EtA0kFI377oWMhjQxJB5scRgwuGTVICkELL3IpJXhnlu16mALTddGTuFM3SzUB1B4br989eSf5gc9gvGXXoFzn; _ga=GA1.1.329369831.1785101804; _ga_P60BDCKB3G=GS2.1.s1785101804$o1$g1$t1785101843$j21$l0$h0; __cf_bm=I.lAVz.zj_36XkGsdWw.bhucGWL4dTighaPlw1zOdzM-1785101846.6914575-1.0.1.1-NV6X.DaczWrjoSpNa8h0tEuBor4.Wjg7MA5x4VqGnpO2Nmg83xGMktZ3N9ek8dUTRc9078hBlm0es0oPLE1hQsducMI3FcddflUpy5J_iW_BH2N11JLpOxnTc3SejqTr; _ga=GA1.1.691515788.1785101848; cf_clearance=jCc3MyiQmb3EIdRbxIKY5HIGqOwbiE_Ofl5UHsaLf7o-1785101899-1.2.1.1-QVM2E8sJr8S89sBI8TXc5lXdbBV5_evVMG3MBSsn2Emc88xXvBP_YwbfaI3x7MPW5DMXGVM3vIr9Bf1YlPiDaGWBqEx3b9Btxrg_hQnx0wrzXxmyD6CVvzx9p4ZK8ggm9itUzjOZRmOcryPsyn6gPtHLbRkstBMc1zA.uSfA_x0KxOt7k3.N3FnjyLYAmR8M_jofDPvMA_OYSOPj3SCL2mGfo_uld_qzl6vLh7b56WaAiNTdLcGKPw2GyMmgKie8Y5t0q.hyheAYb1PDP9qfrFkaS_KN8TThu8DO520BUReBQEzuDy46VIzQPi5Mb_I_HechEYw.O0OtskgL2HUN3pfjE0jOGy.dPzEm2PdK9zE; __cf_bm=ezejFJ7Iib8uupCrhjhOOcsHqQfsTs9xP5nSe.otzsg-1785101903.708981-1.0.1.1-l1HYDHC3GY4hmwseag8MwhB0PlMCCTPcnly9G.N_IwVwZZvGgBwZhx.heiCsjyZzfRyNsQrpDvzMrNWNHBI3obwEAF02m397NyDCbqZ3tAEFEqodBIOFUEYQ7Fl3rmQv; _ga_S52WSRDB70=GS2.1.s1785101847$o1$g1$t1785102012$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.d-concepcion-vs-o-higgins-luc-0730-ngay-27-07-2026",
-            "tvg_name": "D Concepcion Vs O Higgins",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_deportivo_valdivia_vs_las_animas_luc_0730_ngay_27_07_2026",
-        "title": "\u26bd Deportivo Valdivia Vs Las Animas",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel50.flv?wsSecret=1f3fb88890a85d16e4fc36ebcc98bec4&wsABSTime=1785148663&nstv_cache=1785105510",
-        "is_live": true,
-        "match_time": "07:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel50/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=vjxm8xt5dn7oq6o&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105461$j60$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.deportivo-valdivia-vs-las-animas-luc-0730-ngay-27-07-2026",
-            "tvg_name": "Deportivo Valdivia Vs Las Animas",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_dominican_republic_vs_guatemala_luc_0730_ngay_27_07_2026",
-        "title": "\u26bd Dominican Republic Vs Guatemala",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel49.flv?wsSecret=25051ca0960f27f9ac1cac9544d40603&wsABSTime=1785148717&nstv_cache=1785105538",
-        "is_live": true,
-        "match_time": "07:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel49/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=23xmv1tp17kgmg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105516$j5$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dominican-republic-vs-guatemala-luc-0730-ngay-27-07-2026",
-            "tvg_name": "Dominican Republic Vs Guatemala",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_tristan_boyer_vs_bernard_tomic_luc_0800_ngay_27_07_2026",
-        "title": "\u26bd Tristan Boyer Vs Bernard Tomic",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel32.flv?nstv_cache=1785086501",
-        "is_live": true,
-        "match_time": "08:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086462$j56$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tristan-boyer-vs-bernard-tomic-luc-0800-ngay-27-07-2026",
-            "tvg_name": "Tristan Boyer Vs Bernard Tomic",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_angel_city_vs_nu_racing_louisville_luc_0800_ngay_27_07_2026",
-        "title": "\u26bd Nu Angel City Vs Nu Racing Louisville",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel8.flv?wsSecret=eeb95a2e51dbe09fcec3bd2ab9e20330&wsABSTime=1785145271&nstv_cache=1785102118",
-        "is_live": true,
-        "match_time": "08:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel8/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not?A)Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=x7lm7phjx5xlm2w&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=d_wDV4N5mjYCxJpyPPuC1te3re_EG_8uUS6EdeUv3Gc-1785101797.3717735-1.0.1.1-wk516QPEX1xYF0sBKGmqFlohsvUCJ0TjesFR_G3eT0EtA0kFI377oWMhjQxJB5scRgwuGTVICkELL3IpJXhnlu16mALTddGTuFM3SzUB1B4br989eSf5gc9gvGXXoFzn; _ga=GA1.1.329369831.1785101804; _ga_P60BDCKB3G=GS2.1.s1785101804$o1$g1$t1785101843$j21$l0$h0; __cf_bm=I.lAVz.zj_36XkGsdWw.bhucGWL4dTighaPlw1zOdzM-1785101846.6914575-1.0.1.1-NV6X.DaczWrjoSpNa8h0tEuBor4.Wjg7MA5x4VqGnpO2Nmg83xGMktZ3N9ek8dUTRc9078hBlm0es0oPLE1hQsducMI3FcddflUpy5J_iW_BH2N11JLpOxnTc3SejqTr; _ga=GA1.1.691515788.1785101848; cf_clearance=jCc3MyiQmb3EIdRbxIKY5HIGqOwbiE_Ofl5UHsaLf7o-1785101899-1.2.1.1-QVM2E8sJr8S89sBI8TXc5lXdbBV5_evVMG3MBSsn2Emc88xXvBP_YwbfaI3x7MPW5DMXGVM3vIr9Bf1YlPiDaGWBqEx3b9Btxrg_hQnx0wrzXxmyD6CVvzx9p4ZK8ggm9itUzjOZRmOcryPsyn6gPtHLbRkstBMc1zA.uSfA_x0KxOt7k3.N3FnjyLYAmR8M_jofDPvMA_OYSOPj3SCL2mGfo_uld_qzl6vLh7b56WaAiNTdLcGKPw2GyMmgKie8Y5t0q.hyheAYb1PDP9qfrFkaS_KN8TThu8DO520BUReBQEzuDy46VIzQPi5Mb_I_HechEYw.O0OtskgL2HUN3pfjE0jOGy.dPzEm2PdK9zE; __cf_bm=ezejFJ7Iib8uupCrhjhOOcsHqQfsTs9xP5nSe.otzsg-1785101903.708981-1.0.1.1-l1HYDHC3GY4hmwseag8MwhB0PlMCCTPcnly9G.N_IwVwZZvGgBwZhx.heiCsjyZzfRyNsQrpDvzMrNWNHBI3obwEAF02m397NyDCbqZ3tAEFEqodBIOFUEYQ7Fl3rmQv; _ga_S52WSRDB70=GS2.1.s1785101847$o1$g1$t1785102070$j60$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-angel-city-vs-nu-racing-louisville-luc-0800-ngay-27-07-2026",
-            "tvg_name": "Nu Angel City Vs Nu Racing Louisville",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_honduras_u20_vs_jamaica_u20_luc_0800_ngay_27_07_2026",
-        "title": "\u26bd Honduras U Vs Jamaica U",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel9.flv?wsSecret=5a4c072922a7d142e0d554ee90316740&wsABSTime=1785145506&nstv_cache=1785102363",
-        "is_live": true,
-        "match_time": "08:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel9/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not A:Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=y39mp1h6g7gymoj&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=vS94GXBeR.Rt8nuN4_ZBztNbFP4xFkB2ZFDViaOeGUs-1785102207.716108-1.0.1.1-XBnMawptOIJZUDNITw6EqfzpiofojVDqHod4M939to1LKfuO4e7UBjttjRkPllMNdfABwyhwi3PKPPHmKQ.dRcmyxQuOK9HIoZdUQtt4y1JSel137e1DUE9konXuslwc; _ga=GA1.1.1108085545.1785102218; _ga_P60BDCKB3G=GS2.1.s1785102218$o1$g1$t1785102260$j18$l0$h0; __cf_bm=3i1YIgsr68RhHKsrheOOSYHg9VvKhntCMmvtKaKxwng-1785102264.0789962-1.0.1.1-MqKbotWpnwSoCLbQ0lHAWVo2P6lcPmFprK8DS5_ZrXtwoLCinKM2ovAuXCaM51PNr8VO_6JDMwCuWplL8j4sEnHzb7GbMfBBSCyms3zGKqRnjISdO8r.zOhbIxgYCKUc; _ga=GA1.1.1760666594.1785102265; _ga_S52WSRDB70=GS2.1.s1785102265$o1$g1$t1785102305$j20$l0$h0; cf_clearance=0kV2cnnBA3oQ3UQy4_TXBcJ3TPqfqfrxm9f2eZE5vf4-1785102310-1.2.1.1-KAKDSfdtVvzo4Yh6RE94LuFUwFznMeX1Q.qFadBiHvD6c17Z8Wb66MhxbPqruJ441VHe1JEOpVrt6bFiDndU5DKtKKi3F5qdVal.ugv6qhp722nLsB.0tRyDwlNLXUootOXLJhtyKSz0JlYQ9dr1oNki9o5NOMoLK345a83eOvy3O1j8Y9fjiPADDf1.B0Y5ZtLyBY3rvi_a0eORBpvnM9V5AkwUg2gKUL5yM8FxyRheJWMIcrhzVyG8DHK3m0fjk7nG25VJzTAdorHrNAVYrczmCPYyiuKFiQuhmcdBs2JalyNQ8en.7XEBUFLAbLdf66Gu7QxZnyQd4PvGrRaeVyHokG4qnNBXz3WQiNdc4a8",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.honduras-u20-vs-jamaica-u20-luc-0800-ngay-27-07-2026",
-            "tvg_name": "Honduras U Vs Jamaica U",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_laredo_heat_vs_vermont_green_luc_0800_ngay_27_07_2026",
-        "title": "\u26bd Laredo Heat Vs Vermont Green",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=982d0311a4e9dc5e241b99a121537a96&wsABSTime=1785148914&nstv_cache=1785105766",
-        "is_live": true,
-        "match_time": "08:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=3glrw7hn8gllqdy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105713$j45$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.laredo-heat-vs-vermont-green-luc-0800-ngay-27-07-2026",
-            "tvg_name": "Laredo Heat Vs Vermont Green",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_kwon_soon_woo_vs_edward_winter_luc_0800_ngay_27_07_2026",
-        "title": "\u26bd Kwon Soon Woo Vs Edward Winter",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel32.flv",
-        "is_live": true,
-        "match_time": "08:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not A=Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Cookie": "__cf_bm=d9v1Gc_MFlBvLjT94n15HbPBpvRxxFQbs41WK7dQvHo-1785115187.828147-1.0.1.1-MgDu24TatDk60N2Cfqxg2Y2mtgiU_ZWFZAkAk1wmAN9FAoNyCbe4vfw8O.iouzQtTSZTMQoDUmqCxkSb1ddng24gCVpvt2T6ayGedQ5.BrUWkB00nZtyY2KoaRRv_Xp2; _ga=GA1.1.1238250393.1785115190; cf_clearance=fAfc4wdmcYGjsf6dBoYvnxLxE7NZURBsvHVV_2P.goE-1785115212-1.2.1.1-pYVSzBH34o45LNLWnsgfVX4R.OVInPxwb7VveUUFKwvzNA4c0bF2Ac4HDyJKwxgY1TnLDKAq1T4eSIdp1Q1nObWRjRkrG7Go3pmeijq68YGv6Lp1w0628n4KVMtyY45ZhNFyOf2BngtXKPl90gilD.btMRzM2q2Vd0kMEo82PytOfo0vWKbUcVOoDcGxlH6TSpj4pugt7QRlG2qOA9fcJLx3GM4PenXSGBwz1dI8OXH9eB1DBuCyM7JsVMaO.KtZ7oZYdGJTn4cA23GBEuKD9A9wunEf6Fh_mPafs.mAx.mvvMEWZMudy_RU0dLvb_N4b8Zx0KXMxj7bNOADfM8TPjWynP.DoSjjcKZhb43Jxfg; _ga_P60BDCKB3G=GS2.1.s1785115189$o1$g1$t1785115252$j60$l0$h0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.kwon-soon-woo-vs-edward-winter-luc-0800-ngay-27-07-2026",
-            "tvg_name": "Kwon Soon Woo Vs Edward Winter",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_pachuca_vs_queretaro_fc_luc_0806_ngay_27_07_2026",
-        "title": "\u26bd Pachuca Vs Queretaro Fc",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?nstv_cache=1785088102",
-        "is_live": true,
-        "match_time": "08:06",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=3glrw7hne6xyqdy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785088063$j53$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.pachuca-vs-queretaro-fc-luc-0806-ngay-27-07-2026",
-            "tvg_name": "Pachuca Vs Queretaro Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_once_caldas_vs_cucuta_deportivo_luc_0815_ngay_27_07_2026",
-        "title": "\u26bd Once Caldas Vs Cucuta Deportivo",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel4.flv?nstv_cache=1785088147",
-        "is_live": true,
-        "match_time": "08:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=l5ergph46wdwr8k&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785088107$j9$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.once-caldas-vs-cucuta-deportivo-luc-0815-ngay-27-07-2026",
-            "tvg_name": "Once Caldas Vs Cucuta Deportivo",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_tacoma_defiance_vs_colorado_rapids_ii_luc_0900_ngay_27_07_2026",
-        "title": "\u26bd Tacoma Defiance Vs Colorado Rapids Ii",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?nstv_cache=1785088559",
-        "is_live": true,
-        "match_time": "09:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel14/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=zp5rzghgk2wnq82&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088437$j60$l0$h0; __cf_bm=GaJo2vHIfF2RUiuvpm3sWFlYm0rFVjtSzumkp3x0XoM-1785088438.8774588-1.0.1.1-_FzEXkIhakzdn6zswcZUlci89y.sK7WdfzTan1twPe0_4egnI.wynmF3htzeLyoIktYf7pQYqaOs94tcLuvFgkidz1XaNecnciZeC1CE63cEXAcr_Wm6am7_5zB_48TS; _ga=GA1.1.242154808.1785088440; cf_clearance=2MDID.nZYrB.NSfC08.IPHnlNLRZv2DFNDbSa04kwSw-1785088463-1.2.1.1-1M.uLJJs_Vwgrc7zPme13SC4vtV4_DfgO9P8vpDTu6FmPQCZsRlMGM07vg76PBeGppKlR7EAj4r5lICvygiqrf8NYK6.3kWyqAXQ5PQffw2gU0BRu3bVE1tQeiGMVje9yr_gGtOWwhn4eRSt_8xYa3tPQmKuAHsmI0yjlb113CAuT5e_1icHXaK5UID.h5BOlhtWPk9cfj0ZMHA_sNZsNMliqBIkdKRtsmRpuQ_xEnMyZe7xbNDHbpy1vnAm2cEGLno_6TDUOlOpMgACOuQle06.gZlRENnmU80AXZXlNC413g7URre5SS.ieNKcPOsryRctyT2ov6SBusVAeilRYxQlbdAUCAF.HPbbCnFnD5w; __cf_bm=waAynKxVKbMaWZ.7yazZpy28aaBi0grDubuKRdafZfI-1785088499.107008-1.0.1.1-.cswcXbAvs3e_V6_URSKetD1pCmDhTHn1YPN9uCX7.l5oxUCBYwWSCrfPjQ6EfLp84ob3O_7dp72m2T8wTMlLvmgb41sy.8jd9IDDaLr1LJJ12PNA6aK6rnyTwwgN3Yu; _ga_S52WSRDB70=GS2.1.s1785088439$o1$g1$t1785088521$j40$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tacoma-defiance-vs-colorado-rapids-ii-luc-0900-ngay-27-07-2026",
-            "tvg_name": "Tacoma Defiance Vs Colorado Rapids Ii",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_alex_hernandez_vs_alan_magadan_luc_0910_ngay_27_07_2026",
-        "title": "\u26bd Alex Hernandez Vs Alan Magadan",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel32.flv?nstv_cache=1785086543",
-        "is_live": true,
-        "match_time": "09:10",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086505$j13$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.alex-hernandez-vs-alan-magadan-luc-0910-ngay-27-07-2026",
-            "tvg_name": "Alex Hernandez Vs Alan Magadan",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -920,6 +490,89 @@
         }
     },
     {
+        "id": "fixed_vtv6",
+        "title": "\ud83d\udcfa VTV6 (24/7)",
+        "category": "CHANNEL TV",
+        "uri": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "Referer": "https://fptplay.vn/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.fpt",
+            "tvg_name": "VTV6",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_carstensz_esports_vs_kicked_luc_1200_ngay_27_07_2026",
+        "title": "\u26bd Carstensz Esports Vs Kicked",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "12:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.carstensz-esports-vs-kicked-luc-1200-ngay-27-07-2026",
+            "tvg_name": "Carstensz Esports Vs Kicked",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sikkim_police_vs_northerners_fc_luc_1230_ngay_27_07_2026",
+        "title": "\u26bd Sikkim Police Vs Northerners Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "12:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sikkim-police-vs-northerners-fc-luc-1230-ngay-27-07-2026",
+            "tvg_name": "Sikkim Police Vs Northerners Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_chanmari_fc_vs_dinthar_fc_luc_1230_ngay_27_07_2026",
+        "title": "\u26bd Chanmari Fc Vs Dinthar Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "12:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chanmari-fc-vs-dinthar-fc-luc-1230-ngay-27-07-2026",
+            "tvg_name": "Chanmari Fc Vs Dinthar Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
         "title": "\u26bd Bnk Fearx Vs Gen G Esports",
         "category": "EVENT LIVE",
@@ -951,6 +604,66 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_nu_kairat_almaty_vs_nu_ulytau_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Nu Kairat Almaty Vs Nu Ulytau",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "13:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-kairat-almaty-vs-nu-ulytau-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Nu Kairat Almaty Vs Nu Ulytau",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Arcred Vs Flacons",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "13:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.arcred-vs-flacons-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Arcred Vs Flacons",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_cybershoke_vs_comanche_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Cybershoke Vs Comanche",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "13:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cybershoke-vs-comanche-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Cybershoke Vs Comanche",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_dplus_vs_hanwha_life_esports_luc_1345_ngay_27_07_2026",
         "title": "\u26bd Dplus Vs Hanwha Life Esports",
         "category": "EVENT LIVE",
@@ -980,6 +693,66 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
+        "title": "\u26bd Marbisu Sc Vs Lumshyiap Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "14:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.marbisu-sc-vs-lumshyiap-sc-luc-1430-ngay-27-07-2026",
+            "tvg_name": "Marbisu Sc Vs Lumshyiap Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_kt_rolster_vs_gen_g_esports_luc_1430_ngay_27_07_2026",
+        "title": "\u26bd Kt Rolster Vs Gen G Esports",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "14:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kt-rolster-vs-gen-g-esports-luc-1430-ngay-27-07-2026",
+            "tvg_name": "Kt Rolster Vs Gen G Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_toufik_sahtali_vs_mert_naci_turker_luc_1455_ngay_27_07_2026",
+        "title": "\u26bd Toufik Sahtali Vs Mert Naci Turker",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "14:55",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.toufik-sahtali-vs-mert-naci-turker-luc-1455-ngay-27-07-2026",
+            "tvg_name": "Toufik Sahtali Vs Mert Naci Turker",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1500_ngay_27_07_2026",
@@ -1044,6 +817,186 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_saikhamakawn_fc_vs_mizoram_police_fc_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Saikhamakawn Fc Vs Mizoram Police Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.saikhamakawn-fc-vs-mizoram-police-fc-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Saikhamakawn Fc Vs Mizoram Police Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_dali_blanch_vs_tommaso_compagnucci_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Dali Blanch Vs Tommaso Compagnucci",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dali-blanch-vs-tommaso-compagnucci-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Dali Blanch Vs Tommaso Compagnucci",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mili_poljicak_vs_jozef_kovalik_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Mili Poljicak Vs Jozef Kovalik",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mili-poljicak-vs-jozef-kovalik-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Mili Poljicak Vs Jozef Kovalik",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_michael_vrbensky_vs_maxime_janvier_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Michael Vrbensky Vs Maxime Janvier",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.michael-vrbensky-vs-maxime-janvier-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Michael Vrbensky Vs Maxime Janvier",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_direborn_vs_pandawa_lima_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Direborn Vs Pandawa Lima",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.direborn-vs-pandawa-lima-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Direborn Vs Pandawa Lima",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_just_players_vs_ex_young_ninjas_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Just Players Vs Ex Young Ninjas",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.just-players-vs-ex-young-ninjas-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Just Players Vs Ex Young Ninjas",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_inox_division_vs_atreides_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Inox Division Vs Atreides",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.inox-division-vs-atreides-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Inox Division Vs Atreides",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_bulleen_lions_u23_vs_langwarrin_u23_luc_1515_ngay_27_07_2026",
+        "title": "\u26bd Bulleen Lions U Vs Langwarrin U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bulleen-lions-u23-vs-langwarrin-u23-luc-1515-ngay-27-07-2026",
+            "tvg_name": "Bulleen Lions U Vs Langwarrin U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_dplus_vs_t1_luc_1515_ngay_27_07_2026",
+        "title": "\u26bd Dplus Vs T",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.dplus-vs-t1-luc-1515-ngay-27-07-2026",
+            "tvg_name": "Dplus Vs T",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1600_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -1075,6 +1028,126 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_nu_shan_utd_vs_nu_yangon_united_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Nu Shan Utd Vs Nu Yangon United",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-shan-utd-vs-nu-yangon-united-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Nu Shan Utd Vs Nu Yangon United",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_yadanarbon_fc_vs_nu_ayeyawady_utd_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-yadanarbon-fc-vs-nu-ayeyawady-utd-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_hanwha_life_esports_vs_kiwoom_drx_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Hanwha Life Esports Vs Kiwoom Drx",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.hanwha-life-esports-vs-kiwoom-drx-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Hanwha Life Esports Vs Kiwoom Drx",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Level Up Vs Puckchamp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.level-up-vs-puckchamp-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Level Up Vs Puckchamp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_thiago_monteiro_vs_manuel_mazza_luc_1610_ngay_27_07_2026",
+        "title": "\u26bd Thiago Monteiro Vs Manuel Mazza",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.thiago-monteiro-vs-manuel-mazza-luc-1610-ngay-27-07-2026",
+            "tvg_name": "Thiago Monteiro Vs Manuel Mazza",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_juan_pablo_varillas_vs_francesco_forti_luc_1610_ngay_27_07_2026",
+        "title": "\u26bd Juan Pablo Varillas Vs Francesco Forti",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.juan-pablo-varillas-vs-francesco-forti-luc-1610-ngay-27-07-2026",
+            "tvg_name": "Juan Pablo Varillas Vs Francesco Forti",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_melbourne_victory_r_vs_north_sunshine_eagles_luc_1630_ngay_27_07_2026",
         "title": "\u26bd Melbourne Victory R Vs North Sunshine Eagles",
         "category": "EVENT LIVE",
@@ -1104,6 +1177,106 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_suruchi_sangha_vs_rainbow_sc_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Suruchi Sangha Vs Rainbow Sc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.suruchi-sangha-vs-rainbow-sc-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Suruchi Sangha Vs Rainbow Sc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_kalighat_sports_lovers_vs_coal_india_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Kalighat Sports Lovers Vs Coal India",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.kalighat-sports-lovers-vs-coal-india-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Kalighat Sports Lovers Vs Coal India",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_police_ac_vs_aryan_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Police Ac Vs Aryan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.police-ac-vs-aryan-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Police Ac Vs Aryan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_enrico_dalla_valle_vs_mika_brunold_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Enrico Dalla Valle Vs Mika Brunold",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.enrico-dalla-valle-vs-mika-brunold-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Enrico Dalla Valle Vs Mika Brunold",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_t1_vs_nongshim_redforce_luc_1645_ngay_27_07_2026",
+        "title": "\u26bd T Vs Nongshim Redforce",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-vs-nongshim-redforce-luc-1645-ngay-27-07-2026",
+            "tvg_name": "T Vs Nongshim Redforce",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_gen_g_challengers_vs_bnk_fearx_youth_luc_1700_ngay_27_07_2026",
@@ -1199,6 +1372,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_fredit_brion_vs_dplus_luc_1730_ngay_27_07_2026",
+        "title": "\u26bd Fredit Brion Vs Dplus",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.fredit-brion-vs-dplus-luc-1730-ngay-27-07-2026",
+            "tvg_name": "Fredit Brion Vs Dplus",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_daniel_rincon_vs_juan_carlos_prado_angelo_luc_1740_ngay_27_07_2026",
+        "title": "\u26bd Daniel Rincon Vs Juan Carlos Prado Angelo",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:40",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.daniel-rincon-vs-juan-carlos-prado-angelo-luc-1740-ngay-27-07-2026",
+            "tvg_name": "Daniel Rincon Vs Juan Carlos Prado Angelo",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_phap_u18_vs_greece_u18_luc_1800_ngay_27_07_2026",
         "title": "\u26bd Phap U Vs Greece U",
         "category": "EVENT LIVE",
@@ -1261,6 +1474,206 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_zhejiang_fc_u21_vs_guangdong_guangzhou_power_u20_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Zhejiang Fc U Vs Guangdong Guangzhou Power U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.zhejiang-fc-u21-vs-guangdong-guangzhou-power-u20-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Zhejiang Fc U Vs Guangdong Guangzhou Power U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mamelodi_sundowns_vs_mc_alger_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Mamelodi Sundowns Vs Mc Alger",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mamelodi-sundowns-vs-mc-alger-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Mamelodi Sundowns Vs Mc Alger",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_israel_u18_vs_ao_u18_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Israel U Vs Ao U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.israel-u18-vs-ao-u18-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Israel U Vs Ao U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_radu_albot_vs_benjamin_hassan_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Radu Albot Vs Benjamin Hassan",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.radu-albot-vs-benjamin-hassan-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Radu Albot Vs Benjamin Hassan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_black_phoenix_vs_benched_gods_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Black Phoenix Vs Benched Gods",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.black-phoenix-vs-benched-gods-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Black Phoenix Vs Benched Gods",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_sparta_vs_honved_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Sparta Vs Honved",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sparta-vs-honved-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Sparta Vs Honved",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_t1_vs_dn_soopers_luc_1815_ngay_27_07_2026",
+        "title": "\u26bd T Vs Dn Soopers",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:15",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.t1-vs-dn-soopers-luc-1815-ngay-27-07-2026",
+            "tvg_name": "T Vs Dn Soopers",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_olimpia_asuncion_r_vs_libertad_asuncion_r_luc_1830_ngay_27_07_2026",
+        "title": "\u26bd Olimpia Asuncion R Vs Libertad Asuncion R",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.olimpia-asuncion-r-vs-libertad-asuncion-r-luc-1830-ngay-27-07-2026",
+            "tvg_name": "Olimpia Asuncion R Vs Libertad Asuncion R",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_guarani_asuncion_r_vs_sportivo_luqueno_r_luc_1830_ngay_27_07_2026",
+        "title": "\u26bd Guarani Asuncion R Vs Sportivo Luqueno R",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.guarani-asuncion-r-vs-sportivo-luqueno-r-luc-1830-ngay-27-07-2026",
+            "tvg_name": "Guarani Asuncion R Vs Sportivo Luqueno R",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_trung_quoc_vs_cameroon_luc_1830_ngay_27_07_2026",
+        "title": "\u26bd Trung Quoc Vs Cameroon",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.trung-quoc-vs-cameroon-luc-1830-ngay-27-07-2026",
+            "tvg_name": "Trung Quoc Vs Cameroon",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_sarangani_vs_manila_batang_quiapo_luc_1900_ngay_27_07_2026",
         "title": "\u26bd Sarangani Vs Manila Batang Quiapo",
         "category": "EVENT LIVE",
@@ -1292,6 +1705,86 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_sportivo_barracas_u20_vs_puerto_nuevo_u20_luc_1900_ngay_27_07_2026",
+        "title": "\u26bd Sportivo Barracas U Vs Puerto Nuevo U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sportivo-barracas-u20-vs-puerto-nuevo-u20-luc-1900-ngay-27-07-2026",
+            "tvg_name": "Sportivo Barracas U Vs Puerto Nuevo U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_laslo_djere_vs_nikoloz_basilashvili_luc_1900_ngay_27_07_2026",
+        "title": "\u26bd Laslo Djere Vs Nikoloz Basilashvili",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.laslo-djere-vs-nikoloz-basilashvili-luc-1900-ngay-27-07-2026",
+            "tvg_name": "Laslo Djere Vs Nikoloz Basilashvili",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_team_syntax_vs_nemiga_gaming_luc_1900_ngay_27_07_2026",
+        "title": "\u26bd Team Syntax Vs Nemiga Gaming",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.team-syntax-vs-nemiga-gaming-luc-1900-ngay-27-07-2026",
+            "tvg_name": "Team Syntax Vs Nemiga Gaming",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ybicanoobov_vs_daxao_team_luc_1900_ngay_27_07_2026",
+        "title": "\u26bd Ybicanoobov Vs Daxao Team",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ybicanoobov-vs-daxao-team-luc-1900-ngay-27-07-2026",
+            "tvg_name": "Ybicanoobov Vs Daxao Team",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_1930_ngay_27_07_2026",
         "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
         "category": "EVENT LIVE",
@@ -1321,6 +1814,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_bauru_u22_vs_rio_claro_abdc_ldb_u22_luc_1930_ngay_27_07_2026",
+        "title": "\u26bd Bauru U Vs Rio Claro Abdc Ldb U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bauru-u22-vs-rio-claro-abdc-ldb-u22-luc-1930-ngay-27-07-2026",
+            "tvg_name": "Bauru U Vs Rio Claro Abdc Ldb U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_fk_orenburg_2_vs_krylia_sovetov_2_luc_2000_ngay_27_07_2026",
@@ -1385,6 +1898,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_mirza_basic_takuya_kumasaka_vs_s_mert_ozdemir_mert_naci_turker_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Mirza Basic Takuya Kumasaka Vs S Mert Ozdemir Mert Naci Turker",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "20:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.mirza-basic-takuya-kumasaka-vs-s-mert-ozdemir-mert-naci-turker-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Mirza Basic Takuya Kumasaka Vs S Mert Ozdemir Mert Naci Turker",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_team_phantasma_vs_almo_players_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Team Phantasma Vs Almo Players",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "20:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.team-phantasma-vs-almo-players-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Team Phantasma Vs Almo Players",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_tho_nhi_ky_u18_vs_slovakia_u18_luc_2030_ngay_27_07_2026",
         "title": "\u26bd Tho Nhi Ky U Vs Slovakia U",
         "category": "EVENT LIVE",
@@ -1445,6 +1998,106 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_slovenia_u18_vs_bulgaria_u18_luc_2030_ngay_27_07_2026",
+        "title": "\u26bd Slovenia U Vs Bulgaria U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "20:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.slovenia-u18-vs-bulgaria-u18-luc-2030-ngay-27-07-2026",
+            "tvg_name": "Slovenia U Vs Bulgaria U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_alexandre_muller_vs_stefano_napolitano_luc_2100_ngay_27_07_2026",
+        "title": "\u26bd Alexandre Muller Vs Stefano Napolitano",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alexandre-muller-vs-stefano-napolitano-luc-2100-ngay-27-07-2026",
+            "tvg_name": "Alexandre Muller Vs Stefano Napolitano",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ex_rustec_vs_inner_circle_academy_luc_2100_ngay_27_07_2026",
+        "title": "\u26bd Ex Rustec Vs Inner Circle Academy",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ex-rustec-vs-inner-circle-academy-luc-2100-ngay-27-07-2026",
+            "tvg_name": "Ex Rustec Vs Inner Circle Academy",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_rune_eaters_vs_saw_youngsters_luc_2100_ngay_27_07_2026",
+        "title": "\u26bd Rune Eaters Vs Saw Youngsters",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.rune-eaters-vs-saw-youngsters-luc-2100-ngay-27-07-2026",
+            "tvg_name": "Rune Eaters Vs Saw Youngsters",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_corinthians_ldb_u22_vs_osasco_basket_u22_luc_2145_ngay_27_07_2026",
+        "title": "\u26bd Corinthians Ldb U Vs Osasco Basket U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:45",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.corinthians-ldb-u22-vs-osasco-basket-u22-luc-2145-ngay-27-07-2026",
+            "tvg_name": "Corinthians Ldb U Vs Osasco Basket U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_gneist_vs_brann_2_luc_2200_ngay_27_07_2026",
@@ -1600,6 +2253,86 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_valerion_esports_vs_the_paradox_invaders_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Valerion Esports Vs The Paradox Invaders",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.valerion-esports-vs-the-paradox-invaders-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Valerion Esports Vs The Paradox Invaders",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_team_jenz_vs_ilbirs_esports_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Team Jenz Vs Ilbirs Esports",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.team-jenz-vs-ilbirs-esports-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Team Jenz Vs Ilbirs Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_team_ns_vs_team_rostik_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Team Ns Vs Team Rostik",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.team-ns-vs-team-rostik-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Team Ns Vs Team Rostik",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_alberto_bronzetti_manuel_mazza_vs_filippo_romano_jacopo_vasami_luc_2210_ngay_27_07_2026",
+        "title": "\u26bd Alberto Bronzetti Manuel Mazza Vs Filippo Romano Jacopo Vasami",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alberto-bronzetti-manuel-mazza-vs-filippo-romano-jacopo-vasami-luc-2210-ngay-27-07-2026",
+            "tvg_name": "Alberto Bronzetti Manuel Mazza Vs Filippo Romano Jacopo Vasami",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_cfr_cluj_vs_fc_voluntari_luc_2230_ngay_27_07_2026",
@@ -1870,6 +2603,46 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_italy_u18_vs_estonia_u18_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Italy U Vs Estonia U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.italy-u18-vs-estonia-u18-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Italy U Vs Estonia U",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_verdant_vs_lundqvist_lightside_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Verdant Vs Lundqvist Lightside",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "23:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.verdant-vs-lundqvist-lightside-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Verdant Vs Lundqvist Lightside",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_xoilacz",
