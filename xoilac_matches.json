@@ -1,1 +1,26 @@
-
+[
+    {
+        "id": "fixed_vtv6_vccloud",
+        "title": "\ud83d\udcfa VTV6 HD (Sports - MultiBitrate)",
+        "category": "CHANNEL TV",
+        "uri": "https://vtv6-vtvgo.cdn.vccloud.vn/vtvgo/vtv6tt-manifest.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://vtvgo.vn/",
+            "X-Forwarded-For": "113.161.139.24"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.vn",
+            "tvg_name": "VTV6",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
+    }
+]
