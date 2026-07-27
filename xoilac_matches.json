@@ -1,67 +1,5 @@
 [
     {
-        "id": "x_fuerza_regia_de_monterrey_vs_soles_de_mexicali_luc_0515_ngay_27_07_2026",
-        "title": "\u26bd Fuerza Regia De Monterrey Vs Soles De Mexicali",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=bc839039e71aa3e481ef6dc9b0f359f7&wsABSTime=1785128625&nstv_cache=1785085463",
-        "is_live": true,
-        "match_time": "05:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel41/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=zp5rzkt6vk4yr82&view=true",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=FqCyLVDktoI03QYG72ymjLPi1YNXmNRNHwYqP_K_4CM-1785085293-1.2.1.1-nIFK1v70prz8xoIIvIVuUJQuxhRGKDWBzSIcJUL6RsGlhwGEwNBvv2LWBgdmGq4pOT_KJFBLNFe9B8xt7Yx8T2o893t_IfRVN4lxh9kMxKtiWrrh99RtAg3KD5eENVX9ekG44PBA1DD9ntqE4iPmmgHBNn0c49uMrSa5NmVEs_YZxoVwn6TP_C2WFvFOE.KTrqKmp4hRagHYSJjAS3gVeY8p1LMvLswJ6uTQjGezkqgEUae3qQ0WbdrxQXu8gaE.JVnVFWUu6G0sMuUb7gOE7jPScHBGmi90jWTA07sawdLKdbP2GmbkiY4iSOxJg8VIo1T7z4j_oIbdP7__H_ncNqv4REmSBaCBI6WOJUiayrw; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785085424$j55$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.fuerza-regia-de-monterrey-vs-soles-de-mexicali-luc-0515-ngay-27-07-2026",
-            "tvg_name": "Fuerza Regia De Monterrey Vs Soles De Mexicali",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_shopify_rebellion_vs_disguised_luc_0515_ngay_27_07_2026",
-        "title": "\u26bd Shopify Rebellion Vs Disguised",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=1c5791746dce149f9ef52481a83c2279&wsABSTime=1785148852&nstv_cache=1785105698",
-        "is_live": true,
-        "match_time": "05:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=p5rz5pfwek74r82",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105651$j7$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.shopify-rebellion-vs-disguised-luc-0515-ngay-27-07-2026",
-            "tvg_name": "Shopify Rebellion Vs Disguised",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_remo_belem_vs_vitoria_ba_luc_0530_ngay_27_07_2026",
         "title": "\u26bd Remo Belem Vs Vitoria Ba",
         "category": "EVENT LIVE",
@@ -778,10 +716,19 @@
         "id": "x_mikael_arseneault_vs_james_kent_trotter_luc_0700_ngay_27_07_2026",
         "title": "\u26bd Mikael Arseneault Vs James Kent Trotter",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel58.flv?wsSecret=fd52efd027819abde672e375bcc6a660&wsABSTime=1785153588&nstv_cache=1785110402",
         "is_live": true,
         "match_time": "07:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel58/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "about:blank",
+            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110387$j52$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -792,7 +739,9 @@
             "tvg_name": "Mikael Arseneault Vs James Kent Trotter",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_tatiana_barkova_vs_kennedy_drenser_hagmann_luc_0710_ngay_27_07_2026",
