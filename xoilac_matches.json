@@ -1691,6 +1691,26 @@
         }
     },
     {
+        "id": "x_ha_noi_vs_tp_ho_chi_minh_luc_1800_ngay_27_07_2026",
+        "title": "\u26bd Ha Noi Vs Tp Ho Chi Minh",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ha-noi-vs-tp-ho-chi-minh-luc-1800-ngay-27-07-2026",
+            "tvg_name": "Ha Noi Vs Tp Ho Chi Minh",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_t1_vs_dn_soopers_luc_1815_ngay_27_07_2026",
         "title": "\u26bd T Vs Dn Soopers",
         "category": "EVENT LIVE",
@@ -2030,6 +2050,26 @@
         "epg_metadata": {
             "tvg_id": "m.team-phantasma-vs-almo-players-luc-2000-ngay-27-07-2026",
             "tvg_name": "Team Phantasma Vs Almo Players",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_hoa_chat_duc_giang_vs_binh_chung_thong_tin_luc_2000_ngay_27_07_2026",
+        "title": "\u26bd Hoa Chat Duc Giang Vs Binh Chung Thong Tin",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "20:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.hoa-chat-duc-giang-vs-binh-chung-thong-tin-luc-2000-ngay-27-07-2026",
+            "tvg_name": "Hoa Chat Duc Giang Vs Binh Chung Thong Tin",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
