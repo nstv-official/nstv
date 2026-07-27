@@ -25,7 +25,31 @@
     },
     {
         "id": "fixed_vtv6_s1",
-        "title": "\ud83d\udcfa VTV6 HD (Server 1 - Community)",
+        "title": "\ud83d\udcfa VTV6 HD (Server 1 - Premium CDN)",
+        "category": "CHANNEL TV",
+        "uri": "https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/9c749012c53ec207f68f84667bfed720/1672474511017/vtc/live/hd_vtv_cantho/playlist.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://vieon.vn/",
+            "Origin": "https://vieon.vn"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.premium",
+            "tvg_name": "VTV6 Premium",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "fixed_vtv6_s2",
+        "title": "\ud83d\udcfa VTV6 HD (Server 2 - Community Relay)",
         "category": "CHANNEL TV",
         "uri": "http://125hvt.ddns.net:21585/vtv6/playlist.m3u8",
         "is_live": true,
@@ -37,76 +61,22 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "vtv6.s1",
+            "tvg_id": "vtv6.relay",
             "tvg_name": "VTV6 Relay",
-            "tvg_logo": "https://logowik.com/content/uploads/images/vietnam-television-vtv6-20131260.logowik.com.webp",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "fixed_vtv6_s2",
-        "title": "\ud83d\udcfa VTV6 HD (Server 2 - FPT Direct)",
-        "category": "CHANNEL TV",
-        "uri": "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8",
-        "is_live": true,
-        "match_time": "24/7",
-        "headers": {
-            "User-Agent": "AppleCoreMedia/1.0.0.16G77 (iPhone; CPU iPhone OS 12_4 like Mac OS X)",
-            "Referer": "https://fptplay.vn/",
-            "Origin": "https://fptplay.vn"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "vtv6.s2",
-            "tvg_name": "VTV6 FPT",
-            "tvg_logo": "https://logowik.com/content/uploads/images/vietnam-television-vtv6-20131260.logowik.com.webp",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "fixed_vtv6_s3",
-        "title": "\ud83d\udcfa VTV6 HD (Server 3 - VTV Digital)",
-        "category": "CHANNEL TV",
-        "uri": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8",
-        "is_live": true,
-        "match_time": "24/7",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Referer": "https://vtvgo.vn/",
-            "Origin": "https://vtvgo.vn"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "vtv6.s3",
-            "tvg_name": "VTV6 Digital",
             "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
         }
     },
     {
-        "id": "x_dplus_vs_hanwha_life_esports_luc_1345_ngay_27_07_2026",
-        "title": "\u26bd Dplus Vs Hanwha Life Esports",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785111066",
+        "id": "fixed_vtv6_s3",
+        "title": "\ud83d\udcfa VTV6 (Server 3 - Low Data/SD)",
+        "category": "CHANNEL TV",
+        "uri": "https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8",
         "is_live": true,
-        "match_time": "14:00",
+        "match_time": "24/7",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not(A Brand\";v=\"99\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/lol/animation?id=xwrx81u3w435qyk&view=true",
-            "Cookie": "__cf_bm=mAHu3VRXzCXngMW2_rmK12N.R04IV5iLRbSa04s_VmY-1785110973.4504862-1.0.1.1-C.WYn87ep.9ZoT7jADLe3qDBSlzx90WghZa9oMcM16_nTzVLiis8nT86KG_3_Qoqe5Owck_EoJHzrPSBknrQ3KgzUAak7aTJKTr00kvARCR7G42k.XEh.ihZc9QQYefM; _ga=GA1.1.1831085064.1785110980; _ga_P60BDCKB3G=GS2.1.s1785110980$o1$g1$t1785111016$j24$l0$h0; cf_clearance=zCzTXI33c8JI18EZ.JhFeTsA32tnkt2NvZadyz6VDJI-1785111023-1.2.1.1-a6mjOYj5W8_vkLYyyKmWPgtbRxcnT8EX5MRl8SHnArvT1H9NJqJNRIPuTvNpRRxQdjXWEmkoLeFquYEQ8WKm3qmEYax5xjeXKZ_1LbWq3npLJVImMTe4n9GFU16wi530xzecuPhbOuWo.3xZ_VpSerIYxH41cUOA4L9n9gKSQYz6e5iIz7Vza2h2AGhE5n7AzrCag4Nd200s_F2WEbEm9Vt9uedLHiM.jHEbnFU2yht3sWTL.2_ujrSA3FwXipqIcKHtc6JExgQGJ7xJ4tlfv1SzOWhclJNNXvkvU49LGl.8K4plOzltMCHhIWgqMDeJmcw9hQA2jqt.qJN4PUHcxmLfhpKSYeyKnz3hAl.YOWY",
-            "Cache-Control": "no-cache"
+            "User-Agent": "AppleCoreMedia/1.0.0.16G77 (iPhone; CPU iPhone OS 12_4 like Mac OS X)",
+            "Referer": "https://fptplay.vn/"
         },
         "drm_info": {
             "is_protected": false,
@@ -114,106 +84,11 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.dplus-vs-hanwha-life-esports-luc-1345-ngay-27-07-2026",
-            "tvg_name": "Dplus Vs Hanwha Life Esports",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "tvg_id": "vtv6.low",
+            "tvg_name": "VTV6 Low",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_huda_hue_vs_shb_da_nang_luc_1400_ngay_27_07_2026",
-        "title": "\u26bd Huda Hue Vs Shb Da Nang",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=0ccabec8e403685af3c669fdfde47857&wsABSTime=1785178917&nstv_cache=1785135754",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A:Brand\";v=\"8\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
-            "Cookie": "__cf_bm=x3ZU88fom43US4HM7S8NYimZolDlha4Q7h2D4cAm.Gw-1785135689.7714791-1.0.1.1-j2qPwwj0nglPvdMVsitH2puwxlqv1_qySO3NHJsTrTquLq7gp1V3pW7yRNKhDgFHnRX2Lx8R2JKomWebE7QrYc1p3JDq8DMLi6Iv0OP.XHjxnFzzel6E5kE63PZ8rhTX; _ga=GA1.1.1423480065.1785135692; _ga_P60BDCKB3G=GS2.1.s1785135692$o1$g1$t1785135717$j35$l0$h0; cf_clearance=x.KL1zYbp3ANBHyHgWrl7XZAwU1nS7hOCZpsynvpu0M-1785135721-1.2.1.1-leOFU412Cgg4HFXy4RoPmBvdz3.H.CUZ2lZiF0QuF10RQph6vfKSVKJlhYgpA_zmmka7hXnK_TurqkpRcDFtfvoh9Sh8CJZARMxfp.8JhW_9jTQ9IQ9kCudgkeSQlBGNthsHjXcy6eh7IC326pa1hHLyn8wM2U9k2kOOirGxMaxG3BWSAXQ39j..hym.Jj1zTUi.C1Jxzbn7BHLwp15BHSdM6gi5yfFT0Ljz_ntwhZsIzFi8QeUi_jmTDOGZev.Uy4vG1V_Y5tmwuA6cn5mRt8gNscgDuzdxOsR6RM1ul2026p0voIpBoGijO1ssYdaZ3S9rtxNb6tL8pscg60sq6reSEcEvcOMLHXaNimMaPVM",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.huda-hue-vs-shb-da-nang-luc-1400-ngay-27-07-2026",
-            "tvg_name": "Huda Hue Vs Shb Da Nang",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=49668694e203ba35acc681112bd14ce7&wsABSTime=1785128668&nstv_cache=1785085505",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel41/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=jw2r02t6yyg3qz8&view=true",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=FqCyLVDktoI03QYG72ymjLPi1YNXmNRNHwYqP_K_4CM-1785085293-1.2.1.1-nIFK1v70prz8xoIIvIVuUJQuxhRGKDWBzSIcJUL6RsGlhwGEwNBvv2LWBgdmGq4pOT_KJFBLNFe9B8xt7Yx8T2o893t_IfRVN4lxh9kMxKtiWrrh99RtAg3KD5eENVX9ekG44PBA1DD9ntqE4iPmmgHBNn0c49uMrSa5NmVEs_YZxoVwn6TP_C2WFvFOE.KTrqKmp4hRagHYSJjAS3gVeY8p1LMvLswJ6uTQjGezkqgEUae3qQ0WbdrxQXu8gaE.JVnVFWUu6G0sMuUb7gOE7jPScHBGmi90jWTA07sawdLKdbP2GmbkiY4iSOxJg8VIo1T7z4j_oIbdP7__H_ncNqv4REmSBaCBI6WOJUiayrw; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785085467$j12$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.binan-tatak-gel-vs-valenzuela-classic-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Binan Tatak Gel Vs Valenzuela Classic",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1400_ngay_27_07_2026",
-        "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785136456",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not/A_Brand\";v=\"99\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=jw2r02t6yyg3qz8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=swQE5uoCvUIpfbdLN1ibXvR62B3SbCYeco78wKPdWBQ-1785136314.214614-1.0.1.1-ihWDEhg5jgTWz0YKkb2Xvr1kct6BHbXFIHZpquRponZfz9qdsn4RH5C1urjkNxq__a6dXGO.sTkZpIqt44B7PINqqJMvE6bZ6ar0Zzp5PmtdaXy0ljKpo7ZKjznql0pc; _ga=GA1.1.317015501.1785136318; cf_clearance=Usd8VjZEAvtdR.8lkNFuyQfO9g3yg2DgMHinjbjqgUQ-1785136344-1.2.1.1-Af87ieqmBZRwT8ubPlhIjJJJ75ApxNgqpxcezjJHdDc1kx6JxtntJsOSKjmq2rIZMvHzdRLsrSZtksIP39NnNIrc4aoaFg6bSwYTy3S1An.EDMevqS9GGazmz4L7WK.Qs5Lrr.UckUHLXgMdYd8cMX6_fbs9PsjtZpVQGuzdMcIMwjreMrK31OOZyP5n_pHPaKW2V.W7L.FazsarJr9fHbGqpEtc7iP9hxSynV2QkKj11WqC_pp7U2wWLY7NX_D3nBDmjcBbmvvl5_X3XwD.vAGUpUkZlTWmSFyB8WdxR2eNPaWJ_uLuKGPD2qrl7vR85ozZ..O4ElEjPdbYMheqrNGS_UdcaBfmL3ay3XcR.Ac; _ga_P60BDCKB3G=GS2.1.s1785136318$o1$g1$t1785136381$j60$l0$h0; __cf_bm=Mo77wikPfNRhutGmFVTcFsiB2qyxTDCOIExHIMl0aEM-1785136394.0831838-1.0.1.1-cVZPGfoRBozaZgYu41hZG.yjaJlIQ3.GRtEozEjSdVppFXsEpIZi6uXZbpynL2UYrTWkXAiX6L2dGtK1NmXq8L.esu2o0bVu8Mw7AsDoRUFMtKgyIls1yv_C92Eq4Tm6; _ga=GA1.1.1566089933.1785136394; _ga_S52WSRDB70=GS2.1.s1785136394$o1$g1$t1785136415$j39$l0$h0; cf_clearance=qmvMCdkXlkYg1v_YG1Snm5QcbhpRDgHgeWp3CS48sYI-1785136418-1.2.1.1-7lO7SRYeyenJVfIp35pfp_S91soDf9XUlKYkUUdK.yhG0jrFk5KDFt.KXnatlv2OyyzM3MdNq5BiUrWNnniViKAjuSP8s8NLK3F3aFKBPxFFAe2lELOpIxiGh1MW0YyYKwhe_L23grpZzVUkNpadkmMApTCgL0vVOnv5zog_bksQ9Z5pToO0uFU.qw_4NLGpu7SZtAwLXjKGibDSJObDXQIhLn3MHElktclPeuKTWhhlW3kJC8dK7RrwZZKgl027rZs812VlykwofGaTdcfZIJ3Qkr2QqUR.HfgDkHcTifyKGMUI4k7.prqi0577zaVnrZDMYU.LCwyAHMqXv8cXbbWd.5QBkbaNVWnVxCJXjHw; Filter_Type=1; __cf_bm=K7KoustMTxwQS.Ra8v1614in3fIaBcTAHrFmj6_LOEk-1785136438.5280375-1.0.1.1-bp.zvFLKF8fUweIfMHr1pE2iLVK81mxraqz4R1uGVUhfV4k68AyWda42ggQwFc.yKKKUMas8uwK6qWY0RCW1vTc2JCKxhhRPmc2FPmNO0uJgarnKJePJcWk_mI44DUOp",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.binan-tatak-gel-vs-valenzuela-classic-luc-1400-ngay-27-07-2026",
-            "tvg_name": "Binan Tatak Gel Vs Valenzuela Classic",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
+        }
     },
     {
         "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
@@ -681,6 +556,148 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_direborn_vs_pandawa_lima_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Direborn Vs Pandawa Lima",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.direborn-vs-pandawa-lima-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Direborn Vs Pandawa Lima",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?nstv_cache=1785110528",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel25/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=vjxm8xt5dnklq6o&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110453$j60$l0$h0; __cf_bm=wW_UKTlsw9xrO.HETnEB_Y6JSx0ZQzHyblhnt8A.Jx4-1785110462.0139282-1.0.1.1-Gxk78pIASIVf6zC82xIZM71b9AFkIyCGyNY1UOWp1ZLPcS2.xWRpLJ1sfNX9yzKPlb0LqzpK6ana4ktbqgb0TLeHPXauK7PsWbb2D1o92ZBzTrFuTH02BPj.6.7Dw0s0; _ga=GA1.1.1927988215.1785110463; _ga_S52WSRDB70=GS2.1.s1785110463$o1$g1$t1785110493$j30$l0$h0; cf_clearance=jWSWDuZsJpLyzaAot9CW_oi6qFXACkk9gvnqriMVnWs-1785110497-1.2.1.1-sU5_BddtTh6fdK9NjAwYRKFbC7kO0rEwRe7Xj5mjBTTpk4wxnQwjU6iFYltOwQEAmm9hSHkuoN4h7FzHBeryODqV6husbtqfjOBv_x7Cq8ssoJuRw9exfJXqBHHPgnoTwdgRPxZBTUovxFfsV0YhE0_PGin4MzpdpR4RyHcyQidnDAT.v5LnCB5zn6lSB6XU9vrLjrtlgt4LFOazaHueoyfzV6g_vADLxS_XfBBiJ.lU_TVkqw0dnBqWzVLgRZ0.ZIZMLePD7OJa1ajc97Y_8vt65SlylreCjre5UEve7QnZsSnIB.JaC5Mm1CQv448NjSiw1T6dVQAULygGCzcopo1HipbiUS2J5tFIQ9fbx4s",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.meycauayan-vs-mindoro-tamaraws-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Meycauayan Vs Mindoro Tamaraws",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_shan_utd_vs_nu_yangon_united_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Nu Shan Utd Vs Nu Yangon United",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel24.flv?wsSecret=e6fc8815e1197b217257acf3289da0ed&wsABSTime=1785186235&nstv_cache=1785143072",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel24/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not=A/Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "_ga=GA1.1.1476133736.1785143011; _ga_P60BDCKB3G=GS2.1.s1785143010$o1$g1$t1785143034$j36$l0$h0; cf_clearance=ksRM_FggdE79UDQ39u35P2y8fCuVCcF2upDDcYRM3JM-1785143038-1.2.1.1-hYb1iyfVsFReQZ3egujYoIce2d58CqBG2W1ESSsMn7uWo3q8yE0o.wIxwAtB8E.2wDxFSeLjRwYQ.yvGcPzyGtxkXuYrPrVLu.Mewn9LUruHH3xq7oukH71opYyauOd8.h9VONyXi9Yz2j5JTV7AMm7CNI9BkI1VzLL59IMmxUcnBIW3xBwFdvnx50lheZZ9QL1P3PoNbIp1vN_HP.vYxOuBh.h9pkZCkJSd7RN3_fUn_rvoN0VWvD7FcuLAgPNqxUDpOCoV.oqL5fhclqxwxw55QcKg9I6f93rZa7BB9YWK8q_q9VSrE6eE.Pl1eBjCcJpwLefAfnZKILq9yXF149UTm47TQ7dj_P5Xer6x22Y",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-shan-utd-vs-nu-yangon-united-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Nu Shan Utd Vs Nu Yangon United",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_nu_yadanarbon_fc_vs_nu_ayeyawady_utd_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-yadanarbon-fc-vs-nu-ayeyawady-utd-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Level Up Vs Puckchamp",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.level-up-vs-puckchamp-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Level Up Vs Puckchamp",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_nu_son_la_vs_nu_ho_chi_minh_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Nu Son La Vs Nu Ho Chi Minh",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-son-la-vs-nu-ho-chi-minh-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Nu Son La Vs Nu Ho Chi Minh",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_samtskhe_akhaltsikhe_vs_gagra_fc_luc_2000_ngay_27_07_2026",
         "title": "\u26bd Samtskhe Akhaltsikhe Vs Gagra Fc",
         "category": "EVENT LIVE",
@@ -1135,137 +1152,6 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_direborn_vs_pandawa_lima_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Direborn Vs Pandawa Lima",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.direborn-vs-pandawa-lima-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Direborn Vs Pandawa Lima",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1600_ngay_27_07_2026",
-        "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?nstv_cache=1785110528",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel25/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=vjxm8xt5dnklq6o&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110453$j60$l0$h0; __cf_bm=wW_UKTlsw9xrO.HETnEB_Y6JSx0ZQzHyblhnt8A.Jx4-1785110462.0139282-1.0.1.1-Gxk78pIASIVf6zC82xIZM71b9AFkIyCGyNY1UOWp1ZLPcS2.xWRpLJ1sfNX9yzKPlb0LqzpK6ana4ktbqgb0TLeHPXauK7PsWbb2D1o92ZBzTrFuTH02BPj.6.7Dw0s0; _ga=GA1.1.1927988215.1785110463; _ga_S52WSRDB70=GS2.1.s1785110463$o1$g1$t1785110493$j30$l0$h0; cf_clearance=jWSWDuZsJpLyzaAot9CW_oi6qFXACkk9gvnqriMVnWs-1785110497-1.2.1.1-sU5_BddtTh6fdK9NjAwYRKFbC7kO0rEwRe7Xj5mjBTTpk4wxnQwjU6iFYltOwQEAmm9hSHkuoN4h7FzHBeryODqV6husbtqfjOBv_x7Cq8ssoJuRw9exfJXqBHHPgnoTwdgRPxZBTUovxFfsV0YhE0_PGin4MzpdpR4RyHcyQidnDAT.v5LnCB5zn6lSB6XU9vrLjrtlgt4LFOazaHueoyfzV6g_vADLxS_XfBBiJ.lU_TVkqw0dnBqWzVLgRZ0.ZIZMLePD7OJa1ajc97Y_8vt65SlylreCjre5UEve7QnZsSnIB.JaC5Mm1CQv448NjSiw1T6dVQAULygGCzcopo1HipbiUS2J5tFIQ9fbx4s",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.meycauayan-vs-mindoro-tamaraws-luc-1600-ngay-27-07-2026",
-            "tvg_name": "Meycauayan Vs Mindoro Tamaraws",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_nu_shan_utd_vs_nu_yangon_united_luc_1600_ngay_27_07_2026",
-        "title": "\u26bd Nu Shan Utd Vs Nu Yangon United",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-shan-utd-vs-nu-yangon-united-luc-1600-ngay-27-07-2026",
-            "tvg_name": "Nu Shan Utd Vs Nu Yangon United",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_yadanarbon_fc_vs_nu_ayeyawady_utd_luc_1630_ngay_27_07_2026",
-        "title": "\u26bd Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-yadanarbon-fc-vs-nu-ayeyawady-utd-luc-1630-ngay-27-07-2026",
-            "tvg_name": "Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
-        "title": "\u26bd Level Up Vs Puckchamp",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.level-up-vs-puckchamp-luc-1600-ngay-27-07-2026",
-            "tvg_name": "Level Up Vs Puckchamp",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_son_la_vs_nu_ho_chi_minh_luc_1600_ngay_27_07_2026",
-        "title": "\u26bd Nu Son La Vs Nu Ho Chi Minh",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.nu-son-la-vs-nu-ho-chi-minh-luc-1600-ngay-27-07-2026",
-            "tvg_name": "Nu Son La Vs Nu Ho Chi Minh",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
