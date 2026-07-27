@@ -22,25 +22,5 @@
             "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_",
-        "title": "\u26bd H\u00f4m nay, 20:30 Indonesia Campuchia",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "20:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_",
-            "tvg_name": "H\u00f4m nay, 20:30 Indonesia Campu",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
     }
 ]
