@@ -3,10 +3,19 @@
         "id": "x_carstensz_esports_vs_kicked_luc_1200_ngay_27_07_2026",
         "title": "\u26bd Carstensz Esports Vs Kicked",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel73.flv?wsSecret=ae7cc58010c4fa5d440380a64fbaa6fc&wsABSTime=1785171730&nstv_cache=1785128554",
         "is_live": true,
         "match_time": "12:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel73/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not A;Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/dota2/desktop",
+            "Cookie": "__cf_bm=7cai4QE5pd7hRKls0VCkqnPyjx1mXlxykn8g.RGBNKQ-1785128445.650745-1.0.1.1-H2CdDL7B2lnz4u9Ua_I_2M0_Kxo.BN_reDaIEJf3.xXQR3c_uR1KPW6Wj.ubl43QQgxisdhTZg9D_DBraJ66hjCAiF_6SmV6yDTxz74VpX_cw.nFCIor3Ib4gfdpaGMC; _ga=GA1.1.693391974.1785128451; cf_clearance=Y7FgPiHIprdJ1fL1wRTJvot9RB4h_z7e.E0vHIjNS4E-1785128481-1.2.1.1-o5HJ2KOGlZfNF0.tJvuzz7rk7EzNsdtkkPGQyUSMKfB_rdQpAWFwGwxKzahtc37GGodSCJ818J5M99PmPLnGdkeA2huaDTPG2W913dkxGFeapQaYlq5WhpOvuWC2kP2NAya4YrKWV1KlivwHxJ_hboL.ZrppPHs3gY4Jtp33PgIqqyA4Lt3qblfKBf2oT8eHlI77fyccdSHsVMlQ9VTqLhHBOg6j1sZ9BgwNqqUpFg_uR_SQAZkl_nNHx9hI18MbO1Mhrg3eaKJSmTn54QxbT1IGqdyIEIDasN0wsEyWjj2KBdVBfp9IpDIIF7HT8Io.3meVtsW3l5gCdcLLkAPmqj2L_N0_xbZpcWBZQbWq7xI; _ga_P60BDCKB3G=GS2.1.s1785128450$o1$g1$t1785128528$j53$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -17,7 +26,9 @@
             "tvg_name": "Carstensz Esports Vs Kicked",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
