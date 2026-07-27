@@ -1272,6 +1272,26 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Bnk Fearx Vs Gen G Esports",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "13:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.bnk-fearx-vs-gen-g-esports-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Bnk Fearx Vs Gen G Esports",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_nu_jiangxi_ganxing_vs_nu_hefei_culture_luc_1330_ngay_28_07_2026",
         "title": "\u26bd Nu Jiangxi Ganxing Vs Nu Hefei Culture",
         "category": "EVENT LIVE",
