@@ -244,6 +244,37 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1400_ngay_27_07_2026",
+        "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785136456",
+        "is_live": true,
+        "match_time": "14:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not/A_Brand\";v=\"99\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=jw2r02t6yyg3qz8&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=swQE5uoCvUIpfbdLN1ibXvR62B3SbCYeco78wKPdWBQ-1785136314.214614-1.0.1.1-ihWDEhg5jgTWz0YKkb2Xvr1kct6BHbXFIHZpquRponZfz9qdsn4RH5C1urjkNxq__a6dXGO.sTkZpIqt44B7PINqqJMvE6bZ6ar0Zzp5PmtdaXy0ljKpo7ZKjznql0pc; _ga=GA1.1.317015501.1785136318; cf_clearance=Usd8VjZEAvtdR.8lkNFuyQfO9g3yg2DgMHinjbjqgUQ-1785136344-1.2.1.1-Af87ieqmBZRwT8ubPlhIjJJJ75ApxNgqpxcezjJHdDc1kx6JxtntJsOSKjmq2rIZMvHzdRLsrSZtksIP39NnNIrc4aoaFg6bSwYTy3S1An.EDMevqS9GGazmz4L7WK.Qs5Lrr.UckUHLXgMdYd8cMX6_fbs9PsjtZpVQGuzdMcIMwjreMrK31OOZyP5n_pHPaKW2V.W7L.FazsarJr9fHbGqpEtc7iP9hxSynV2QkKj11WqC_pp7U2wWLY7NX_D3nBDmjcBbmvvl5_X3XwD.vAGUpUkZlTWmSFyB8WdxR2eNPaWJ_uLuKGPD2qrl7vR85ozZ..O4ElEjPdbYMheqrNGS_UdcaBfmL3ay3XcR.Ac; _ga_P60BDCKB3G=GS2.1.s1785136318$o1$g1$t1785136381$j60$l0$h0; __cf_bm=Mo77wikPfNRhutGmFVTcFsiB2qyxTDCOIExHIMl0aEM-1785136394.0831838-1.0.1.1-cVZPGfoRBozaZgYu41hZG.yjaJlIQ3.GRtEozEjSdVppFXsEpIZi6uXZbpynL2UYrTWkXAiX6L2dGtK1NmXq8L.esu2o0bVu8Mw7AsDoRUFMtKgyIls1yv_C92Eq4Tm6; _ga=GA1.1.1566089933.1785136394; _ga_S52WSRDB70=GS2.1.s1785136394$o1$g1$t1785136415$j39$l0$h0; cf_clearance=qmvMCdkXlkYg1v_YG1Snm5QcbhpRDgHgeWp3CS48sYI-1785136418-1.2.1.1-7lO7SRYeyenJVfIp35pfp_S91soDf9XUlKYkUUdK.yhG0jrFk5KDFt.KXnatlv2OyyzM3MdNq5BiUrWNnniViKAjuSP8s8NLK3F3aFKBPxFFAe2lELOpIxiGh1MW0YyYKwhe_L23grpZzVUkNpadkmMApTCgL0vVOnv5zog_bksQ9Z5pToO0uFU.qw_4NLGpu7SZtAwLXjKGibDSJObDXQIhLn3MHElktclPeuKTWhhlW3kJC8dK7RrwZZKgl027rZs812VlykwofGaTdcfZIJ3Qkr2QqUR.HfgDkHcTifyKGMUI4k7.prqi0577zaVnrZDMYU.LCwyAHMqXv8cXbbWd.5QBkbaNVWnVxCJXjHw; Filter_Type=1; __cf_bm=K7KoustMTxwQS.Ra8v1614in3fIaBcTAHrFmj6_LOEk-1785136438.5280375-1.0.1.1-bp.zvFLKF8fUweIfMHr1pE2iLVK81mxraqz4R1uGVUhfV4k68AyWda42ggQwFc.yKKKUMas8uwK6qWY0RCW1vTc2JCKxhhRPmc2FPmNO0uJgarnKJePJcWk_mI44DUOp",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.binan-tatak-gel-vs-valenzuela-classic-luc-1400-ngay-27-07-2026",
+            "tvg_name": "Binan Tatak Gel Vs Valenzuela Classic",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
         "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
         "title": "\u26bd Marbisu Sc Vs Lumshyiap Sc",
         "category": "EVENT LIVE",
@@ -803,37 +834,6 @@
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_binan_tatak_gel_vs_valenzuela_classic_luc_1400_ngay_27_07_2026",
-        "title": "\u26bd Binan Tatak Gel Vs Valenzuela Classic",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785136456",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not/A_Brand\";v=\"99\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=jw2r02t6yyg3qz8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=swQE5uoCvUIpfbdLN1ibXvR62B3SbCYeco78wKPdWBQ-1785136314.214614-1.0.1.1-ihWDEhg5jgTWz0YKkb2Xvr1kct6BHbXFIHZpquRponZfz9qdsn4RH5C1urjkNxq__a6dXGO.sTkZpIqt44B7PINqqJMvE6bZ6ar0Zzp5PmtdaXy0ljKpo7ZKjznql0pc; _ga=GA1.1.317015501.1785136318; cf_clearance=Usd8VjZEAvtdR.8lkNFuyQfO9g3yg2DgMHinjbjqgUQ-1785136344-1.2.1.1-Af87ieqmBZRwT8ubPlhIjJJJ75ApxNgqpxcezjJHdDc1kx6JxtntJsOSKjmq2rIZMvHzdRLsrSZtksIP39NnNIrc4aoaFg6bSwYTy3S1An.EDMevqS9GGazmz4L7WK.Qs5Lrr.UckUHLXgMdYd8cMX6_fbs9PsjtZpVQGuzdMcIMwjreMrK31OOZyP5n_pHPaKW2V.W7L.FazsarJr9fHbGqpEtc7iP9hxSynV2QkKj11WqC_pp7U2wWLY7NX_D3nBDmjcBbmvvl5_X3XwD.vAGUpUkZlTWmSFyB8WdxR2eNPaWJ_uLuKGPD2qrl7vR85ozZ..O4ElEjPdbYMheqrNGS_UdcaBfmL3ay3XcR.Ac; _ga_P60BDCKB3G=GS2.1.s1785136318$o1$g1$t1785136381$j60$l0$h0; __cf_bm=Mo77wikPfNRhutGmFVTcFsiB2qyxTDCOIExHIMl0aEM-1785136394.0831838-1.0.1.1-cVZPGfoRBozaZgYu41hZG.yjaJlIQ3.GRtEozEjSdVppFXsEpIZi6uXZbpynL2UYrTWkXAiX6L2dGtK1NmXq8L.esu2o0bVu8Mw7AsDoRUFMtKgyIls1yv_C92Eq4Tm6; _ga=GA1.1.1566089933.1785136394; _ga_S52WSRDB70=GS2.1.s1785136394$o1$g1$t1785136415$j39$l0$h0; cf_clearance=qmvMCdkXlkYg1v_YG1Snm5QcbhpRDgHgeWp3CS48sYI-1785136418-1.2.1.1-7lO7SRYeyenJVfIp35pfp_S91soDf9XUlKYkUUdK.yhG0jrFk5KDFt.KXnatlv2OyyzM3MdNq5BiUrWNnniViKAjuSP8s8NLK3F3aFKBPxFFAe2lELOpIxiGh1MW0YyYKwhe_L23grpZzVUkNpadkmMApTCgL0vVOnv5zog_bksQ9Z5pToO0uFU.qw_4NLGpu7SZtAwLXjKGibDSJObDXQIhLn3MHElktclPeuKTWhhlW3kJC8dK7RrwZZKgl027rZs812VlykwofGaTdcfZIJ3Qkr2QqUR.HfgDkHcTifyKGMUI4k7.prqi0577zaVnrZDMYU.LCwyAHMqXv8cXbbWd.5QBkbaNVWnVxCJXjHw; Filter_Type=1; __cf_bm=K7KoustMTxwQS.Ra8v1614in3fIaBcTAHrFmj6_LOEk-1785136438.5280375-1.0.1.1-bp.zvFLKF8fUweIfMHr1pE2iLVK81mxraqz4R1uGVUhfV4k68AyWda42ggQwFc.yKKKUMas8uwK6qWY0RCW1vTc2JCKxhhRPmc2FPmNO0uJgarnKJePJcWk_mI44DUOp",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.binan-tatak-gel-vs-valenzuela-classic-luc-1400-ngay-27-07-2026",
-            "tvg_name": "Binan Tatak Gel Vs Valenzuela Classic",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_t1_esports_academy_vs_nongshim_esports_academy_luc_1500_ngay_27_07_2026",
