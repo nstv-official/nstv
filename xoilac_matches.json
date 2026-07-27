@@ -27,14 +27,14 @@
         "id": "x_",
         "title": "\u26bd H\u00f4m nay, 20:30 Indonesia Campuchia",
         "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?nstv_cache=1785163106",
+        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?nstv_cache=1785163205",
         "is_live": true,
         "match_time": "20:30",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not.A:Brand\";v=\"24\"",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not A(Brand\";v=\"99\", \"Chromium\";v=\"149\"",
             "sec-ch-ua-mobile": "?0"
         },
         "drm_info": {
