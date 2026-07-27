@@ -1275,10 +1275,19 @@
         "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
         "title": "\u26bd Bnk Fearx Vs Gen G Esports",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785110901",
         "is_live": true,
         "match_time": "13:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not_A Brand\";v=\"24\", \"Chrome\";v=\"149\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/lol?profile=gm926he87ueuzr0&uuid=ypq3e3und9n7md7",
+            "Cookie": "__cf_bm=SmtrMo63z0fV_0Ca9omlkP3W_PTtBcEtiIsXix_leM4-1785110753.2274642-1.0.1.1-Nw3uxZPIJ5Gu1.k3y0Vo2v_H3bFj8b8EQCQBUvHbyxG7rd1_wp42_4hLqVWz7.rWQePPrzcRiuYBw_zmqUU4sUQ1PAfgpaQjvYewaXIaWg0ndY5BLMygMJexU.e3ZLC3; _ga_P60BDCKB3G=GS2.1.s1785110760$o1$g0$t1785110760$j60$l0$h0; _ga=GA1.1.562530160.1785110761; __cf_bm=Ui78PvlA._44xQCAokcrHBPxK_qJzFG8XjNwZy4ICdg-1785110797.6311824-1.0.1.1-8Me2EOV4O6G7KrZaAG7orVljftWjHqs7GQNg8ET1kNlXjw2UcTp1zL5IkmfgXgbJjri9CFyQEkiVCgPM.JHpG8HQ.vYYC4ue0hiwW6J2F0ZqF6_L8nQUklm3cV6wsj00; _ga=GA1.1.2058878675.1785110799; _ga_S52WSRDB70=GS2.1.s1785110798$o1$g1$t1785110829$j29$l0$h0; cf_clearance=psmB3QWRjwsVRIfUkasRxV7TEQSRyHY6nKIxCNc5GjU-1785110838-1.2.1.1-cDveo.2WVcFQQ.rCXLbLVmkPcawta4Ua.uPZa6rRKf2pZ.Rna01Lw.SXDjlOEKLY1csQtPl7HPOsupQ_cVGCxZIFKaNTFV0KC4FfQLavM9NqzGjtnLhxZv9ZScnHkwJEE6GBeGMFEIeHCcyenxw2jUkqHBnWUvzpucvet3SRhaBd7HTRa9xbegsd.4Q0PQK7X4lEDE03.sF1PE7ypE2ayhICoCb2lYUoYwdwFRYITKAOtHehjxO43jzCwmzHzJV1hNOnUlKMYXVe3MoUnvsQ41p8wJu.zAxBhrMr9nGZPXGjgGmb1.oNOZ7P_EStDMitjyyJwXR5DfBfe4Ftkeemu2H7KSE3UkJ0CpubLzTO7Ts",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1289,7 +1298,9 @@
             "tvg_name": "Bnk Fearx Vs Gen G Esports",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_nu_jiangxi_ganxing_vs_nu_hefei_culture_luc_1330_ngay_28_07_2026",
