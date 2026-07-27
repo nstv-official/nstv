@@ -1,222 +1,5 @@
 [
     {
-        "id": "x_dep_garcilaso_vs_fc_cajamarca_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Dep Garcilaso Vs Fc Cajamarca",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel13.flv?nstv_cache=1785087964",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
-            "Cookie": "ss_wb=dXhyoCdOxcldi_odolYcq0ODkMPNnqJdpIEzr6t3hbqTeLtUPBHPQE5mzyWMHeIIysLfNs9OebRH0gwYwhviQIUSX4ViKK-YhoE; ss_wb=Ir-jcrXjrLQPCZ5kiKNH4Nk7gDnV-yUKp4tNF6qNezof0wM7MQ4T-V4wG_tJclktOxAuyLFo_r5WGpffkeLU6phYOsW4i-OtxQ; ss_wb=_ISXnZZ1LkhGNK-_VCR75q2j64l7MjXfWBk9bSb1wh9pQTb_BhjQrZfexWynTfdzPrGYFq1gM_Ib7NKZ3zshg6ZWFGAPQEqAiFQ; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; FTID=1kYbYx1oiRof:1785086781:0:::; bh=EjkiTm90L0E6QnJhbmQiO3Y9IjgiLCAiQ2hyb21pdW0iO3Y9IjE0OSIsICJDaHJvbWUiO3Y9IjE0OSIqAj8wOgkiV2luZG93cyJgvYaZ0wZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/9scyHCA==; _ym_uid=1785086782166127964; _ym_d=1785086782; yabs-sid=1652375081785086782; i=5/rclrH+Bw4WXbhjP0EoDQ1Yc1t/9Ezu5IFrHtoTIQZo+0XsCdbjYQ5bmxQ/odbSbnv11fYOTZDOz/jB7JYRYNX8Tak=; yandexuid=6556641451785086782; yuidss=6556641451785086782; ymex=2100446782.yrts.1785086782#2100446782.yrtsi.1785086782; receive-cookie-deprecation=1; _ym_isad=2; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086838$j7$l0$h0; __cf_bm=PaC5KX7_uCm7K_3672oQcifV7mbpD5VPu4AohwRS7IE-1785086844.8597186-1.0.1.1-Fp_4Zp.1s3VZsu_wTPPEH5c5pH9rIWY09LCxjjGbAri5RsqWiWNONHoNc_4PK_S_JEyEztv3OzhqrFyZABFdiU7b4b1VWQNsP81uC4opdrbwY4d_iM4czrxQ2I7M_yIf; _ga=GA1.1.211758628.1785086847; cf_clearance=7QJovL4z8VhYmfglG.LRGZCwN65enZb_daIfynyGCE4-1785087594-1.2.1.1-BVuJMwtYG32Kx2Ibrgfx2rzCumWMFBb7k9K5DKHTUA3my79cYLrTh_SNmlf2sUNCkRcaEkLQNCwkOKBKd9_UAgIn10xDdfssywxo7DzvLK70W1l4kI5xX3YPHXg7DMUhZt77PTbFWlvcccf_Lj0CGJFV8FKmS5pRpcNrMVIXrum7im.alcqHtWDlp3kwF9Uwt3iojbQwvrsGedI4YC7N7Mt40BMe7U0l.oKuA.IC6sR_4ZNkt7HUFg.BMLK8GaokbgRQpT53WW8CA14XfHXoWm2UShCIxvLkxyuGxxQULwpXpJEqoKCr1EMMi_sUgBscBqbIcAvxuOmFXIgSOvh7J.O30Zqz0.7lPiwg0pyX6cM; _ga_S52WSRDB70=GS2.1.s1785086846$o1$g1$t1785087923$j36$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dep-garcilaso-vs-fc-cajamarca-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Dep Garcilaso Vs Fc Cajamarca",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_criollos_de_caguas_vs_baamon_cattle_herder_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Criollos De Caguas Vs Baamon Cattle Herder",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785105401",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=n54ql7tpgvdprvy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105352$j30$l0$h0; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.criollos-de-caguas-vs-baamon-cattle-herder-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Criollos De Caguas Vs Baamon Cattle Herder",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_osorno_vs_cd_puerto_varas_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Osorno Vs Cd Puerto Varas",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel47.flv?wsSecret=60782c80300b37e0b74f4fc0f4e6078d&wsABSTime=1785148610&nstv_cache=1785105456",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel47/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=23xmv1tp1elnmg8&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=ZDbxHHUPwqFqZGCm7kxpocOZMule6BQo2msodm_9.BU-1785105074.0773883-1.0.1.1-O5uF2BzldW9azcDkioQquSBGKXvl3BkqDh1Mp7bd4WMspb8XOTuWHCptAD3dBeOl9Cj3._.161CFyeIL.2RxSqOagTRYOS2nBMroKLWptxEcNJnuXQeh6nmvohsgOxG4; _ga=GA1.1.1420317501.1785105080; cf_clearance=HopqUWhuMott1Ui7EsOixJpzNX4yvOwYhpQF27ZiDL4-1785105128-1.2.1.1-M2gtVH4h23S8l7jThjiotwtTG6UBJU6LsvD6jn3LReklQmH2irxhh9GlzRY1KaX.mNz2G0Is9zIdAWk7rAvwCSYnePeujlJ52joG5Dqt6xlREnKGa2lgNJthfDLOEDueqPhySoC99SX0W8UlKyD_XWtRM1yCt0Nvngvc9yrZGTjm_iFBnfapnV6K7QS19Zh4ABGfN4zrVGnxcY4Knx9u5wYwOFYGoWRONcStNDFv9ldisrz73K4fG6m7wRhguCwwq6grehSpQVqaVd50B5bEZta9YJRYZuGfp3SNC1shPoFtLlFVJgjdcdgpPAOSbGVMJosQ5hnSdj6f3KCWAkuY7L9NWxf.tseR8u1t0bex71U; _ga_P60BDCKB3G=GS2.1.s1785105079$o1$g1$t1785105316$j44$l0$h0; __cf_bm=3d1sMOY.wRaRzbluQ7nVhXtWNDd5qew7WL7HH7IjbR4-1785105320.2039926-1.0.1.1-XeeJPM7_ki7mSj0zyiZtYVzFbiXnyjpQwtYf5rlrPwZc6dgMcchkm6VDep_8LW7ECt4e1OXfmRmI8dzwlmgXKDgQ40SWEkGnDmzEKm4I56ZFpLOPeTuoE.IWgrHHCrRf; _ga=GA1.1.1446135210.1785105322; cf_clearance=PY8v.FRKtSMiNGmXQcUWaD8YmAuZOxduYD2VJCBAHL4-1785105358-1.2.1.1-HgGqpVSs2W_aXkwvZkjEkvFd.VXhGkCpwxihHkLvSNq7uSqpDNaBvq0QDPN9ZfWGaAHJkHNxhM6xDQ3RTtsffqzkLM1MOSc9sPGnQPwEWvte2Hp3SAT_Jc9ZSl7wPMRiD66HGNqRD3_umy5c00sPEqc9cNfmhC5Neig2lGQ5rJ_v5aQJ1WRW4oCiOzhnoR01LOYdAtEY94PNqy.jTrbgzFjblMVA1BZdT9apTT.CP006YhM6ioM7YN1SuylXMjqnF6z_7WU4uUs98ifOyCYgT3BHP_juNSzurS6j47qDTvor49XFl9kMB3EuHvA5d_6vb_DF8YPKTYMG_ihwzAleKoq62KfqKDIZVmiFJRkCvUk; _ga_S52WSRDB70=GS2.1.s1785105322$o1$g1$t1785105409$j52$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.osorno-vs-cd-puerto-varas-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Osorno Vs Cd Puerto Varas",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_dominican_republic_vs_colombia_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Dominican Republic Vs Colombia",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel83.flv?wsSecret=bab0382fd6114a3957c70b2bbfdf5870&wsABSTime=1785149208&nstv_cache=1785106078",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel83/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not_A;Brand\";v=\"99\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/volleyball?profile=9gm9whe87ueuzr0&uuid=3glrwjh96yndqdy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=VNS9mJvKXKFE2SMOQBSpcAlZh_w6CjWXlqkqsjNHhKA-1785105844.738964-1.0.1.1-mwcVYdtjw.cqja8WF0MS2cRksvgopyBiprkrkw19PSCaUPe.CgFAT2bvHbqPvJvi7T4oIm9KDP.YJvZvq2wjX7bVfy06XCJ0oiWPVjdM.t67E3Mk_IsD4nsvhbrYwrWH; _ga=GA1.1.927598039.1785105853; cf_clearance=6fdMjsjW89dixuz.2Xs2obZ3RDce_hINyxPW6hbsrIY-1785105895-1.2.1.1-_YXN_nW_dc.DcsA5gYyq8233jQPmOSZOUaR3gwgK7iAgBCjjRlG.k5N1j.6rcMtld47HW.s_iDMEHAZRRucbDm7wU_w7qsFEGZZAtjlIL0BibNN0szLIt0NFiReGtW0URrOjBqYbjirE_plG6N12WWzFnMzfSRJCKp82DHB8u820Q3iQl0ZsSyWG3xFfx2Gm9jh2f8fFOhaDcxhOEwfLaTlqE6vUDPhQnEdIN06Je71fgKU43KB72BXlGMRv2Ce4REqX2XI7PmQDGm6VZAiPYqmK8un_nz4wRA3UXvOP1Jh_M2JHApn4lrK1s_LSBB9.O3xiNMXmjq5GjAY2xHTOLCeJ9tu_syILoT0.etMiLGMFbKvaB.F_NSIAYYbiR0.EKX6cOQ2IIoyJC0xEEy6ArNi0e27qeMeOpr1n2tUu5qFr5Mhtg4PBcvcnAkBGBmi.Y2N2tPbdEPYMxu.L6S72J42JBVzBBRtiH2UCPwDYWdaYtbEh0b17vIzPKotKBnTR.e8F3r01O3_tulRHi0.gzX0WbA3sm24vzgAp7JZ5BR_XKbCR_MbfOaqr99Goq8qbU3Ag81jUIo7xPLle_Hxlv8OXiioDKg9EUIIrSeJAw6wC6BsPT6UGL7sIeeTtdp1FltCRPgg.rBt8sZqKhvgUhmQqrkUbL4rDWJgyw_7CGJJGzds0AayQpRvDNWsFFD8O_fFcGA3r2vk0Q8TEpKlw2cEqQkB0AQo8Sb5Hymt.lmC0l4m44YrWlFs7BCFZBGeTAhxRa3SM1d0vKw4gb7OdnICJNHMOOjZvxJ2go.c8xGAXVmhcSeiQCCxsxB7..pf5tKMFAP5qkXw9zHFe6oj0dKXh5A1eT2N9P_a1HQz4m4olP6JtPL3dWHD9QkyzhmhUVcdwbswOzHW5_eepCDOMbUQepuUZK7JzZ4rmgtlpdVz5tzrN0EuhydEWq0AION271jCjrgVJ9SzT7JYDo30JrA; cf_clearance=PtiQhJa4yNZ062oP3n1xHLZG.a2HW.ft43cMIb1l0Lg-1785105895-1.2.1.1-zzXlrxDmOGv0awTCEdHNlywvyeBO1rF8Wzzp34OtpwDN.fMv1vkV22jaClmgVH5XtCjiyYlgeco.fpN7cQYxRdsXRXK9bk95okxmGBfDbJ7R3yPZNdDKnXR8hxd7CP1JeY_47ThrzwUmDolRSfdN0ZjeSe_Ss0mb._Zu9DQEVPC2EdwMeQEkWsUlMy126WNQWiZA8uucF_fBD3gc8yuDbqqJIOzSEzvd8ZGwGbNbgrHaJffbsHMLCc4xEhHrrNUjQeFkDA21CzwC._RULtiidyLh7q22V9FTRxcGUWTd11u2BzfST9FkBtShbY08fPn.gv8mmbP5m2IN9SYbJ0UmHqgv4acdRE1HifvUHw2u7LXQesWZ8HFPlkC71qROwLEPLECcV1AWtJzqC4O3XgMTFAPBm3BqQHBNtymYQPV7UKaNGjxrCe7WVjHZbzXDJwyRoJbgqpeMeeCGXQyOpVZPUsNivDTJzVFHliS3iT263xOvfp09JvLgac7DbJf5adsKcdUodQUWEJ.AkWRe3B4HA415lRFt93Ewz0GY1kQ7jU_CjIA7tsAWsAvzIuWBR72n9KunCBENaZAhR0oU8fj3.A; cf_chl_rc_ni=1; cf_clearance=jsaYFB76RMz1xhVDJGw2yJSTf5KeSIP9AZMYOZrgI70-1785105909-1.2.1.1-9CthVv9.4AAtZrZfWv3PweE3wcv9c5ul3KqWw7krac6WXvfVpxl4.R5MAi.HhGvIQE8kYbFnAUkRinq6_hq9WPj8WvjVfa4YQaWIGVuBXWbSQcGsvTvx90stCPS6wRl3aFrbv.WYCpFDYbYdRydBv6t7vAgt9hJZAAxGBtUGjswfMV3XKJZq10KGSkiDLpu33LHlanAi4GbRCaZ8n.CVtEWFELSTqb7UL7ccgXDiKHKeara7ZlOz91gE3HSweOm2eViKuZ3gbe_Lpj1abYi7KI92VogStDQKCTVG_zxnBJB128XxKJTJWFmE3B5sCN5YZ502FK9ZawHuIrCyUjNWi75G7pZeMFk2R_H6QomlZVw; _ga_P60BDCKB3G=GS2.1.s1785105852$o1$g1$t1785105972$j45$l0$h0; __cf_bm=LPMyAL1oK0iZ5a0.AWKItrHn1zNY81TKH.0ZmLsfQcs-1785105976.4146516-1.0.1.1-4p8guzHl5MxJ2mnbzeacpbbcFC.Pga6lYY3AC7VNjQJFkS3EYi6nXpX9G2pjDyK8BxP8PFWcRbybSivSlir8mgXdYont4RZ927QwPy5e42xr5LZ3GXkW_MY0J4cMf.nI; _ga=GA1.1.825323893.1785105978; _ga_S52WSRDB70=GS2.1.s1785105977$o1$g1$t1785106008$j29$l0$h0; cf_clearance=am6DBjuRoeFwh7AwKoWCkzDxBHm3MlIrV1j38hpLZV8-1785106013-1.2.1.1-4OcU6fX.u10ugUq9sRqTP2aaaWsVlLgmD_aDDVJy9Gh3cLm_VL9ydX.PIa7wl9w0X4m66lb4SgYJyfpAxQzET40SrSCU_gGlZ.3mH5jcL8c0GTXElDORdEXejIpgkHrldoW1xmmxghwFgIMkSTroFG15JaZbrkpDhI.Xz8Lyp9IsR0z1L7gunCJ1Z9lN7oMLmDGY8BpcV68QNchehzoWnvoKn1uRilTHnu_HxIhdF23nsi0jXco7ZWE_egmiGOAla7FVcH7VdvN_I5RLmfZJ1bFtTCrdQjttMnbW1rR5AUfbaIII9axttGAIx7CtwEGvBM11DL6wEJDFo6zB3PyE_8zBDjh9.rRZzgbsNzeCUU8; __cf_bm=GUR_2Uxpkcu4JSeJQLr6JyeIR2t66aETu.0lpsDNvjM-1785106056.0924668-1.0.1.1-ORYV6LfBN8GU4JucsmM.BbD2O7YBpsxHcn4o3jTtNXUP8Znm2Ws_BZ1t2pk9RILkGKKdAhHMEszpPvoQtXvPaJV864LsDyVpEHGvdkx4pYM.FxJ5suFMIOFmIjNSQE9U",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.dominican-republic-vs-colombia-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Dominican Republic Vs Colombia",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_connor_church_vs_justin_boulais_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Connor Church Vs Justin Boulais",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel52.flv?wsSecret=4515309526e2cc9aa1875dcf4b368263&wsABSTime=1785153523&nstv_cache=1785110379",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel52/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/tennis/animation?id=vjxm85f0zd6lm6o&view=true",
-            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110322$j51$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.connor-church-vs-justin-boulais-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Connor Church Vs Justin Boulais",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_mikael_arseneault_vs_james_kent_trotter_luc_0700_ngay_27_07_2026",
-        "title": "\u26bd Mikael Arseneault Vs James Kent Trotter",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel58.flv?wsSecret=fd52efd027819abde672e375bcc6a660&wsABSTime=1785153588&nstv_cache=1785110402",
-        "is_live": true,
-        "match_time": "07:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel58/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110387$j52$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.mikael-arseneault-vs-james-kent-trotter-luc-0700-ngay-27-07-2026",
-            "tvg_name": "Mikael Arseneault Vs James Kent Trotter",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_tatiana_barkova_vs_kennedy_drenser_hagmann_luc_0710_ngay_27_07_2026",
-        "title": "\u26bd Tatiana Barkova Vs Kennedy Drenser Hagmann",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel59.flv?wsSecret=f663c2f0fb60754706ec5a1bc19fe0cc&wsABSTime=1785153610&nstv_cache=1785110453",
-        "is_live": true,
-        "match_time": "07:10",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel59/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/tennis/animation?id=318q6jf15yyzro9&view=true",
-            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110409$j30$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tatiana-barkova-vs-kennedy-drenser-hagmann-luc-0710-ngay-27-07-2026",
-            "tvg_name": "Tatiana Barkova Vs Kennedy Drenser Hagmann",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_barcelona_sc_vs_ldu_quito_luc_0715_ngay_27_07_2026",
         "title": "\u26bd Barcelona Sc Vs Ldu Quito",
         "category": "EVENT LIVE",
@@ -585,6 +368,68 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_tacoma_defiance_vs_colorado_rapids_ii_luc_0900_ngay_27_07_2026",
+        "title": "\u26bd Tacoma Defiance Vs Colorado Rapids Ii",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?nstv_cache=1785088559",
+        "is_live": true,
+        "match_time": "09:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel14/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=zp5rzghgk2wnq82&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088437$j60$l0$h0; __cf_bm=GaJo2vHIfF2RUiuvpm3sWFlYm0rFVjtSzumkp3x0XoM-1785088438.8774588-1.0.1.1-_FzEXkIhakzdn6zswcZUlci89y.sK7WdfzTan1twPe0_4egnI.wynmF3htzeLyoIktYf7pQYqaOs94tcLuvFgkidz1XaNecnciZeC1CE63cEXAcr_Wm6am7_5zB_48TS; _ga=GA1.1.242154808.1785088440; cf_clearance=2MDID.nZYrB.NSfC08.IPHnlNLRZv2DFNDbSa04kwSw-1785088463-1.2.1.1-1M.uLJJs_Vwgrc7zPme13SC4vtV4_DfgO9P8vpDTu6FmPQCZsRlMGM07vg76PBeGppKlR7EAj4r5lICvygiqrf8NYK6.3kWyqAXQ5PQffw2gU0BRu3bVE1tQeiGMVje9yr_gGtOWwhn4eRSt_8xYa3tPQmKuAHsmI0yjlb113CAuT5e_1icHXaK5UID.h5BOlhtWPk9cfj0ZMHA_sNZsNMliqBIkdKRtsmRpuQ_xEnMyZe7xbNDHbpy1vnAm2cEGLno_6TDUOlOpMgACOuQle06.gZlRENnmU80AXZXlNC413g7URre5SS.ieNKcPOsryRctyT2ov6SBusVAeilRYxQlbdAUCAF.HPbbCnFnD5w; __cf_bm=waAynKxVKbMaWZ.7yazZpy28aaBi0grDubuKRdafZfI-1785088499.107008-1.0.1.1-.cswcXbAvs3e_V6_URSKetD1pCmDhTHn1YPN9uCX7.l5oxUCBYwWSCrfPjQ6EfLp84ob3O_7dp72m2T8wTMlLvmgb41sy.8jd9IDDaLr1LJJ12PNA6aK6rnyTwwgN3Yu; _ga_S52WSRDB70=GS2.1.s1785088439$o1$g1$t1785088521$j40$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.tacoma-defiance-vs-colorado-rapids-ii-luc-0900-ngay-27-07-2026",
+            "tvg_name": "Tacoma Defiance Vs Colorado Rapids Ii",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_alex_hernandez_vs_alan_magadan_luc_0910_ngay_27_07_2026",
+        "title": "\u26bd Alex Hernandez Vs Alan Magadan",
+        "category": "EVENT LIVE",
+        "uri": "https://live2.streambylivepulse.com/live/channel32.flv?nstv_cache=1785086543",
+        "is_live": true,
+        "match_time": "09:10",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "about:blank",
+            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086505$j13$l0$h0",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alex-hernandez-vs-alan-magadan-luc-0910-ngay-27-07-2026",
+            "tvg_name": "Alex Hernandez Vs Alan Magadan",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -640,37 +485,6 @@
         "epg_metadata": {
             "tvg_id": "m.samtskhe-akhaltsikhe-vs-gagra-fc-luc-2000-ngay-27-07-2026",
             "tvg_name": "Samtskhe Akhaltsikhe Vs Gagra Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_bi_u18_vs_phan_lan_u18_luc_2030_ngay_28_07_2026",
-        "title": "\u26bd Bi U Vs Phan Lan U",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=879a58eb9694aaccb1c381de7a801d23&wsABSTime=1785129317&nstv_cache=1785086154",
-        "is_live": true,
-        "match_time": "20:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel43/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.api-score.com/api/sport/basketball/animation?id=vjxm8xt56797q6o&view=true",
-            "Cookie": "__cf_bm=XOb4rW6LmWgxOIehn_iVuPtGi_VgitRacrVD9uT71Iw-1785085264.5591602-1.0.1.1-Y0WeTr18xRhbEjgB74xfIWos3YEVnJiwprTmJYAjq99otSRQK91iBmYZM_TFaZ22K3L9n2UNcP3_7ZFJn2b6Odc.opjuaQCP1W1GXV0MBIDbMv1W4QQpcn_hfNFMrsZu; _ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086116$j56$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.bi-u18-vs-phan-lan-u18-luc-2030-ngay-28-07-2026",
-            "tvg_name": "Bi U Vs Phan Lan U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
@@ -1104,68 +918,6 @@
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
-    },
-    {
-        "id": "x_tacoma_defiance_vs_colorado_rapids_ii_luc_0900_ngay_27_07_2026",
-        "title": "\u26bd Tacoma Defiance Vs Colorado Rapids Ii",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?nstv_cache=1785088559",
-        "is_live": false,
-        "match_time": "09:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel14/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not=A(Brand\";v=\"8\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=zp5rzghgk2wnq82&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=3OCp5iNIHwgowC3KLvF5NLRSrOcSA1NcRBhfB5mxCOA-1785088217.9220853-1.0.1.1-.YOoWtQ0VTaW.ACga2OuZllvwlRUT9X3qL5j_Pz3P9QGZ0DAskQ6l8hrqFFEK1zy4XRqF_kpMKGxgQG5hoSl8nJiPHsn1g0hid2ociHwRp7XKQsYvf.rMNBBvOj3PZEn; _ga=GA1.1.92588106.1785088220; cf_clearance=cR8bf8IBBG.MAhiuZ2YGQqwVZ.1ihFRkWzHGB9N.gRY-1785088246-1.2.1.1-rFB4Px_a0.7ggIYaxoGe4oiWbxuy.TcSVOqjI_u3VSjSQfcGswMOQDIy0yJy3.0lmWJ1zTuJsKctUvl3z8VvvIXegclX.uwNC9.kmkx0.S7F9hByJqhgVE88EkTub6v12Eu7reiNBCM52STHIFzSmPwatI8JXS.QHEhG3Nn8DyrQUF2F4rSPLH3BO4q05q8eR9Gf61KmwVsXZ8svlgV.K0LTaOKTF5wjyJZCCqNvLfHE8GPfuTSKdTINuTbTl6.I8faOHHohrk0Vy8vV_17.2QAVQcUq2Clc3dxC26lqqV21JeTOtNVkC7vbTttIWpfwA31YUfcxQC5JbXm1fWYEqrbuQ682evsHpbjNdhsN3BA; _ga_P60BDCKB3G=GS2.1.s1785088220$o1$g1$t1785088437$j60$l0$h0; __cf_bm=GaJo2vHIfF2RUiuvpm3sWFlYm0rFVjtSzumkp3x0XoM-1785088438.8774588-1.0.1.1-_FzEXkIhakzdn6zswcZUlci89y.sK7WdfzTan1twPe0_4egnI.wynmF3htzeLyoIktYf7pQYqaOs94tcLuvFgkidz1XaNecnciZeC1CE63cEXAcr_Wm6am7_5zB_48TS; _ga=GA1.1.242154808.1785088440; cf_clearance=2MDID.nZYrB.NSfC08.IPHnlNLRZv2DFNDbSa04kwSw-1785088463-1.2.1.1-1M.uLJJs_Vwgrc7zPme13SC4vtV4_DfgO9P8vpDTu6FmPQCZsRlMGM07vg76PBeGppKlR7EAj4r5lICvygiqrf8NYK6.3kWyqAXQ5PQffw2gU0BRu3bVE1tQeiGMVje9yr_gGtOWwhn4eRSt_8xYa3tPQmKuAHsmI0yjlb113CAuT5e_1icHXaK5UID.h5BOlhtWPk9cfj0ZMHA_sNZsNMliqBIkdKRtsmRpuQ_xEnMyZe7xbNDHbpy1vnAm2cEGLno_6TDUOlOpMgACOuQle06.gZlRENnmU80AXZXlNC413g7URre5SS.ieNKcPOsryRctyT2ov6SBusVAeilRYxQlbdAUCAF.HPbbCnFnD5w; __cf_bm=waAynKxVKbMaWZ.7yazZpy28aaBi0grDubuKRdafZfI-1785088499.107008-1.0.1.1-.cswcXbAvs3e_V6_URSKetD1pCmDhTHn1YPN9uCX7.l5oxUCBYwWSCrfPjQ6EfLp84ob3O_7dp72m2T8wTMlLvmgb41sy.8jd9IDDaLr1LJJ12PNA6aK6rnyTwwgN3Yu; _ga_S52WSRDB70=GS2.1.s1785088439$o1$g1$t1785088521$j40$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.tacoma-defiance-vs-colorado-rapids-ii-luc-0900-ngay-27-07-2026",
-            "tvg_name": "Tacoma Defiance Vs Colorado Rapids Ii",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
-        "id": "x_alex_hernandez_vs_alan_magadan_luc_0910_ngay_27_07_2026",
-        "title": "\u26bd Alex Hernandez Vs Alan Magadan",
-        "category": "EVENT LIVE",
-        "uri": "https://live2.streambylivepulse.com/live/channel32.flv?nstv_cache=1785086543",
-        "is_live": false,
-        "match_time": "09:10",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel32/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Not/A:Brand\";v=\"8\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "about:blank",
-            "Cookie": "_ga=GA1.1.1032965915.1785085267; cf_clearance=W0AXbdYakEQSOyowYLOaUTIZOM5aoDCNjYrnviG0abE-1785086033-1.2.1.1-1uwuAF.4jdor9FwCQRAzJPNxuv8iWHCCaARdYxdOgy8iA0Qfm6ARFlVYo3hkWvj_B4s94YfQYii.0J_x.Qah4IxNJpC42TI7RGzrdscgVhdXk.4uiyIvZvwU3ZSgJcqDuQ9dqZ97gGVxOmCv5Df5PysmBWqwyuMgsydj5oTjBuaP79rmg7zg8YCjvgec4YbHVD21xPr7NfI.OZBGKzxHupi.xHWFibiWQbKg6dgMPUhRrwuBu7udlcHJ9XAZwX50M9TnijYVfHziDWUvt16dN5dh1Efj_pCNOBdGw7ossAfr8pePXhBw1niDvDOkbhk81Efy5hhlRmId1xI8Q6oHY4GbNw7r0MYIevGVyaop5JQ; __cf_bm=JPmSYNiWA23sCYR1ZeKbjVby39I9xIHyE2nwEdCU67Y-1785086202.1015928-1.0.1.1-P.lTJm.4O1rmiIcxc2NGSmVb8BU_WSywoo4buBjoNvaCtWs3beX02JdzUF_yCnRguo27CrT_sMRTP0xgo1XnTAqV.0f2DeO6xxB4GqYj4w3GxanUqtafYRA.Ap..KgSx; _ga_P60BDCKB3G=GS2.1.s1785085267$o1$g1$t1785086505$j13$l0$h0",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.alex-hernandez-vs-alan-magadan-luc-0910-ngay-27-07-2026",
-            "tvg_name": "Alex Hernandez Vs Alan Magadan",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
