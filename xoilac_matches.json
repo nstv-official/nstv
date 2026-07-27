@@ -58,6 +58,57 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_sikkim_police_vs_northerners_fc_luc_1230_ngay_27_07_2026",
+        "title": "\u26bd Sikkim Police Vs Northerners Fc",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=12212a4b95724a360eaa2f234b600557&wsABSTime=1785174006&nstv_cache=1785130843",
+        "is_live": true,
+        "match_time": "12:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not A/Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=5gcRa9TTHM_UImEN_ojW.7in.8L4ebPLv6ErijpTCZM-1785130776.0726764-1.0.1.1-rdPX9qKL7ky9MH1Ywn_3zbAFMFrRHs1bgfQipAKnut_ZiT63jXInBCQHfIs6J6bSlazAEtCXXoT1fS0AMxpWKNGcFF0e7fWdGtkRsvDfIFkZQsUD9PdYpQIWKQlUBZfK; _ga=GA1.1.421997277.1785130779; _ga_P60BDCKB3G=GS2.1.s1785130779$o1$g1$t1785130804$j35$l0$h0; cf_clearance=7N1stdW22uTY7HZ5Bkr6s2WgjHZmoH0fh0EyWyYVRrk-1785130810-1.2.1.1-CUeHxTRIkPG6USia1tiWdikYAtSXcJx5eJIYOqZMq957WXxsas3vVmpW5q5jIBEd1JdNgkPjzSDapfib7aOlT_6nDSUQlITvDd_w8eSGGzydIdAkc.WfqSoyXJiKj3CMf79n7kGMFVdFjh13aGPVE9GyZGSACLu6_GIf.32mgxudJ0od9Q1O_Hd1PORgD2b.ihpZaDVYxoe5gIrg6kaiCPBBBSUqkHFN.LTXNhiTPXUSXVwniYLnDnpBtIUiZcEmpvbhL878q3yGcNO7DLNVkDcHRCoVCcEKRmPZrLbNT4wAPB58M1iy.LjDgaLtLHnZXyM_.f0yvPUnHgoeO9P.YUv5egIoFjqwus__LQ4D.jY",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.sikkim-police-vs-northerners-fc-luc-1230-ngay-27-07-2026",
+            "tvg_name": "Sikkim Police Vs Northerners Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_chanmari_fc_vs_dinthar_fc_luc_1230_ngay_27_07_2026",
+        "title": "\u26bd Chanmari Fc Vs Dinthar Fc",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "12:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.chanmari-fc-vs-dinthar-fc-luc-1230-ngay-27-07-2026",
+            "tvg_name": "Chanmari Fc Vs Dinthar Fc",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -548,46 +599,6 @@
         }
     },
     {
-        "id": "x_sikkim_police_vs_northerners_fc_luc_1230_ngay_27_07_2026",
-        "title": "\u26bd Sikkim Police Vs Northerners Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "12:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.sikkim-police-vs-northerners-fc-luc-1230-ngay-27-07-2026",
-            "tvg_name": "Sikkim Police Vs Northerners Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_chanmari_fc_vs_dinthar_fc_luc_1230_ngay_27_07_2026",
-        "title": "\u26bd Chanmari Fc Vs Dinthar Fc",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "12:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.chanmari-fc-vs-dinthar-fc-luc-1230-ngay-27-07-2026",
-            "tvg_name": "Chanmari Fc Vs Dinthar Fc",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_bnk_fearx_vs_gen_g_esports_luc_1300_ngay_27_07_2026",
         "title": "\u26bd Bnk Fearx Vs Gen G Esports",
         "category": "EVENT LIVE",
@@ -708,6 +719,26 @@
         },
         "media_id": "aHR0cHM6Ly9saXZl",
         "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_huda_hue_vs_shb_da_nang_luc_1400_ngay_27_07_2026",
+        "title": "\u26bd Huda Hue Vs Shb Da Nang",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "14:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.huda-hue-vs-shb-da-nang-luc-1400-ngay-27-07-2026",
+            "tvg_name": "Huda Hue Vs Shb Da Nang",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
@@ -1123,6 +1154,26 @@
         }
     },
     {
+        "id": "x_nu_son_la_vs_nu_ho_chi_minh_luc_1600_ngay_27_07_2026",
+        "title": "\u26bd Nu Son La Vs Nu Ho Chi Minh",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.nu-son-la-vs-nu-ho-chi-minh-luc-1600-ngay-27-07-2026",
+            "tvg_name": "Nu Son La Vs Nu Ho Chi Minh",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_thiago_monteiro_vs_manuel_mazza_luc_1610_ngay_27_07_2026",
         "title": "\u26bd Thiago Monteiro Vs Manuel Mazza",
         "category": "EVENT LIVE",
@@ -1269,6 +1320,26 @@
         "epg_metadata": {
             "tvg_id": "m.enrico-dalla-valle-vs-mika-brunold-luc-1630-ngay-27-07-2026",
             "tvg_name": "Enrico Dalla Valle Vs Mika Brunold",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ha_noi_fc_vs_pvf_u17_luc_1630_ngay_27_07_2026",
+        "title": "\u26bd Ha Noi Fc Vs Pvf U",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.ha-noi-fc-vs-pvf-u17-luc-1630-ngay-27-07-2026",
+            "tvg_name": "Ha Noi Fc Vs Pvf U",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
