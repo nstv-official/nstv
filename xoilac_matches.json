@@ -1,5 +1,32 @@
 [
     {
+        "id": "fixed_vtv6",
+        "title": "\ud83d\udcfa VTV6 (24/7)",
+        "category": "CHANNEL TV",
+        "uri": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "Referer": "https://fptplay.vn/",
+            "Origin": "https://fptplay.vn",
+            "X-Requested-With": "vn.fptplay.fptplay",
+            "Sec-Fetch-Mode": "cors",
+            "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.fpt",
+            "tvg_name": "VTV6",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_carstensz_esports_vs_kicked_luc_1200_ngay_27_07_2026",
         "title": "\u26bd Carstensz Esports Vs Kicked",
         "category": "EVENT LIVE",
@@ -517,29 +544,6 @@
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "fixed_vtv6",
-        "title": "\ud83d\udcfa VTV6 (24/7)",
-        "category": "CHANNEL TV",
-        "uri": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
-        "is_live": true,
-        "match_time": "24/7",
-        "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "Referer": "https://fptplay.vn/"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "vtv6.fpt",
-            "tvg_name": "VTV6",
-            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
         }
     },
@@ -2321,6 +2325,26 @@
         "epg_metadata": {
             "tvg_id": "m.team-ns-vs-team-rostik-luc-2200-ngay-27-07-2026",
             "tvg_name": "Team Ns Vs Team Rostik",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_alejandro_tabilo_vs_tallon_griekspoor_luc_2200_ngay_27_07_2026",
+        "title": "\u26bd Alejandro Tabilo Vs Tallon Griekspoor",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.alejandro-tabilo-vs-tallon-griekspoor-luc-2200-ngay-27-07-2026",
+            "tvg_name": "Alejandro Tabilo Vs Tallon Griekspoor",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
