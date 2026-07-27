@@ -683,10 +683,19 @@
         "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
         "title": "\u26bd Level Up Vs Puckchamp",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel74.flv?wsSecret=0cf4e7555a9c6f5af611e2d6e2d7ff8b&wsABSTime=1785186416&nstv_cache=1785143253",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel74/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not=A/Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/dota2/desktop",
+            "Cookie": "_ga=GA1.1.1476133736.1785143011; cf_clearance=ksRM_FggdE79UDQ39u35P2y8fCuVCcF2upDDcYRM3JM-1785143038-1.2.1.1-hYb1iyfVsFReQZ3egujYoIce2d58CqBG2W1ESSsMn7uWo3q8yE0o.wIxwAtB8E.2wDxFSeLjRwYQ.yvGcPzyGtxkXuYrPrVLu.Mewn9LUruHH3xq7oukH71opYyauOd8.h9VONyXi9Yz2j5JTV7AMm7CNI9BkI1VzLL59IMmxUcnBIW3xBwFdvnx50lheZZ9QL1P3PoNbIp1vN_HP.vYxOuBh.h9pkZCkJSd7RN3_fUn_rvoN0VWvD7FcuLAgPNqxUDpOCoV.oqL5fhclqxwxw55QcKg9I6f93rZa7BB9YWK8q_q9VSrE6eE.Pl1eBjCcJpwLefAfnZKILq9yXF149UTm47TQ7dj_P5Xer6x22Y; _ga_P60BDCKB3G=GS2.1.s1785143010$o1$g1$t1785143215$j3$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -697,7 +706,9 @@
             "tvg_name": "Level Up Vs Puckchamp",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_nu_son_la_vs_nu_ho_chi_minh_luc_1600_ngay_27_07_2026",
