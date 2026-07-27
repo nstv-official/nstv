@@ -666,7 +666,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "13:00",
+        "match_time": "13:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
@@ -686,7 +686,7 @@
         "category": "EVENT LIVE",
         "uri": "",
         "is_live": false,
-        "match_time": "13:00",
+        "match_time": "13:30",
         "headers": {},
         "drm_info": {
             "is_protected": false,
