@@ -9,7 +9,7 @@
         "headers": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "Referer": "https://vtvgo.vn/",
-            "X-Forwarded-For": "113.161.139.24"
+            "X-Forwarded-For": "113.161.115.223"
         },
         "drm_info": {
             "is_protected": false,
@@ -27,10 +27,16 @@
         "id": "x_",
         "title": "\u26bd H\u00f4m nay, 20:30 Indonesia Campuchia",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?nstv_cache=1785163006",
         "is_live": true,
         "match_time": "20:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not)A Brand\";v=\"8\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
