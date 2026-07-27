@@ -958,26 +958,6 @@
         }
     },
     {
-        "id": "x_direborn_vs_pandawa_lima_luc_1500_ngay_27_07_2026",
-        "title": "\u26bd Direborn Vs Pandawa Lima",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.direborn-vs-pandawa-lima-luc-1500-ngay-27-07-2026",
-            "tvg_name": "Direborn Vs Pandawa Lima",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_just_players_vs_ex_young_ninjas_luc_1500_ngay_27_07_2026",
         "title": "\u26bd Just Players Vs Ex Young Ninjas",
         "category": "EVENT LIVE",
@@ -1053,6 +1033,26 @@
         "epg_metadata": {
             "tvg_id": "m.dplus-vs-t1-luc-1515-ngay-27-07-2026",
             "tvg_name": "Dplus Vs T",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_direborn_vs_pandawa_lima_luc_1500_ngay_27_07_2026",
+        "title": "\u26bd Direborn Vs Pandawa Lima",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.direborn-vs-pandawa-lima-luc-1500-ngay-27-07-2026",
+            "tvg_name": "Direborn Vs Pandawa Lima",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
