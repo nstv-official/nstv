@@ -622,10 +622,19 @@
         "id": "x_dplus_vs_t1_luc_1515_ngay_27_07_2026",
         "title": "\u26bd Dplus Vs T",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=21010ba772bfa0b147acc31514426fbf&wsABSTime=1785185291&nstv_cache=1785142128",
         "is_live": true,
         "match_time": "15:45",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not-A:Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/lol/desktop",
+            "Cookie": "_ga=GA1.1.168285236.1785141947; cf_clearance=6X3RJ60IoB6mk1vsa6slQAbeOyD203XviWrYQaCHjVk-1785141989-1.2.1.1-ElKJZw4ngyTElZbpPvEhHJdRVT9rWhkA3I3naib9Mr4mf9mf345ilRtxu18wTEd.i5inRnKLp4cUJh86bbP8otP025Fs_uZNKQCSDsh3Fuh4_ea2MzziBK5myiuS5wMbG580GL2aThkczwr0pZbs39xpqxpwVzhQeAmPV0lBS9EAsntnfSQbbl6v.QcPZoezAM4JhyU6pQzDUVkl4qc92hSzLEY910HI2WATNJHdjUKOobPqZoCtTY0H21p4cozQhjZAaz48E0HCyp63SakNcqdRuyC5rnGtoKAkFJ8Y15p5R_VDasjEjT1Q8LCuoLV9qXLcCgRVx3aCsVrNe9wB.kd_UTjgzlJF6J142.Ay0Ss; _ga_P60BDCKB3G=GS2.1.s1785141947$o1$g1$t1785142089$j60$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -636,7 +645,9 @@
             "tvg_name": "Dplus Vs T",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
