@@ -24,21 +24,16 @@
         }
     },
     {
-        "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Arcred Vs Flacons",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=a037aa68d61d755bd1b781682937c42a&wsABSTime=1785177104&nstv_cache=1785133945",
+        "id": "fixed_vtv6_s1",
+        "title": "\ud83d\udcfa VTV6 HD (Server 1 - Digital)",
+        "category": "CHANNEL TV",
+        "uri": "https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6tt-manifest.m3u8",
         "is_live": true,
-        "match_time": "13:30",
+        "match_time": "24/7",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A Brand\";v=\"99\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/csgo/desktop",
-            "Cookie": "__cf_bm=DPfAgDk8bFCVujv7RJeqan6_sWI8xAfL7fmgoEwDMS0-1785133828.0743005-1.0.1.1-yUgUoqG2W5cvVfpbvHAtwKGQhHJfjwQl0HzOgFiKssRMnmNDGfi8Cu0XadhNRb9XIAODXE2GnkU46OoVp81AGG6RGKoEOhU1RkDhf4.6U.yNoW8lLkyD8t7PTk_smdqG; _ga=GA1.1.235264206.1785133831; cf_clearance=gHPUkMjWaLxzcFsmTF2y5Ljz88R94VT7MTkyFhwaDBE-1785133858-1.2.1.1-7BxEr7xuhfjB37RhUNfeJFcUHkVKH9r.bWm4N2lKhUloGD_SgMh1XffKCDhaQZl2mBOvko7JHRUW.uwCMDpc2jSluSyGtWSgcSNG0X_tD9.L16wKiwD48G2UhM615mtyf6cUJapNZLL7YfFMzspGKIDb_vCOaYJ2g3mE8IWPHOht1xAQgl.DbHzyB6XcC08MZamtDS5yvsfvohQRVxr9sCoZlz2MwoGJ7xsN8I.EKs4QBNU58XbeH97jZAb4n3hmKVGcu..PZWCHAv4eenbhw1vFbwghNXfbKakNzcLrnfc5anIyprY10as.45oCMmhcAXuhgcYpoAa2cSboGpZXAwnoO0.bISgLHuGMjiNHUqY; _ga_P60BDCKB3G=GS2.1.s1785133831$o1$g1$t1785133902$j51$l0$h0",
-            "Cache-Control": "no-cache"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://vtvgo.vn/",
+            "Origin": "https://vtvgo.vn"
         },
         "drm_info": {
             "is_protected": false,
@@ -46,13 +41,60 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "m.arcred-vs-flacons-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Arcred Vs Flacons",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "tvg_id": "vtv6.s1",
+            "tvg_name": "VTV6 S1",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
             "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "fixed_vtv6_s2",
+        "title": "\ud83d\udcfa VTV6 HD (Server 2 - FPT-High)",
+        "category": "CHANNEL TV",
+        "uri": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "AppleCoreMedia/1.0.0.16G77 (iPhone; CPU iPhone OS 12_4 like Mac OS X)",
+            "Referer": "https://fptplay.vn/",
+            "Origin": "https://fptplay.vn",
+            "X-Requested-With": "vn.fptplay.fptplay",
+            "X-Playback-Session-Id": "nstv-FdhqJTzHKjw="
         },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.s2",
+            "tvg_name": "VTV6 S2",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "fixed_vtv6_s3",
+        "title": "\ud83d\udcfa VTV6 HD (Server 3 - Backup)",
+        "category": "CHANNEL TV",
+        "uri": "https://vtv6-live.vtvgo.vn/vtv6/playlist.m3u8",
+        "is_live": true,
+        "match_time": "24/7",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15",
+            "Referer": "https://vtvgo.vn/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "vtv6.s3",
+            "tvg_name": "VTV6 S3",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VTV6_logo_2013.svg/200px-VTV6_logo_2013.svg.png",
+            "source_xml": "Embedded"
+        }
     },
     {
         "id": "x_cybershoke_vs_comanche_luc_1300_ngay_27_07_2026",
