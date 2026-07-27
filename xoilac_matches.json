@@ -182,6 +182,46 @@
         "mime_type": "application/x-mpegURL"
     },
     {
+        "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Arcred Vs Flacons",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "13:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.arcred-vs-flacons-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Arcred Vs Flacons",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_cybershoke_vs_comanche_luc_1300_ngay_27_07_2026",
+        "title": "\u26bd Cybershoke Vs Comanche",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": true,
+        "match_time": "13:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.cybershoke-vs-comanche-luc-1300-ngay-27-07-2026",
+            "tvg_name": "Cybershoke Vs Comanche",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
@@ -667,46 +707,6 @@
         "epg_metadata": {
             "tvg_id": "m.gabriela-andrea-knutson-vs-rebecca-sramkova-luc-2300-ngay-26-07-2026",
             "tvg_name": "Gabriela Andrea Knutson Vs Rebecca Sramkova",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_arcred_vs_flacons_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Arcred Vs Flacons",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.arcred-vs-flacons-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Arcred Vs Flacons",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_cybershoke_vs_comanche_luc_1300_ngay_27_07_2026",
-        "title": "\u26bd Cybershoke Vs Comanche",
-        "category": "EVENT LIVE",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.cybershoke-vs-comanche-luc-1300-ngay-27-07-2026",
-            "tvg_name": "Cybershoke Vs Comanche",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         }
