@@ -1000,37 +1000,6 @@
         }
     },
     {
-        "id": "x_vard_haugesund_vs_sogndal_b_luc_2300_ngay_27_07_2026",
-        "title": "\u26bd Vard Haugesund Vs Sogndal B",
-        "category": "EVENT LIVE",
-        "uri": "https://live1.streambylivepulse.com/live/channel6.flv?wsSecret=7e0cc22d48bc69ba5920f2d6c7bd9950&wsABSTime=1785152227&nstv_cache=1785109057",
-        "is_live": true,
-        "match_time": "23:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel6/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A(Brand\";v=\"99\", \"Chromium\";v=\"149\"",
-            "sec-ch-ua-mobile": "?0",
-            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=n54qllhn3x5xqvy&sideline_color=rgba%280,58,120,1%29",
-            "Cookie": "__cf_bm=8PkWKg0opXO3FPeo04m8G68NRqeZSwf3LAUT7QytnA4-1785108932.736956-1.0.1.1-1lCZdBpsYD4RE34Xb.Q2sj8YlWm0Eryi8aGTkHSqlXnJy7bOmKJELzJXy3LUB4MA8FnhYV5qshyDBUaDAcW9hUhOP7wWuEjJK0VqFOSJXJZ8WfeQFBbtAjKFEWtU14Qj; _ga=GA1.1.2101799648.1785108940; _ga_P60BDCKB3G=GS2.1.s1785108939$o1$g1$t1785108979$j20$l0$h0; __cf_bm=Z1pH.VFsW3iQY1iT5yo5HyaF6oJG7q7892NAfwsELwo-1785108983.57241-1.0.1.1-dlab9Kg9i_P6eHd0qZrFZZwXSXGhcKMMkIsiYm3U0m.g.tSmzmbUiaiFq1jwhcTq6p0.p.Zzyxe6FfI4zjAj_9iJ.C_7gl8kI5P_zlyniDjb5V5upFEC04ywR5hYBdm_; _ga=GA1.1.2009317159.1785108985; _ga_S52WSRDB70=GS2.1.s1785108984$o1$g1$t1785109027$j17$l0$h0; cf_clearance=QVd.McyRlh1ciQHBtfDludnqo3BFUv78GqDgRI.oB4Y-1785109030-1.2.1.1-xjy.OR49nJKEdBte7lMVYkcoZREkCd.K2figr23MMmqS.ejrPPdzRRSulMDQm9x.E8bQfOpgFJEtBpqUvYt9meM32V_X68fbrEC082GHDdXxiLtfKZUiKhNBP5K3ixpaxiZJLXYIYcqR8eyQmwYv4msC2puQu4Wacmb3DUDMHgkh55xoDPEwebYBpix5GYOkwQwOcn4XlXPoG4_2hg56IlLypRGoFqizOyfOAWNbqljF8mEqTjJ.sOBh.MPT0qlUIdjTVLdRdkQfkrtvvbN0NpLXqVG_YDMF10T4HzBNXzNnl5u6Q6tZMibngXrAUCvtPiUD._aMp92oORQ3Vs5t4ldW3mRB_Y905AzzT7UU_7Q; __cf_bm=ZAAkuaVH6nocqUdnc92t48_crd1gjBB5Wrb.YAG3Eps-1785109040.0414054-1.0.1.1-E_Pq9c4IdBjOur6tdTvKuT5znezyjIGqwax71dAqo6FBrRGmtExRdWB_g1H_Et3Koxi0lDrP.omGd0PiMx10z7e8l_yOg7gJWeAVdvMaUuGc5UEchROsaOAh2fKyXrOv",
-            "Cache-Control": "no-cache"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "m.vard-haugesund-vs-sogndal-b-luc-2300-ngay-27-07-2026",
-            "tvg_name": "Vard Haugesund Vs Sogndal B",
-            "tvg_logo": "https://xoilacz.vip/favicon.ico",
-            "source_xml": "Embedded"
-        },
-        "media_id": "aHR0cHM6Ly9saXZl",
-        "mime_type": "application/x-mpegURL"
-    },
-    {
         "id": "x_apr_fc_vs_al_haras_al_jumhuri_luc_2300_ngay_27_07_2026",
         "title": "\u26bd Apr Fc Vs Al Haras Al Jumhuri",
         "category": "EVENT LIVE",
@@ -1967,6 +1936,37 @@
         "epg_metadata": {
             "tvg_id": "m.hegelmann-vs-fk-zalgiris-vilnius-luc-2245-ngay-27-07-2026",
             "tvg_name": "Hegelmann Vs Fk Zalgiris Vilnius",
+            "tvg_logo": "https://xoilacz.vip/favicon.ico",
+            "source_xml": "Embedded"
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
+    },
+    {
+        "id": "x_vard_haugesund_vs_sogndal_b_luc_2300_ngay_27_07_2026",
+        "title": "\u26bd Vard Haugesund Vs Sogndal B",
+        "category": "EVENT LIVE",
+        "uri": "https://live1.streambylivepulse.com/live/channel6.flv?wsSecret=7e0cc22d48bc69ba5920f2d6c7bd9950&wsABSTime=1785152227&nstv_cache=1785109057",
+        "is_live": false,
+        "match_time": "23:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel6/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Not-A(Brand\";v=\"99\", \"Chromium\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/football?profile=9gm9whe87ueuzr0&uuid=n54qllhn3x5xqvy&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=8PkWKg0opXO3FPeo04m8G68NRqeZSwf3LAUT7QytnA4-1785108932.736956-1.0.1.1-1lCZdBpsYD4RE34Xb.Q2sj8YlWm0Eryi8aGTkHSqlXnJy7bOmKJELzJXy3LUB4MA8FnhYV5qshyDBUaDAcW9hUhOP7wWuEjJK0VqFOSJXJZ8WfeQFBbtAjKFEWtU14Qj; _ga=GA1.1.2101799648.1785108940; _ga_P60BDCKB3G=GS2.1.s1785108939$o1$g1$t1785108979$j20$l0$h0; __cf_bm=Z1pH.VFsW3iQY1iT5yo5HyaF6oJG7q7892NAfwsELwo-1785108983.57241-1.0.1.1-dlab9Kg9i_P6eHd0qZrFZZwXSXGhcKMMkIsiYm3U0m.g.tSmzmbUiaiFq1jwhcTq6p0.p.Zzyxe6FfI4zjAj_9iJ.C_7gl8kI5P_zlyniDjb5V5upFEC04ywR5hYBdm_; _ga=GA1.1.2009317159.1785108985; _ga_S52WSRDB70=GS2.1.s1785108984$o1$g1$t1785109027$j17$l0$h0; cf_clearance=QVd.McyRlh1ciQHBtfDludnqo3BFUv78GqDgRI.oB4Y-1785109030-1.2.1.1-xjy.OR49nJKEdBte7lMVYkcoZREkCd.K2figr23MMmqS.ejrPPdzRRSulMDQm9x.E8bQfOpgFJEtBpqUvYt9meM32V_X68fbrEC082GHDdXxiLtfKZUiKhNBP5K3ixpaxiZJLXYIYcqR8eyQmwYv4msC2puQu4Wacmb3DUDMHgkh55xoDPEwebYBpix5GYOkwQwOcn4XlXPoG4_2hg56IlLypRGoFqizOyfOAWNbqljF8mEqTjJ.sOBh.MPT0qlUIdjTVLdRdkQfkrtvvbN0NpLXqVG_YDMF10T4HzBNXzNnl5u6Q6tZMibngXrAUCvtPiUD._aMp92oORQ3Vs5t4ldW3mRB_Y905AzzT7UU_7Q; __cf_bm=ZAAkuaVH6nocqUdnc92t48_crd1gjBB5Wrb.YAG3Eps-1785109040.0414054-1.0.1.1-E_Pq9c4IdBjOur6tdTvKuT5znezyjIGqwax71dAqo6FBrRGmtExRdWB_g1H_Et3Koxi0lDrP.omGd0PiMx10z7e8l_yOg7gJWeAVdvMaUuGc5UEchROsaOAh2fKyXrOv",
+            "Cache-Control": "no-cache"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "m.vard-haugesund-vs-sogndal-b-luc-2300-ngay-27-07-2026",
+            "tvg_name": "Vard Haugesund Vs Sogndal B",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
         },
