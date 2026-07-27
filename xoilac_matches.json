@@ -278,10 +278,19 @@
         "id": "x_marbisu_sc_vs_lumshyiap_sc_luc_1430_ngay_27_07_2026",
         "title": "\u26bd Marbisu Sc Vs Lumshyiap Sc",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=891120cc9ddf4f72ab020a6dfd2aac03&wsABSTime=1785180716&nstv_cache=1785137554",
         "is_live": true,
         "match_time": "14:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/7/link/channel22/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not=A.Brand\";v=\"8\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "__cf_bm=2ZGCMEtksBzCT3RyaKI4O0.HvABuzGiGOV2romHV03w-1785137376.1170187-1.0.1.1-NeklF.cOfnhe57YQQ7xAC1bZOLNUJCiDYv7vPSkA8S67NFMI6LIAaWacMOjrkurzuf.sGrvYtJZc.e5zEimzNop1Xifocijn1fPfqVDnWY0_7IMr4c1iHAQWto88THMO; _ga=GA1.1.359835757.1785137378; cf_clearance=Wkq2RL0pWLXYbBi0WLhZes827TSZYZArxlirwvREnWw-1785137405-1.2.1.1-H63aE.NUpAFi2MUr_OdYHB3YqSp5RUAXCgJd9SGrBPS5EksIC_9GAe1LaYcEa_5KFauk9P7.U67JMl7MtANXhJL0pFMtKovFMQRS4Rz_38zR19nWuaBLnZR2CImf1eQR_R5t.nNAv2rDZ3tGvQn8VJciRkJqJ4c2Y99rZY5Bcq81Y7y2vg2aHRx0KmdpySB895UT3aeQ1OsHqoxwxEUtnGLI0e.wiECy6ZouFlGdYwNv7eu2pwHBPRtq2oehlAXut12w8Dy0aAubB3M0vInzp307.JvqiTWQxAzy9knNP6eFHcn59l02Xout4999EAfesMBZNHhDx1dTPpxW_wPzE_Fk2uHwtFg8vxAfxB5YfYk; _ga_P60BDCKB3G=GS2.1.s1785137377$o1$g1$t1785137449$j52$l0$h0; __cf_bm=LjYva0rbrzhLOZGFkfbQwSJSHcoS3PXadKrxo6VnShg-1785137450.6382642-1.0.1.1-LB4PnX855haWS_yUaD7a0LB5qdJDQy3yruN2A_V0lGmLzxEWZ6WE0YUti4apeCwtWqoSpqmZDK.NwgiHPgtgci4ep__UrQqi3YNBdX5bZCf2YuEOFvLjd406UfjX8wof; _ga=GA1.1.688600468.1785137452; cf_clearance=adLvLs19T9d9j5VqzW3Hm7Szxf5dF_5CZzdpGpAs01o-1785137473-1.2.1.1-OEdMvwq3V8JMumg2tgIwdnGSRDsBaDzdsWxQqCm9Utu5OtoTwxGffmYmy85tNvaa2zU3pFQR3pnknvknz5.7HVYWS7mAVJlHEfa0oWwUGBkCNx_ONT0r.depVQ6nJ1bUyPlIZbWbugQwU3Ztz0ZU8lNOOtPOdbXQY9agvTZt81ThRust99cgaFWMIxyY4FVhxuZ9KHB_9eQJl4kF1dOCjcZfAUvojd0GEPbO2zusrNo9H8iZSuDpcwWHTmM1FSVodp.pVYcV7bTCvw_Tjowan0x2fYSjmkfbX2Avd2bcU_tt2gGf3wjQtNNHBRZ..SR1alLdYqP48LWOLeuJTERoc1bQCQkOXxzbHfGuvWNvTV8; FilterOption=2; Hidden_MatchID=_; Hidden_SclassID=_; Filter_Type=1; __cf_bm=97bWMYQz6lPNU1QOaLKoJFnHl2yrwOLUK5tR781L_hk-1785137511.7699986-1.0.1.1-QPY13T5eleSq.bzt7MJkZTP5fFqQpSeirfc3t8qmRkRLOwD4x2Vhq4nQySbdnw48cgBACWbXs5FCLu4.Fgi0ufC0j2r2yv0RwRzleUzR_v69IHsLWn55cbVsMwqTtEXK; refreshData=1; _ga_S52WSRDB70=GS2.1.s1785137451$o1$g1$t1785137515$j60$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -292,7 +301,9 @@
             "tvg_name": "Marbisu Sc Vs Lumshyiap Sc",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1100_ngay_27_07_2026",
