@@ -1430,10 +1430,19 @@
         "id": "x_meycauayan_vs_mindoro_tamaraws_luc_1600_ngay_27_07_2026",
         "title": "\u26bd Meycauayan Vs Mindoro Tamaraws",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?nstv_cache=1785110528",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.livepingscorex.com/ajax/chanel/type/8/link/channel25/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not/A_Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://widgets.thesports01.com/vi/3d/basketball?profile=9gm9whe87ueuzr0&uuid=vjxm8xt5dnklq6o&sideline_color=rgba%280,58,120,1%29",
+            "Cookie": "__cf_bm=55A4zOiiKJy.ZXWsJk.zfZhQ_j4F9hrI5osPslM8tZk-1785110221.9544249-1.0.1.1-xYft1ccdpYqMNNpMzyPnTbmMwFBUpCnuOfOV9WFukdxqp9o8OXYTH5aCkTDIw8.lj1DpjfOTc9nKkNUyWYi_ROEB1tbVoBolC5LO9Xwd6h9.SlQCru7rPsEBnlu6i3XD; _ga=GA1.1.1723207509.1785110226; cf_clearance=o3CMNuiVp8Ls2xu_fBBrQFxyzKjdZfb4lx4Jc95rcCE-1785110263-1.2.1.1-1.HRAj8tRlPL9BQTZDCLUab3cySq9WKRKDNZkL08sM8DmFqh8.hnrs5h8l3xZUtJI2Z92V8z.MMeuH.GamaHg4g8w8Gw7zhIJuQiIeKRl7K_UKlbn1hG2zuwheIriSZhDpG3s1rCUbB1JiqaTFtX.VJFz2S.TlJQTxU6lk2dey.E_61JV3.pYbabYGuslQm7goctrgqnwXnxy0gmgCsRSMhzKdkzvQPRQt28qfIm2tztkV7XlZWgpXkNMi4Rgh40L7l2_hpw1TmFVGtZagyXmrqSWrn1wsRv.D3RRUE7mflYGEK9IBE6MTlg7nzMaRLAY4HblRHjetKJ5PQHx1GTgiqj3YX6KaXUH2YZo9tKL3o; _ga_P60BDCKB3G=GS2.1.s1785110226$o1$g1$t1785110453$j60$l0$h0; __cf_bm=wW_UKTlsw9xrO.HETnEB_Y6JSx0ZQzHyblhnt8A.Jx4-1785110462.0139282-1.0.1.1-Gxk78pIASIVf6zC82xIZM71b9AFkIyCGyNY1UOWp1ZLPcS2.xWRpLJ1sfNX9yzKPlb0LqzpK6ana4ktbqgb0TLeHPXauK7PsWbb2D1o92ZBzTrFuTH02BPj.6.7Dw0s0; _ga=GA1.1.1927988215.1785110463; _ga_S52WSRDB70=GS2.1.s1785110463$o1$g1$t1785110493$j30$l0$h0; cf_clearance=jWSWDuZsJpLyzaAot9CW_oi6qFXACkk9gvnqriMVnWs-1785110497-1.2.1.1-sU5_BddtTh6fdK9NjAwYRKFbC7kO0rEwRe7Xj5mjBTTpk4wxnQwjU6iFYltOwQEAmm9hSHkuoN4h7FzHBeryODqV6husbtqfjOBv_x7Cq8ssoJuRw9exfJXqBHHPgnoTwdgRPxZBTUovxFfsV0YhE0_PGin4MzpdpR4RyHcyQidnDAT.v5LnCB5zn6lSB6XU9vrLjrtlgt4LFOazaHueoyfzV6g_vADLxS_XfBBiJ.lU_TVkqw0dnBqWzVLgRZ0.ZIZMLePD7OJa1ajc97Y_8vt65SlylreCjre5UEve7QnZsSnIB.JaC5Mm1CQv448NjSiw1T6dVQAULygGCzcopo1HipbiUS2J5tFIQ9fbx4s",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -1444,7 +1453,9 @@
             "tvg_name": "Meycauayan Vs Mindoro Tamaraws",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_melbourne_victory_r_vs_north_sunshine_eagles_luc_1630_ngay_27_07_2026",
