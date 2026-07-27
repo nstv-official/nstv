@@ -641,10 +641,19 @@
         "id": "x_nu_yadanarbon_fc_vs_nu_ayeyawady_utd_luc_1630_ngay_27_07_2026",
         "title": "\u26bd Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
         "category": "EVENT LIVE",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=1302ec046c426e36efc9e7162534cece&wsABSTime=1785186278&nstv_cache=1785143115",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel25/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            "sec-ch-ua": "\"Not=A/Brand\";v=\"24\", \"Chromium\";v=\"149\", \"Chrome\";v=\"149\"",
+            "sec-ch-ua-mobile": "?0",
+            "Referer": "https://chatboxn.com/room/6362206e7e42f3850b75692c/football/desktop",
+            "Cookie": "_ga=GA1.1.1476133736.1785143011; cf_clearance=ksRM_FggdE79UDQ39u35P2y8fCuVCcF2upDDcYRM3JM-1785143038-1.2.1.1-hYb1iyfVsFReQZ3egujYoIce2d58CqBG2W1ESSsMn7uWo3q8yE0o.wIxwAtB8E.2wDxFSeLjRwYQ.yvGcPzyGtxkXuYrPrVLu.Mewn9LUruHH3xq7oukH71opYyauOd8.h9VONyXi9Yz2j5JTV7AMm7CNI9BkI1VzLL59IMmxUcnBIW3xBwFdvnx50lheZZ9QL1P3PoNbIp1vN_HP.vYxOuBh.h9pkZCkJSd7RN3_fUn_rvoN0VWvD7FcuLAgPNqxUDpOCoV.oqL5fhclqxwxw55QcKg9I6f93rZa7BB9YWK8q_q9VSrE6eE.Pl1eBjCcJpwLefAfnZKILq9yXF149UTm47TQ7dj_P5Xer6x22Y; _ga_P60BDCKB3G=GS2.1.s1785143010$o1$g1$t1785143076$j56$l0$h0",
+            "Cache-Control": "no-cache"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -655,7 +664,9 @@
             "tvg_name": "Nu Yadanarbon Fc Vs Nu Ayeyawady Utd",
             "tvg_logo": "https://xoilacz.vip/favicon.ico",
             "source_xml": "Embedded"
-        }
+        },
+        "media_id": "aHR0cHM6Ly9saXZl",
+        "mime_type": "application/x-mpegURL"
     },
     {
         "id": "x_level_up_vs_puckchamp_luc_1600_ngay_27_07_2026",
