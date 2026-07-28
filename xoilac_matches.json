@@ -491,10 +491,16 @@
         "id": "x_0",
         "title": "\u26bd 0",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel5.flv?nstv_cache=1785234056",
         "is_live": true,
         "match_time": "LIVE",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel5/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
