@@ -1,12 +1,14 @@
 [
     {
         "id": "fixed_vtv6_relay",
-        "title": "\ud83d\udcfa VTV6 HD (Community Relay)",
+        "title": "\ud83d\udcfa VTV6 HD (Sports - 24/7)",
         "category": "CHANNEL TV",
         "uri": "http://125hvt.ddns.net:21585/vtv6/playlist.m3u8",
         "is_live": true,
         "match_time": "24/7",
-        "headers": {},
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
