@@ -283,10 +283,16 @@
         "id": "x_patha_chakra_vs_east_bengal_ii",
         "title": "\u26bd Patha Chakra Vs East Bengal Ii",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=ede13c4fd4957a78634c3bd2cb9b5bb4&wsABSTime=1785277328&nstv_cache=1785234144",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel34/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
