@@ -117,10 +117,16 @@
         "id": "x_romania_u18_vs_na_uy_u18",
         "title": "\u26bd Romania U18 Vs Na Uy U18",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=50cd2462646df38cce3d6bb0fdd875de&wsABSTime=1785277571&nstv_cache=1785234394",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel43/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
