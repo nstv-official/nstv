@@ -244,32 +244,6 @@
         }
     },
     {
-        "id": "x_wang_pei_yu_vs_vu_thi_trang",
-        "title": "\u26bd Wang Pei Yu Vs Vu Thi Trang",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel63.flv?wsSecret=909f5cc4fc367d2b5a7bfe0660ff3b48&wsABSTime=1785278648&nstv_cache=1785235460",
-        "is_live": true,
-        "match_time": "16:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel63/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_wang_pei_yu_vs_vu_thi_trang",
-            "tvg_name": "Wang Pei Yu Vs Vu Thi Trang",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_chelsea_vs_western_sydney",
         "title": "\u26bd Chelsea Vs Western Sydney",
         "category": "FOOTBALL",
