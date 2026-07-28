@@ -7,7 +7,7 @@ import os
 import random
 from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
-from playwright_stealth import stealth_async
+import playwright_stealth
 
 # ==============================================================================
 # SYSTEM CONFIGURATION (V14.1 - DATA SYNC WORKER)
@@ -138,7 +138,7 @@ def finalize_sync(registry):
 async def process_entry_manifest(context, info, registry):
     m_url = info["url"]; m_id = info["id"]
     page = await context.new_page()
-    await stealth_async(page)
+    playwright_stealth.stealth(page)
     links = []; uri = ""; headers = {}
 
     async def sniffer(request):
@@ -189,7 +189,7 @@ async def run_sync_cycle():
             browser = await p.chromium.launch(headless=HEADLESS_MODE)
             context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
             page = await context.new_page()
-            await stealth_async(page)
+            playwright_stealth.stealth(page)
         except: return
 
         now = datetime.now()
