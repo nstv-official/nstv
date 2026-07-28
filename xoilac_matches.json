@@ -359,10 +359,16 @@
         "id": "x_pedro_martinez_vs_hugo_dellien",
         "title": "\u26bd Pedro Martinez Vs Hugo Dellien",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=a9f62418ace7f039313eae6103c9e139&wsABSTime=1785278629&nstv_cache=1785235441",
         "is_live": true,
         "match_time": "17:10",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel57/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
