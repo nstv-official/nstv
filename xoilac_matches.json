@@ -157,10 +157,16 @@
         "id": "x_nu_young_lionesses_fc_vs_nu_zwekapin_fc",
         "title": "\u26bd Nu Young Lionesses Fc Vs Nu Zwekapin Fc",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=525633e2249fde1a7dfb1b95d42a0eba&wsABSTime=1785277304&nstv_cache=1785234119",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel33/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
