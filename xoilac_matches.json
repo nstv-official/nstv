@@ -21,5 +21,25 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/vtv6.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "x_",
+        "title": "\u26bd Philippines Vs Myanmar",
+        "category": "EVENT LIVE",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_",
+            "tvg_name": "Philippines Vs Myanmar",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/myanmar.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
