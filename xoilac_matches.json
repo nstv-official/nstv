@@ -309,10 +309,16 @@
         "id": "x_bss_sporting_club_vs_bengal_nagpur",
         "title": "\ud83c\udfce\ufe0f Bss Sporting Club Vs Bengal Nagpur",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=956326f2526171976ccfbb0f77311dc3&wsABSTime=1785277364&nstv_cache=1785234181",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel35/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
