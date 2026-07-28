@@ -325,10 +325,16 @@
         "id": "x_kt_rolster_challengers_vs_dplus_challengers",
         "title": "\u26bd Kt Rolster Challengers Vs Dplus Challengers",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=afcb30ddbf75074fb00aa33e7538e6c5&wsABSTime=1785278688&nstv_cache=1785235500",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
