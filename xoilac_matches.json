@@ -1170,46 +1170,6 @@
         }
     },
     {
-        "id": "x_mibr_vs_fluxo",
-        "title": "\u26bd Mibr Vs Fluxo",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_mibr_vs_fluxo",
-            "tvg_name": "Mibr Vs Fluxo",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_tdk_vs_baks",
-        "title": "\u26bd Tdk Vs Baks",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_tdk_vs_baks",
-            "tvg_name": "Tdk Vs Baks",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_stray_team_vs_team_rostik",
         "title": "\u26bd Stray Team Vs Team Rostik",
         "category": "FOOTBALL",
@@ -1245,6 +1205,46 @@
         "epg_metadata": {
             "tvg_id": "x_team_voodoosh_vs_daxao_team",
             "tvg_name": "Team Voodoosh Vs Daxao Team",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mibr_vs_fluxo",
+        "title": "\u26bd Mibr Vs Fluxo",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_mibr_vs_fluxo",
+            "tvg_name": "Mibr Vs Fluxo",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_tdk_vs_baks",
+        "title": "\u26bd Tdk Vs Baks",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_tdk_vs_baks",
+            "tvg_name": "Tdk Vs Baks",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
