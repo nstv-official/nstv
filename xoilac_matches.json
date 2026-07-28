@@ -140,6 +140,32 @@
         }
     },
     {
+        "id": "x_nu_shanxi_tianze_vs_nu_jiangxi_ganxing",
+        "title": "\u26bd Nu Shanxi Tianze Vs Nu Jiangxi Ganxing",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel44.flv?wsSecret=14d8402b24b96f8db40242b355344179&wsABSTime=1785278947&nstv_cache=1785235759",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel44/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not?A(Brand\";v=\"8\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_nu_shanxi_tianze_vs_nu_jiangxi_ganxing",
+            "tvg_name": "Nu Shanxi Tianze Vs Nu Jiangxi Ganxing",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_togan_tokac_vs_semen_pankin",
         "title": "\u26bd Togan Tokac Vs Semen Pankin",
         "category": "FOOTBALL",
@@ -291,32 +317,6 @@
         "epg_metadata": {
             "tvg_id": "x_portimonense_vs_al_ahli_sc",
             "tvg_name": "Portimonense Vs Al Ahli Sc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_zamboanga_master_sardines_vs_paranaque_patriots",
-        "title": "\u26bd Zamboanga Master Sardines Vs Paranaque Patriots",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?nstv_cache=1785234359",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel29/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_zamboanga_master_sardines_vs_paranaque_patriots",
-            "tvg_name": "Zamboanga Master Sardines Vs Paranaque Patriots",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
