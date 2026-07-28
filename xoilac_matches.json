@@ -449,10 +449,16 @@
         "id": "x_dn_soopers_vs_fredit_brion",
         "title": "\u26bd Dn Soopers Vs Fredit Brion",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel30.flv?nstv_cache=1785235520",
         "is_live": true,
         "match_time": "17:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel30/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
