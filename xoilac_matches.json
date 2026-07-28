@@ -1,13 +1,14 @@
 [
     {
-        "id": "fixed_vtv6_relay",
-        "title": "\ud83d\udcfa VTV6 HD (Sports - 24/7)",
+        "id": "fixed_vtv6_sctv",
+        "title": "\ud83d\udcfa VTV6 HD (Sports)",
         "category": "CHANNEL TV",
-        "uri": "http://125hvt.ddns.net:21585/vtv6/playlist.m3u8",
+        "uri": "https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8",
         "is_live": true,
         "match_time": "24/7",
         "headers": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Referer": "https://sctvonline.vn/"
         },
         "drm_info": {
             "is_protected": false,
@@ -15,7 +16,7 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "vtv6.relay",
+            "tvg_id": "vtv6.sctv",
             "tvg_name": "VTV6",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/vtv6.png",
             "source_xml": "Embedded"
