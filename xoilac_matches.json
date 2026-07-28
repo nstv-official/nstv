@@ -22,32 +22,6 @@
         }
     },
     {
-        "id": "x_tampines_rovers_vs_arema_fc",
-        "title": "\u26bd Tampines Rovers Vs Arema Fc",
-        "category": "PIALA PRESIDEN",
-        "uri": "https://live2.streambylivepulse.com/live/channel4.flv?nstv_cache=1785234098",
-        "is_live": true,
-        "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_tampines_rovers_vs_arema_fc",
-            "tvg_name": "Tampines Rovers Vs Arema Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/piala_presiden.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_dpmm_fc_vs_persib_bandung",
         "title": "\u26bd Dpmm Fc Vs Persib Bandung",
         "category": "PIALA PRESIDEN",
@@ -89,7 +63,7 @@
         "epg_metadata": {
             "tvg_id": "x_philippines_vs_myanmar",
             "tvg_name": "Philippines Vs Myanmar",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/asean_football.png",
             "source_xml": "Embedded"
         }
     },
@@ -109,53 +83,7 @@
         "epg_metadata": {
             "tvg_id": "x_malaysia_vs_lao",
             "tvg_name": "Malaysia Vs Lao",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_romania_u18_vs_na_uy_u18",
-        "title": "\u26bd Romania U18 Vs Na Uy U18",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=50cd2462646df38cce3d6bb0fdd875de&wsABSTime=1785277571&nstv_cache=1785234394",
-        "is_live": true,
-        "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel43/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_romania_u18_vs_na_uy_u18",
-            "tvg_name": "Romania U18 Vs Na Uy U18",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_johan_nikles_vs_alex_barrena",
-        "title": "\u26bd Johan Nikles Vs Alex Barrena",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": true,
-        "match_time": "15:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_johan_nikles_vs_alex_barrena",
-            "tvg_name": "Johan Nikles Vs Alex Barrena",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/asean_football.png",
             "source_xml": "Embedded"
         }
     },
@@ -212,32 +140,6 @@
         }
     },
     {
-        "id": "x_nu_shandong_speed_vs_nu_xinjiang_tianshan",
-        "title": "\u26bd Nu Shandong Speed Vs Nu Xinjiang Tianshan",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785234330",
-        "is_live": true,
-        "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_nu_shandong_speed_vs_nu_xinjiang_tianshan",
-            "tvg_name": "Nu Shandong Speed Vs Nu Xinjiang Tianshan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_togan_tokac_vs_semen_pankin",
         "title": "\u26bd Togan Tokac Vs Semen Pankin",
         "category": "FOOTBALL",
@@ -278,26 +180,6 @@
         }
     },
     {
-        "id": "x_lin_sheng_ming_sung_yi_hsuan_vs_lu_chen_lin_yen_yu",
-        "title": "\u26bd Lin Sheng Ming Sung Yi Hsuan Vs Lu Chen Lin Yen Yu",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": true,
-        "match_time": "16:20",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_lin_sheng_ming_sung_yi_hsuan_vs_lu_chen_lin_yen_yu",
-            "tvg_name": "Lin Sheng Ming Sung Yi Hsuan Vs Lu Chen Lin Yen Yu",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_patha_chakra_vs_east_bengal_ii",
         "title": "\u26bd Patha Chakra Vs East Bengal Ii",
         "category": "FOOTBALL",
@@ -319,32 +201,6 @@
         "epg_metadata": {
             "tvg_id": "x_patha_chakra_vs_east_bengal_ii",
             "tvg_name": "Patha Chakra Vs East Bengal Ii",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_bss_sporting_club_vs_bengal_nagpur",
-        "title": "\ud83c\udfce\ufe0f Bss Sporting Club Vs Bengal Nagpur",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=956326f2526171976ccfbb0f77311dc3&wsABSTime=1785277364&nstv_cache=1785234181",
-        "is_live": true,
-        "match_time": "16:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel35/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_bss_sporting_club_vs_bengal_nagpur",
-            "tvg_name": "Bss Sporting Club Vs Bengal Nagpur",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -508,26 +364,6 @@
         }
     },
     {
-        "id": "x_ping_hsien_huang_vs_garret_tan",
-        "title": "\u26bd Ping Hsien Huang Vs Garret Tan",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": true,
-        "match_time": "17:10",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_ping_hsien_huang_vs_garret_tan",
-            "tvg_name": "Ping Hsien Huang Vs Garret Tan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_riki_takei_vs_choi_ji_hoon",
         "title": "\u26bd Riki Takei Vs Choi Ji Hoon",
         "category": "FOOTBALL",
@@ -543,6 +379,52 @@
         "epg_metadata": {
             "tvg_id": "x_riki_takei_vs_choi_ji_hoon",
             "tvg_name": "Riki Takei Vs Choi Ji Hoon",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_mawryngkneng_cultural_vs_umphrup_fc",
+        "title": "\u26bd Mawryngkneng Cultural Vs Umphrup Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel36.flv?wsSecret=e61ebcab0cdc8a2cd4593d7f1cfdad0e&wsABSTime=1785278573&nstv_cache=1785235384",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel36/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_mawryngkneng_cultural_vs_umphrup_fc",
+            "tvg_name": "Mawryngkneng Cultural Vs Umphrup Fc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_dn_soopers_vs_fredit_brion",
+        "title": "\u26bd Dn Soopers Vs Fredit Brion",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_dn_soopers_vs_fredit_brion",
+            "tvg_name": "Dn Soopers Vs Fredit Brion",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -595,46 +477,6 @@
         "epg_metadata": {
             "tvg_id": "x_1",
             "tvg_name": "1",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_mawryngkneng_cultural_vs_umphrup_fc",
-        "title": "\u26bd Mawryngkneng Cultural Vs Umphrup Fc",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_mawryngkneng_cultural_vs_umphrup_fc",
-            "tvg_name": "Mawryngkneng Cultural Vs Umphrup Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_dn_soopers_vs_fredit_brion",
-        "title": "\u26bd Dn Soopers Vs Fredit Brion",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_dn_soopers_vs_fredit_brion",
-            "tvg_name": "Dn Soopers Vs Fredit Brion",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1160,6 +1002,46 @@
         }
     },
     {
+        "id": "x_kups_vs_sabah_fk",
+        "title": "\u26bd Kups Vs Sabah Fk",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_kups_vs_sabah_fk",
+            "tvg_name": "Kups Vs Sabah Fk",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_neftchi_fergana_vs_navbahor_namangan",
+        "title": "\u26bd Neftchi Fergana Vs Navbahor Namangan",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_neftchi_fergana_vs_navbahor_namangan",
+            "tvg_name": "Neftchi Fergana Vs Navbahor Namangan",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_kamil_majchrzak_vs_tommy_paul",
         "title": "\u26bd Kamil Majchrzak Vs Tommy Paul",
         "category": "FOOTBALL",
@@ -1320,46 +1202,6 @@
         }
     },
     {
-        "id": "x_kups_vs_sabah_fk",
-        "title": "\u26bd Kups Vs Sabah Fk",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_kups_vs_sabah_fk",
-            "tvg_name": "Kups Vs Sabah Fk",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_neftchi_fergana_vs_navbahor_namangan",
-        "title": "\u26bd Neftchi Fergana Vs Navbahor Namangan",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_neftchi_fergana_vs_navbahor_namangan",
-            "tvg_name": "Neftchi Fergana Vs Navbahor Namangan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_cagliari_vs_modena",
         "title": "\u26bd Cagliari Vs Modena",
         "category": "FOOTBALL",
@@ -1455,6 +1297,26 @@
         "epg_metadata": {
             "tvg_id": "x_udinese_vs_shabab_al_ahli",
             "tvg_name": "Udinese Vs Shabab Al Ahli",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_vihren_sandanski_vs_cska_sofia_b",
+        "title": "\u26bd Vihren Sandanski Vs Cska Sofia B",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_vihren_sandanski_vs_cska_sofia_b",
+            "tvg_name": "Vihren Sandanski Vs Cska Sofia B",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
