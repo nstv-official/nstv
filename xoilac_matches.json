@@ -25,16 +25,10 @@
         "id": "x_tampines_rovers_vs_arema_fc",
         "title": "\u26bd Tampines Rovers Vs Arema Fc",
         "category": "PIALA PRESIDEN",
-        "uri": "https://live2.streambylivepulse.com/live/channel4.flv?nstv_cache=1785233324",
+        "uri": "",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -71,14 +65,14 @@
         "id": "x_philippines_vs_myanmar",
         "title": "\u26bd Philippines Vs Myanmar",
         "category": "ASEAN FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel5.flv?nstv_cache=1785233300",
+        "uri": "https://live2.streambylivepulse.com/live/channel5.flv?nstv_cache=1785234036",
         "is_live": true,
         "match_time": "17:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel5/off-tvc",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not=A)Brand\";v=\"24\"",
             "sec-ch-ua-mobile": "?0"
         },
         "drm_info": {
@@ -117,16 +111,10 @@
         "id": "x_romania_u18_vs_na_uy_u18",
         "title": "\u26bd Romania U18 Vs Na Uy U18",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=9622b7b9a66f062becba96fc307ca26a&wsABSTime=1785276591&nstv_cache=1785233397",
+        "uri": "",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel43/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -143,16 +131,10 @@
         "id": "x_johan_nikles_vs_alex_barrena",
         "title": "\u26bd Johan Nikles Vs Alex Barrena",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel54.flv?wsSecret=d1388b8b260fc30d67a3b604232f0ef5&wsABSTime=1785276599&nstv_cache=1785233405",
+        "uri": "",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel54/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -169,16 +151,10 @@
         "id": "x_nu_young_lionesses_fc_vs_nu_zwekapin_fc",
         "title": "\u26bd Nu Young Lionesses Fc Vs Nu Zwekapin Fc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=f52c37951ea3e989b2ccd2f34b1b2474&wsABSTime=1785276526&nstv_cache=1785233332",
+        "uri": "",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel33/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -195,16 +171,10 @@
         "id": "x_paro_fc_vs_thimphu_raven_fc",
         "title": "\u26bd Paro Fc Vs Thimphu Raven Fc",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?nstv_cache=1785233365",
+        "uri": "",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel7/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -221,16 +191,10 @@
         "id": "x_nu_shandong_speed_vs_nu_xinjiang_tianshan",
         "title": "\u26bd Nu Shandong Speed Vs Nu Xinjiang Tianshan",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?nstv_cache=1785233381",
+        "uri": "",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel26/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -247,16 +211,10 @@
         "id": "x_togan_tokac_vs_semen_pankin",
         "title": "\u26bd Togan Tokac Vs Semen Pankin",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel55.flv?wsSecret=43956df8cb61822ae2cd93d6f59bb88e&wsABSTime=1785276607&nstv_cache=1785233413",
+        "uri": "",
         "is_live": true,
         "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel55/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -273,16 +231,10 @@
         "id": "x_miriana_tona_vs_lucia_bronzetti",
         "title": "\u26bd Miriana Tona Vs Lucia Bronzetti",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel56.flv?wsSecret=844676addba56b3129ff3019853b2424&wsABSTime=1785276616&nstv_cache=1785233422",
+        "uri": "",
         "is_live": true,
         "match_time": "16:10",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel56/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -299,16 +251,10 @@
         "id": "x_lin_sheng_ming_sung_yi_hsuan_vs_lu_chen_lin_yen_yu",
         "title": "\u26bd Lin Sheng Ming Sung Yi Hsuan Vs Lu Chen Lin Yen Yu",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel61.flv?wsSecret=9acb5134ca863edca6d0a246fedfe4a1&wsABSTime=1785276632&nstv_cache=1785233438",
+        "uri": "",
         "is_live": true,
         "match_time": "16:20",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel61/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -325,16 +271,10 @@
         "id": "x_patha_chakra_vs_east_bengal_ii",
         "title": "\u26bd Patha Chakra Vs East Bengal Ii",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=7d5038aae278f041e490ca15d0e886c7&wsABSTime=1785276534&nstv_cache=1785233340",
+        "uri": "",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel34/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -351,16 +291,10 @@
         "id": "x_bss_sporting_club_vs_bengal_nagpur",
         "title": "\ud83c\udfce\ufe0f Bss Sporting Club Vs Bengal Nagpur",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=386296eb4359d5ed024984d08202fceb&wsABSTime=1785276542&nstv_cache=1785233348",
+        "uri": "",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel35/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -377,16 +311,10 @@
         "id": "x_wang_pei_yu_vs_vu_thi_trang",
         "title": "\u26bd Wang Pei Yu Vs Vu Thi Trang",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel63.flv?wsSecret=a1b142ca52b24c747209006267603b85&wsABSTime=1785276624&nstv_cache=1785233430",
+        "uri": "",
         "is_live": true,
         "match_time": "16:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel63/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -403,16 +331,10 @@
         "id": "x_chelsea_vs_western_sydney",
         "title": "\u26bd Chelsea Vs Western Sydney",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel11.flv?nstv_cache=1785233357",
+        "uri": "",
         "is_live": true,
         "match_time": "16:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel11/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -429,16 +351,10 @@
         "id": "x_portimonense_vs_al_ahli_sc",
         "title": "\u26bd Portimonense Vs Al Ahli Sc",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel12.flv?nstv_cache=1785233373",
+        "uri": "",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel12/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -455,16 +371,10 @@
         "id": "x_zamboanga_master_sardines_vs_paranaque_patriots",
         "title": "\u26bd Zamboanga Master Sardines Vs Paranaque Patriots",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?nstv_cache=1785233389",
+        "uri": "",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel29/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -481,16 +391,10 @@
         "id": "x_kt_rolster_challengers_vs_dplus_challengers",
         "title": "\u26bd Kt Rolster Challengers Vs Dplus Challengers",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=b176a6b90311743da5753de294865c1f&wsABSTime=1785276641&nstv_cache=1785233447",
+        "uri": "",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel71/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -507,16 +411,10 @@
         "id": "x_astral_vs_navi_junior",
         "title": "\u26bd Astral Vs Navi Junior",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel78.flv?wsSecret=f12885ebe73cedec57296430f715908c&wsABSTime=1785276650&nstv_cache=1785233457",
+        "uri": "",
         "is_live": true,
         "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel78/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -530,19 +428,73 @@
         }
     },
     {
+        "id": "x_pedro_martinez_vs_hugo_dellien",
+        "title": "\u26bd Pedro Martinez Vs Hugo Dellien",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_pedro_martinez_vs_hugo_dellien",
+            "tvg_name": "Pedro Martinez Vs Hugo Dellien",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_ping_hsien_huang_vs_garret_tan",
+        "title": "\u26bd Ping Hsien Huang Vs Garret Tan",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_ping_hsien_huang_vs_garret_tan",
+            "tvg_name": "Ping Hsien Huang Vs Garret Tan",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_riki_takei_vs_choi_ji_hoon",
+        "title": "\u26bd Riki Takei Vs Choi Ji Hoon",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": true,
+        "match_time": "17:10",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_riki_takei_vs_choi_ji_hoon",
+            "tvg_name": "Riki Takei Vs Choi Ji Hoon",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_0",
         "title": "\u26bd 0",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel5.flv?nstv_cache=1785233308",
+        "uri": "",
         "is_live": true,
         "match_time": "LIVE",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel5/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -559,16 +511,10 @@
         "id": "x_1",
         "title": "\u26bd 1",
         "category": "FOOTBALL",
-        "uri": "https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001785233310-0-0-b4ff98dc771ec8b1e054ef669ece9027&nstv_cache=1785233316",
+        "uri": "",
         "is_live": true,
         "match_time": "LIVE",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/5/link/channel16/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not(A?Brand\";v=\"99\"",
-            "sec-ch-ua-mobile": "?0"
-        },
+        "headers": {},
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -577,66 +523,6 @@
         "epg_metadata": {
             "tvg_id": "x_1",
             "tvg_name": "1",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_pedro_martinez_vs_hugo_dellien",
-        "title": "\u26bd Pedro Martinez Vs Hugo Dellien",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:10",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_pedro_martinez_vs_hugo_dellien",
-            "tvg_name": "Pedro Martinez Vs Hugo Dellien",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_riki_takei_vs_choi_ji_hoon",
-        "title": "\u26bd Riki Takei Vs Choi Ji Hoon",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:10",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_riki_takei_vs_choi_ji_hoon",
-            "tvg_name": "Riki Takei Vs Choi Ji Hoon",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_ping_hsien_huang_vs_garret_tan",
-        "title": "\u26bd Ping Hsien Huang Vs Garret Tan",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "17:10",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_ping_hsien_huang_vs_garret_tan",
-            "tvg_name": "Ping Hsien Huang Vs Garret Tan",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1142,6 +1028,26 @@
         }
     },
     {
+        "id": "x_nu_huracan_vs_nu_river_plate",
+        "title": "\u26bd Nu Huracan Vs Nu River Plate",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_nu_huracan_vs_nu_river_plate",
+            "tvg_name": "Nu Huracan Vs Nu River Plate",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "x_miriam_bianca_bulgaru_vs_carole_monnet",
         "title": "\u26bd Miriam Bianca Bulgaru Vs Carole Monnet",
         "category": "FOOTBALL",
@@ -1177,26 +1083,6 @@
         "epg_metadata": {
             "tvg_id": "x_genone_vs_new_vision",
             "tvg_name": "Genone Vs New Vision",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "x_nu_huracan_vs_nu_river_plate",
-        "title": "\u26bd Nu Huracan Vs Nu River Plate",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "21:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_nu_huracan_vs_nu_river_plate",
-            "tvg_name": "Nu Huracan Vs Nu River Plate",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1282,26 +1168,6 @@
         }
     },
     {
-        "id": "x_tdk_vs_baks",
-        "title": "\u26bd Tdk Vs Baks",
-        "category": "FOOTBALL",
-        "uri": "",
-        "is_live": false,
-        "match_time": "22:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "x_tdk_vs_baks",
-            "tvg_name": "Tdk Vs Baks",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "x_mibr_vs_fluxo",
         "title": "\u26bd Mibr Vs Fluxo",
         "category": "FOOTBALL",
@@ -1322,8 +1188,8 @@
         }
     },
     {
-        "id": "x_team_voodoosh_vs_daxao_team",
-        "title": "\u26bd Team Voodoosh Vs Daxao Team",
+        "id": "x_tdk_vs_baks",
+        "title": "\u26bd Tdk Vs Baks",
         "category": "FOOTBALL",
         "uri": "",
         "is_live": false,
@@ -1335,8 +1201,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "x_team_voodoosh_vs_daxao_team",
-            "tvg_name": "Team Voodoosh Vs Daxao Team",
+            "tvg_id": "x_tdk_vs_baks",
+            "tvg_name": "Tdk Vs Baks",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1357,6 +1223,26 @@
         "epg_metadata": {
             "tvg_id": "x_stray_team_vs_team_rostik",
             "tvg_name": "Stray Team Vs Team Rostik",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "x_team_voodoosh_vs_daxao_team",
+        "title": "\u26bd Team Voodoosh Vs Daxao Team",
+        "category": "FOOTBALL",
+        "uri": "",
+        "is_live": false,
+        "match_time": "22:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "x_team_voodoosh_vs_daxao_team",
+            "tvg_name": "Team Voodoosh Vs Daxao Team",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
