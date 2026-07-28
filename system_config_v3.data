@@ -1427,28 +1427,16 @@
     },
     {
         "id": "60",
-        "title": "🆕 Soccer Channel (167)",
+        "title": "📺 VTV6 HD",
         "category": "OLAHRAGA LOKAL",
-        "uri": "http://103.137.83.62:9090/play/35/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
+        "uri": "http://125hvt.ddns.net:21585/vtv6/playlist.m3u8",
+        "is_live": True,
+        "match_time": "24/7",
         "headers": {
-            "Referer": "https://103.137.83.62:9090/",
-            "Origin": "https://103.137.83.62:9090"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "🆕 Soccer Channel (167)",
-            "tvg_logo": "https://i.imgur.com/IQkwAXJ.jpeg",
-            "source_xml": "Embedded"
-        }
+        "drm_info": { "is_protected": False, "drm_type": "", "drm_key": "" },
+        "epg_metadata": { "tvg_id": "vtv6.relay", "tvg_name": "VTV6", "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/vtv6.png", "source_xml": "Embedded" }
     },
     {
         "id": "61",
@@ -3197,31 +3185,6 @@
             "tvg_id": "GBBB1000005IO",
             "tvg_name": "REAL WILD",
             "tvg_logo": "https://i.imgur.com/n4Mtv8Y.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "138",
-        "title": "Moji",
-        "category": "OLAHRAGA | VOLLYBALL",
-        "uri": "http://opplextv.cyou:8080/nasir6160/nasir/350997",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://opplextv.cyou:8080/",
-            "Origin": "https://opplextv.cyou:8080"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Moji.id",
-            "tvg_name": "Moji",
-            "tvg_logo": "https://i.imgur.com/dSA83Hx.jpeg",
             "source_xml": "Embedded"
         }
     },
