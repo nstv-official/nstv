@@ -391,10 +391,16 @@
         "id": "x_riki_takei_vs_choi_ji_hoon",
         "title": "\u26bd Riki Takei Vs Choi Ji Hoon",
         "category": "FOOTBALL",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel61.flv?wsSecret=a622fbe1b6550118f3863b2168ae3456&wsABSTime=1785278668&nstv_cache=1785235480",
         "is_live": true,
         "match_time": "17:10",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel61/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Chrome\";v=\"149\", \"Not A-Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
