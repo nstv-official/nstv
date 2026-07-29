@@ -28,24 +28,34 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Jalankan Skrip Validasi Lengkap
-      run: python validate_logos.py
-
-    - name: Commit dan Push Otomatis Perubahan Playlist
+    # PERBAIKAN 1: Sinkronisasi git dilakukan di awal sebelum skrip Python mengubah isi file
+    - name: Sinkronisasi Cabang Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        
         git pull origin ${{ github.ref_name }} --rebase || true
-        
+
+    - name: Jalankan Skrip Validasi Lengkap
+      run: python validate_logos.py
+
+    # PERBAIKAN 2: Menggunakan Environment Variables resmi agar lolos dari galat 'refspec' terminal
+    - name: Commit dan Push Otomatis Perubahan Playlist
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_REPO: ${{ github.repository }}
+        GH_REF: ${{ github.ref_name }}
+      run: |
+        # Memaksa Git memasukkan file samaran teks Anda ke dalam pelacakan
         git add -f system_config_v3.data
         git add -f .system_parseconfig_v2.dt
         
         if [[ -n "$(git status --porcelain)" ]]; then
           echo "Perubahan teks ditemukan! Melakukan pengiriman data..."
           git commit -m "bot: konversi tvg_logo ke URL raw github content [skip ci]"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@://github.com{{ github.repository }}.git HEAD:${{ github.ref_name }} --force
-          echo "Proses pengiriman file berhasil!"
+          
+          # Mengirim menggunakan token lingkungan aman yang sudah diterjemahkan
+          git push https://x-access-token:${GH_TOKEN}@://github.com{GH_REPO}.git HEAD:${GH_REF} --force
+          echo "🚀 Sukses! Data terbaru telah dipaksa masuk ke repositori."
         else
           echo "Git mendeteksi tidak ada perubahan karakter pada file samaran Anda."
         fi
