@@ -20,13 +20,12 @@ def get_sort_key(channel):
     clean_start = re.sub(r'^[^\w]+', '', str(name))
     return clean_start.lower().strip()
 
-def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
+def process_single_playlist(json_path, cleaned_logo_map, logos_folder, base_raw_url):
     print(f"\n==========================================")
     print(f"📄 MEMPROSES PLAYLIST SAMARAN: {json_path}")
     print(f"==========================================")
     
     if not os.path.exists(json_path):
-        print(f"[⚠️ WARNING] File '{json_path}' tidak ditemukan. Dilewati.")
         return False
 
     with open(json_path, 'r', encoding='utf-8') as f:
@@ -35,7 +34,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     try:
         playlist = json.loads(content)
     except json.JSONDecodeError as e:
-        print(f"[❌ ERROR] JSON Tidak Bisa Diparse pada {json_path}: {e}")
+        print(f"[❌ ERROR] JSON Rusak pada {json_path}: {e}")
         return False
 
     if isinstance(playlist, list):
@@ -59,7 +58,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         if url: seen_urls.add(url)
         unique_channels.append(ch)
 
-    # 2. Proses Penggantian Logo
+    # 2. Proses Penggantian Logo Menggunakan URL Raw Internet
     for index, channel in enumerate(unique_channels):
         original_name = channel.get('title', f"Index_{index}")
         cleaned_channel_name = clean_name(original_name)
@@ -71,9 +70,10 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         
         if cleaned_channel_name and cleaned_channel_name in cleaned_logo_map:
             matched_file = cleaned_logo_map[cleaned_channel_name]
-            expected_logo_path = f"{logos_folder}/{matched_file}"
+            # Menyusun URL Raw GitHub yang valid
+            expected_logo_path = f"{base_raw_url}/{logos_folder}/{matched_file}"
         else:
-            expected_logo_path = f"{logos_folder}/default.png"
+            expected_logo_path = f"{base_raw_url}/{logos_folder}/default.png"
 
         epg['tvg_logo'] = expected_logo_path
 
@@ -94,7 +94,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
     
-    print(f"💾 [BERHASIL] File {json_path} selesai diperbarui!")
+    print(f"💾 [BERHASIL] File {json_path} selesai diperbarui dengan URL Raw GitHub!")
     return True
 
 def validate_and_update_all(playlist_files, logos_folder):
@@ -102,6 +102,14 @@ def validate_and_update_all(playlist_files, logos_folder):
         print(f"[❌ ERROR] Folder '{logos_folder}' tidak ditemukan.")
         sys.exit(1)
         
+    # Ambil informasi repositori dari GitHub Environment Actions secara otomatis
+    github_repository = os.getenv('GITHUB_REPOSITORY', 'USER/REPO')
+    github_ref_name = os.getenv('GITHUB_REF_NAME', 'main')
+    
+    # URL Dasar Raw GitHub Content
+    base_raw_url = f"https://raw.githubusercontent.com/{github_repository}/refs/heads/{github_ref_name}"
+    print(f"🌍 Base URL Raw Terdeteksi: {base_raw_url}")
+
     logo_files = os.listdir(logos_folder)
     cleaned_logo_map = {}
     for filename in logo_files:
@@ -109,7 +117,7 @@ def validate_and_update_all(playlist_files, logos_folder):
         cleaned_logo_map[clean_name(name_only)] = filename
 
     for file_path in playlist_files:
-        process_single_playlist(file_path, cleaned_logo_map, logos_folder)
+        process_single_playlist(file_path, cleaned_logo_map, logos_folder, base_raw_url)
     sys.exit(0)
 
 if __name__ == "__main__":
