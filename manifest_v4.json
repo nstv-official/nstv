@@ -3,10 +3,16 @@
         "id": "sys_port_fc_vs_persija_jakarta",
         "title": "\u26bd Port Fc Vs Persija Jakarta",
         "category": "PIALA PRESIDEN",
-        "uri": "",
+        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785314198",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
