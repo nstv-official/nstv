@@ -19,6 +19,9 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Amankan Direktori Git
+      run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
@@ -29,19 +32,21 @@ jobs:
 
     - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
-        git config --local user.email "github-actions[bot]@://github.com"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
+        # Tarik pembaruan jarak jauh untuk menghindari ketidaksinkronan
         git pull origin ${{ github.ref_name }} --rebase || true
         
-        # MEMAKSA GIT MENAMBAHKAN FILE YANG BERUBAH DI MEMORI
+        # Paksa Git untuk memasukkan file teks mentah kustom Anda
         git add -f system_config_v3.data .system_parseconfig_v2.dt
         
-        if git diff --cached --quiet; then
-          echo "Git mendeteksi tidak ada perubahan file setelah skrip berjalan."
-        else
-          echo "Menemukan perubahan file! Melakukan komit..."
-          git commit -m "bot: otomatis perbarui objek tvg_logo epg_metadata [skip ci]"
+        # Lakukan komit paksa tanpa memedulikan status pengecekan bawaan
+        if ! git diff --cached --quiet; then
+          echo "Perubahan terdeteksi di Git cache! Mengirim ke repositori..."
+          git commit -m "bot: penyelarasan total epg_metadata tvg_logo [skip ci]"
           git push origin ${{ github.ref_name }}
-          echo "Push berhasil dikirim!"
+          echo "Proses push selesai!"
+        else
+          echo "Perhatian: Git mendeteksi file modifikasi memori sama persis dengan lokal server."
         fi
