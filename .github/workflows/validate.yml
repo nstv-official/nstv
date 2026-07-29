@@ -1,4 +1,4 @@
-name: Validasi, Bersihkan Duplikat & Urutkan Playlist Multi-File
+name: Validasi & Perbarui Playlist Otomatis
 
 on:
   push:
@@ -16,6 +16,8 @@ jobs:
     steps:
     - name: Checkout Repositori
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Mengambil seluruh riwayat commit agar push aman
 
     - name: Setup Python
       uses: actions/setup-python@v5
@@ -30,11 +32,13 @@ jobs:
         git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Mengecek apakah ada perubahan pada berkas spesifik Anda
+        # Sinkronisasi ulang repositori sebelum melakukan push balik
+        git pull origin ${{ github.ref_name }} --rebase
+        
         if [[ -n "$(git status --porcelain)" ]]; then
           git add system_config_v3.data .system_parseconfig_v2.dt
-          git commit -m "bot: otomatis merapikan kedua berkas playlist [skip ci]"
-          git push
+          git commit -m "bot: otomatis perbarui objek tvg_logo epg_metadata [skip ci]"
+          git push origin ${{ github.ref_name }}
         else
           echo "Tidak ada perubahan berkas untuk dikomit."
         fi
