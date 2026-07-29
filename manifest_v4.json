@@ -175,10 +175,16 @@
         "id": "sys_brindabella_blues_fc_u23_vs_queanbeyan_city_u23",
         "title": "\u26bd Brindabella Blues Fc U-23 Vs Queanbeyan City U-23",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=e3f779d9f7cf7294085f243dadd76866&wsABSTime=1785357076&sys_cache=1785313964",
         "is_live": true,
         "match_time": "14:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel32/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
