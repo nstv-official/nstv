@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 import playwright_stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V14.1 - DATA SYNC WORKER)
+# SYSTEM CONFIGURATION (V14.6 - DATA SANITIZATION & DATE AWARE)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -62,20 +62,49 @@ def clean_text_data(input_str):
     return result
 
 def parse_registry_slug(slug):
-    slug = slug.strip("/").split("/")[-1]
-    time_match = re.search(r'luc-(\d{2})(\d{2})', slug)
+    """Mengekstrak nama tim, jam, dan tanggal dari URL slug (v14.6)."""
+    slug_clean = slug.strip("/").split("/")[-1]
+
+    # 1. Cari Waktu: luc-1530
+    time_match = re.search(r'luc-(\d{2})(\d{2})', slug_clean)
     m_time = f"{time_match.group(1)}:{time_match.group(2)}" if time_match else "LIVE"
-    label_part = slug.split("-luc-")[0]
-    clean_label = label_part.replace("-vs-", " VS ").replace("-", " ").title()
-    return clean_label, m_time
+
+    # 2. Cari Tanggal: ngay-28-07-2026
+    date_match = re.search(r'ngay-(\d{2})-(\d{2})-(\d{4})', slug_clean)
+    m_date = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}" if date_match else ""
+
+    # 3. Bersihkan Nama Tim
+    team_part = slug_clean.split("-luc-")[0]
+    # Transformasi Cerdas
+    clean_label = team_part.replace("-vs-", " VS ").replace("-", " ")
+
+    # Perbaikan Nama Khusus & Singkatan (v14.6)
+    replacements = {
+        r"\bnu\b": "Women",
+        r"\bopmm\b": "DPMM",
+        r"\bfc\b": "FC",
+        r"\bpsm\b": "PSM",
+        r"\barema\b": "AREMA",
+        r"\bu(\d+)\b": r"U-\1",
+        r"\baff\b": "AFF",
+        r"\bbwf\b": "BWF"
+    }
+    for pattern, repl in replacements.items():
+        clean_label = re.sub(pattern, repl, clean_label, flags=re.IGNORECASE)
+
+    return clean_label.title(), m_time, m_date
 
 def resolve_asset_url(category, assets_list):
     cat_norm = category.lower().replace(" ", "_")
     filename = f"{cat_norm}.png"
     if filename in assets_list:
         return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/{filename}"
-    if any(k in cat_norm for k in ["football", "presiden", "asean", "focus"]):
-        if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
+
+    # Fallback ke football.png untuk semua yang berbau bola
+    if any(k in cat_norm for k in ["football", "presiden", "asean", "focus", "data_stream"]):
+        if "football.png" in assets_list:
+            return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
+
     return DEFAULT_ASSET
 
 def get_entry_icon(label):
@@ -84,10 +113,25 @@ def get_entry_icon(label):
     if any(x in t for x in ["badminton", "bwf"]): return "🏸"
     return "⚽"
 
-def check_entry_validity(m_time, now):
+def check_entry_validity(m_time, m_date, now):
+    """Validasi tanggal dan waktu agar tidak menampilkan laga basi (v14.6)."""
     if m_time == "LIVE": return True
+
     try:
+        # Cek Tanggal jika ada (Format: dd-mm-yyyy)
+        if m_date:
+            m_date_obj = datetime.strptime(m_date, "%d-%m-%Y")
+            # Hanya ijinkan hari ini atau besok dini hari (untuk laga malam)
+            if m_date_obj.date() < now.date(): return False
+            if m_date_obj.date() > now.date() + timedelta(days=1): return False
+
+        # Cek Jam
         m_time_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
+        # Jika tanggal besok, sesuaikan m_time_obj
+        if m_date and datetime.strptime(m_date, "%d-%m-%Y").date() > now.date():
+            m_time_obj += timedelta(days=1)
+
+        # Tampilkan jika: 2 jam lalu s/d 12 jam ke depan
         return now - timedelta(hours=2) <= m_time_obj <= now + timedelta(hours=12)
     except: return True
 
@@ -211,20 +255,30 @@ async def run_sync_cycle():
                         if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST): continue
                         seen.add(slug)
 
-                        label, m_time = parse_registry_slug(slug)
+                        label, m_time, m_date = parse_registry_slug(slug)
                         raw_text = await node.inner_text()
                         if not raw_text:
                             par = await node.query_selector("xpath=ancestor::div[1]")
                             raw_text = await par.inner_text() if par else ""
 
                         ctx = clean_text_data(f"{label} {raw_text} {slug}")
-                        if not check_entry_validity(m_time, now): continue
+                        if not check_entry_validity(m_time, m_date, now): continue
 
                         m_id = f"sys_{slug.replace('-', '_').split('_luc_')[0]}"
 
                         is_live = False
-                        if m_time == "LIVE" or now >= datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day):
+                        if m_time == "LIVE":
                             is_live = True
+                        else:
+                            try:
+                                t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
+                                if m_date and datetime.strptime(m_date, "%d-%m-%Y").date() > now.date():
+                                    t_obj += timedelta(days=1)
+
+                                # LIVE hanya jika jam sudah lewat DAN maksimal 2.5 jam berlalu
+                                if now >= t_obj and now <= t_obj + timedelta(minutes=150):
+                                    is_live = True
+                            except: pass
 
                         if m_id not in registry:
                             cat = "DATA_STREAM"
