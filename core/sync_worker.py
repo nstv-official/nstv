@@ -56,7 +56,7 @@ FIXED_ENTRIES = [
 ]
 
 # Classification Keywords
-PRIORITY_GROUPS = ["Presiden", "President", "Asean", "AFF", "Hyundai", "U19", "U23", "V-League", "Liga 1", "Champions"]
+PRIORITY_GROUPS = ["V-Cup", "President", "Asean", "AFF", "Hyundai", "U19", "U23", "V-League", "Liga 1", "Champions"]
 BLOCK_LIST = ["lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga"]
 ENDPOINTS = ["https://xoilaczzggz.tv", "https://xoilacxtu.tv"]
 DEFAULT_ASSET = "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png"
