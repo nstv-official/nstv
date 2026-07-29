@@ -451,10 +451,16 @@
         "id": "sys_huda_hue_vs_pvf_u17",
         "title": "\u26bd Huda Hue Vs Pvf U-17",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel39.flv?wsSecret=fe96ff3c5a10d85a5b114eb24fa491cb&wsABSTime=1785357271&sys_cache=1785314210",
         "is_live": true,
         "match_time": "15:30",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel39/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
