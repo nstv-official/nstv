@@ -39,9 +39,7 @@ jobs:
 
     - name: Commit dan Push Otomatis Perubahan Playlist
       env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GH_REPO: ${{ github.repository }}
-        GH_REF: ${{ github.ref_name }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         # Memaksa Git memasukkan file samaran teks Anda ke dalam pelacakan
         git add -f system_config_v3.data
@@ -51,8 +49,10 @@ jobs:
           echo "Perubahan teks ditemukan! Melakukan pengiriman data..."
           git commit -m "bot: konversi tvg_logo ke URL raw github content [skip ci]"
           
-          # PERBAIKAN: Menggunakan sintaks variabel Bash yang benar ($GH_TOKEN, $GH_REPO, $GH_REF)
-          git push https://x-access-token:$GH_TOKEN@://github.com HEAD:$GH_REF --force
+          # SOLUSI MUTLAK: Menggunakan GitHub CLI resmi untuk melakukan autentikasi push yang kebal error URL
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@://github.com{{ github.repository }}.git"
+          git push origin HEAD:${{ github.ref_name }} --force
+          
           echo "🚀 Sukses! Data terbaru telah dipaksa masuk ke repositori."
         else
           echo "Git mendeteksi tidak ada perubahan karakter pada file samaran Anda."
