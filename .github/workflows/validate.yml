@@ -27,28 +27,21 @@ jobs:
     - name: Jalankan Skrip Validasi Lengkap
       run: python validate_logos.py
 
-    - name: Cek Status Modifikasi File Git
-      run: |
-        echo "=== HASIL GIT STATUS DI RUNNER ==="
-        git status --ignored
-        echo "=================================="
-
     - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
         
         git pull origin ${{ github.ref_name }} --rebase || true
         
-        # PERBAIKAN: Menambahkan parameter -f agar berkas tersembunyi berawalan titik dipaksa masuk ke Git
+        # MEMAKSA GIT MENAMBAHKAN FILE YANG BERUBAH DI MEMORI
         git add -f system_config_v3.data .system_parseconfig_v2.dt
         
-        if [[ -n "$(git status --porcelain)" ]]; then
+        if git diff --cached --quiet; then
+          echo "Git mendeteksi tidak ada perubahan file setelah skrip berjalan."
+        else
           echo "Menemukan perubahan file! Melakukan komit..."
           git commit -m "bot: otomatis perbarui objek tvg_logo epg_metadata [skip ci]"
           git push origin ${{ github.ref_name }}
           echo "Push berhasil dikirim!"
-        else
-          echo "Git mendeteksi tidak ada perubahan file setelah skrip berjalan."
         fi
-
