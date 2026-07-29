@@ -48,204 +48,6 @@
         }
     },
     {
-        "id": "sys_dalibor_svrcina_vs_adam_walton",
-        "title": "\u26bd Dalibor Svrcina Vs Adam Walton",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "10:20",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_dalibor_svrcina_vs_adam_walton",
-            "tvg_name": "Dalibor Svrcina Vs Adam Walton",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_ariana_arseneault_vs_annabelle_xu",
-        "title": "\u26bd Ariana Arseneault Vs Annabelle Xu",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:50",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_ariana_arseneault_vs_annabelle_xu",
-            "tvg_name": "Ariana Arseneault Vs Annabelle Xu",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_wang_po_wei_vs_kiran_george",
-        "title": "\u26bd Wang Po Wei Vs Kiran George",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "13:50",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_wang_po_wei_vs_kiran_george",
-            "tvg_name": "Wang Po Wei Vs Kiran George",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_southland_sharks_vs_whai",
-        "title": "\u26bd Southland Sharks Vs Whai",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_southland_sharks_vs_whai",
-            "tvg_name": "Southland Sharks Vs Whai",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_slovenia_vs_tho_nhi_ky",
-        "title": "\u26bd Slovenia Vs Tho Nhi Ky",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_slovenia_vs_tho_nhi_ky",
-            "tvg_name": "Slovenia Vs Tho Nhi Ky",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_auckland_city_vs_bay_olympic",
-        "title": "\u26bd Auckland City Vs Bay Olympic",
-        "category": "DATA_STREAM",
-        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=57e8e23c7c7cce9e0bd6aba052bb4f0d&wsABSTime=1785357076&sys_cache=1785313958",
-        "is_live": false,
-        "match_time": "14:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_auckland_city_vs_bay_olympic",
-            "tvg_name": "Auckland City Vs Bay Olympic",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_mallorca_b_vs_sant_andreu",
-        "title": "\u26bd Mallorca B Vs Sant Andreu",
-        "category": "DATA_STREAM",
-        "uri": "https://live1.streambylivepulse.com/live/channel31.flv?wsSecret=dfa5799149a97121d33852eccbf00c55&wsABSTime=1785357076&sys_cache=1785313958",
-        "is_live": false,
-        "match_time": "14:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_mallorca_b_vs_sant_andreu",
-            "tvg_name": "Mallorca B Vs Sant Andreu",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_brindabella_blues_fc_u23_vs_queanbeyan_city_u23",
-        "title": "\u26bd Brindabella Blues Fc U-23 Vs Queanbeyan City U-23",
-        "category": "DATA_STREAM",
-        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=e3f779d9f7cf7294085f243dadd76866&wsABSTime=1785357076&sys_cache=1785313964",
-        "is_live": false,
-        "match_time": "14:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel32/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_brindabella_blues_fc_u23_vs_queanbeyan_city_u23",
-            "tvg_name": "Brindabella Blues Fc U-23 Vs Queanbeyan City U-23",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_peng_yu_wei_vs_ciou_tong_tung",
-        "title": "\u26bd Peng Yu Wei Vs Ciou Tong Tung",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:40",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_peng_yu_wei_vs_ciou_tong_tung",
-            "tvg_name": "Peng Yu Wei Vs Ciou Tong Tung",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_wang_tzu_wei_vs_muhamad_yusuf",
         "title": "\u26bd Wang Tzu Wei Vs Muhamad Yusuf",
         "category": "DATA_STREAM",
@@ -261,26 +63,6 @@
         "epg_metadata": {
             "tvg_id": "sys_wang_tzu_wei_vs_muhamad_yusuf",
             "tvg_name": "Wang Tzu Wei Vs Muhamad Yusuf",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_dankook_r_vs_ulsan_university",
-        "title": "\u26bd Dankook R Vs Ulsan University",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "14:50",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_dankook_r_vs_ulsan_university",
-            "tvg_name": "Dankook R Vs Ulsan University",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -307,46 +89,6 @@
         "epg_metadata": {
             "tvg_id": "sys_kustosija_vs_karlovac",
             "tvg_name": "Kustosija Vs Karlovac",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_kiwoom_drx_vs_nongshim_redforce",
-        "title": "\u26bd Kiwoom Drx Vs Nongshim Redforce",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_kiwoom_drx_vs_nongshim_redforce",
-            "tvg_name": "Kiwoom Drx Vs Nongshim Redforce",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_los_kogutos_vs_ex_mana",
-        "title": "\u26bd Los Kogutos Vs Ex Mana",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_los_kogutos_vs_ex_mana",
-            "tvg_name": "Los Kogutos Vs Ex Mana",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -398,6 +140,26 @@
         }
     },
     {
+        "id": "sys_nu_west_adelaide_r_vs_nu_ffsa_ntc_girls_r",
+        "title": "\u26bd Women West Adelaide R Vs Women Ffsa Ntc Girls R",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "15:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_nu_west_adelaide_r_vs_nu_ffsa_ntc_girls_r",
+            "tvg_name": "Women West Adelaide R Vs Women Ffsa Ntc Girls R",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_romania_u18_vs_na_uy_u18",
         "title": "\u26bd Romania U-18 Vs Na Uy U-18",
         "category": "DATA_STREAM",
@@ -433,46 +195,6 @@
         "epg_metadata": {
             "tvg_id": "sys_bac_macedonia_u18_vs_thuy_dien_u18",
             "tvg_name": "Bac Macedonia U-18 Vs Thuy Dien U-18",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_ni_kadek_dhinda_amartya_pratiwi_vs_rakshitha_sree_santhosh_ramraj",
-        "title": "\u26bd Ni Kadek Dhinda Amartya Pratiwi Vs Rakshitha Sree Santhosh Ramraj",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_ni_kadek_dhinda_amartya_pratiwi_vs_rakshitha_sree_santhosh_ramraj",
-            "tvg_name": "Ni Kadek Dhinda Amartya Pratiwi Vs Rakshitha Sree Santhosh Ramraj",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_lai_po_yu_tsai_fu_cheng_vs_chen_y_c_chen_z_r",
-        "title": "\u26bd Lai Po Yu Tsai Fu Cheng Vs Chen Y C Chen Z R",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "15:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_lai_po_yu_tsai_fu_cheng_vs_chen_y_c_chen_z_r",
-            "tvg_name": "Lai Po Yu Tsai Fu Cheng Vs Chen Y C Chen Z R",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -553,46 +275,6 @@
         "epg_metadata": {
             "tvg_id": "sys_rc_celta_vs_viseu",
             "tvg_name": "Rc Celta Vs Viseu",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_pacos_de_ferreira_vs_fc_felgueiras",
-        "title": "\u26bd Pacos De Ferreira Vs Fc Felgueiras",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_pacos_de_ferreira_vs_fc_felgueiras",
-            "tvg_name": "Pacos De Ferreira Vs Fc Felgueiras",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_cd_tondela_vs_sc_sao_joao_de_ver",
-        "title": "\u26bd Cd Tondela Vs Sc Sao Joao De Ver",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_cd_tondela_vs_sc_sao_joao_de_ver",
-            "tvg_name": "Cd Tondela Vs Sc Sao Joao De Ver",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -758,26 +440,6 @@
         }
     },
     {
-        "id": "sys_pearly_tan_thinaah_muralitharan_vs_mao_hatasue_kanano_muroya",
-        "title": "\u26bd Pearly Tan Thinaah Muralitharan Vs Mao Hatasue Kanano Muroya",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:20",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_pearly_tan_thinaah_muralitharan_vs_mao_hatasue_kanano_muroya",
-            "tvg_name": "Pearly Tan Thinaah Muralitharan Vs Mao Hatasue Kanano Muroya",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_yudai_okimoto_vs_li_yang_su",
         "title": "\u26bd Yudai Okimoto Vs Li Yang Su",
         "category": "DATA_STREAM",
@@ -793,6 +455,26 @@
         "epg_metadata": {
             "tvg_id": "sys_yudai_okimoto_vs_li_yang_su",
             "tvg_name": "Yudai Okimoto Vs Li Yang Su",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_pearly_tan_thinaah_muralitharan_vs_mao_hatasue_kanano_muroya",
+        "title": "\u26bd Pearly Tan Thinaah Muralitharan Vs Mao Hatasue Kanano Muroya",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "16:20",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_pearly_tan_thinaah_muralitharan_vs_mao_hatasue_kanano_muroya",
+            "tvg_name": "Pearly Tan Thinaah Muralitharan Vs Mao Hatasue Kanano Muroya",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -833,26 +515,6 @@
         "epg_metadata": {
             "tvg_id": "sys_brindabella_blues_fc_vs_queanbeyan_city",
             "tvg_name": "Brindabella Blues Fc Vs Queanbeyan City",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_gd_braganca_vs_chaves_b",
-        "title": "\u26bd Gd Braganca Vs Chaves B",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "16:30",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_gd_braganca_vs_chaves_b",
-            "tvg_name": "Gd Braganca Vs Chaves B",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1013,6 +675,26 @@
         "epg_metadata": {
             "tvg_id": "sys_gwangju_fc_vs_cheonan_city",
             "tvg_name": "Gwangju Fc Vs Cheonan City",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_yeoju_citizen_vs_dangjin_citizen",
+        "title": "\u26bd Yeoju Citizen Vs Dangjin Citizen",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "17:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_yeoju_citizen_vs_dangjin_citizen",
+            "tvg_name": "Yeoju Citizen Vs Dangjin Citizen",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1338,26 +1020,6 @@
         }
     },
     {
-        "id": "sys_gimhae_city_vs_seongnam_fc",
-        "title": "\u26bd Gimhae City Vs Seongnam Fc",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "18:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_gimhae_city_vs_seongnam_fc",
-            "tvg_name": "Gimhae City Vs Seongnam Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_nu_tng_thai_nguyen_vs_nu_than_ksvn",
         "title": "\u26bd Women Tng Thai Nguyen Vs Women Than Ksvn",
         "category": "DATA_STREAM",
@@ -1373,6 +1035,26 @@
         "epg_metadata": {
             "tvg_id": "sys_nu_tng_thai_nguyen_vs_nu_than_ksvn",
             "tvg_name": "Women Tng Thai Nguyen Vs Women Than Ksvn",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_gimhae_city_vs_seongnam_fc",
+        "title": "\u26bd Gimhae City Vs Seongnam Fc",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_gimhae_city_vs_seongnam_fc",
+            "tvg_name": "Gimhae City Vs Seongnam Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
@@ -1498,6 +1180,26 @@
         }
     },
     {
+        "id": "sys_chiu_pin_chian_vs_isharani_baruah",
+        "title": "\u26bd Chiu Pin Chian Vs Isharani Baruah",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "18:50",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_chiu_pin_chian_vs_isharani_baruah",
+            "tvg_name": "Chiu Pin Chian Vs Isharani Baruah",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_re_arise_vs_zero_tenacity",
         "title": "\u26bd Re Arise Vs Zero Tenacity",
         "category": "DATA_STREAM",
@@ -1598,6 +1300,26 @@
         }
     },
     {
+        "id": "sys_chou_tien_chen_vs_ping_hsien_huang",
+        "title": "\u26bd Chou Tien Chen Vs Ping Hsien Huang",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "19:40",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_chou_tien_chen_vs_ping_hsien_huang",
+            "tvg_name": "Chou Tien Chen Vs Ping Hsien Huang",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_dimitar_kuzmanov_vs_paul_inchauspe",
         "title": "\u26bd Dimitar Kuzmanov Vs Paul Inchauspe",
         "category": "DATA_STREAM",
@@ -1673,6 +1395,126 @@
         "epg_metadata": {
             "tvg_id": "sys_ali_faathir_rayhan_devin_artha_wahyudi_vs_junaidi_arif_kang_khai_xing",
             "tvg_name": "Ali Faathir Rayhan Devin Artha Wahyudi Vs Junaidi Arif Kang Khai Xing",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_keiichiro_matsui_kenya_mitsuhashi_vs_lin_chia_yen_yong_sheng_lin",
+        "title": "\u26bd Keiichiro Matsui Kenya Mitsuhashi Vs Lin Chia Yen Yong Sheng Lin",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "20:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_keiichiro_matsui_kenya_mitsuhashi_vs_lin_chia_yen_yong_sheng_lin",
+            "tvg_name": "Keiichiro Matsui Kenya Mitsuhashi Vs Lin Chia Yen Yong Sheng Lin",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_mili_poljicak_vs_nikoloz_basilashvili",
+        "title": "\u26bd Mili Poljicak Vs Nikoloz Basilashvili",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_mili_poljicak_vs_nikoloz_basilashvili",
+            "tvg_name": "Mili Poljicak Vs Nikoloz Basilashvili",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_ex_rustec_vs_ex_young_ninjas",
+        "title": "\u26bd Ex Rustec Vs Ex Young Ninjas",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:00",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_ex_rustec_vs_ex_young_ninjas",
+            "tvg_name": "Ex Rustec Vs Ex Young Ninjas",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_ko_r_h_lin_j_y_vs_hsieh_pei_shan_hung_en_tzu",
+        "title": "\u26bd Ko R H Lin J Y Vs Hsieh Pei Shan Hung En Tzu",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:20",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_ko_r_h_lin_j_y_vs_hsieh_pei_shan_hung_en_tzu",
+            "tvg_name": "Ko R H Lin J Y Vs Hsieh Pei Shan Hung En Tzu",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_shark_attack_vs_dark_passage",
+        "title": "\u26bd Shark Attack Vs Dark Passage",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_shark_attack_vs_dark_passage",
+            "tvg_name": "Shark Attack Vs Dark Passage",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_frosinone_vs_us_sambenedettese",
+        "title": "\u26bd Frosinone Vs Us Sambenedettese",
+        "category": "DATA_STREAM",
+        "uri": "",
+        "is_live": false,
+        "match_time": "21:30",
+        "headers": {},
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_frosinone_vs_us_sambenedettese",
+            "tvg_name": "Frosinone Vs Us Sambenedettese",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
             "source_xml": "Embedded"
         }
