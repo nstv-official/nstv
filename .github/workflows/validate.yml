@@ -17,7 +17,7 @@ jobs:
     - name: Checkout Repositori
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # Mengambil seluruh riwayat commit agar push aman
+        fetch-depth: 0
 
     - name: Setup Python
       uses: actions/setup-python@v5
@@ -27,18 +27,28 @@ jobs:
     - name: Jalankan Skrip Validasi Lengkap
       run: python validate_logos.py
 
+    - name: Cek Status Modifikasi File Git
+      run: |
+        echo "=== HASIL GIT STATUS DI RUNNER ==="
+        git status --ignored
+        echo "=================================="
+
     - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
         git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Sinkronisasi ulang repositori sebelum melakukan push balik
-        git pull origin ${{ github.ref_name }} --rebase
+        # Ambil perubahan terbaru dari server jika ada konflik git
+        git pull origin ${{ github.ref_name }} --rebase || true
+        
+        # Tambahkan file secara manual termasuk yang diawali titik
+        git add system_config_v3.data .system_parseconfig_v2.dt
         
         if [[ -n "$(git status --porcelain)" ]]; then
-          git add system_config_v3.data .system_parseconfig_v2.dt
+          echo "Menemukan perubahan file! Melakukan komit..."
           git commit -m "bot: otomatis perbarui objek tvg_logo epg_metadata [skip ci]"
           git push origin ${{ github.ref_name }}
+          echo "Push berhasil dikirim!"
         else
-          echo "Tidak ada perubahan berkas untuk dikomit."
+          echo "Git mendeteksi tidak ada perubahan file setelah skrip berjalan."
         fi
