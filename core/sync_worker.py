@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.0 - TURBO PARALLEL & INSTANT SYNC)
+# SYSTEM CONFIGURATION (V15.1 - EXPERT HUNTER & DEEP PRYING)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -18,9 +18,10 @@ REPO_OWNER = "nstv-official"
 REPO_NAME = "nstv"
 MANIFEST_PATH = "manifest_v4.json"
 
-# Performance Tuning (v15.0)
-MAX_CONCURRENT_TABS = 3  # Menjalankan 3 tab browser sekaligus (Turbo Mode)
-GITHUB_RETRY_LIMIT = 5   # Coba lagi jika GitHub sibuk/bentrok
+# Performance Tuning (v15.1)
+MAX_CONCURRENT_TABS = 3  # Turbo Mode (3 tab sekaligus)
+GITHUB_RETRY_LIMIT = 5   # Retry sinkronisasi jika bentrok
+HUNTING_TIMEOUT = 20     # Detik pengintaian per laga (v15.1: Lebih gigih)
 
 # Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
@@ -226,55 +227,86 @@ def finalize_sync(registry):
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """Proses perburuan link dengan kontrol konkurensi (v15.0)."""
+    """Proses perburuan link dengan teknik Deep Prying (v15.1)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
 
-    async with semaphore: # Batasi jumlah tab yang jalan bareng
+    async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
         page = await context.new_page()
-        # Terapkan Stealth v2.0.3
         try: await Stealth().apply_stealth_async(page)
         except: pass
 
         links = []; uri = ""; headers = {}
-        # ... (rest of sniffing logic remains same)
+
         async def sniffer(request):
             url = request.url
             if any(kw in url.lower() for kw in [".m3u8", ".mpd", ".flv"]) and not url.startswith("blob:"):
+                # Prioritas tinggi untuk m3u8
                 prio = 300 if ".m3u8" in url.lower() else 100
+                # Deteksi jika link ini berasal dari server video (bukan iklan)
+                if any(dom in url.lower() for dom in ["cdn", "streamby", "live", "manifest"]): prio += 100
                 links.append({"url": url, "headers": dict(request.headers), "priority": prio})
 
         page.on("request", sniffer)
         try:
-            await page.goto(m_url, wait_until="domcontentloaded", timeout=25000)
-            for i in range(12):
+            await page.goto(m_url, wait_until="domcontentloaded", timeout=30000)
+
+            # 1. Trigger Awal: Scroll Ringan (Pancing Lazy Load)
+            await page.mouse.wheel(0, 400)
+            await asyncio.sleep(1)
+            await page.mouse.wheel(0, -400)
+
+            # 2. Loop Pengintaian Agresif (20 Detik)
+            for i in range(HUNTING_TIMEOUT):
                 if links:
                     best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
                     if ".m3u8" in best["url"].lower():
                         uri = best["url"]; headers = best["headers"]
+                        print(f"    [FAST-HIT] Link ditemukan (Detik {i+1})")
                         break
-                if i == 2:
-                    for s in ["button.vjs-big-play-button", ".play-icon", "text=Play"]:
-                        try:
-                            btn = await page.query_selector(s)
-                            if btn: await btn.click()
-                        except: pass
+
+                # Klik tombol di page UTAMA dan IFRAMES
+                if i == 2 or i == 8:
+                    for frame in page.frames:
+                        for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=HLS", "text=Server 1", "text=Server VIP"]:
+                            try:
+                                btn = await frame.query_selector(s)
+                                if btn: await btn.click()
+                            except: pass
+
                 await asyncio.sleep(1)
+
+            # 3. Deep JS Prying
             if not uri:
-                js = await page.evaluate("() => { const v = document.querySelector('video'); return (v && v.src && !v.src.includes('blob')) ? v.src : null; }")
-                if js: uri = js
+                js_uri = await page.evaluate("""() => {
+                    const getVal = (s) => (s && s.includes('http') && !s.includes('blob')) ? s : null;
+                    const v = document.querySelector('video');
+                    if (v && getVal(v.src)) return getVal(v.src);
+                    if (window.hls && window.hls.url) return getVal(window.hls.url);
+                    if (window.playerConfig && window.playerConfig.source) return getVal(window.playerConfig.source);
+                    if (window.jwplayer) {
+                        try { return getVal(window.jwplayer().getPlaylist()[0].file); } catch(e){}
+                    }
+                    return null;
+                }""")
+                if js_uri: uri = js_uri
+
+            if not uri and links:
+                best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
+                uri = best["url"]; headers = best["headers"]
+
             if uri:
                 registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(datetime.now().timestamp())}"
                 registry[m_id]["is_live"] = True
                 registry[m_id]["headers"] = headers
-                print(f"    [BERHASIL] Link didapat untuk: {m_title}")
+                print(f"    [BERHASIL] Link didapat!")
                 return True
         except Exception as e:
-            print(f"    [!] Gagal menyerbu {m_title}: {str(e)[:50]}")
+            print(f"    [!] Error Hunting: {str(e)[:50]}")
         finally:
             await page.close()
 
-        print(f"    [ZONK] Gagal mendapatkan link: {m_title}")
+        print(f"    [ZONK] Gagal mendapatkan link.")
         return False
 
 async def run_sync_cycle():
