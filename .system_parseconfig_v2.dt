@@ -22,7 +22,2550 @@
             "tvg_name": "Soccer Channel",
             "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/6/6a/SoccerChannel2020.png/revision/latest?cb=20220810085741",
             "source_xml": "Embedded"
+        }
+    },
+	{
+        "id": 1,
+        "title": "PTV Sports (Pakistan)",
+        "category": "WorldCup 2026",
+        "uri": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://103.165.93.31:8095/",
+            "Origin": "https://103.165.93.31:8095"
         },
-        "logo": "logos/default.png"
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.ptv.sports.pakistan",
+            "tvg_name": "PTV Sports (Pakistan)",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PTV_Sports_logo.svg/640px-PTV_Sports_logo.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 3,
+        "title": "beIN Sports XTRA en Espanol (1080p)",
+        "category": "WorldCup 2026",
+        "uri": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://dc1644a9jazgj.cloudfront.net/",
+            "Origin": "https://dc1644a9jazgj.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "beINSPORTSXTRAenEspanol.us@SD",
+            "tvg_name": "beIN Sports XTRA en Espanol (1080p)",
+            "tvg_logo": "https://i.imgur.com/V562tpO.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 4,
+        "title": "FOX Sports (1080p)",
+        "category": "WorldCup 2026",
+        "uri": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d1jzu95oc8fgt3.cloudfront.net/",
+            "Origin": "https://d1jzu95oc8fgt3.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "FoxSports.us@SD",
+            "tvg_name": "FOX Sports (1080p)",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 5,
+        "title": "DD Sports",
+        "category": "WorldCup 2026",
+        "uri": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d3qs3d2rkhfqrt.cloudfront.net/",
+            "Origin": "https://d3qs3d2rkhfqrt.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.dd.sports",
+            "tvg_name": "DD Sports",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/DD_Sports_Logo.svg/960px-DD_Sports_Logo.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Telemundo (US)",
+        "category": "WorldCup 2026",
+        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://nbculocallive.akamaized.net/",
+            "Origin": "https://nbculocallive.akamaized.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.telemundo.us.2",
+            "tvg_name": "Telemundo (US)",
+            "tvg_logo": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Telemundo (US)",
+        "category": "WorldCup 2026",
+        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://nbculocallive.akamaized.net/",
+            "Origin": "https://nbculocallive.akamaized.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.telemundo.us",
+            "tvg_name": "Telemundo (US)",
+            "tvg_logo": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 9,
+        "title": "beIN SPORTS XTRA (1080p)",
+        "category": "WorldCup 2026",
+        "uri": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://bein-xtra-bein.amagi.tv/",
+            "Origin": "https://bein-xtra-bein.amagi.tv"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "beINSPORTSXTRA.us@SD",
+            "tvg_name": "beIN SPORTS XTRA (1080p)",
+            "tvg_logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 10,
+        "title": "TVP Sports (Poland)",
+        "category": "WorldCup 2026",
+        "uri": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://1nyaler.streamhostingcdn.top/",
+            "Origin": "https://1nyaler.streamhostingcdn.top"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tvp.sports.poland",
+            "tvg_name": "TVP Sports (Poland)",
+            "tvg_logo": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 11,
+        "title": "FOX Sports 1 (Alt)",
+        "category": "WorldCup 2026",
+        "uri": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://1nyaler.streamhostingcdn.top/",
+            "Origin": "https://1nyaler.streamhostingcdn.top"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.fox.sports.1.alt",
+            "tvg_name": "FOX Sports 1 (Alt)",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 12,
+        "title": "FS2",
+        "category": "WorldCup 2026",
+        "uri": "https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://1nyaler.streamhostingcdn.top/",
+            "Origin": "https://1nyaler.streamhostingcdn.top"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.fs2",
+            "tvg_name": "FS2",
+            "tvg_logo": "https://i.imgur.com/LHtxKI8.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 13,
+        "title": "ELTA SPORTS 1",
+        "category": "WorldCup 2026",
+        "uri": "https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://iptv.852851.xyz/",
+            "Origin": "https://iptv.852851.xyz"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.elta.sports.1",
+            "tvg_name": "ELTA SPORTS 1",
+            "tvg_logo": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 14,
+        "title": "ABC Australia",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.abc.australia",
+            "tvg_name": "ABC Australia",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Arirang",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/ARIRANG/ARIRANG-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.arirang",
+            "tvg_name": "Arirang",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Bali TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.bali.tv",
+            "tvg_name": "Bali TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 17,
+        "title": "AXN",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.axn",
+            "tvg_name": "AXN",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 18,
+        "title": "Berita Satu",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.berita.satu",
+            "tvg_name": "Berita Satu",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 19,
+        "title": "CCTV 4",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/CCTV_4/CCTV_4-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.cctv.4",
+            "tvg_name": "CCTV 4",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 20,
+        "title": "CBeebies",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.cbeebies",
+            "tvg_name": "CBeebies",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 21,
+        "title": "Global TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.global.tv",
+            "tvg_name": "Global TV",
+            "tvg_logo": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 22,
+        "title": "Fight Sport",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.fight.sport",
+            "tvg_name": "Fight Sport",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 23,
+        "title": "HBO",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hbo",
+            "tvg_name": "HBO",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 24,
+        "title": "HBO Hits",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hbo.hits",
+            "tvg_name": "HBO Hits",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 25,
+        "title": "HBO Signature",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hbo.signature",
+            "tvg_name": "HBO Signature",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 26,
+        "title": "CGTN Documentary",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.cgtn.documentary",
+            "tvg_name": "CGTN Documentary",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 27,
+        "title": "HITS Movies",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hits.movies",
+            "tvg_name": "HITS Movies",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 28,
+        "title": "HITS",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hits",
+            "tvg_name": "HITS",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 29,
+        "title": "IDX",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.idx",
+            "tvg_name": "IDX",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 30,
+        "title": "Jawa Pos",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.jawa.pos",
+            "tvg_name": "Jawa Pos",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 31,
+        "title": "Jak TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.jak.tv",
+            "tvg_name": "Jak TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 32,
+        "title": "Antara",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.antara",
+            "tvg_name": "Antara",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 33,
+        "title": "Cinemax",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.cinemax",
+            "tvg_name": "Cinemax",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 34,
+        "title": "Fashion TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.fashion.tv",
+            "tvg_name": "Fashion TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 35,
+        "title": "KIX",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kix",
+            "tvg_name": "KIX",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 36,
+        "title": "Kompas TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kompas.tv",
+            "tvg_name": "Kompas TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 37,
+        "title": "iNews",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.inews",
+            "tvg_name": "iNews",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 38,
+        "title": "IndiKids",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.indikids",
+            "tvg_name": "IndiKids",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 39,
+        "title": "K+",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.k",
+            "tvg_name": "K+",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 40,
+        "title": "JTV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.jtv",
+            "tvg_name": "JTV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 41,
+        "title": "MNC TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.mnc.tv",
+            "tvg_name": "MNC TV",
+            "tvg_logo": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 42,
+        "title": "Max Eats",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.max.eats",
+            "tvg_name": "Max Eats",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 43,
+        "title": "MNC News",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.mnc.news",
+            "tvg_name": "MNC News",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 44,
+        "title": "Max Streak",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/maxstreak/maxstreak-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.max.streak",
+            "tvg_name": "Max Streak",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 45,
+        "title": "New TV Variety",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/newtvvariety-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.new.tv.variety",
+            "tvg_name": "New TV Variety",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 46,
+        "title": "New TV Comprehensive",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/newtvcomprehensive-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.new.tv.comprehensive",
+            "tvg_name": "New TV Comprehensive",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 47,
+        "title": "Indosiar",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.indosiar",
+            "tvg_name": "Indosiar",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 48,
+        "title": "Rajawali TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.rajawali.tv",
+            "tvg_name": "Rajawali TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 49,
+        "title": "Nickelodeon",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.nickelodeon",
+            "tvg_name": "Nickelodeon",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 50,
+        "title": "Nusantara TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.nusantara.tv",
+            "tvg_name": "Nusantara TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 51,
+        "title": "Rock Action",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.rock.action",
+            "tvg_name": "Rock Action",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 52,
+        "title": "RCTI",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.rcti",
+            "tvg_name": "RCTI",
+            "tvg_logo": "https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 53,
+        "title": "Boomerang",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.boomerang",
+            "tvg_name": "Boomerang",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 54,
+        "title": "HBO Family",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hbo.family",
+            "tvg_name": "HBO Family",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 55,
+        "title": "SCTV (DASH/MPD)",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.sctv",
+            "tvg_name": "SCTV (DASH/MPD)",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 56,
+        "title": "Sinpo TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.sinpo.tv",
+            "tvg_name": "Sinpo TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 57,
+        "title": "Thrill",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.thrill",
+            "tvg_name": "Thrill",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 58,
+        "title": "My Kids",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.my.kids",
+            "tvg_name": "My Kids",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 59,
+        "title": "TV One",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tv.one",
+            "tvg_name": "TV One",
+            "tvg_logo": "https://raw.githubusercontent.com/eepunx/logo/main/tv1.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 60,
+        "title": "TVRI",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tvri",
+            "tvg_name": "TVRI",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 61,
+        "title": "Usee Prime",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.usee.prime",
+            "tvg_name": "Usee Prime",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 62,
+        "title": "Usee Sport",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.usee.sport",
+            "tvg_name": "Usee Sport",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 63,
+        "title": "Warner TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.warner.tv",
+            "tvg_name": "Warner TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 64,
+        "title": "Z Bioskop",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.z.bioskop",
+            "tvg_name": "Z Bioskop",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 65,
+        "title": "Rock Entertainment",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.rock.entertainment",
+            "tvg_name": "Rock Entertainment",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 66,
+        "title": "TVRI World",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tvri.world",
+            "tvg_name": "TVRI World",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 67,
+        "title": "New TV Finance",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/newtvfinance-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.new.tv.finance",
+            "tvg_name": "New TV Finance",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 68,
+        "title": "Discovery Channel",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.discovery.channel",
+            "tvg_name": "Discovery Channel",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 69,
+        "title": "Prambors TV",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.prambors.tv",
+            "tvg_name": "Prambors TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 70,
+        "title": "TV5 Monde",
+        "category": "Trial IDH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/tv5monde/tv5monde-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tv5.monde",
+            "tvg_name": "TV5 Monde",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 71,
+        "title": "Agak Laen",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/st9vqZYF?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.agak.laen",
+            "tvg_name": "Agak Laen",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 72,
+        "title": "Layangan Putus: The Movie",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/6fwxFxx9?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.layangan.putus.the.movie",
+            "tvg_name": "Layangan Putus: The Movie",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 73,
+        "title": "Hamka & Siti Raham Vol. 2",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/ZQVckcfF?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hamka.siti.raham.vol.2",
+            "tvg_name": "Hamka & Siti Raham Vol. 2",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 74,
+        "title": "Mohon Doa Restu",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/fNKYLoB8?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.mohon.doa.restu",
+            "tvg_name": "Mohon Doa Restu",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 75,
+        "title": "Ali Topan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/MkWPhQ5s?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.ali.topan",
+            "tvg_name": "Ali Topan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 76,
+        "title": "Surga Di Bawah Langit",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/wbFWgdQ1?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.surga.di.bawah.langit",
+            "tvg_name": "Surga Di Bawah Langit",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 77,
+        "title": "Ancika",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/owtfAL5s?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.ancika",
+            "tvg_name": "Ancika",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 78,
+        "title": "13 Bomb Di Jakarta",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/ezqDwxkK?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.13.bomb.di.jakarta",
+            "tvg_name": "13 Bomb Di Jakarta",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 79,
+        "title": "Algrafi",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/QXa6Czx5?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.algrafi",
+            "tvg_name": "Algrafi",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 80,
+        "title": "Ayo Balikan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/VxqRRQ1B?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.ayo.balikan",
+            "tvg_name": "Ayo Balikan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 81,
+        "title": "Pasutri Gaje",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/6sQfgr9z?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.pasutri.gaje",
+            "tvg_name": "Pasutri Gaje",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 82,
+        "title": "Bu Tejo Sowan Jakarta",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/tzav6YZV?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.bu.tejo.sowan.jakarta",
+            "tvg_name": "Bu Tejo Sowan Jakarta",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 83,
+        "title": "Dinda",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/j1HPSh9x?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.dinda",
+            "tvg_name": "Dinda",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 84,
+        "title": "Demi Si Buah Hati",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/c57W6uEZ?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.demi.si.buah.hati",
+            "tvg_name": "Demi Si Buah Hati",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 85,
+        "title": "Cek Ombak ( Lagi )",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/zUBcXqQw?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.cek.ombak.lagi",
+            "tvg_name": "Cek Ombak ( Lagi )",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 86,
+        "title": "Kisah Tanah Jawa: Pocong Gundul",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/xTZuUgAW?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kisah.tanah.jawa.pocong.gundul",
+            "tvg_name": "Kisah Tanah Jawa: Pocong Gundul",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 87,
+        "title": "Losmen Melati",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/zBP5ULUD?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.losmen.melati",
+            "tvg_name": "Losmen Melati",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 88,
+        "title": "Malam Para Jahanam",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/a9Y8CEgx?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.malam.para.jahanam",
+            "tvg_name": "Malam Para Jahanam",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 89,
+        "title": "Mukidi",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/xDtZjqYB?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.mukidi",
+            "tvg_name": "Mukidi",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 90,
+        "title": "Siksa Neraka",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/Ya2YKE7h?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.siksa.neraka",
+            "tvg_name": "Siksa Neraka",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 91,
+        "title": "Saranjana: Kota Ghaib",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/vUGDTTXc?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.saranjana.kota.ghaib",
+            "tvg_name": "Saranjana: Kota Ghaib",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 92,
+        "title": "Kereta Berdarah",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/tVDXN7EM?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kereta.berdarah",
+            "tvg_name": "Kereta Berdarah",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 93,
+        "title": "Perjalanan Pembuktian Cinta",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/xvpzbndd?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.perjalanan.pembuktian.cinta",
+            "tvg_name": "Perjalanan Pembuktian Cinta",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 94,
+        "title": "Kuyang",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/BPrv72bw?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kuyang",
+            "tvg_name": "Kuyang",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 95,
+        "title": "Melukis Luka",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/nXDb1hSE?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.melukis.luka",
+            "tvg_name": "Melukis Luka",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 96,
+        "title": "Kereta",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/oCpSqqah?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kereta",
+            "tvg_name": "Kereta",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 97,
+        "title": "Pemukiman Setan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/gjPCoSJZ?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.pemukiman.setan",
+            "tvg_name": "Pemukiman Setan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 98,
+        "title": "Ritual Tumbal Terakhir",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/f9HdvnRd?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.ritual.tumbal.terakhir",
+            "tvg_name": "Ritual Tumbal Terakhir",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 99,
+        "title": "Petualangan Sherina 2",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/iLy76oSv?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.petualangan.sherina.2",
+            "tvg_name": "Petualangan Sherina 2",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 100,
+        "title": "Trinil",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/gu6tTkv4?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.trinil",
+            "tvg_name": "Trinil",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 101,
+        "title": "Titip Surat Untuk Tuhan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/845PJ3Gb?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.titip.surat.untuk.tuhan",
+            "tvg_name": "Titip Surat Untuk Tuhan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 102,
+        "title": "Sujud Terakhir Bapak",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/dwi7mgXX?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.sujud.terakhir.bapak",
+            "tvg_name": "Sujud Terakhir Bapak",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 103,
+        "title": "Kutukan Sembilan Setan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/smj56rTF?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kutukan.sembilan.setan",
+            "tvg_name": "Kutukan Sembilan Setan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 104,
+        "title": "Monster",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/kzy3h67F?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.monster",
+            "tvg_name": "Monster",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 105,
+        "title": "Sinden Gaib",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/ci2qdnsA?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.sinden.gaib",
+            "tvg_name": "Sinden Gaib",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 106,
+        "title": "Sehidup Semati",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/zSNxqv5q?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.sehidup.semati",
+            "tvg_name": "Sehidup Semati",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 107,
+        "title": "Tanduk Setan",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/ocwVztMT?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.tanduk.setan",
+            "tvg_name": "Tanduk Setan",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 108,
+        "title": "Pemandi Jenazah",
+        "category": "VOD INDO",
+        "uri": "https://pixeldrain.com/api/file/Zb5Seo99?download",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://pixeldrain.com/",
+            "Origin": "https://pixeldrain.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.pemandi.jenazah",
+            "tvg_name": "Pemandi Jenazah",
+            "tvg_logo": "",
+            "source_xml": "Embedded"
+        }
     }
 ]
