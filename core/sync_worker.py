@@ -161,7 +161,7 @@ def commit_to_storage(content):
     try:
         r = requests.get(api_url, headers=headers)
         sha = r.json().get("sha") if r.status_code == 200 else None
-        payload = {"message": f"System Sync {datetime.now().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
+        payload = {"message": f"System Registry Sync {datetime.now().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
         if sha: payload["sha"] = sha
         res = requests.put(api_url, headers=headers, json=payload)
         if res.status_code in [200, 201]: print(f"    [CORE] Data committed successfully.")
