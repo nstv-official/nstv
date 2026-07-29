@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 20,
-  "latestVersionName": "2.9",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9-release.apk",
-  "releaseNotes": "• Robot Awan (Cloud): Scraper kini berjalan 24 jam di GitHub tanpa butuh laptop nyala.\n• Mesin Turbo: Hunting link 3x lebih cepat dengan sistem paralel multitasking.\n• Anti-Zonk: Deteksi link lebih gigih hingga ke dalam Iframe dan variabel JS.\n• Anti-Cache: Data di aplikasi kini selalu segar (Real-Time) setiap kali dibuka.\n• Clean Repo: Struktur folder tersamar (Chameleon) untuk keamanan ekstra."
+  "latestVersionCode": 21,
+  "latestVersionName": "2.9.2",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.2-release.apk",
+  "releaseNotes": "• Sinkronisasi Jam: Perbaikan jadwal di halaman Home agar sesuai dengan waktu WIB.\n• Player Cerdas (Anti-Buffer): Player kini otomatis menyesuaikan kualitas video agar tetap lancar meskipun internet melambat.\n• Pemindahan Teks Info: Info resolusi video kini berada di pojok kiri bawah agar tidak tertutup watermark.\n• Auto-Refresh Data: Daftar channel kini diperbarui otomatis setiap 60 detik.\n• Perbaikan Stabilitas: Optimasi memori untuk penggunaan di Smart TV dan STB."
 }
