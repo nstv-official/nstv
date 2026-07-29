@@ -28,7 +28,6 @@ jobs:
       with:
         python-version: '3.x'
 
-    # PERBAIKAN 1: Sinkronisasi git dilakukan di awal sebelum skrip Python mengubah isi file
     - name: Sinkronisasi Cabang Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -38,7 +37,6 @@ jobs:
     - name: Jalankan Skrip Validasi Lengkap
       run: python validate_logos.py
 
-    # PERBAIKAN 2: Menggunakan Environment Variables resmi agar lolos dari galat 'refspec' terminal
     - name: Commit dan Push Otomatis Perubahan Playlist
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -53,8 +51,8 @@ jobs:
           echo "Perubahan teks ditemukan! Melakukan pengiriman data..."
           git commit -m "bot: konversi tvg_logo ke URL raw github content [skip ci]"
           
-          # Mengirim menggunakan token lingkungan aman yang sudah diterjemahkan
-          git push https://x-access-token:${GH_TOKEN}@://github.com{GH_REPO}.git HEAD:${GH_REF} --force
+          # PERBAIKAN: Menggunakan sintaks variabel Bash yang benar ($GH_TOKEN, $GH_REPO, $GH_REF)
+          git push https://x-access-token:$GH_TOKEN@://github.com HEAD:$GH_REF --force
           echo "🚀 Sukses! Data terbaru telah dipaksa masuk ke repositori."
         else
           echo "Git mendeteksi tidak ada perubahan karakter pada file samaran Anda."
