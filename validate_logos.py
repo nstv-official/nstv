@@ -4,12 +4,16 @@ import re
 import sys
 
 def clean_name(text):
-    """Membersihkan nama channel untuk pencocokan file logo."""
+    """Membersihkan nama channel agar pencocokan nama file jauh lebih akurat."""
     if not text:
         return ""
     text = text.lower()
-    # Menghapus variasi teks tambahan, spasi, dan simbol
-    text = re.sub(r'\b(hd|fhd|sd|4k|uhd|ag|indo|indonesia|tv|v\+)\b', '', text)
+    
+    # Hapus langsung kata spesifik (seperti v+) sebelum regex agar tidak tersisa huruf 'v'
+    text = text.replace('v+', '')
+    
+    # Hapus variasi teks tambahan umum
+    text = re.sub(r'\b(hd|fhd|sd|4k|uhd|ag|indo|indonesia|tv)\b', '', text)
     text = re.sub(r'[^\w\s]', '', text)
     text = re.sub(r'\s+', '', text)
     return text
@@ -35,10 +39,24 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         print(f"[❌ ERROR] Format JSON pada file {json_path} rusak: {e}")
         return False
 
-    is_direct_list = isinstance(playlist, list)
-    raw_channels = playlist if is_direct_list else playlist.get('channels', [])
+    # Deteksi otomatis struktur pembungkus array (Akar langsung atau dibungkus objek lain)
+    if isinstance(playlist, list):
+        raw_channels = playlist
+        root_key = None
+    elif isinstance(playlist, dict):
+        # Cari otomatis kunci mana yang berisi daftar/array channel (misal: 'channels', 'data', dll)
+        root_key = next((k for k, v in playlist.items() if isinstance(v, list)), None)
+        if root_key:
+            raw_channels = playlist[root_key]
+            print(f"  [ℹ️ INFO] Mendeteksi array channel di dalam kunci induk: '{root_key}'")
+        else:
+            print(f"[❌ ERROR] Tidak menemukan array/daftar channel di dalam berkas JSON.")
+            return False
+    else:
+        print(f"[❌ ERROR] Format data utama JSON tidak didukung.")
+        return False
 
-    # 2. HAPUS DUPLIKASI (Terisolasi per file, cek berdasarkan 'title' dan 'uri')
+    # 2. HAPUS DUPLIKASI
     unique_channels = []
     seen_names = set()
     seen_urls = set()
@@ -52,7 +70,6 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
             continue
 
         if (name and name in seen_names) or (url and url in seen_urls):
-            print(f"  [🗑️ DUPLICATE] Menghapus duplikat di file ini: '{name}'")
             duplicate_count += 1
             continue
         
@@ -72,7 +89,6 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         original_name = channel.get('title', f"Channel_Indeks_{index}")
         cleaned_channel_name = clean_name(original_name)
         
-        # Pastikan objek 'epg_metadata' ada di dalam data channel
         if 'epg_metadata' not in channel or channel['epg_metadata'] is None:
             channel['epg_metadata'] = {}
             is_modified = True
@@ -80,7 +96,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         epg = channel['epg_metadata']
         current_logo = epg.get('tvg_logo', '')
         
-        # Tentukan jalur logo baru yang diharapkan
+        # Cari file logo di folder lokal
         if cleaned_channel_name and cleaned_channel_name in cleaned_logo_map:
             matched_file = cleaned_logo_map[cleaned_channel_name]
             expected_logo_path = f"{logos_folder}/{matched_file}"
@@ -89,60 +105,46 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
             expected_logo_path = f"{logos_folder}/default.png"
             updated_count += 1
 
-        # Jika logo saat ini berbeda dengan logo baru/default, lakukan pembaruan
         if current_logo != expected_logo_path:
             epg['tvg_logo'] = expected_logo_path
             is_modified = True
-            print(f"  [✏️ UPDATED LOGO] '{original_name}' -> Diubah ke: {expected_logo_path}")
+            print(f"  [✏️ LOGO DIUBAH] '{original_name}' (Bersih: {cleaned_channel_name}) -> {expected_logo_path}")
 
-    # 4. Urutkan Secara Alfabetis (A-Z) berdasarkan 'title'
-    print("  🔀 Mengurutkan daftar channel dari A sampai Z...")
-    before_sort = json.dumps(unique_channels, sort_keys=True)
+    # 4. Urutkan Secara Alfabetis (A-Z)
     unique_channels.sort(key=get_sort_key)
-    after_sort = json.dumps(unique_channels, sort_keys=True)
-    
-    if before_sort != after_sort:
-        is_modified = True
 
-    # 5. Pembaruan / Penomoran Ulang ID Otomatis
-    print("  🔢 Memperbarui urutan nomor ID channel...")
+    # 5. Pembaruan Nomor ID Urut
     for new_id, channel in enumerate(unique_channels, start=1):
         current_id = channel.get('id')
-        
-        # Jika tipe data ID asli berupa integer/angka, pertahankan integer
-        if isinstance(current_id, int):
-            expected_id = new_id
-        else:
-            expected_id = str(new_id)
-        
+        expected_id = new_id if isinstance(current_id, int) else str(new_id)
         if current_id != expected_id:
             channel['id'] = expected_id
             is_modified = True
 
-    # 6. Simpan Perubahan ke Berkas jika modifikasi terjadi
+    # 6. Simpan kembali ke berkas JSON dengan mempertahankan struktur aslinya
     if is_modified:
-        final_data = unique_channels if is_direct_list else {"channels": unique_channels}
+        if root_key:
+            playlist[root_key] = unique_channels
+            final_data = playlist
+        else:
+            final_data = unique_channels
+            
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print(f"  💾 Berhasil memperbarui berkas {json_path}!")
+        print(f"  💾 BERHASIL MENULIS PERUBAHAN PADA BERKAS: {json_path}")
     else:
-        print("  ✨ Tidak ada perubahan struktural yang perlu disimpan.")
+        print("  ✨ Tidak ada perubahan data logo atau urutan yang perlu disimpan.")
 
     print(f"  --- Ringkasan {json_path} ---")
-    print(f"  Total Channel Awal     : {len(raw_channels)}")
-    print(f"  Duplikat Dihapus       : {duplicate_count}")
-    print(f"  Channel Aktif Saat Ini : {len(unique_channels)}")
-    print(f"  Logo Berhasil Cocok    : {matched_count}")
-    print(f"  Menggunakan Default    : {updated_count}")
+    print(f"  Total Awal: {len(raw_channels)} | Duplikat Dibuang: {duplicate_count} | Sisa Aktif: {len(unique_channels)}")
+    print(f"  Logo Terpasang Sesuai Folder: {matched_count} | Menggunakan Default: {updated_count}")
     return True
 
 def validate_and_update_all(playlist_files, logos_folder):
-    print("--- Memulai Validasi Multi-Playlist Terisolasi (Skema Objek EPG) ---")
-    
+    print("--- Memulai Validasi Multi-Playlist Terisolasi (V3) ---")
     if not os.path.exists(logos_folder):
         print(f"[❌ ERROR] Folder '{logos_folder}' tidak ditemukan.")
         sys.exit(1)
-        
     if not os.path.exists(os.path.join(logos_folder, "default.png")):
         print(f"[❌ ERROR] File 'default.png' wajib ada di folder '{logos_folder}'.")
         sys.exit(1)
@@ -155,8 +157,6 @@ def validate_and_update_all(playlist_files, logos_folder):
 
     for file_path in playlist_files:
         process_single_playlist(file_path, cleaned_logo_map, logos_folder)
-        
-    print("\n🎉 Semua file playlist selesai diproses!")
     sys.exit(0)
 
 if __name__ == "__main__":
