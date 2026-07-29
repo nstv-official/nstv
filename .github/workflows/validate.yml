@@ -1,4 +1,4 @@
-name: Validasi, Bersihkan Duplikat & Urutkan Playlist
+name: Validasi, Bersihkan Duplikat & Urutkan Playlist Multi-File
 
 on:
   push:
@@ -25,15 +25,16 @@ jobs:
     - name: Jalankan Skrip Validasi Lengkap
       run: python validate_logos.py
 
-    - name: Commit dan Push Otomatis Perubahan JSON
+    - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
         git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
         
+        # Mengecek apakah ada perubahan pada berkas spesifik Anda
         if [[ -n "$(git status --porcelain)" ]]; then
-          git add playlist.json
-          git commit -m "bot: otomatis hapus duplikat, urutkan A-Z, dan susun ulang nomor ID [skip ci]"
+          git add system_config_v3.data .system_parseconfig_v2.dt
+          git commit -m "bot: otomatis merapikan kedua berkas playlist [skip ci]"
           git push
         else
-          echo "Tidak ada perubahan JSON untuk dikomit."
+          echo "Tidak ada perubahan berkas untuk dikomit."
         fi
