@@ -2,3 +2,5 @@
 *.jpg binary
 *.jpeg binary
 *.gif binary
+*.data text
+*.dt text
