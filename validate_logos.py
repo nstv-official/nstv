@@ -8,8 +8,8 @@ def clean_name(text):
     if not text:
         return ""
     text = str(text).lower()
-    # Hapus string spesifik (seperti v+) sebelum regex simbol
     text = text.replace('v+', '')
+    text = re.sub(r'\(|\)', '', text)
     text = re.sub(r'\b(hd|fhd|sd|4k|uhd|ag|indo|indonesia|tv)\b', '', text)
     text = re.sub(r'[^\w\s]', '', text)
     text = re.sub(r'\s+', '', text)
@@ -22,7 +22,7 @@ def get_sort_key(channel):
 
 def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     print(f"\n==========================================")
-    print(f"📄 MEMPROSES BERKAS VIA FORCE V5: {json_path}")
+    print(f"📄 MEMPROSES PLAYLIST SAMARAN: {json_path}")
     print(f"==========================================")
     
     if not os.path.exists(json_path):
@@ -34,29 +34,18 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
 
     try:
         playlist = json.loads(content)
-    except json.JSONDecodeError:
-        try:
-            if not content.endswith(']'): playlist = json.loads(content + ']')
-            elif not content.endswith('}'): playlist = json.loads(content + '}')
-        except Exception as e:
-            print(f"[❌ ERROR] JSON Tidak Bisa Diparse: {e}")
-            return False
+    except json.JSONDecodeError as e:
+        print(f"[❌ ERROR] JSON Tidak Bisa Diparse pada {json_path}: {e}")
+        return False
 
-    # Deteksi struktur array
     if isinstance(playlist, list):
         raw_channels = playlist
         root_key = None
     elif isinstance(playlist, dict):
         root_key = next((k for k, v in playlist.items() if isinstance(v, list)), None)
-        if root_key:
-            raw_channels = playlist[root_key]
-        else:
-            raw_channels = [playlist]
-            root_key = "SINGLE_OBJECT"
-    else:
-        return False
+        raw_channels = playlist[root_key] if root_key else [playlist]
 
-    # Hapus Duplikat
+    # 1. Hapus Duplikat
     unique_channels = []
     seen_names = set()
     seen_urls = set()
@@ -70,7 +59,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         if url: seen_urls.add(url)
         unique_channels.append(ch)
 
-    # Proses Penggantian Logo Agresif
+    # 2. Proses Penggantian Logo
     for index, channel in enumerate(unique_channels):
         original_name = channel.get('title', f"Index_{index}")
         cleaned_channel_name = clean_name(original_name)
@@ -80,27 +69,23 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
             
         epg = channel['epg_metadata']
         
-        # Tentukan file gambar target dari folder logos lokal
         if cleaned_channel_name and cleaned_channel_name in cleaned_logo_map:
             matched_file = cleaned_logo_map[cleaned_channel_name]
             expected_logo_path = f"{logos_folder}/{matched_file}"
         else:
             expected_logo_path = f"{logos_folder}/default.png"
 
-        # FORCING: Langsung timpa nilai logo lama tanpa membandingkan terlebih dahulu
         epg['tvg_logo'] = expected_logo_path
 
-    # Urutkan A-Z
+    # 3. Urutkan A-Z
     unique_channels.sort(key=get_sort_key)
 
-    # Pasang ID Urut Baru
+    # 4. Pasang ID Urut Baru
     for new_id, channel in enumerate(unique_channels, start=1):
         channel['id'] = str(new_id)
 
-    # RE-WRITE FORCED: Selalu simpan paksa file ke disk virtual GitHub runner
-    if root_key == "SINGLE_OBJECT":
-        final_data = unique_channels
-    elif root_key:
+    # 5. Simpan Kembali
+    if root_key:
         playlist[root_key] = unique_channels
         final_data = playlist
     else:
@@ -109,11 +94,12 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
     
-    print(f"💾 [FORCED WRITE SUCCESS] Berkas {json_path} berhasil ditulis ulang!")
+    print(f"💾 [BERHASIL] File {json_path} selesai diperbarui!")
     return True
 
 def validate_and_update_all(playlist_files, logos_folder):
     if not os.path.exists(logos_folder):
+        print(f"[❌ ERROR] Folder '{logos_folder}' tidak ditemukan.")
         sys.exit(1)
         
     logo_files = os.listdir(logos_folder)
