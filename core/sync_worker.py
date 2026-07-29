@@ -26,9 +26,12 @@ HEADLESS_MODE = True
 if IS_CLOUD:
     SESSION_DIR = "./internal_cache"
     LOG_DIR = "./system_logs"
+    LOCAL_MANIFEST = MANIFEST_PATH
 else:
     SESSION_DIR = r"D:\NSTV_Internal_Cache"
     LOG_DIR = r"D:\NSTV_System_Logs"
+    # Di laptop, simpan di folder utama (satu tingkat di atas folder 'core')
+    LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 # Permanent System Entries
 FIXED_ENTRIES = [
@@ -156,6 +159,11 @@ def get_remote_assets():
     return []
 
 def commit_to_storage(content):
+    """Kirim ke GitHub hanya jika token tersedia (v14.8)."""
+    if not GITHUB_TOKEN:
+        print("    [LOCAL] GitHub Token tidak ditemukan. Lewati upload.")
+        return
+
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
     try:
@@ -168,6 +176,7 @@ def commit_to_storage(content):
     except: pass
 
 def finalize_sync(registry):
+    """Menyimpan data lokal DAN kirim ke GitHub (v14.8 Dual-Save)."""
     final_list = list(registry.values())
     def sort_logic(x):
         is_fixed = 0 if x.get("id", "").startswith("sys_") else 1
@@ -177,6 +186,16 @@ def finalize_sync(registry):
         return (is_fixed, prio_cat, is_live_prio, x.get("match_time", "99:99"))
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
+
+    # 1. SIMPAN LOKAL (Agar terlihat di laptop)
+    try:
+        with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f:
+            f.write(content)
+        print(f"    [SAVE] File lokal diperbarui: {LOCAL_MANIFEST}")
+    except Exception as e:
+        print(f"    [!] Gagal simpan lokal: {e}")
+
+    # 2. KIRIM KE GITHUB (Cloud Sync)
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry):
