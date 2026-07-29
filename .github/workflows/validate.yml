@@ -19,6 +19,8 @@ jobs:
       with:
         fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
+        # KUNCI PERBAIKAN: Menjaga kredensial login akun Anda agar tetap aktif selama proses berjalan
+        persist-credentials: true
 
     - name: Amankan Direktori Git
       run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
@@ -32,7 +34,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git pull origin ${GITHUB_REF_NAME} --rebase || true
+        git pull origin master --rebase || git pull origin main --rebase || true
 
     - name: Jalankan Skrip Validasi Lengkap
       run: python validate_logos.py
@@ -47,10 +49,8 @@ jobs:
           echo "Perubahan teks ditemukan! Melakukan pengiriman data..."
           git commit -m "bot: konversi tvg_logo ke URL raw github content [skip ci]"
           
-          # SOLUSI MUTLAK: Menggunakan variabel bawaan sistem Linux GitHub Runner ($GITHUB_TOKEN dan $GITHUB_REPOSITORY)
-          # Variabel ini dijamin terisi otomatis oleh server Ubuntu tanpa risiko salah ketik sintaks
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@://github.com{GITHUB_REPOSITORY}.git"
-          git push origin HEAD:${GITHUB_REF_NAME} --force
+          # SOLUSI AKHIR: Gunakan push biasa tanpa modifikasi URL token yang rawan rusak
+          git push origin HEAD --force
           
           echo "🚀 Sukses! Data terbaru telah dipaksa masuk ke repositori."
         else
