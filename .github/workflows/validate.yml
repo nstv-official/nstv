@@ -18,7 +18,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
-        # PERBAIKAN UTAMA: Menggunakan token autentikasi bawaan agar lolos dari pemblokiran
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Amankan Direktori Git
@@ -34,25 +33,19 @@ jobs:
 
     - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
-        # Mengatur konfigurasi identitas robot Git
-        git config --local user.email "github-actions[bot]@://github.com"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Tarik pembaruan jarak jauh untuk mencegah konflik cabang
         git pull origin ${{ github.ref_name }} --rebase || true
         
-        # Paksa Git memasukkan file samaran teks Anda ke dalam cache pelacakan
         git add -f system_config_v3.data
         git add -f .system_parseconfig_v2.dt
         
-        # Deteksi perubahan menggunakan git status secara langsung
         if [[ -n "$(git status --porcelain)" ]]; then
           echo "Perubahan teks ditemukan! Melakukan pengiriman data..."
-          git commit -m "bot: pembaruan otomatis jalur tvg_logo playlist [skip ci]"
-          
-          # PERBAIKAN UTAMA: Menyisipkan token ke dalam URL repositori agar push disetujui server
+          git commit -m "bot: konversi tvg_logo ke URL raw github content [skip ci]"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@://github.com{{ github.repository }}.git HEAD:${{ github.ref_name }} --force
-          echo "Proses pengiriman file berhasil disetujui server GitHub!"
+          echo "Proses pengiriman file berhasil!"
         else
           echo "Git mendeteksi tidak ada perubahan karakter pada file samaran Anda."
         fi
