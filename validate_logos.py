@@ -25,47 +25,63 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     print(f"==========================================")
     
     if not os.path.exists(json_path):
-        print(f"[❌ ERROR] File '{json_path}' TIDAK DITEMUKAN DI REPO.")
+        print(f"[⚠️ WARNING] File '{json_path}' tidak ditemukan. Dilewati.")
         return False
 
     # 1. Baca isi file
     with open(json_path, 'r', encoding='utf-8') as f:
         content = f.read().strip()
-        
-    print(f"🔍 DEBUG: 200 karakter pertama isi file asli:\n{content[:200]}\n---")
 
+    # Perbaikan Autodeteksi Struktur JSON yang Berantakan/Dibungkus
     try:
         playlist = json.loads(content)
-    except json.JSONDecodeError as e:
-        print(f"[❌ ERROR] JSON Rusak pada {json_path}: {e}")
-        return False
+    except json.JSONDecodeError:
+        # Jika gagal load, coba bersihkan karakter pembungkus jika file tidak lengkap
+        try:
+            if not content.endswith(']'):
+                playlist = json.loads(content + ']')
+            elif not content.endswith('}'):
+                playlist = json.loads(content + '}')
+        except Exception as e:
+            print(f"[❌ ERROR] JSON Rusak Parah & Tidak Bisa Diparse: {e}")
+            return False
 
-    # Deteksi struktur array
+    # Cari array channel di posisi mana pun di dalam dokumen JSON
+    raw_channels = []
+    root_key = None
+    
     if isinstance(playlist, list):
         raw_channels = playlist
-        root_key = None
-        print(f"💡 STRUKTUR: JSON berupa List langsung (Array tanpa pembungkus).")
     elif isinstance(playlist, dict):
-        root_key = next((k for k, v in playlist.items() if isinstance(v, list)), None)
-        if root_key:
-            raw_channels = playlist[root_key]
-            print(f"💡 STRUKTUR: JSON berupa Objek dengan Key Induk '{root_key}'.")
+        if 'channels' in playlist and isinstance(playlist['channels'], list):
+            raw_channels = playlist['channels']
+            root_key = 'channels'
         else:
-            print(f"[❌ ERROR] Tidak ditemukan Array di dalam JSON Objek.")
-            return False
-    else:
-        print(f"[❌ ERROR] Format data utama JSON tidak dikenal.")
+            # Cari kunci acak pertama yang isinya berupa List/Array
+            for k, v in playlist.items():
+                if isinstance(v, list):
+                    raw_channels = v
+                    root_key = k
+                    break
+            # Jika tidak ada list di dalam objek, bungkus objek tunggal tersebut menjadi list
+            if not raw_channels:
+                raw_channels = [playlist]
+                root_key = "SINGLE_OBJECT"
+
+    if not raw_channels:
+        print(f"[❌ ERROR] Gagal mengekstrak daftar channel dari JSON.")
         return False
 
-    print(f"📊 Jumlah channel mula-mula: {len(raw_channels)}")
+    print(f"📊 Menemukan {len(raw_channels)} data channel untuk diproses.")
 
-    # 2. Hapus Duplikasi
+    # 2. Pembersihan Duplikat Terisolasi
     unique_channels = []
     seen_names = set()
     seen_urls = set()
     duplicate_count = 0
 
     for ch in raw_channels:
+        if not isinstance(ch, dict): continue
         name = str(ch.get('title', '')).strip()
         url = str(ch.get('uri', '')).strip()
 
@@ -81,7 +97,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     matched_count = 0
     updated_count = 0
 
-    # 3. Validasi & Ganti Logo
+    # 3. Proses Ganti Tautan Logo EPG
     for index, channel in enumerate(unique_channels):
         original_name = channel.get('title', f"Index_{index}")
         cleaned_channel_name = clean_name(original_name)
@@ -93,6 +109,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         epg = channel['epg_metadata']
         current_logo = epg.get('tvg_logo', '')
         
+        # Tentukan logo berdasarkan kecocokan di folder logos/
         if cleaned_channel_name and cleaned_channel_name in cleaned_logo_map:
             matched_file = cleaned_logo_map[cleaned_channel_name]
             expected_logo_path = f"{logos_folder}/{matched_file}"
@@ -104,12 +121,12 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
         if current_logo != expected_logo_path:
             epg['tvg_logo'] = expected_logo_path
             is_modified = True
-            print(f"📝 [PERUBAHAN MEMORI] '{original_name}' -> {expected_logo_path} (Lama: {current_logo})")
+            print(f"✏️ [MENGUBAH MEMORI] '{original_name}' -> {expected_logo_path}")
 
-    # 4. Urutkan A-Z
+    # 4. Urutkan Alfabetis A-Z
     unique_channels.sort(key=get_sort_key)
 
-    # 5. Nomor ID
+    # 5. Pasang ID Urut Baru
     for new_id, channel in enumerate(unique_channels, start=1):
         current_id = channel.get('id')
         expected_id = new_id if isinstance(current_id, int) else str(new_id)
@@ -117,9 +134,11 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
             channel['id'] = expected_id
             is_modified = True
 
-    # 6. Simpan File Fisik
+    # 6. Tulis Kembali Hasil Akhir Secara Utuh ke Disk Virtual
     if is_modified:
-        if root_key:
+        if root_key == "SINGLE_OBJECT":
+            final_data = unique_channels[0]
+        elif root_key:
             playlist[root_key] = unique_channels
             final_data = playlist
         else:
@@ -127,21 +146,19 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
             
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print(f"💾 [BERHASIL DISIMPAN] File {json_path} telah ditulis ulang di disk virtual!")
+        print(f"💾 [SUKSES DISIMPAN] Berkas {json_path} berhasil diperbarui secara fisik!")
     else:
-        print("✨ [SAMA] Tidak ada perubahan struktural antara data lama & baru.")
+        print("✨ [SAMA] Tidak ada perubahan terdeteksi pada logo maupun urutan.")
 
     return True
 
 def validate_and_update_all(playlist_files, logos_folder):
-    print("--- Memulai Validasi Debug Multi-Playlist ---")
+    print("--- Memulai Validasi Multi-Playlist Paket Lengkap (V4) ---")
     if not os.path.exists(logos_folder):
         print(f"[❌ ERROR] Folder '{logos_folder}' tidak ditemukan.")
         sys.exit(1)
         
     logo_files = os.listdir(logos_folder)
-    print(f"📁 Isi Folder Logos: {logo_files}")
-    
     cleaned_logo_map = {}
     for filename in logo_files:
         name_only, _ = os.path.splitext(filename)
