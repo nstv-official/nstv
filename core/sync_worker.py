@@ -7,16 +7,20 @@ import os
 import random
 from datetime import datetime, timedelta
 from playwright.async_api import async_playwright
-import playwright_stealth
+from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V14.6 - DATA SANITIZATION & DATE AWARE)
+# SYSTEM CONFIGURATION (V15.0 - TURBO PARALLEL & INSTANT SYNC)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
 REPO_NAME = "nstv"
 MANIFEST_PATH = "manifest_v4.json"
+
+# Performance Tuning (v15.0)
+MAX_CONCURRENT_TABS = 3  # Menjalankan 3 tab browser sekaligus (Turbo Mode)
+GITHUB_RETRY_LIMIT = 5   # Coba lagi jika GitHub sibuk/bentrok
 
 # Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
@@ -159,21 +163,44 @@ def get_remote_assets():
     return []
 
 def commit_to_storage(content):
-    """Kirim ke GitHub hanya jika token tersedia (v14.8)."""
+    """Kirim ke GitHub dengan sistem antre & retry otomatis (v15.0)."""
     if not GITHUB_TOKEN:
         print("    [LOCAL] GitHub Token tidak ditemukan. Lewati upload.")
         return
 
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    try:
-        r = requests.get(api_url, headers=headers)
-        sha = r.json().get("sha") if r.status_code == 200 else None
-        payload = {"message": f"System Registry Sync {datetime.now().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
-        if sha: payload["sha"] = sha
-        res = requests.put(api_url, headers=headers, json=payload)
-        if res.status_code in [200, 201]: print(f"    [CORE] Data committed successfully.")
-    except: pass
+
+    # Mencoba hingga limit jika terjadi tabrakan (Conflict 409)
+    for attempt in range(GITHUB_RETRY_LIMIT):
+        try:
+            # 1. Ambil SHA terbaru dari GitHub (Selalu ambil yang paling baru)
+            r = requests.get(api_url, headers=headers)
+            sha = r.json().get("sha") if r.status_code == 200 else None
+
+            # 2. Kirim data terbaru
+            payload = {
+                "message": f"System Registry Sync {datetime.now().strftime('%Y-%m-%d %H:%M')}",
+                "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")
+            }
+            if sha: payload["sha"] = sha
+
+            res = requests.put(api_url, headers=headers, json=payload)
+            if res.status_code in [200, 201]:
+                print(f"    [CORE] Data committed successfully (Attempt {attempt+1}).")
+                return True
+            elif res.status_code == 409:
+                # Tabrakan data! Tunggu sebentar lalu ulangi
+                wait = random.uniform(1, 3)
+                print(f"    [!] Konflik Sinkronisasi (Attempt {attempt+1}). Mencoba lagi dlm {wait:.1f} detik...")
+                import time; time.sleep(wait)
+            else:
+                print(f"    [GITHUB] Gagal Sync: {res.status_code} - {res.text[:50]}")
+                break
+        except Exception as e:
+            print(f"    [!] Error GitHub: {str(e)[:50]}")
+            break
+    return False
 
 def finalize_sync(registry):
     """Menyimpan data lokal DAN kirim ke GitHub (v14.8 Dual-Save)."""
@@ -198,48 +225,62 @@ def finalize_sync(registry):
     # 2. KIRIM KE GITHUB (Cloud Sync)
     commit_to_storage(content)
 
-async def process_entry_manifest(context, info, registry):
-    m_url = info["url"]; m_id = info["id"]
-    page = await context.new_page()
-    playwright_stealth.stealth(page)
-    links = []; uri = ""; headers = {}
+async def process_entry_manifest(context, info, registry, semaphore):
+    """Proses perburuan link dengan kontrol konkurensi (v15.0)."""
+    m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
 
-    async def sniffer(request):
-        url = request.url
-        if any(kw in url.lower() for kw in [".m3u8", ".mpd", ".flv"]) and not url.startswith("blob:"):
-            prio = 300 if ".m3u8" in url.lower() else 100
-            links.append({"url": url, "headers": dict(request.headers), "priority": prio})
+    async with semaphore: # Batasi jumlah tab yang jalan bareng
+        print(f"    [>>>] Menyerbu Link: {m_title}...")
+        page = await context.new_page()
+        # Terapkan Stealth v2.0.3
+        try: await Stealth().apply_stealth_async(page)
+        except: pass
 
-    page.on("request", sniffer)
-    try:
-        await page.goto(m_url, wait_until="domcontentloaded", timeout=25000)
-        for i in range(12):
-            if links:
-                best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
-                if ".m3u8" in best["url"].lower():
-                    uri = best["url"]; headers = best["headers"]
-                    break
-            if i == 2:
-                for s in ["button.vjs-big-play-button", ".play-icon", "text=Play"]:
-                    try:
-                        btn = await page.query_selector(s)
-                        if btn: await btn.click()
-                    except: pass
-            await asyncio.sleep(1)
-        if not uri:
-            js = await page.evaluate("() => { const v = document.querySelector('video'); return (v && v.src && !v.src.includes('blob')) ? v.src : null; }")
-            if js: uri = js
-        if uri:
-            registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(datetime.now().timestamp())}"
-            registry[m_id]["is_live"] = True
-            registry[m_id]["headers"] = headers
-            return True
-    except: pass
-    finally: await page.close()
-    return False
+        links = []; uri = ""; headers = {}
+        # ... (rest of sniffing logic remains same)
+        async def sniffer(request):
+            url = request.url
+            if any(kw in url.lower() for kw in [".m3u8", ".mpd", ".flv"]) and not url.startswith("blob:"):
+                prio = 300 if ".m3u8" in url.lower() else 100
+                links.append({"url": url, "headers": dict(request.headers), "priority": prio})
+
+        page.on("request", sniffer)
+        try:
+            await page.goto(m_url, wait_until="domcontentloaded", timeout=25000)
+            for i in range(12):
+                if links:
+                    best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
+                    if ".m3u8" in best["url"].lower():
+                        uri = best["url"]; headers = best["headers"]
+                        break
+                if i == 2:
+                    for s in ["button.vjs-big-play-button", ".play-icon", "text=Play"]:
+                        try:
+                            btn = await page.query_selector(s)
+                            if btn: await btn.click()
+                        except: pass
+                await asyncio.sleep(1)
+            if not uri:
+                js = await page.evaluate("() => { const v = document.querySelector('video'); return (v && v.src && !v.src.includes('blob')) ? v.src : null; }")
+                if js: uri = js
+            if uri:
+                registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(datetime.now().timestamp())}"
+                registry[m_id]["is_live"] = True
+                registry[m_id]["headers"] = headers
+                print(f"    [BERHASIL] Link didapat untuk: {m_title}")
+                return True
+        except Exception as e:
+            print(f"    [!] Gagal menyerbu {m_title}: {str(e)[:50]}")
+        finally:
+            await page.close()
+
+        print(f"    [ZONK] Gagal mendapatkan link: {m_title}")
+        return False
 
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
+
+    print(f"[SYSTEM] Memulai Siklus Sinkronisasi (V15.0 - TURBO)...")
 
     state = await fetch_registry_state()
     registry = {}
@@ -247,23 +288,27 @@ async def run_sync_cycle():
     assets = get_remote_assets()
 
     async with async_playwright() as p:
-        print(f"[SYSTEM] Initializing Sync Cycle (V14.1)...")
         try:
             browser = await p.chromium.launch(headless=HEADLESS_MODE)
             context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
             page = await context.new_page()
-            playwright_stealth.stealth(page)
-        except: return
+            try: await Stealth().apply_stealth_async(page)
+            except Exception as e: print(f"    [!] Gagal memuat Stealth: {e}")
+        except Exception as e:
+            print(f"[!] GAGAL MEMULAI BROWSER: {e}")
+            return
 
         now = datetime.now()
         queue = []
-
+        # ... (scanning logic remains same)
         for endpoint in ENDPOINTS:
             try:
+                print(f"[*] Memindai: {endpoint}...")
                 await page.goto(endpoint, wait_until="domcontentloaded", timeout=60000)
                 await asyncio.sleep(8)
                 nodes = await page.query_selector_all("a[href*='truc-tiep']")
                 seen = set()
+                print(f"    [OK] Ditemukan {len(nodes)} link tanding.")
 
                 for node in nodes:
                     try:
@@ -271,7 +316,7 @@ async def run_sync_cycle():
                         if not href: continue
                         full_url = href if href.startswith("http") else endpoint.rstrip("/") + "/" + href.lstrip("/")
                         slug = full_url.strip("/").split("/")[-1]
-                        if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST): continue
+                        if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST) or slug.isdigit(): continue
                         seen.add(slug)
 
                         label, m_time, m_date = parse_registry_slug(slug)
@@ -293,8 +338,6 @@ async def run_sync_cycle():
                                 t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
                                 if m_date and datetime.strptime(m_date, "%d-%m-%Y").date() > now.date():
                                     t_obj += timedelta(days=1)
-
-                                # LIVE hanya jika jam sudah lewat DAN maksimal 2.5 jam berlalu
                                 if now >= t_obj and now <= t_obj + timedelta(minutes=150):
                                     is_live = True
                             except: pass
@@ -318,18 +361,29 @@ async def run_sync_cycle():
                             }
                             if is_live and not existing_uri:
                                 queue.append({"id": m_id, "url": full_url, "title": label})
+                            elif existing_uri:
+                                # v15.0: Jika sudah ada link, tetap lapor keberadaannya
+                                pass
                     except: continue
-            except: pass
+            except Exception as e:
+                print(f"[!] Radar Gagal di {endpoint}: {e}")
 
+        # TAHAP 2: TURBO HUNTING (PARALLEL v15.0)
         if queue:
-            print(f"[CORE] Processing {len(queue[:10])} entries...")
-            for item in queue[:10]:
-                if await process_entry_manifest(context, item, registry):
+            print(f"[CORE] Menyerbu {len(queue)} laga LIVE secara PARALEL (Turbo: 3)...")
+            semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
+
+            async def hunter_task(item):
+                if await process_entry_manifest(context, item, registry, semaphore):
+                    # LANGSUNG SINKRON begitu satu link didapat (Real-Time Parallel)
                     finalize_sync(registry)
+
+            # Jalankan semua antrean secara paralel
+            await asyncio.gather(*(hunter_task(item) for item in queue))
 
         finalize_sync(registry)
         await browser.close()
-        print(f"[SYSTEM] Cycle complete.")
+        print(f"[SYSTEM] Siklus selesai pada {datetime.now().strftime('%H:%M')}.\n")
 
 async def main():
     if IS_CLOUD:
