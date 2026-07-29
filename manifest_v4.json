@@ -281,10 +281,16 @@
         "id": "sys_lusitania_fc_vs_porto_b",
         "title": "\u26bd Lusitania Fc Vs Porto B",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=82cccca7171b6ac5b1e2f9760d38e631&wsABSTime=1785357169&sys_cache=1785314053",
         "is_live": true,
         "match_time": "15:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
@@ -321,10 +327,16 @@
         "id": "sys_kustosija_vs_karlovac",
         "title": "\u26bd Kustosija Vs Karlovac",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=ebdec75a0e2778fff7faed150a8bbf68&wsABSTime=1785357169&sys_cache=1785314053",
         "is_live": true,
         "match_time": "15:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel34/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
