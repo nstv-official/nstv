@@ -16,7 +16,9 @@ def clean_name(text):
 def get_sort_key(channel):
     """Mengambil kunci pengurutan dengan membersihkan emoji di awal nama channel."""
     name = channel.get('name', '')
-    clean_start = re.sub(r'^[^\w]+', '', name)
+    if not name:
+        name = channel.get('title', '') # Fallback jika pakai 'title'
+    clean_start = re.sub(r'^[^\w]+', '', str(name))
     return clean_start.lower().strip()
 
 def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
@@ -37,24 +39,35 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     is_direct_list = isinstance(playlist, list)
     raw_channels = playlist if is_direct_list else playlist.get('channels', [])
 
-    # 2. Hapus Duplikasi (Berdasarkan Nama & URL Streaming)
+    # 2. HAPUS DUPLIKASI - DIRESET UNTUK MASING-MASING PLAYLIST (TERISOLASI)
     unique_channels = []
     seen_names = set()
     seen_urls = set()
     duplicate_count = 0
 
     for ch in raw_channels:
-        name = ch.get('name', '').strip()
-        url = ch.get('url', '').strip()
+        # Deteksi nama channel (bisa 'name' atau 'title')
+        name = ch.get('name', ch.get('title', '')).strip()
+        
+        # Deteksi URL streaming (bisa 'url', 'link', atau 'file')
+        url = ch.get('url', ch.get('link', ch.get('file', ''))).strip()
 
-        if name in seen_names or (url and url in seen_urls):
-            print(f"  [🗑️ DUPLICATE] Menghapus channel duplikat: '{name}'")
+        # Abaikan pengecekan jika nama dan url kosong
+        if not name and not url:
+            continue
+
+        # Validasi duplikat mandiri per file playlist
+        # Logika: Jika URL ada dan sudah pernah dilihat, ATAU Nama ada dan sudah pernah dilihat
+        if (name and name in seen_names) or (url and url in seen_urls):
+            print(f"  [🗑️ DUPLICATE] Menghapus duplikat di file ini: '{name}'")
             duplicate_count += 1
             continue
         
-        seen_names.add(name)
+        if name:
+            seen_names.add(name)
         if url:
             seen_urls.add(url)
+            
         unique_channels.append(ch)
 
     matched_count = 0
@@ -63,21 +76,36 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
 
     # 3. Validasi dan Perbarui Properti Logo
     for index, channel in enumerate(unique_channels):
-        original_name = channel.get('name', f"Channel_Indeks_{index}")
-        current_logo = channel.get('logo', '')
+        original_name = channel.get('name', channel.get('title', f"Channel_Indeks_{index}"))
+        
+        # Deteksi otomatis nama properti logo di JSON Anda (logo / image / tvg-logo)
+        logo_key = 'logo'
+        if 'logo' in channel:
+            logo_key = 'logo'
+        elif 'image' in channel:
+            logo_key = 'image'
+        elif 'tvg-logo' in channel:
+            logo_key = 'tvg-logo'
+        else:
+            # Jika belum ada properti logo sama sekali, buat baru dengan key 'logo'
+            channel['logo'] = ''
+            logo_key = 'logo'
+
+        current_logo = channel.get(logo_key, '')
         cleaned_channel_name = clean_name(original_name)
         
         if cleaned_channel_name and cleaned_channel_name in cleaned_logo_map:
             matched_file = cleaned_logo_map[cleaned_channel_name]
             expected_logo_path = f"{logos_folder}/{matched_file}"
+            
             if current_logo != expected_logo_path:
-                channel['logo'] = expected_logo_path
+                channel[logo_key] = expected_logo_path
                 is_modified = True
             matched_count += 1
         else:
             default_path = f"{logos_folder}/default.png"
             if current_logo != default_path:
-                channel['logo'] = default_path
+                channel[logo_key] = default_path
                 is_modified = True
                 print(f"  [✏️ UPDATED LOGO] '{original_name}' -> Menggunakan default.png")
             updated_count += 1
@@ -94,11 +122,18 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     # 5. Pembaruan / Penomoran Ulang ID Otomatis
     print("  🔢 Memperbarui urutan nomor ID channel...")
     for new_id, channel in enumerate(unique_channels, start=1):
-        current_id = channel.get('id')
-        expected_id = str(new_id) 
+        # Deteksi apakah di JSON Anda menggunakan 'id' atau 'key'
+        id_key = 'id' if 'id' in channel else ('key' if 'key' in channel else 'id')
+        current_id = channel.get(id_key)
+        
+        # Menyesuaikan tipe data ID asli (jika int pertahankan int, jika str ubah str)
+        if isinstance(current_id, int):
+            expected_id = new_id
+        else:
+            expected_id = str(new_id)
         
         if current_id != expected_id:
-            channel['id'] = expected_id
+            channel[id_key] = expected_id
             is_modified = True
 
     # 6. Simpan Perubahan ke Berkas jika modifikasi terjadi
@@ -119,7 +154,7 @@ def process_single_playlist(json_path, cleaned_logo_map, logos_folder):
     return True
 
 def validate_and_update_all(playlist_files, logos_folder):
-    print("--- Memulai Validasi Multi-Playlist ---")
+    print("--- Memulai Validasi Multi-Playlist Terisolasi ---")
     
     if not os.path.exists(logos_folder):
         print(f"[❌ ERROR] Folder '{logos_folder}' tidak ditemukan.")
@@ -129,7 +164,7 @@ def validate_and_update_all(playlist_files, logos_folder):
         print(f"[❌ ERROR] File 'default.png' wajib ada di folder '{logos_folder}'.")
         sys.exit(1)
 
-    # Ambil data logo sekali saja untuk efisiensi
+    # Ambil data logo dari folder logos
     logo_files = os.listdir(logos_folder)
     cleaned_logo_map = {}
     for filename in logo_files:
@@ -140,11 +175,10 @@ def validate_and_update_all(playlist_files, logos_folder):
     for file_path in playlist_files:
         process_single_playlist(file_path, cleaned_logo_map, logos_folder)
         
-    print("\n🎉 Semua file playlist selesai diproses!")
+    print("\n🎉 Semua file playlist selesai diproses secara terpisah!")
     sys.exit(0)
 
 if __name__ == "__main__":
-    # Daftar berkas playlist Anda yang akan diproses (pastikan jalurnya benar)
     target_playlists = [
         "system_config_v3.data",
         ".system_parseconfig_v2.dt"
