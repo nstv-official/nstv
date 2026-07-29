@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "2.8",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.8-release.apk",
-  "releaseNotes": "• UI Smart Schedule: Tampilan jam tayang pertandingan langsung pada kartu (LIVE/JAM).\n• Popular Matches First: Prioritas liga populer (Liga 1, Premier League, dll) di daftar teratas.\n• Smart Scraper v2.6: Proses scan jauh lebih cepat karena hanya fokus pada pertandingan populer hari ini."
+  "latestVersionCode": 20,
+  "latestVersionName": "2.9",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9-release.apk",
+  "releaseNotes": "• Robot Awan (Cloud): Scraper kini berjalan 24 jam di GitHub tanpa butuh laptop nyala.\n• Mesin Turbo: Hunting link 3x lebih cepat dengan sistem paralel multitasking.\n• Anti-Zonk: Deteksi link lebih gigih hingga ke dalam Iframe dan variabel JS.\n• Anti-Cache: Data di aplikasi kini selalu segar (Real-Time) setiap kali dibuka.\n• Clean Repo: Struktur folder tersamar (Chameleon) untuk keamanan ekstra."
 }
