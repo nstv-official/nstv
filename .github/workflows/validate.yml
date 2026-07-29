@@ -32,21 +32,20 @@ jobs:
 
     - name: Commit dan Push Otomatis Perubahan Playlist
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "github-actions[bot]@://github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Tarik pembaruan jarak jauh untuk menghindari ketidaksinkronan
         git pull origin ${{ github.ref_name }} --rebase || true
         
-        # Paksa Git untuk memasukkan file teks mentah kustom Anda
-        git add -f system_config_v3.data .system_parseconfig_v2.dt
+        # Paksa Git memasukkan file samaran teks Anda ke dalam cache tracking
+        git add -f system_config_v3.data
+        git add -f .system_parseconfig_v2.dt
         
-        # Lakukan komit paksa tanpa memedulikan status pengecekan bawaan
         if ! git diff --cached --quiet; then
-          echo "Perubahan terdeteksi di Git cache! Mengirim ke repositori..."
-          git commit -m "bot: penyelarasan total epg_metadata tvg_logo [skip ci]"
+          echo "Perubahan teks pada file samaran terdeteksi! Melakukan push..."
+          git commit -m "bot: pembaruan playlist teks samaran [skip ci]"
           git push origin ${{ github.ref_name }}
-          echo "Proses push selesai!"
+          echo "Proses pengiriman file berhasil!"
         else
-          echo "Perhatian: Git mendeteksi file modifikasi memori sama persis dengan lokal server."
+          echo "Git mendeteksi isi file hasil skrip sama persis dengan yang ada di repositori saat ini."
         fi
