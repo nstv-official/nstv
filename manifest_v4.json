@@ -307,10 +307,16 @@
         "id": "sys_estrela_amadora_vs_portimonense",
         "title": "\u26bd Estrela Amadora Vs Portimonense",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=068c03d7a5cebd2e864e7efe34aa1eeb&wsABSTime=1785357169&sys_cache=1785314063",
         "is_live": true,
         "match_time": "15:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
