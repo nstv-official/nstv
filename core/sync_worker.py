@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.1 - EXPERT HUNTER & DEEP PRYING)
+# SYSTEM CONFIGURATION (V15.2 - ROBUST SCAN & SSL BYPASS)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -312,7 +312,7 @@ async def process_entry_manifest(context, info, registry, semaphore):
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
 
-    print(f"[SYSTEM] Memulai Siklus Sinkronisasi (V15.0 - TURBO)...")
+    print(f"[SYSTEM] Memulai Siklus Sinkronisasi (V15.2 - ROBUST)...")
 
     state = await fetch_registry_state()
     registry = {}
@@ -322,7 +322,11 @@ async def run_sync_cycle():
     async with async_playwright() as p:
         try:
             browser = await p.chromium.launch(headless=HEADLESS_MODE)
-            context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
+            # v15.2: Abaikan error SSL (net::ERR_CERT_COMMON_NAME_INVALID)
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                ignore_https_errors=True
+            )
             page = await context.new_page()
             try: await Stealth().apply_stealth_async(page)
             except Exception as e: print(f"    [!] Gagal memuat Stealth: {e}")
