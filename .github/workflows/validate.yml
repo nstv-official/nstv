@@ -1,0 +1,39 @@
+name: Validasi, Bersihkan Duplikat & Urutkan Playlist
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  validate-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout Repositori
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Jalankan Skrip Validasi Lengkap
+      run: python validate_logos.py
+
+    - name: Commit dan Push Otomatis Perubahan JSON
+      run: |
+        git config --local user.email "github-actions[bot]@://github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        if [[ -n "$(git status --porcelain)" ]]; then
+          git add playlist.json
+          git commit -m "bot: otomatis hapus duplikat, urutkan A-Z, dan susun ulang nomor ID [skip ci]"
+          git push
+        else
+          echo "Tidak ada perubahan JSON untuk dikomit."
+        fi
