@@ -365,10 +365,16 @@
         "id": "sys_mizoram_police_fc_vs_ganggam_sc",
         "title": "\u26bd Mizoram Police Fc Vs Ganggam Sc",
         "category": "DATA_STREAM",
-        "uri": "",
+        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=a309978abf05ffe3ab0d0db2b9afe4e6&wsABSTime=1785357270&sys_cache=1785314205",
         "is_live": true,
         "match_time": "15:00",
-        "headers": {},
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
         "drm_info": {
             "is_protected": false,
             "drm_type": "",
