@@ -3691,7 +3691,7 @@
     {
         "id": "159",
         "title": "🆕W-SPORT",
-        "category": "OLAHRAGA POPULER 2",
+        "category": "OLAHRAGA POPULER",
         "uri": "https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3841,7 +3841,7 @@
     {
         "id": "165",
         "title": "🆕 F1 TV US",
-        "category": "OLAHRAGA POPULER 2",
+        "category": "OLAHRAGA POPULER",
         "uri": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
         "is_live": true,
@@ -3885,56 +3885,6 @@
             "tvg_id": "",
             "tvg_name": "STRONGMAN CHAMPIONS LEAGUE",
             "tvg_logo": "https://i.imgur.com/XDDHZzi.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "167",
-        "title": "🆕 Soccer Channel (167)",
-        "category": "OLAHRAGA | VOLLYBALL",
-        "uri": "http://103.137.83.62:9090/play/35/index.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://103.137.83.62:9090/",
-            "Origin": "https://103.137.83.62:9090"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "🆕 Soccer Channel (167)",
-            "tvg_logo": "https://i.imgur.com/dSA83Hx.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "168",
-        "title": "⚽ Chelsea vs Manchester City TNT Sport 1 🇬🇧✅",
-        "category": "BOLA | FA CUP",
-        "uri": "http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://live-pv-ta.amazon.fastly-edge.com/",
-            "Origin": "https://live-pv-ta.amazon.fastly-edge.com"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "clearkey",
-            "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "⚽ Chelsea vs Manchester City TNT Sport 1 🇬🇧✅",
-            "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
             "source_xml": "Embedded"
         }
     },
@@ -4035,56 +3985,6 @@
             "tvg_id": "",
             "tvg_name": "🆕⚽ LIVE 1 T Sports",
             "tvg_logo": "https://i.imgur.com/vI113x2.jpeg",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "173",
-        "title": "⚽ Chelsea vs Manchester City ✅LIVE 1",
-        "category": "BOLA | FA CUP",
-        "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash",
-        "user_agent": "VidioPlayer/6.41.11",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://ratuvidio.adptv.workers.dev/",
-            "Origin": "https://ratuvidio.adptv.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "com.widevine.alpha",
-            "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Champions.TV.5.id",
-            "tvg_name": "⚽ Chelsea vs Manchester City ✅LIVE 1",
-            "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "174",
-        "title": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
-        "category": "BOLA | FA CUP",
-        "uri": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash",
-        "user_agent": "VidioPlayer/6.41.11",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://ratuvidio.adptv.workers.dev/",
-            "Origin": "https://ratuvidio.adptv.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "com.widevine.alpha",
-            "drm_key": "https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "Champions.TV.6.id",
-            "tvg_name": "⚽ Chelsea vs Manchester City ✅ LIVE 2",
-            "tvg_logo": "https://i.imgur.com/OCLfAnD.gif",
             "source_xml": "Embedded"
         }
     },
