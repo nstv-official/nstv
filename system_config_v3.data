@@ -176,7 +176,7 @@
     },
     {
         "id": "10",
-        "title": "MOJI TV",
+        "title": "MOJI",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -194,7 +194,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Moji",
-            "tvg_name": "MOJI TV (V+)",
+            "tvg_name": "MOJI",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/moji.png",
             "source_xml": "Embedded"
         }
