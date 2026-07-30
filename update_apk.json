@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 24,
-  "latestVersionName": "2.9.5",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.5-release.apk",
-  "releaseNotes": "• Early Bird Hunter: Robot kini mulai berburu link 10 menit sebelum kick-off.\n• Dynamic Sorting: Laga yang baru mulai otomatis berada di urutan teratas.\n• Ghost Management: Laga yang sudah hampir selesai (>95 menit) otomatis turun ke barisan bawah.\n• Perbaikan Stabilitas: Sinkronisasi data di awan lebih cepat dan akurat."
+  "latestVersionCode": 25,
+  "latestVersionName": "2.9.6",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.6-release.apk",
+  "releaseNotes": "• Sniper Mode: Hanya tampilkan pertandingan yang 100% siap tonton (punya link aktif).\n• Anti-Nyampah: Tab Event bersih dari jadwal kosong (jadwal tetap ada di halaman Home).\n• Early Bird 15m: Robot mulai berburu link 15 menit sebelum kick-off agar siap tepat waktu.\n• Time Sync Fix: Perbaikan jam di halaman depan agar akurat sesuai WIB."
 }
