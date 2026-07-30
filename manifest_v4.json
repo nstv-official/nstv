@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_gks_katowice_vs_msk_zilina",
-        "title": "\u26bd Gks Katowice Vs Msk Zilina",
+        "id": "sys_31072026_anderlecht_vs_hammarby",
+        "title": "\u26bd Anderlecht Vs Hammarby",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel11.flv?sys_cache=1785467031",
+        "uri": "https://live2.streambylivepulse.com/live/channel11.flv?sys_cache=1785467032",
         "is_live": true,
         "match_time": "01:30",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_gks_katowice_vs_msk_zilina",
-            "tvg_name": "Gks Katowice Vs Msk Zilina",
+            "tvg_id": "sys_31072026_anderlecht_vs_hammarby",
+            "tvg_name": "Anderlecht Vs Hammarby",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
