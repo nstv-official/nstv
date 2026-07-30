@@ -126,6 +126,32 @@
         }
     },
     {
+        "id": "sys_31072026_tln_pirates_vs_esprit_shonen",
+        "title": "\u26bd Tln Pirates Vs Esprit Shonen",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=87ea549ec734e563737c8d7130754840&wsABSTime=1785488042&sys_cache=1785470044",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_tln_pirates_vs_esprit_shonen",
+            "tvg_name": "Tln Pirates Vs Esprit Shonen",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_benfica_vs_st_gallen",
         "title": "\u26bd Benfica Vs St Gallen",
         "category": "FOOTBALL",
