@@ -19,7 +19,7 @@
         },
         "epg_metadata": {
             "tvg_id": "IDX.id",
-            "tvg_name": "IDX (V+)",
+            "tvg_name": "IDX V",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/idx.png",
             "source_xml": "Embedded"
         }
@@ -44,7 +44,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Indosiar.id",
-            "tvg_name": "🆕Indosiar 0️⃣",
+            "tvg_name": "Indosiar",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -69,7 +69,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Indosiar.id",
-            "tvg_name": "Indosiar (Video)",
+            "tvg_name": "Indosiar Video",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -94,7 +94,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "",
+            "tvg_name": "sakti tv",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -119,7 +119,7 @@
         },
         "epg_metadata": {
             "tvg_id": "RCTI.id",
-            "tvg_name": "RCTI HD (V+)",
+            "tvg_name": "RCTI HD V",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/rcti.png",
             "source_xml": "Embedded"
         }
@@ -169,7 +169,7 @@
         },
         "epg_metadata": {
             "tvg_id": "SCTV.id",
-            "tvg_name": "🆕SCTV ✅",
+            "tvg_name": "SCTV",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/sctv.png",
             "source_xml": "Embedded"
         }
@@ -194,7 +194,7 @@
         },
         "epg_metadata": {
             "tvg_id": "SCTV.id",
-            "tvg_name": "🆕SCTV MAX",
+            "tvg_name": "SCTV MAX",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -269,7 +269,7 @@
         },
         "epg_metadata": {
             "tvg_id": "TransTV.id",
-            "tvg_name": "🆕TransTV HD",
+            "tvg_name": "TransTV HD",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -294,7 +294,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Trans7.id",
-            "tvg_name": "🆕Trans7 HD 0️⃣",
+            "tvg_name": "Trans7 HD",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -319,7 +319,7 @@
         },
         "epg_metadata": {
             "tvg_id": "MNCTV HD - [Channel 2].id",
-            "tvg_name": "🆕MNCTV",
+            "tvg_name": "MNCTV",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -344,7 +344,7 @@
         },
         "epg_metadata": {
             "tvg_id": "MNCTV R+",
-            "tvg_name": "MNCTV (R+) 2️⃣",
+            "tvg_name": "MNCTV",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
