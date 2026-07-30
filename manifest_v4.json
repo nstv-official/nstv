@@ -20,5 +20,239 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/vtv6.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_31072026_aep_paphos_vs_hajduk_split",
+        "title": "\u26bd Aep Paphos Vs Hajduk Split",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785433185",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_aep_paphos_vs_hajduk_split",
+            "tvg_name": "Aep Paphos Vs Hajduk Split",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_midtjylland_vs_besiktas_jk",
+        "title": "\u26bd Midtjylland Vs Besiktas Jk",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785433172",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_midtjylland_vs_besiktas_jk",
+            "tvg_name": "Midtjylland Vs Besiktas Jk",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_fc_hradec_kralove_vs_tromso_il",
+        "title": "\u26bd Fc Hradec Kralove Vs Tromso Il",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785433170",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fc_hradec_kralove_vs_tromso_il",
+            "tvg_name": "Fc Hradec Kralove Vs Tromso Il",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_gyori_eto_fc_vs_atert_bissen",
+        "title": "\u26bd Gyori Eto Fc Vs Atert Bissen",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=21648815a7953688107a92ca97b0a5bb&wsABSTime=1785476374&sys_cache=1785433183",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_gyori_eto_fc_vs_atert_bissen",
+            "tvg_name": "Gyori Eto Fc Vs Atert Bissen",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_brann_vs_universitatea_cluj",
+        "title": "\u26bd Brann Vs Universitatea Cluj",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=21648815a7953688107a92ca97b0a5bb&wsABSTime=1785476374&sys_cache=1785433178",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_brann_vs_universitatea_cluj",
+            "tvg_name": "Brann Vs Universitatea Cluj",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_dinamo_minsk_vs_fc_neftci_baku",
+        "title": "\u26bd Dinamo Minsk Vs Fc Neftci Baku",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel20.flv?sys_cache=1785433182",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_dinamo_minsk_vs_fc_neftci_baku",
+            "tvg_name": "Dinamo Minsk Vs Fc Neftci Baku",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_janice_tjen_vs_anna_kalinskaya",
+        "title": "\u26bd Janice Tjen Vs Anna Kalinskaya",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433192",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel57/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_janice_tjen_vs_anna_kalinskaya",
+            "tvg_name": "Janice Tjen Vs Anna Kalinskaya",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
+        "title": "\u26bd Alex De Minaur Vs Cruz Hewitt",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433191",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel57/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
+            "tvg_name": "Alex De Minaur Vs Cruz Hewitt",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_guatemala_vs_suriname",
+        "title": "\u26bd Guatemala Vs Suriname",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433190",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel57/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_guatemala_vs_suriname",
+            "tvg_name": "Guatemala Vs Suriname",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
