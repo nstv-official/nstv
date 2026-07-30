@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_ferencvarosi_tc_vs_twente_fc",
+        "title": "\u26bd Ferencvarosi Tc Vs Twente Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?sys_cache=1785467027",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_ferencvarosi_tc_vs_twente_fc",
+            "tvg_name": "Ferencvarosi Tc Vs Twente Fc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_ao_u18_vs_lithuania_u18",
         "title": "\u26bd Ao U18 Vs Lithuania U18",
         "category": "FOOTBALL",
