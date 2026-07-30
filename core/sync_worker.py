@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V17.0 - THE KRAKEN: STABILITY & RECOVERY)
+# SYSTEM CONFIGURATION (V17.2 - PERFECT SNIFFING & LINK RETRIEVAL)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -23,8 +23,10 @@ MAX_CONCURRENT_TABS = 3
 GITHUB_RETRY_LIMIT = 5
 HUNTING_TIMEOUT = 25
 
+# Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
-HEADLESS_MODE = True
+# v17.2: Buka browser jika di laptop (Lokal)
+HEADLESS_MODE = True if IS_CLOUD else False
 
 if IS_CLOUD:
     SESSION_DIR = "./internal_cache"; LOCAL_MANIFEST = MANIFEST_PATH
@@ -33,7 +35,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.0)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.2)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -56,7 +58,7 @@ FIXED_ENTRIES = [
 
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
-# v17.0 Expanded Esport Killer List
+# v17.2 Esport Killer List
 BLOCK_LIST = [
     "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
@@ -74,6 +76,7 @@ def remove_accents(input_str):
     return result
 
 def parse_registry_slug(slug):
+    """Mengekstrak nama tim, jam, dan tanggal (v17.2)."""
     slug_clean = slug.strip("/").split("/")[-1]
     time_match = re.search(r'luc-(\d{2})(\d{2})', slug_clean)
     m_time = f"{time_match.group(1)}:{time_match.group(2)}" if time_match else "LIVE"
@@ -99,7 +102,7 @@ def resolve_asset_url(category, assets_list):
     return DEFAULT_ASSET
 
 async def fetch_registry_state():
-    """Mengambil data manifest yang sudah ada di GitHub (v17.0)."""
+    """Mengambil data manifest yang sudah ada di GitHub (v17.2)."""
     if not GITHUB_TOKEN: return {}
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
@@ -113,7 +116,7 @@ async def fetch_registry_state():
     return {}
 
 def get_remote_assets():
-    """Mendapatkan daftar file logo dari GitHub (v17.0)."""
+    """Mendapatkan daftar file logo dari GitHub (v17.2)."""
     if not GITHUB_TOKEN: return []
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/logos"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
@@ -125,7 +128,7 @@ def get_remote_assets():
     return []
 
 def check_entry_validity(m_time, m_date, now):
-    """Loloskan semua laga yang muncul di halaman depan website (v17.0)."""
+    """Loloskan semua laga yang muncul di halaman depan website (v17.2)."""
     return True
 
 def commit_to_storage(content):
@@ -148,11 +151,11 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data hasil hunting (v17.0)."""
+    """Menyimpan data (v17.2 - Sniper Mode: Hanya yang ada link)."""
     now = get_now_wib()
     final_list = []
 
-    # Sniper: Hanya tampilkan yang punya Link (URI)
+    # SNIPER: Hanya ambil yang sudah ada Link (URI)
     for x in registry.values():
         if x.get("id", "").startswith("sys_v6"):
             final_list.append(x); continue
@@ -162,7 +165,6 @@ def finalize_sync(registry):
             x["is_live"] = True
             final_list.append(x)
 
-    # Logika Pengurutan
     def sort_logic(x):
         if x.get("id", "").startswith("sys_v6"): return (0, 0, 0)
         cat = x.get("category", "").upper()
@@ -170,20 +172,19 @@ def finalize_sync(registry):
         m_time = x.get("match_time", "99:99")
         try:
             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-            time_diff = abs((now - t_obj).total_seconds())
-            return (1, prio_cat, time_diff)
+            return (1, prio_cat, abs((now - t_obj).total_seconds()))
         except: return (2, prio_cat, 999999)
 
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [KRAKEN] {len(final_list)} entries synced.")
-    except Exception as e: pass
+        print(f"    [SNIPER] {len(final_list)} active matches synced.")
+    except Exception as e: print(f"    [!] Gagal simpan: {e}")
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """Proses perburuan link (v17.0 - Intelligence & Frame Focus)."""
+    """Proses perburuan link (v17.2 - Global Sniffing)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -191,37 +192,31 @@ async def process_entry_manifest(context, info, registry, semaphore):
             page = await context.new_page()
             try:
                 await Stealth().apply_stealth_async(page)
+
                 uri = ""; headers = {}
                 BAD = ["ads", "analytics", "pixel", "telemetry", "log", "doubleclick", "histats", "collector", "popunder"]
 
+                # v17.2: Pasang telinga di level CONTEXT agar menangkap dari SELURUH frame
                 async def sniffer(request):
                     nonlocal uri, headers
-                    u = request.url
-                    if any(k in u.lower() for k in BAD): return
-                    if ".m3u8" in u.lower() and not u.startswith("blob:"):
-                        uri = u; headers = dict(request.headers)
-
-                async def interceptor(response):
-                    nonlocal uri
                     if uri: return
-                    try:
-                        ct = response.headers.get("content-type", "").lower()
-                        if any(t in ct for t in ["json", "javascript", "text"]):
-                            body = await response.text()
-                            match = re.search(r'(https?://[^\s"\']+\.m3u8[^\s"\']*)', body)
-                            if match and not any(k in match.group(1).lower() for k in BAD):
-                                uri = match.group(1); print(f"    [DEEP-HIT] Link dibongkar dari paket data!")
-                    except: pass
+                    u = request.url
+                    # Filter Video Extensions
+                    if any(ext in u.lower() for ext in [".m3u8", ".mpd", ".flv", ".ts"]):
+                        if not u.startswith("blob:") and not any(k in u.lower() for k in BAD):
+                            uri = u
+                            headers = dict(request.headers)
+                            print(f"    [HIT] Link video terdeteksi!")
 
-                page.on("request", sniffer)
-                page.on("response", interceptor)
+                context.on("request", sniffer)
 
-                await page.goto(m_url, wait_until="commit", timeout=30000)
-                await page.mouse.wheel(0, 400); await asyncio.sleep(1); await page.mouse.wheel(0, -400)
+                await page.goto(m_url, wait_until="commit", timeout=35000)
+                await page.mouse.wheel(0, 400); await asyncio.sleep(2); await page.mouse.wheel(0, -400)
 
-                for i in range(15):
+                for i in range(20):
                     if uri: break
-                    if i in [2, 5, 10]:
+                    if i in [3, 8, 15]:
+                        # Klik beruntun di frame utama dan frame pertama
                         target_frames = [page.main_frame]
                         if len(page.frames) > 1: target_frames.append(page.frames[1])
 
@@ -233,24 +228,36 @@ async def process_entry_manifest(context, info, registry, semaphore):
                                 except: pass
                     await asyncio.sleep(1)
 
+                context.remove_listener("request", sniffer)
+
                 if uri:
                     registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(get_now_wib().timestamp())}"
-                    registry[m_id]["is_live"] = True; registry[m_id]["headers"] = headers
-                    print(f"    [BERHASIL] Link didapat!"); return True
-            except: pass
-            finally: await page.close()
+                    registry[m_id]["is_live"] = True
+                    registry[m_id]["headers"] = headers
+                    print(f"    [BERHASIL] Link siap saji!")
+                    return True
+
+                if attempt == 0: print(f"    [RETRY] Mencoba ulang halaman...")
+            except Exception as e:
+                print(f"    [!] Error tab: {str(e)[:50]}")
+            finally:
+                await page.close()
+
         print(f"    [ZONK] Gagal."); return False
 
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V17.0 (KRAKEN) - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V17.2 (VISUAL DEBUG) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=HEADLESS_MODE)
+        launch_kwargs = {"headless": HEADLESS_MODE}
+        if not HEADLESS_MODE: launch_kwargs["slow_mo"] = 500
+
+        browser = await p.chromium.launch(**launch_kwargs)
         context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", ignore_https_errors=True)
         queue = []
         for endpoint in ENDPOINTS:
@@ -259,6 +266,7 @@ async def run_sync_cycle():
                 print(f"[*] Memindai: {endpoint}...")
                 await page.goto(endpoint, wait_until="load", timeout=60000)
                 await page.wait_for_load_state("networkidle")
+                await asyncio.sleep(5)
                 nodes = await page.query_selector_all("a[href*='truc-tiep']")
                 print(f"    [OK] Ditemukan {len(nodes)} link.")
                 seen = set()
@@ -268,10 +276,8 @@ async def run_sync_cycle():
                         if not href: continue
                         full_url = href if href.startswith("http") else endpoint.rstrip("/") + "/" + href.lstrip("/")
                         slug = full_url.strip("/").split("/")[-1]
-
                         if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST) or slug.isdigit(): continue
                         seen.add(slug)
-
                         label, m_time, m_date = parse_registry_slug(slug)
                         m_id = f"sys_{m_date}_{slug.replace('-', '_').split('_luc_')[0]}"
 
@@ -286,21 +292,23 @@ async def run_sync_cycle():
                             "drm_info": {"is_protected": False, "drm_type": "", "drm_key": ""},
                             "epg_metadata": {"tvg_id": m_id, "tvg_name": label, "tvg_logo": resolve_asset_url(cat, assets), "source_xml": "Embedded"}
                         }
-
                         try:
                             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
                             if now >= (t_obj - timedelta(minutes=15)) and not registry[m_id]["uri"]:
                                 queue.append({"id": m_id, "url": full_url, "title": label})
                         except: pass
                     except: continue
-            except: pass
+            except Exception as e: print(f"    [!] Error radar: {e}")
             finally: await page.close()
 
         if queue:
+            print(f"[CORE] Menyerbu {len(queue)} laga secara PARALEL...")
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
             await asyncio.gather(*(process_entry_manifest(context, item, registry, semaphore) for item in queue[:20]), return_exceptions=True)
+
         finalize_sync(registry)
         await browser.close()
+        print(f"[SYSTEM] Siklus selesai pada {get_now_wib().strftime('%H:%M')}.\n")
 
 async def main():
     if IS_CLOUD: await run_sync_cycle()
