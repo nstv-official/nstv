@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_mexico_u23_vs_venezuela_u23",
+        "title": "\u26bd Mexico U23 Vs Venezuela U23",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=4ea296b60b54ecea5a32890d6b9fcf84&wsABSTime=1785488020&sys_cache=1785470022",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_mexico_u23_vs_venezuela_u23",
+            "tvg_name": "Mexico U23 Vs Venezuela U23",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_benfica_vs_st_gallen",
         "title": "\u26bd Benfica Vs St Gallen",
         "category": "FOOTBALL",
