@@ -22,32 +22,6 @@
         }
     },
     {
-        "id": "sys_31072026_cumbaya_fc_vs_cuenca_juniors",
-        "title": "\u26bd Cumbaya Fc Vs Cuenca Juniors",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel8.flv?sys_cache=1785470028",
-        "is_live": true,
-        "match_time": "03:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_cumbaya_fc_vs_cuenca_juniors",
-            "tvg_name": "Cumbaya Fc Vs Cuenca Juniors",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_panama_u23_vs_colombia_u23",
         "title": "\u26bd Panama U23 Vs Colombia U23",
         "category": "FOOTBALL",
@@ -69,6 +43,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_panama_u23_vs_colombia_u23",
             "tvg_name": "Panama U23 Vs Colombia U23",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_ldu_quito_vs_leones_del_norte",
+        "title": "\u26bd Ldu Quito Vs Leones Del Norte",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel8.flv?sys_cache=1785470029",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_ldu_quito_vs_leones_del_norte",
+            "tvg_name": "Ldu Quito Vs Leones Del Norte",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
