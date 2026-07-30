@@ -105,17 +105,12 @@ def resolve_asset_url(category, assets_list):
     return DEFAULT_ASSET
 
 def check_entry_validity(m_time, m_date, now):
+    """Loloskan semua laga yang muncul di halaman depan (v16.5 - Hybrid)."""
     if m_time == "LIVE": return True
     try:
-        if m_date != "00000000":
-            day = int(m_date[:2]); month = int(m_date[2:4]); year = int(m_date[4:])
-            m_date_obj = datetime(year, month, day)
-            if m_date_obj.date() < now.date(): return False
-            if m_date_obj.date() > now.date() + timedelta(days=1): return False
-
-        m_time_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-        if m_date and int(m_date[:2]) > now.day: m_time_obj += timedelta(days=1)
-        return now - timedelta(hours=2) <= m_time_obj <= now + timedelta(hours=12)
+        # v16.5: Abaikan filter tanggal yang kaku karena website sering telat update tanggal URL
+        # Kita percayakan pada website: jika tampil di halaman depan, berarti valid
+        return True
     except: return True
 
 async def fetch_registry_state():
@@ -155,7 +150,7 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data (v16.3: Jadwal Terlihat & Anti-Kosong)."""
+    """Menyimpan data (v16.5: Loloskan Semua Jadwal Hari Ini)."""
     now = get_now_wib()
     final_list = []
 
@@ -163,23 +158,8 @@ def finalize_sync(registry):
         if x.get("id", "").startswith("sys_v6"):
             final_list.append(x); continue
 
-        m_time = x.get("match_time", "")
-        has_link = x.get("uri", "").strip() != ""
-
-        is_today = False
-        if m_time and ":" in m_time:
-            try:
-                t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-                if now - timedelta(hours=2) <= t_obj <= now + timedelta(hours=12):
-                    is_today = True
-                if now >= (t_obj - timedelta(minutes=15)) and now <= t_obj + timedelta(minutes=150):
-                    x["is_live"] = True
-                else:
-                    x["is_live"] = False
-            except: pass
-
-        if has_link or is_today:
-            final_list.append(x)
+        # v16.5: Masukkan semua tanpa filter jam yang rumit agar tab event tidak kosong
+        final_list.append(x)
 
     def sort_logic(x):
         if x.get("id", "").startswith("sys_v6"): return (0, 0, 0)
