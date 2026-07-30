@@ -98,7 +98,7 @@ def resolve_asset_url(category, assets_list):
         if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
     return DEFAULT_ASSET
 
-async fun fetch_registry_state():
+async def fetch_registry_state():
     """Mengambil data manifest yang sudah ada di GitHub (v17.0)."""
     if not GITHUB_TOKEN: return {}
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
