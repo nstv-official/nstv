@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V17.2 - PERFECT SNIFFING & LINK RETRIEVAL)
+# SYSTEM CONFIGURATION (V17.3 - UNIFIED STREAM & SPORT INTEL 3.0)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -25,7 +25,6 @@ HUNTING_TIMEOUT = 25
 
 # Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
-# v17.2: Buka browser jika di laptop (Lokal)
 HEADLESS_MODE = True if IS_CLOUD else False
 
 if IS_CLOUD:
@@ -35,7 +34,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.2)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.3)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -58,11 +57,11 @@ FIXED_ENTRIES = [
 
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
-# v17.2 Esport Killer List
+# v17.3 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
     "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
-    "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation"
+    "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
 
 ENDPOINTS = ["https://xoilaczzggz.tv", "https://xoilacxtu.tv"]
@@ -76,7 +75,6 @@ def remove_accents(input_str):
     return result
 
 def parse_registry_slug(slug):
-    """Mengekstrak nama tim, jam, dan tanggal (v17.2)."""
     slug_clean = slug.strip("/").split("/")[-1]
     time_match = re.search(r'luc-(\d{2})(\d{2})', slug_clean)
     m_time = f"{time_match.group(1)}:{time_match.group(2)}" if time_match else "LIVE"
@@ -84,13 +82,22 @@ def parse_registry_slug(slug):
     m_date = f"{date_match.group(1)}{date_match.group(2)}{date_match.group(3)}" if date_match else "00000000"
     team_part = slug_clean.split("-luc-")[0]
     clean_label = team_part.replace("-vs-", " VS ").replace("-", " ")
+    replacements = {
+        r"\bnu\b": "Women", r"\bopmm\b": "DPMM", r"\bfc\b": "FC", r"\bpsm\b": "PSM",
+        r"\barema\b": "AREMA", r"\baff\b": "AFF", r"\bbwf\b": "BWF"
+    }
+    for pattern, repl in replacements.items():
+        clean_label = re.sub(pattern, repl, clean_label, flags=re.IGNORECASE)
     return clean_label.title(), m_time, m_date
 
 def get_entry_icon(label):
+    """v17.3: Akurasi Ikon dengan Kamus Atlet Global."""
     t = label.lower()
     if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
-    if any(x in t for x in ["badminton", "bwf", "cau long"]): return "🏸"
-    if any(x in t for x in ["tennis"]): return "🎾"
+    if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan", "fajar", "riani", "setiawan", "ahsan"]): return "🏸"
+    if any(x in t for x in ["tennis", "quan vot", "atmane", "tabilo", "minaur", "hewitt", "kalinskaya", "tjen", "nadal", "djokovic", "alcaraz"]): return "🎾"
+    if any(x in t for x in ["gp", "f1", "race", "dua xe", "motogp"]): return "🏎️"
+    if "futsal" in t: return "🏟️"
     return "⚽"
 
 def resolve_asset_url(category, assets_list):
@@ -102,7 +109,6 @@ def resolve_asset_url(category, assets_list):
     return DEFAULT_ASSET
 
 async def fetch_registry_state():
-    """Mengambil data manifest yang sudah ada di GitHub (v17.2)."""
     if not GITHUB_TOKEN: return {}
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
     headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
@@ -110,13 +116,11 @@ async def fetch_registry_state():
         r = requests.get(api_url, headers=headers)
         if r.status_code == 200:
             content = base64.b64decode(r.json()["content"]).decode("utf-8")
-            data = json.loads(content)
-            return {m["id"]: m for m in data}
+            return {m["id"]: m for m in json.loads(content)}
     except: pass
     return {}
 
 def get_remote_assets():
-    """Mendapatkan daftar file logo dari GitHub (v17.2)."""
     if not GITHUB_TOKEN: return []
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/logos"
     headers = {"Authorization": f"token {GITHUB_TOKEN}"}
@@ -128,7 +132,6 @@ def get_remote_assets():
     return []
 
 def check_entry_validity(m_time, m_date, now):
-    """Loloskan semua laga yang muncul di halaman depan website (v17.2)."""
     return True
 
 def commit_to_storage(content):
@@ -139,10 +142,7 @@ def commit_to_storage(content):
         try:
             r = requests.get(api_url, headers=headers)
             sha = r.json().get("sha") if r.status_code == 200 else None
-            payload = {
-                "message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}",
-                "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")
-            }
+            payload = {"message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
             if sha: payload["sha"] = sha
             res = requests.put(api_url, headers=headers, json=payload)
             if res.status_code in [200, 201]: return True
@@ -151,19 +151,33 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data (v17.2 - Sniper Mode: Hanya yang ada link)."""
+    """v17.3: Unified Stream - Hapus Link Kembar (Duplikasi)."""
     now = get_now_wib()
-    final_list = []
-
-    # SNIPER: Hanya ambil yang sudah ada Link (URI)
+    active_matches = []
     for x in registry.values():
         if x.get("id", "").startswith("sys_v6"):
-            final_list.append(x); continue
-
-        has_link = x.get("uri", "").strip() != ""
-        if has_link:
+            active_matches.append(x); continue
+        if x.get("uri", "").strip() != "":
             x["is_live"] = True
-            final_list.append(x)
+            active_matches.append(x)
+
+    unique_by_uri = {}
+    for match in active_matches:
+        uri = match.get("uri")
+        if uri not in unique_by_uri:
+            unique_by_uri[uri] = match
+        else:
+            existing = unique_by_uri[uri]
+            def get_m_score(m):
+                title = m.get("title", "").upper()
+                s = 0
+                if any(k.upper() in title for k in PRIORITY_GROUPS): s += 10
+                if "INDONESIA" in title: s += 5
+                return s
+            if get_m_score(match) > get_m_score(existing): unique_by_uri[uri] = match
+
+    final_list = list(unique_by_uri.values())
+    print(f"    [DEDUP] Menghapus {len(active_matches) - len(final_list)} link kembar.")
 
     def sort_logic(x):
         if x.get("id", "").startswith("sys_v6"): return (0, 0, 0)
@@ -179,12 +193,11 @@ def finalize_sync(registry):
     content = json.dumps(final_list, indent=4)
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [SNIPER] {len(final_list)} active matches synced.")
-    except Exception as e: print(f"    [!] Gagal simpan: {e}")
+        print(f"    [SNIPER] {len(final_list)} unique active matches synced.")
+    except Exception as e: pass
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """Proses perburuan link (v17.2 - Global Sniffing)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -192,34 +205,24 @@ async def process_entry_manifest(context, info, registry, semaphore):
             page = await context.new_page()
             try:
                 await Stealth().apply_stealth_async(page)
-
                 uri = ""; headers = {}
                 BAD = ["ads", "analytics", "pixel", "telemetry", "log", "doubleclick", "histats", "collector", "popunder"]
-
-                # v17.2: Pasang telinga di level CONTEXT agar menangkap dari SELURUH frame
                 async def sniffer(request):
                     nonlocal uri, headers
                     if uri: return
                     u = request.url
-                    # Filter Video Extensions
                     if any(ext in u.lower() for ext in [".m3u8", ".mpd", ".flv", ".ts"]):
                         if not u.startswith("blob:") and not any(k in u.lower() for k in BAD):
-                            uri = u
-                            headers = dict(request.headers)
+                            uri = u; headers = dict(request.headers)
                             print(f"    [HIT] Link video terdeteksi!")
-
                 context.on("request", sniffer)
-
                 await page.goto(m_url, wait_until="commit", timeout=35000)
                 await page.mouse.wheel(0, 400); await asyncio.sleep(2); await page.mouse.wheel(0, -400)
-
                 for i in range(20):
                     if uri: break
                     if i in [3, 8, 15]:
-                        # Klik beruntun di frame utama dan frame pertama
                         target_frames = [page.main_frame]
                         if len(page.frames) > 1: target_frames.append(page.frames[1])
-
                         for frame in target_frames:
                             for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=Server 1", "text=HLS"]:
                                 try:
@@ -227,36 +230,25 @@ async def process_entry_manifest(context, info, registry, semaphore):
                                     if btn: await btn.click()
                                 except: pass
                     await asyncio.sleep(1)
-
                 context.remove_listener("request", sniffer)
-
                 if uri:
                     registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(get_now_wib().timestamp())}"
-                    registry[m_id]["is_live"] = True
-                    registry[m_id]["headers"] = headers
-                    print(f"    [BERHASIL] Link siap saji!")
-                    return True
-
-                if attempt == 0: print(f"    [RETRY] Mencoba ulang halaman...")
-            except Exception as e:
-                print(f"    [!] Error tab: {str(e)[:50]}")
-            finally:
-                await page.close()
-
+                    registry[m_id]["is_live"] = True; registry[m_id]["headers"] = headers
+                    print(f"    [BERHASIL] Link siap saji!"); return True
+            except: pass
+            finally: await page.close()
         print(f"    [ZONK] Gagal."); return False
 
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V17.2 (VISUAL DEBUG) - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V17.3 (UNIFIED) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
-
     async with async_playwright() as p:
         launch_kwargs = {"headless": HEADLESS_MODE}
         if not HEADLESS_MODE: launch_kwargs["slow_mo"] = 500
-
         browser = await p.chromium.launch(**launch_kwargs)
         context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", ignore_https_errors=True)
         queue = []
@@ -266,7 +258,6 @@ async def run_sync_cycle():
                 print(f"[*] Memindai: {endpoint}...")
                 await page.goto(endpoint, wait_until="load", timeout=60000)
                 await page.wait_for_load_state("networkidle")
-                await asyncio.sleep(5)
                 nodes = await page.query_selector_all("a[href*='truc-tiep']")
                 print(f"    [OK] Ditemukan {len(nodes)} link.")
                 seen = set()
@@ -280,11 +271,9 @@ async def run_sync_cycle():
                         seen.add(slug)
                         label, m_time, m_date = parse_registry_slug(slug)
                         m_id = f"sys_{m_date}_{slug.replace('-', '_').split('_luc_')[0]}"
-
                         cat = "FOOTBALL"
                         if any(k in label.lower() for k in ["presiden", "president"]): cat = "PIALA PRESIDEN"
                         elif any(k in label.lower() for k in ["badminton", "cau long"]): cat = "BADMINTON"
-
                         registry[m_id] = {
                             "id": m_id, "title": f"{get_entry_icon(label)} {label}",
                             "category": cat, "uri": state.get(m_id, {}).get("uri", ""), "is_live": False,
@@ -300,12 +289,9 @@ async def run_sync_cycle():
                     except: continue
             except Exception as e: print(f"    [!] Error radar: {e}")
             finally: await page.close()
-
         if queue:
-            print(f"[CORE] Menyerbu {len(queue)} laga secara PARALEL...")
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
             await asyncio.gather(*(process_entry_manifest(context, item, registry, semaphore) for item in queue[:20]), return_exceptions=True)
-
         finalize_sync(registry)
         await browser.close()
         print(f"[SYSTEM] Siklus selesai pada {get_now_wib().strftime('%H:%M')}.\n")
