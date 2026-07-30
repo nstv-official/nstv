@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 23,
-  "latestVersionName": "2.9.4",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.4-release.apk",
-  "releaseNotes": "• Fix Event Click: Sekarang semua jadwal pertandingan bisa diklik untuk masuk ke Stadion Tunggu.\n• Player Super Stable: Optimasi sistem buffer dan ABR agar siaran tidak putus-putus saat internet melambat.\n• Mode Tunneling: Peningkatan performa pemutaran video khusus untuk perangkat Android TV dan STB.\n• Auto-Recovery: Sistem otomatis me-refresh siaran jika terdeteksi macet lebih dari 15 detik."
+  "latestVersionCode": 24,
+  "latestVersionName": "2.9.5",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.5-release.apk",
+  "releaseNotes": "• Early Bird Hunter: Robot kini mulai berburu link 10 menit sebelum kick-off.\n• Dynamic Sorting: Laga yang baru mulai otomatis berada di urutan teratas.\n• Ghost Management: Laga yang sudah hampir selesai (>95 menit) otomatis turun ke barisan bawah.\n• Perbaikan Stabilitas: Sinkronisasi data di awan lebih cepat dan akurat."
 }
