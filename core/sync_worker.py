@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V16.0 - GLOBAL TIME SYNC & SPORT GUARD)
+# SYSTEM CONFIGURATION (V16.2 - OMNI-DETECTION & CRASH FIX)
 # ==============================================================================
 # Security: Using environment secrets for data authentication
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -35,8 +35,13 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Selalu paksa waktu ke WIB (GMT+7) (v16.0)."""
-    return datetime.utcnow() + timedelta(hours=7)
+    """Selalu paksa waktu ke WIB (GMT+7) (v16.2)."""
+    # Fix Deprecation: use now(datetime.UTC)
+    try:
+        from datetime import UTC
+        return datetime.now(UTC) + timedelta(hours=7)
+    except:
+        return datetime.utcnow() + timedelta(hours=7)
 
 # Permanent System Entries
 FIXED_ENTRIES = [
@@ -298,12 +303,16 @@ async def run_sync_cycle():
 
                         if m_id not in registry:
                             cat = "FOOTBALL"
+                            # v16.2: Omni-Detection & Deep Categorization
                             if any(k in ctx for k in ["presiden", "president"]): cat = "PIALA PRESIDEN"
                             elif any(k in ctx for k in ["badminton", "cau long", "tennis"] + ATHLETE_KEYWORDS):
-                                cat = "BADMINTON" if "badminton" in ctx or "cau long" in ctx else ("TENNIS" if "tennis" in ctx else "SPORTS")
+                                cat = "BADMINTON" if ("badminton" in ctx or "cau long" in ctx) else ("TENNIS" if "tennis" in ctx else "SPORTS")
                             elif any(k in ctx for k in ["voli", "volleyball", "bong chuyen"]): cat = "VOLLEYBALL"
                             elif "futsal" in ctx: cat = "FUTSAL"
                             elif any(k in ctx for k in ["asean", "aff", "indonesia"]): cat = "ASEAN FOOTBALL"
+                            elif any(k in ctx for k in ["malaysia", "sabah", "jdt"]): cat = "MALAYSIA FOOTBALL"
+
+                            existing_uri = ""; existing_headers = {}
 
                             existing_uri = ""; existing_headers = {}
                             if m_id in state and state[m_id].get("uri"):
@@ -320,18 +329,21 @@ async def run_sync_cycle():
                                 queue.append({"id": m_id, "url": full_url, "title": label, "time": m_time})
                     except: continue
             except Exception as e: print(f"[!] Radar Gagal: {e}")
+        # TAHAP 2: TURBO HUNTING (PARALLEL v16.2)
         if queue:
-            def hunt_prio(x):
-                try:
-                    t_obj = datetime.strptime(x.get("time", "00:00"), "%H:%M")
-                    return abs((now.hour * 60 + now.minute) - (t_obj.hour * 60 + t_obj.minute))
-                except: return 999
-            queue.sort(key=hunt_prio)
-            print(f"[CORE] Menyerbu {len(queue)} laga secara PARALEL...")
+            print(f"[CORE] Menyerbu {len(queue)} laga secara PARALEL (Turbo: 3)...")
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
-            async def hunter_task(item):
-                if await process_entry_manifest(context, item, registry, semaphore): finalize_sync(registry)
-            await asyncio.gather(*(hunter_task(item) for item in queue))
+
+            async def safe_hunter(item):
+                """Wrapper aman agar satu tab crash tidak mematikan robot (v16.2)."""
+                try:
+                    if await process_entry_manifest(context, item, registry, semaphore):
+                        finalize_sync(registry)
+                except Exception as ex:
+                    print(f"    [!] Tab Crash ({item['title']}): {str(ex)[:50]}")
+
+            # Jalankan semua antrean secara paralel
+            await asyncio.gather(*(safe_hunter(item) for item in queue), return_exceptions=True)
         finalize_sync(registry)
         await browser.close()
         print(f"[SYSTEM] Cycle complete.\n")
