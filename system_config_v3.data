@@ -876,7 +876,7 @@
     },
     {
         "id": "43",
-        "title": "HBO SIGMATURE",
+        "title": "HBO SIGNATURE",
         "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
