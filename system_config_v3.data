@@ -226,7 +226,7 @@
     },
     {
         "id": "13",
-        "title": "🆕TransTV HD",
+        "title": "TransTV HD",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
@@ -475,31 +475,6 @@
         }
     },
     {
-        "id": "25",
-        "title": "INEWS (R+)2️⃣",
-        "category": "NASIONAL",
-        "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
-        "user_agent": "android-R+",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://r-plus.sedotcw3.workers.dev/",
-            "Origin": "https://r-plus.sedotcw3.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "",
-            "tvg_name": "INEWS (R+)2️⃣",
-            "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "26",
         "title": "BANDUNG TV",
         "category": "DAERAH",
@@ -526,7 +501,7 @@
     },
     {
         "id": "27",
-        "title": "🆕CNN INDONESIA",
+        "title": "CNN INDONESIA",
         "category": "NASIONAL",
         "uri": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
@@ -544,7 +519,7 @@
         },
         "epg_metadata": {
             "tvg_id": "cnn indonesia",
-            "tvg_name": "🆕CNN INDONESIA",
+            "tvg_name": "CNN INDONESIA",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/cnn.png",
             "source_xml": "Embedded"
         }
@@ -626,7 +601,7 @@
     },
     {
         "id": "31",
-        "title": "🆕TVRI WORLD",
+        "title": "TVRI WORLD",
         "category": "NASIONAL",
         "uri": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
         "user_agent": "TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
@@ -644,14 +619,14 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "🆕TVRI WORLD",
+            "tvg_name": "TVRI WORLD",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "32",
-        "title": "HBO HITS (3️⃣✅)",
+        "title": "HBO HITS",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -669,7 +644,7 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Hits.HD.id",
-            "tvg_name": "HBO HITS (3️⃣✅)",
+            "tvg_name": "HBO HITS",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -726,7 +701,7 @@
     },
     {
         "id": "35",
-        "title": "HBO SIGNATURE (3️⃣✅)",
+        "title": "HBO SIGNATURE",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -744,7 +719,7 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Signature.HD.id",
-            "tvg_name": "HBO SIGNATURE (3️⃣✅)",
+            "tvg_name": "HBO SIGNATURE",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -776,7 +751,7 @@
     },
     {
         "id": "37",
-        "title": "HBO (3️⃣✅)",
+        "title": "HBO",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -794,7 +769,7 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.HD.id",
-            "tvg_name": "HBO (3️⃣✅)",
+            "tvg_name": "HBO",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -826,7 +801,7 @@
     },
     {
         "id": "39",
-        "title": "CINEMAX (3️⃣✅)",
+        "title": "CINEMAX",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -844,14 +819,14 @@
         },
         "epg_metadata": {
             "tvg_id": "Cinemax.HD.id",
-            "tvg_name": "CINEMAX (3️⃣✅)",
+            "tvg_name": "CINEMAX",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "40",
-        "title": "HBO FAMILY (3️⃣✅)",
+        "title": "HBO FAMILY",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -869,14 +844,14 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Family.HD.id",
-            "tvg_name": "HBO FAMILY (3️⃣✅)",
+            "tvg_name": "HBO FAMILY",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "41",
-        "title": "🆕Animax (167)",
+        "title": "Animax",
         "category": "ANAK",
         "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -894,14 +869,14 @@
         },
         "epg_metadata": {
             "tvg_id": "Animax.id",
-            "tvg_name": "🆕Animax (167)",
+            "tvg_name": "Animax",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "42",
-        "title": "BIZNET KIDS 1 ON (R)",
+        "title": "BIZNET KIDS",
         "category": "ANAK",
         "uri": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd",
         "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
@@ -919,7 +894,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "BIZNET KIDS 1 ON (R)",
+            "tvg_name": "BIZNET KIDS",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
