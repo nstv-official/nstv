@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.4 - EARLY BIRD & DYNAMIC SORTING)
+# SYSTEM CONFIGURATION (V15.5 - "THE SNIPER" - GUARANTEED LINKS)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -204,10 +204,15 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data lokal DAN kirim ke GitHub (v15.4 Smart Sorting)."""
-    final_list = list(registry.values())
-    now = datetime.now()
+    """Menyimpan data lokal DAN kirim ke GitHub (v15.5 Sniper Mode)."""
+    # v15.5 Sniper Mode: Hanya ambil yang sudah punya link (URI)
+    # Pengecualian: Tetap ambil channel tetap (sys_) meskipun belum ada URI
+    final_list = [
+        x for x in registry.values()
+        if x.get("uri", "").strip() != "" or x.get("id", "").startswith("sys_")
+    ]
 
+    now = datetime.now()
     def sort_logic(x):
         # 1. Prioritas Utama: System Channel (VTV6)
         if x.get("id", "").startswith("sys_v6"): return (0, 0)
@@ -219,13 +224,8 @@ def finalize_sync(registry):
         # 3. Urutan Waktu Dinamis
         m_time = x.get("match_time", "99:99")
         try:
-            # Hitung selisih waktu untuk membedakan laga "Segar" vs "Basi"
             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-            # Jika jam tayang sudah lewat lebih dari 95 menit, lempar ke bawah
             is_old = 1 if now > t_obj + timedelta(minutes=95) else 0
-
-            # Laga yang baru mulai atau akan datang diurutkan berdasarkan waktu asli
-            # Tapi kita pakai selisih absolut agar yang paling dekat dengan jam sekarang ada di atas
             time_diff = abs((now - t_obj).total_seconds())
             return (is_old + 1, prio_cat, time_diff)
         except:
@@ -234,15 +234,15 @@ def finalize_sync(registry):
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
 
-    # 1. SIMPAN LOKAL (Agar terlihat di laptop)
+    # 1. SIMPAN LOKAL
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f:
             f.write(content)
-        print(f"    [SAVE] File lokal diperbarui: {LOCAL_MANIFEST}")
+        print(f"    [SNIPER] {len(final_list)} entries saved to: {LOCAL_MANIFEST}")
     except Exception as e:
         print(f"    [!] Gagal simpan lokal: {e}")
 
-    # 2. KIRIM KE GITHUB (Cloud Sync)
+    # 2. KIRIM KE GITHUB
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
@@ -394,8 +394,8 @@ async def run_sync_cycle():
                                 if m_date and datetime.strptime(m_date, "%d-%m-%Y").date() > now.date():
                                     t_obj += timedelta(days=1)
 
-                                # v15.4: Early Bird Hunting (10 menit sebelum kick-off)
-                                if now >= (t_obj - timedelta(minutes=10)) and now <= t_obj + timedelta(minutes=150):
+                                # v15.5: Sniper Hunting (15 menit sebelum kick-off)
+                                if now >= (t_obj - timedelta(minutes=15)) and now <= t_obj + timedelta(minutes=150):
                                     is_live = True
                             except: pass
 
