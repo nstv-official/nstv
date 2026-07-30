@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V17.3 - UNIFIED STREAM & SPORT INTEL 3.0)
+# SYSTEM CONFIGURATION (V18.0 - ATOMIC CLEAN SYNC & SPORT IDENTITY 4.0)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -22,6 +22,9 @@ MANIFEST_PATH = "manifest_v4.json"
 MAX_CONCURRENT_TABS = 3
 GITHUB_RETRY_LIMIT = 5
 HUNTING_TIMEOUT = 25
+
+# Gembok Digital untuk Sinkronisasi Atomik
+commit_lock = asyncio.Lock()
 
 # Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
@@ -34,7 +37,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.3)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v18.0)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -55,11 +58,11 @@ FIXED_ENTRIES = [
     }
 ]
 
-PRIORITY_GROUPS = ["V-Cup", "Futsal", "China-Open", "Asia", "Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
+PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
-# v17.3 Massive Block List (Esport, Simulation, Ads)
+# v18.0 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
-    "lol", "Esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
+    "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
     "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
@@ -75,13 +78,18 @@ def remove_accents(input_str):
     return result
 
 def parse_registry_slug(slug):
+    """Mengekstrak nama tim, jam, dan tanggal (v18.0)."""
     slug_clean = slug.strip("/").split("/")[-1]
+
     time_match = re.search(r'luc-(\d{2})(\d{2})', slug_clean)
     m_time = f"{time_match.group(1)}:{time_match.group(2)}" if time_match else "LIVE"
+
     date_match = re.search(r'ngay-(\d{2})-(\d{2})-(\d{4})', slug_clean)
     m_date = f"{date_match.group(1)}{date_match.group(2)}{date_match.group(3)}" if date_match else "00000000"
+
     team_part = slug_clean.split("-luc-")[0]
     clean_label = team_part.replace("-vs-", " VS ").replace("-", " ")
+
     replacements = {
         r"\bnu\b": "Women", r"\bopmm\b": "DPMM", r"\bfc\b": "FC", r"\bpsm\b": "PSM",
         r"\barema\b": "AREMA", r"\baff\b": "AFF", r"\bbwf\b": "BWF"
@@ -90,21 +98,31 @@ def parse_registry_slug(slug):
         clean_label = re.sub(pattern, repl, clean_label, flags=re.IGNORECASE)
     return clean_label.title(), m_time, m_date
 
-def get_entry_icon(label):
-    """v17.3: Akurasi Ikon dengan Kamus Atlet Global."""
+def get_entry_icon(label, category):
+    """v18.0: Ikon Akurat berdasarkan Kategori dan Kamus Atlet."""
     t = label.lower()
+    c = category.upper()
+
+    if "VOLLEY" in c: return "🏐"
+    if "BADMINTON" in c: return "🏸"
+    if "TENNIS" in c: return "🎾"
+    if "MOTOR" in c: return "🏎️"
+    if "FUTSAL" in c: return "🏟️"
+
+    # Fallback to keyword detection
     if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
     if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan", "fajar", "riani", "setiawan", "ahsan"]): return "🏸"
     if any(x in t for x in ["tennis", "quan vot", "atmane", "tabilo", "minaur", "hewitt", "kalinskaya", "tjen", "nadal", "djokovic", "alcaraz"]): return "🎾"
-    if any(x in t for x in ["gp", "f1", "race", "dua xe", "motogp"]): return "🏎️"
+    if any(x in t for x in ["gp", "f1", "dua xe", "motogp"]): return "🏎️"
     if "futsal" in t: return "🏟️"
+
     return "⚽"
 
 def resolve_asset_url(category, assets_list):
     cat_norm = category.lower().replace(" ", "_")
     filename = f"{cat_norm}.png"
     if filename in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/{filename}"
-    if "football" in cat_norm or "presiden" in cat_norm:
+    if any(k in cat_norm for k in ["football", "presiden", "asean", "focus"]):
         if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
     return DEFAULT_ASSET
 
@@ -116,7 +134,8 @@ async def fetch_registry_state():
         r = requests.get(api_url, headers=headers)
         if r.status_code == 200:
             content = base64.b64decode(r.json()["content"]).decode("utf-8")
-            return {m["id"]: m for m in json.loads(content)}
+            data = json.loads(content)
+            return {m["id"]: m for m in data}
     except: pass
     return {}
 
@@ -134,25 +153,49 @@ def get_remote_assets():
 def check_entry_validity(m_time, m_date, now):
     return True
 
-def commit_to_storage(content):
+async def commit_to_storage(content):
+    """Kirim ke GitHub dengan sistem gembok (Atomic Sync v18.0)."""
     if not GITHUB_TOKEN: return False
-    api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    for attempt in range(GITHUB_RETRY_LIMIT):
-        try:
-            r = requests.get(api_url, headers=headers)
-            sha = r.json().get("sha") if r.status_code == 200 else None
-            payload = {"message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
-            if sha: payload["sha"] = sha
-            res = requests.put(api_url, headers=headers, json=payload)
-            if res.status_code in [200, 201]: return True
-            import time; time.sleep(random.uniform(1, 3))
-        except: break
+
+    async with commit_lock: # Gembok aktif: Mencegah tabrakan saat kirim data
+        api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
+        headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+
+        for attempt in range(GITHUB_RETRY_LIMIT):
+            try:
+                # 1. Selalu ambil SHA terbaru sebelum kirim
+                r = requests.get(api_url, headers=headers)
+                sha = r.json().get("sha") if r.status_code == 200 else None
+
+                payload = {
+                    "message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}",
+                    "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")
+                }
+                if sha: payload["sha"] = sha
+
+                res = requests.put(api_url, headers=headers, json=payload)
+                if res.status_code in [200, 201]:
+                    print(f"    [OK] GitHub Updated (Attempt {attempt+1})")
+                    return True
+
+                # Jika konflik (409), tunggu sejenak lalu coba lagi (ambil SHA baru)
+                await asyncio.sleep(random.uniform(1, 3))
+            except Exception as e:
+                print(f"    [!] Error GitHub: {e}")
+                break
     return False
 
-def finalize_sync(registry):
-    """v17.3: Unified Stream - Hapus Link Kembar (Duplikasi)."""
+def normalize_uri(uri):
+    """Membersihkan URL dari parameter dinamis agar bisa dideteksi sebagai duplikat."""
+    if not uri: return ""
+    # Buang token, expire, dll yang sering berubah di ujung URL
+    return uri.split('?')[0].split('&')[0]
+
+async def finalize_sync(registry):
+    """v18.0: Atomic Identity & Indonesia Pride - Anti Duplikat Total."""
     now = get_now_wib()
+
+    # 1. SNIPER: Hanya ambil yang punya link aktif
     active_matches = []
     for x in registry.values():
         if x.get("id", "").startswith("sys_v6"):
@@ -161,43 +204,56 @@ def finalize_sync(registry):
             x["is_live"] = True
             active_matches.append(x)
 
-    unique_by_uri = {}
+    # 2. DEDUP SUPER KETAT: Jika link video SAMA (dilihat dari core URL), ambil yang paling penting
+    unique_by_base_uri = {}
     for match in active_matches:
-        uri = match.get("uri")
-        if uri not in unique_by_uri:
-            unique_by_uri[uri] = match
+        base_uri = normalize_uri(match.get("uri"))
+        if not base_uri: continue
+
+        if base_uri not in unique_by_base_uri:
+            unique_by_base_uri[base_uri] = match
         else:
-            existing = unique_by_uri[uri]
+            existing = unique_by_base_uri[base_uri]
             def get_m_score(m):
                 title = m.get("title", "").upper()
                 s = 0
                 if any(k.upper() in title for k in PRIORITY_GROUPS): s += 10
-                if "INDONESIA" in title: s += 5
+                if "INDONESIA" in title: s += 50 # Indonesia nomor satu
                 return s
-            if get_m_score(match) > get_m_score(existing): unique_by_uri[uri] = match
 
-    final_list = list(unique_by_uri.values())
-    print(f"    [DEDUP] Menghapus {len(active_matches) - len(final_list)} link kembar.")
+            if get_m_score(match) > get_m_score(existing):
+                unique_by_base_uri[base_uri] = match
+
+    final_list = list(unique_by_base_uri.values())
 
     def sort_logic(x):
         if x.get("id", "").startswith("sys_v6"): return (0, 0, 0)
+        title = x.get("title", "").upper()
+        # Prioritas 1: Indonesia
+        is_indo = 0 if "INDONESIA" in title else 1
+        # Prioritas 2: Kategori Spesial
         cat = x.get("category", "").upper()
         prio_cat = 1 if "PRESIDEN" in cat else (2 if "ASEAN" in cat else 3)
+
         m_time = x.get("match_time", "99:99")
         try:
             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-            return (1, prio_cat, abs((now - t_obj).total_seconds()))
-        except: return (2, prio_cat, 999999)
+            return (is_indo, prio_cat, abs((now - t_obj).total_seconds()))
+        except: return (is_indo + 1, prio_cat, 999999)
 
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
+
+    # Simpan Lokal
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [SNIPER] {len(final_list)} unique active matches synced.")
-    except Exception as e: pass
-    commit_to_storage(content)
+    except: pass
+
+    # Kirim ke GitHub (Atomic)
+    await commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
+    """v18.0: Intelligence Sniffing dengan Laporan Seketika."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -207,6 +263,7 @@ async def process_entry_manifest(context, info, registry, semaphore):
                 await Stealth().apply_stealth_async(page)
                 uri = ""; headers = {}
                 BAD = ["ads", "analytics", "pixel", "telemetry", "log", "doubleclick", "histats", "collector", "popunder"]
+
                 async def sniffer(request):
                     nonlocal uri, headers
                     if uri: return
@@ -214,13 +271,16 @@ async def process_entry_manifest(context, info, registry, semaphore):
                     if any(ext in u.lower() for ext in [".m3u8", ".mpd", ".flv", ".ts"]):
                         if not u.startswith("blob:") and not any(k in u.lower() for k in BAD):
                             uri = u; headers = dict(request.headers)
-                            print(f"    [HIT] Link video terdeteksi!")
+                            print(f"    [HIT] Link ditemukan untuk {m_title}!")
+
                 context.on("request", sniffer)
                 await page.goto(m_url, wait_until="commit", timeout=35000)
                 await page.mouse.wheel(0, 400); await asyncio.sleep(2); await page.mouse.wheel(0, -400)
+
                 for i in range(20):
                     if uri: break
                     if i in [3, 8, 15]:
+                        # Fokus Frame Utama & Frame Player Pertama (Anti-Simulasi Skor)
                         target_frames = [page.main_frame]
                         if len(page.frames) > 1: target_frames.append(page.frames[1])
                         for frame in target_frames:
@@ -230,27 +290,34 @@ async def process_entry_manifest(context, info, registry, semaphore):
                                     if btn: await btn.click()
                                 except: pass
                     await asyncio.sleep(1)
+
                 context.remove_listener("request", sniffer)
+
                 if uri:
                     registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(get_now_wib().timestamp())}"
                     registry[m_id]["is_live"] = True; registry[m_id]["headers"] = headers
-                    print(f"    [BERHASIL] Link siap saji!"); return True
+                    print(f"    [BERHASIL] {m_title} Siap Saji!")
+                    # v18.0: LANGSUNG SINKRON begitu satu link didapat (Atomic Sync)
+                    await finalize_sync(registry)
+                    return True
             except: pass
             finally: await page.close()
-        print(f"    [ZONK] Gagal."); return False
+        return False
 
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V17.3 (UNIFIED) - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V18.0 (ULTIMATE) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
+
     async with async_playwright() as p:
         launch_kwargs = {"headless": HEADLESS_MODE}
         if not HEADLESS_MODE: launch_kwargs["slow_mo"] = 500
         browser = await p.chromium.launch(**launch_kwargs)
         context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", ignore_https_errors=True)
+
         queue = []
         for endpoint in ENDPOINTS:
             page = await context.new_page()
@@ -271,11 +338,18 @@ async def run_sync_cycle():
                         seen.add(slug)
                         label, m_time, m_date = parse_registry_slug(slug)
                         m_id = f"sys_{m_date}_{slug.replace('-', '_').split('_luc_')[0]}"
+
+                        # Kategori Cerdas v18.0
                         cat = "FOOTBALL"
-                        if any(k in label.lower() for k in ["presiden", "president"]): cat = "PIALA PRESIDEN"
-                        elif any(k in label.lower() for k in ["badminton", "cau long"]): cat = "BADMINTON"
+                        l_lower = label.lower()
+                        if any(k in l_lower for k in ["presiden", "president"]): cat = "PIALA PRESIDEN INDONESIA"
+                        elif any(k in l_lower for k in ["badminton", "cau long"]): cat = "BADMINTON"
+                        elif any(k in l_lower for k in ["tennis", "quan vot"]): cat = "TENNIS"
+                        elif any(k in l_lower for k in ["voli", "volleyball"]): cat = "VOLLEYBALL"
+                        elif any(k in l_lower for k in ["asean", "aff"]): cat = "ASEAN CHAMPIONSHIP"
+
                         registry[m_id] = {
-                            "id": m_id, "title": f"{get_entry_icon(label)} {label}",
+                            "id": m_id, "title": f"{get_entry_icon(label, cat)} {label}",
                             "category": cat, "uri": state.get(m_id, {}).get("uri", ""), "is_live": False,
                             "match_time": m_time, "headers": {"User-Agent": "Mozilla/5.0"},
                             "drm_info": {"is_protected": False, "drm_type": "", "drm_key": ""},
@@ -289,10 +363,12 @@ async def run_sync_cycle():
                     except: continue
             except Exception as e: print(f"    [!] Error radar: {e}")
             finally: await page.close()
+
         if queue:
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
             await asyncio.gather(*(process_entry_manifest(context, item, registry, semaphore) for item in queue[:20]), return_exceptions=True)
-        finalize_sync(registry)
+
+        await finalize_sync(registry)
         await browser.close()
         print(f"[SYSTEM] Siklus selesai pada {get_now_wib().strftime('%H:%M')}.\n")
 
