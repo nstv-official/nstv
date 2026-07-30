@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 25,
-  "latestVersionName": "2.9.6",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.6-release.apk",
-  "releaseNotes": "• Sniper Mode: Hanya tampilkan pertandingan yang 100% siap tonton (punya link aktif).\n• Anti-Nyampah: Tab Event bersih dari jadwal kosong (jadwal tetap ada di halaman Home).\n• Early Bird 15m: Robot mulai berburu link 15 menit sebelum kick-off agar siap tepat waktu.\n• Time Sync Fix: Perbaikan jam di halaman depan agar akurat sesuai WIB."
+  "latestVersionCode": 26,
+  "latestVersionName": "2.9.7",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.7-release.apk",
+  "releaseNotes": "• Tournament Accuracy: Perbaikan pemisahan antara Piala Presiden Indonesia dan Malaysia.\n• Fast Hunting Priority: Laga Indonesia dan ASEAN kini selalu diserbu linknya paling awal.\n• Anti-Zonk 2.0: Peningkatan keberhasilan mendapatkan link sesaat sebelum kick-off.\n• UI Refresh: Pengelompokan kategori yang lebih akurat dan rapi."
 }
