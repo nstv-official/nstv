@@ -1,6 +1,7 @@
 {
-  "latestVersionCode": 27,
-  "latestVersionName": "2.9.8",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.8-release.apk",
-  "releaseNotes": "• The Kraken: Sistem perburuan link agresif dengan deteksi Deep-Hit.\n• Intelligence Frame Focus: Robot kini membedakan antara video asli dan simulasi skor (Anti-Zonk).\n• Esport Purge: Pembersihan total sampah game online (CS:GO, Valorant, dll) dari playlist.\n• Sniper Mode 2.0: Tab Event hanya menampilkan pertandingan yang 100% siap tonton."
+  "latestVersionCode": 30,
+  "latestVersionName": "3.0.0",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.0-release.apk",
+  "releaseNotes": "• Ultimate TV Edition: Optimasi tampilan khusus Smart TV & Android Box agar lebih lega.\n• Auto-Clean Home: Menghilangkan banner iklan di TV agar konten langsung terlihat.\n• Ramping & Svelte: Navigasi bawah lebih tipis dan hemat ruang.\n• Atomic Sync: Update link seketika satu-per-satu (Anti-Keblinger).\n• Indonesia Pride: Jaminan link ASEAN Championship & Piala Presiden Indonesia."
 }
+
