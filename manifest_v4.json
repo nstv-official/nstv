@@ -100,10 +100,10 @@
         }
     },
     {
-        "id": "sys_31072026_panathinaikos_vs_paksi_fc",
-        "title": "\u26bd Panathinaikos Vs Paksi Fc",
+        "id": "sys_31072026_cfr_cluj_vs_alashkert",
+        "title": "\u26bd Cfr Cluj Vs Alashkert",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=19eb551693ec5d5a13a2c86d5b2f99a8&wsABSTime=1785485039&sys_cache=1785467041",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=19eb551693ec5d5a13a2c86d5b2f99a8&wsABSTime=1785485039&sys_cache=1785467042",
         "is_live": true,
         "match_time": "01:30",
         "headers": {
@@ -119,8 +119,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_panathinaikos_vs_paksi_fc",
-            "tvg_name": "Panathinaikos Vs Paksi Fc",
+            "tvg_id": "sys_31072026_cfr_cluj_vs_alashkert",
+            "tvg_name": "Cfr Cluj Vs Alashkert",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
