@@ -271,10 +271,16 @@ async def run_sync_cycle():
         for endpoint in ENDPOINTS:
             try:
                 print(f"[*] Memindai: {endpoint}...")
-                await page.goto(endpoint, wait_until="domcontentloaded", timeout=60000)
-                await asyncio.sleep(8)
+                # v16.2: Gunakan 'load' dan tunggu tambahan agar context tidak hancur
+                await page.goto(endpoint, wait_until="load", timeout=60000)
+                await page.wait_for_load_state("networkidle")
+                await asyncio.sleep(5)
+
+                if page.is_closed(): break
+
                 nodes = await page.query_selector_all("a[href*='truc-tiep']")
                 seen = set()
+                print(f"    [OK] Ditemukan {len(nodes)} link di {endpoint}.")
                 for node in nodes:
                     try:
                         href = await node.get_attribute("href")
