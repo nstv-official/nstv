@@ -44,32 +44,6 @@
         }
     },
     {
-        "id": "sys_31072026_fc_koper_vs_nsi_runavik",
-        "title": "\u26bd Fc Koper Vs Nsi Runavik",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=b7f0d91f1857c443e3a905b1bb03c2f1&wsABSTime=1785488003&sys_cache=1785470004",
-        "is_live": true,
-        "match_time": "01:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fc_koper_vs_nsi_runavik",
-            "tvg_name": "Fc Koper Vs Nsi Runavik",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_kaa_gent_vs_lnz_cherkasy",
         "title": "\u26bd Kaa Gent Vs Lnz Cherkasy",
         "category": "FOOTBALL",
@@ -87,6 +61,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_kaa_gent_vs_lnz_cherkasy",
             "tvg_name": "Kaa Gent Vs Lnz Cherkasy",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_fc_ballkani_vs_bohemians",
+        "title": "\u26bd Fc Ballkani Vs Bohemians",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=b7f0d91f1857c443e3a905b1bb03c2f1&wsABSTime=1785488003&sys_cache=1785470005",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fc_ballkani_vs_bohemians",
+            "tvg_name": "Fc Ballkani Vs Bohemians",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
