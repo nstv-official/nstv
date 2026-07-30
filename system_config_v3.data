@@ -150,31 +150,6 @@
         }
     },
     {
-        "id": "9",
-        "title": "SCTV MAX",
-        "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "SCTV.id",
-            "tvg_name": "SCTV MAX",
-            "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "10",
         "title": "MOJI",
         "category": "NASIONAL",
@@ -226,7 +201,7 @@
     },
     {
         "id": "13",
-        "title": "TransTV HD",
+        "title": "TransTV",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
@@ -244,14 +219,14 @@
         },
         "epg_metadata": {
             "tvg_id": "TransTV.id",
-            "tvg_name": "TransTV HD",
+            "tvg_name": "TransTV",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "14",
-        "title": "Trans7 HD",
+        "title": "Trans7",
         "category": "NASIONAL",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -269,7 +244,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Trans7.id",
-            "tvg_name": "Trans7 HD",
+            "tvg_name": "Trans7",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -376,7 +351,7 @@
     },
     {
         "id": "20",
-        "title": "METRO TV",
+        "title": "METRO",
         "category": "NASIONAL",
         "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
@@ -394,7 +369,7 @@
         },
         "epg_metadata": {
             "tvg_id": "MetroTV.id",
-            "tvg_name": "METRO TV",
+            "tvg_name": "METRO",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/metro tv.png",
             "source_xml": "Embedded"
         }
