@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_31072026_mexico_u23_vs_venezuela_u23",
-        "title": "\u26bd Mexico U23 Vs Venezuela U23",
+        "id": "sys_31072026_panama_u23_vs_colombia_u23",
+        "title": "\u26bd Panama U23 Vs Colombia U23",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=4ea296b60b54ecea5a32890d6b9fcf84&wsABSTime=1785488020&sys_cache=1785470022",
+        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=4ea296b60b54ecea5a32890d6b9fcf84&wsABSTime=1785488020&sys_cache=1785470023",
         "is_live": true,
         "match_time": "03:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_mexico_u23_vs_venezuela_u23",
-            "tvg_name": "Mexico U23 Vs Venezuela U23",
+            "tvg_id": "sys_31072026_panama_u23_vs_colombia_u23",
+            "tvg_name": "Panama U23 Vs Colombia U23",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
