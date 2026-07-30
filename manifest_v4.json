@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_atletico_futbol_club_vs_pottu_via_ho",
+        "title": "\u26bd Atletico Futbol Club Vs Pottu Via Ho",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel59.flv?wsSecret=ecf08e5dfdcee7e35c2cefac05ead92d&wsABSTime=1785488032&sys_cache=1785470036",
+        "is_live": true,
+        "match_time": "03:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel59/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_atletico_futbol_club_vs_pottu_via_ho",
+            "tvg_name": "Atletico Futbol Club Vs Pottu Via Ho",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_panama_u23_vs_colombia_u23",
         "title": "\u26bd Panama U23 Vs Colombia U23",
         "category": "FOOTBALL",
@@ -143,32 +169,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_fc_dinamo_city_vs_nk_aluminij",
             "tvg_name": "Fc Dinamo City Vs Nk Aluminij",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_jessica_pegula_vs_magdalena_frech",
-        "title": "\u26bd Jessica Pegula Vs Magdalena Frech",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel59.flv?wsSecret=ecf08e5dfdcee7e35c2cefac05ead92d&wsABSTime=1785488032&sys_cache=1785470035",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel59/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_jessica_pegula_vs_magdalena_frech",
-            "tvg_name": "Jessica Pegula Vs Magdalena Frech",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
