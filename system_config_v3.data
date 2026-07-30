@@ -19,7 +19,7 @@
         },
         "epg_metadata": {
             "tvg_id": "IDX.id",
-            "tvg_name": "IDX V",
+            "tvg_name": "IDX",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/idx.png",
             "source_xml": "Embedded"
         }
