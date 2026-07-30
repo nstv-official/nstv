@@ -26,7 +26,7 @@
     },
     {
         "id": "2",
-        "title": "🆕Indosiar 0️⃣",
+        "title": "Indosiar",
         "category": "NASIONAL",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -51,7 +51,7 @@
     },
     {
         "id": "3",
-        "title": "Indosiar (Video)",
+        "title": "Indosiar Video",
         "category": "NASIONAL",
         "uri": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
         "user_agent": "Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36",
@@ -76,7 +76,7 @@
     },
     {
         "id": "4",
-        "title": "SAKTI",
+        "title": "SAKTI TV",
         "category": "DAERAH",
         "uri": "http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -101,7 +101,7 @@
     },
     {
         "id": "6",
-        "title": "RCTI HD (V+)",
+        "title": "RCTI HD",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -151,7 +151,7 @@
     },
     {
         "id": "8",
-        "title": "🆕SCTV ✅",
+        "title": "SCTV",
         "category": "NASIONAL",
         "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -176,7 +176,7 @@
     },
     {
         "id": "9",
-        "title": "🆕SCTV MAX",
+        "title": "SCTV MAX",
         "category": "NASIONAL",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
@@ -201,7 +201,7 @@
     },
     {
         "id": "10",
-        "title": "MOJI TV (V+)",
+        "title": "MOJI TV",
         "category": "NASIONAL",
         "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -276,7 +276,7 @@
     },
     {
         "id": "14",
-        "title": "🆕Trans7 HD 0️⃣",
+        "title": "🆕Trans7 HD",
         "category": "NASIONAL",
         "uri": "https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
@@ -325,31 +325,6 @@
         }
     },
     {
-        "id": "16",
-        "title": "MNCTV (R+) 2️⃣",
-        "category": "NASIONAL",
-        "uri": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
-        "user_agent": "android-R+",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "Referer": "https://r-plus.sedotcw3.workers.dev/",
-            "Origin": "https://r-plus.sedotcw3.workers.dev"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "MNCTV R+",
-            "tvg_name": "MNCTV",
-            "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "17",
         "title": "TVKU",
         "category": "DAERAH",
@@ -369,14 +344,14 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "DAERAH",
+            "tvg_name": "TVKU",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "18",
-        "title": "MAGNA CHANNEL 2️⃣",
+        "title": "MAGNA CHANNEL",
         "category": "NASIONAL",
         "uri": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0",
@@ -394,7 +369,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Magna Channel",
-            "tvg_name": "Magna Channel 2️⃣",
+            "tvg_name": "Magna Channel",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
