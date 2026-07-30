@@ -22,32 +22,6 @@
         }
     },
     {
-        "id": "sys_31072026_fc_sion_vs_bate_borisov",
-        "title": "\u26bd Fc Sion Vs Bate Borisov",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel13.flv?sys_cache=1785460709",
-        "is_live": true,
-        "match_time": "01:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fc_sion_vs_bate_borisov",
-            "tvg_name": "Fc Sion Vs Bate Borisov",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_ao_u18_vs_lithuania_u18",
         "title": "\u26bd Ao U18 Vs Lithuania U18",
         "category": "FOOTBALL",
@@ -55,11 +29,7 @@
         "is_live": true,
         "match_time": "01:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel46/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -81,11 +51,7 @@
         "is_live": true,
         "match_time": "01:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel46/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -95,58 +61,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_phap_u18_vs_duc_u18",
             "tvg_name": "Phap U18 Vs Duc U18",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_anderlecht_vs_hammarby",
-        "title": "\u26bd Anderlecht Vs Hammarby",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel13.flv?sys_cache=1785460710",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel13/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_anderlecht_vs_hammarby",
-            "tvg_name": "Anderlecht Vs Hammarby",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_kaa_gent_vs_lnz_cherkasy",
-        "title": "\u26bd Kaa Gent Vs Lnz Cherkasy",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785460712",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel23/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_kaa_gent_vs_lnz_cherkasy",
-            "tvg_name": "Kaa Gent Vs Lnz Cherkasy",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -169,6 +83,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_joblife_vs_skillcamp_esport",
             "tvg_name": "Joblife Vs Skillcamp Esport",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_28072026_team_bald_reborn_vs_kw",
+        "title": "\u26bd Team Bald Reborn Vs Kw",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel74.flv?wsSecret=6724c1d97e22dab9326c838bf7ec1096&wsABSTime=1785479378&sys_cache=1785461379",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel74/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_28072026_team_bald_reborn_vs_kw",
+            "tvg_name": "Team Bald Reborn Vs Kw",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -609,28 +549,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_janice_tjen_vs_anna_kalinskaya",
             "tvg_name": "Janice Tjen Vs Anna Kalinskaya",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_guatemala_vs_suriname",
-        "title": "\u26bd Guatemala Vs Suriname",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433190",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_guatemala_vs_suriname",
-            "tvg_name": "Guatemala Vs Suriname",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
