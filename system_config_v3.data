@@ -401,7 +401,7 @@
     },
     {
         "id": "20",
-        "title": "🆕METRO TV",
+        "title": "METRO TV",
         "category": "NASIONAL",
         "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
@@ -419,7 +419,7 @@
         },
         "epg_metadata": {
             "tvg_id": "MetroTV.id",
-            "tvg_name": "🆕METRO TV",
+            "tvg_name": "METRO TV",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/metro tv.png",
             "source_xml": "Embedded"
         }
@@ -445,32 +445,6 @@
         "epg_metadata": {
             "tvg_id": "NET",
             "tvg_name": "🆕MD TV",
-            "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "22",
-        "title": "TV ONE 2",
-        "category": "NASIONAL",
-        "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd",
-        "user_agent": "VidioPlayer/4.3.0-WITH_ADS",
-        "is_live": true,
-        "match_id": "",
-        "headers": {
-            "referrer": "https://www.visionplus.id/",
-            "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
-            "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
-        },
-        "drm_info": {
-            "is_protected": true,
-            "drm_type": "clearkey",
-            "drm_key": "eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032",
-            "license_headers": {}
-        },
-        "epg_metadata": {
-            "tvg_id": "tvOne - [Channel 97].id",
-            "tvg_name": "TV ONE 2",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -502,7 +476,7 @@
     },
     {
         "id": "24",
-        "title": "INEWS MAX 1️⃣",
+        "title": "INEWS MAX",
         "category": "NASIONAL",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
