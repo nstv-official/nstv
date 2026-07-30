@@ -59,7 +59,7 @@ PRIORITY_GROUPS = ["V-Cup", "Futsal", "China-Open", "Asia", "Borneo", "Persis", 
 
 # v17.3 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
-    "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
+    "lol", "Esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
     "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
