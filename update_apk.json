@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 26,
-  "latestVersionName": "2.9.7",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.7-release.apk",
-  "releaseNotes": "• Tournament Accuracy: Perbaikan pemisahan antara Piala Presiden Indonesia dan Malaysia.\n• Fast Hunting Priority: Laga Indonesia dan ASEAN kini selalu diserbu linknya paling awal.\n• Anti-Zonk 2.0: Peningkatan keberhasilan mendapatkan link sesaat sebelum kick-off.\n• UI Refresh: Pengelompokan kategori yang lebih akurat dan rapi."
+  "latestVersionCode": 27,
+  "latestVersionName": "2.9.8",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.8-release.apk",
+  "releaseNotes": "• The Kraken: Sistem perburuan link agresif dengan deteksi Deep-Hit.\n• Intelligence Frame Focus: Robot kini membedakan antara video asli dan simulasi skor (Anti-Zonk).\n• Esport Purge: Pembersihan total sampah game online (CS:GO, Valorant, dll) dari playlist.\n• Sniper Mode 2.0: Tab Event hanya menampilkan pertandingan yang 100% siap tonton."
 }
