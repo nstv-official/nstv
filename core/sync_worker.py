@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V16.8 - RECOVERY & DEEP INTERCEPTOR)
+# SYSTEM CONFIGURATION (V16.9 - THE KRAKEN: INTELLIGENCE & FRAME FOCUS)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -33,7 +33,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v16.8)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v16.9)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -55,7 +55,14 @@ FIXED_ENTRIES = [
 ]
 
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
-BLOCK_LIST = ["lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf", "bestia", "galorys", "cs:go", "cs2"]
+
+# v16.9 Expanded Esport Killer List
+BLOCK_LIST = [
+    "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
+    "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
+    "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation"
+]
+
 ENDPOINTS = ["https://xoilaczzggz.tv", "https://xoilacxtu.tv"]
 DEFAULT_ASSET = "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png"
 
@@ -91,26 +98,6 @@ def resolve_asset_url(category, assets_list):
         if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
     return DEFAULT_ASSET
 
-async def fetch_registry_state():
-    api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
-    try:
-        r = requests.get(api_url, headers=headers)
-        if r.status_code == 200:
-            content = base64.b64decode(r.json()["content"]).decode("utf-8")
-            return {m["id"]: m for m in json.loads(content)}
-    except: pass
-    return {}
-
-def get_remote_assets():
-    api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/logos"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-    try:
-        r = requests.get(api_url, headers=headers)
-        if r.status_code == 200: return [file["name"].lower() for file in r.json() if file["name"].endswith(".png")]
-    except: pass
-    return []
-
 def commit_to_storage(content):
     if not GITHUB_TOKEN: return False
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
@@ -128,34 +115,43 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data (v16.8: Jadwal Terlihat & Anti-Kosong)."""
+    """Menyimpan data (v16.9 - Sniper Mode: Hanya yang punya link)."""
     now = get_now_wib()
     final_list = []
+
+    # v16.9 Sniper: Hanya loloskan yang SUDAH PUNYA LINK (URI)
+    # Jadwal mendatang tetap tersimpan di 'state' tapi tidak masuk manifest output
     for x in registry.values():
         if x.get("id", "").startswith("sys_v6"):
             final_list.append(x); continue
-        m_time = x.get("match_time", "")
-        has_link = x.get("uri", "").strip() != ""
-        is_today = False
-        if m_time and ":" in m_time:
-            try:
-                t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-                if now - timedelta(hours=2) <= t_obj <= now + timedelta(hours=12):
-                    is_today = True
-                    x["is_live"] = True if (has_link and now >= (t_obj - timedelta(minutes=15))) else False
-            except: pass
-        if has_link or is_today: final_list.append(x)
 
-    final_list.sort(key=lambda x: (x.get("id", "").startswith("sys_v6")==False, not x.get("is_live"), x.get("match_time", "99:99")))
+        has_link = x.get("uri", "").strip() != ""
+        if has_link:
+            x["is_live"] = True
+            final_list.append(x)
+
+    # Logika Pengurutan
+    def sort_logic(x):
+        if x.get("id", "").startswith("sys_v6"): return (0, 0, 0)
+        cat = x.get("category", "").upper()
+        prio_cat = 1 if "PRESIDEN" in cat else (2 if "ASEAN" in cat else 3)
+        m_time = x.get("match_time", "99:99")
+        try:
+            t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
+            time_diff = abs((now - t_obj).total_seconds())
+            return (1, prio_cat, time_diff)
+        except: return (2, prio_cat, 999999)
+
+    final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [SYNC] {len(final_list)} entries updated (v16.8).")
+        print(f"    [KRAKEN] {len(final_list)} active matches synced.")
     except Exception as e: pass
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """Proses perburuan link dengan teknik Deep Interceptor (v16.8)."""
+    """Proses perburuan link (v16.9 - Intelligence & Frame Focus)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -165,11 +161,14 @@ async def process_entry_manifest(context, info, registry, semaphore):
                 await Stealth().apply_stealth_async(page)
                 uri = ""; headers = {}
                 BAD = ["ads", "analytics", "pixel", "telemetry", "log", "doubleclick", "histats", "collector", "popunder"]
+
                 async def sniffer(request):
                     nonlocal uri, headers
                     u = request.url
                     if any(k in u.lower() for k in BAD): return
-                    if ".m3u8" in u.lower() and not u.startswith("blob:"): uri = u; headers = dict(request.headers)
+                    if ".m3u8" in u.lower() and not u.startswith("blob:"):
+                        uri = u; headers = dict(request.headers)
+
                 async def interceptor(response):
                     nonlocal uri
                     if uri: return
@@ -181,20 +180,31 @@ async def process_entry_manifest(context, info, registry, semaphore):
                             if match and not any(k in match.group(1).lower() for k in BAD):
                                 uri = match.group(1); print(f"    [DEEP-HIT] Link dibongkar dari paket data!")
                     except: pass
+
                 page.on("request", sniffer)
                 page.on("response", interceptor)
+
                 await page.goto(m_url, wait_until="commit", timeout=30000)
                 await page.mouse.wheel(0, 400); await asyncio.sleep(1); await page.mouse.wheel(0, -400)
+
                 for i in range(15):
                     if uri: break
                     if i in [2, 5, 10]:
-                        for frame in page.frames:
+                        # v16.9: FOKUS FRAME PERTAMA (Aplikasi menganggap Frame 0/Utama adalah media player)
+                        # Frame kedua biasanya simulasi skor/graph yang bikin Zonk.
+                        target_frames = [page.main_frame]
+                        if len(page.frames) > 1:
+                             # Tambahkan frame pertama jika ada (biasanya index 1 adalah iframe player pertama)
+                             target_frames.append(page.frames[1])
+
+                        for frame in target_frames:
                             for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=Server 1", "text=HLS"]:
                                 try:
                                     btn = await frame.query_selector(s)
                                     if btn: await btn.click()
                                 except: pass
                     await asyncio.sleep(1)
+
                 if uri:
                     registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(get_now_wib().timestamp())}"
                     registry[m_id]["is_live"] = True; registry[m_id]["headers"] = headers
@@ -203,19 +213,14 @@ async def process_entry_manifest(context, info, registry, semaphore):
             finally: await page.close()
         print(f"    [ZONK] Gagal."); return False
 
-def check_entry_validity(m_time, m_date, now):
-    if m_time == "LIVE": return True
-    try:
-        return True
-    except: return True
-
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V16.8 - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V16.9 (KRAKEN) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=HEADLESS_MODE)
         context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", ignore_https_errors=True)
@@ -235,13 +240,18 @@ async def run_sync_cycle():
                         if not href: continue
                         full_url = href if href.startswith("http") else endpoint.rstrip("/") + "/" + href.lstrip("/")
                         slug = full_url.strip("/").split("/")[-1]
+
+                        # v16.9: Agresif membuang Esport dari radar
                         if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST) or slug.isdigit(): continue
                         seen.add(slug)
+
                         label, m_time, m_date = parse_registry_slug(slug)
                         m_id = f"sys_{m_date}_{slug.replace('-', '_').split('_luc_')[0]}"
+
                         cat = "FOOTBALL"
                         if any(k in label.lower() for k in ["presiden", "president"]): cat = "PIALA PRESIDEN"
                         elif any(k in label.lower() for k in ["badminton", "cau long"]): cat = "BADMINTON"
+
                         registry[m_id] = {
                             "id": m_id, "title": f"{get_entry_icon(label)} {label}",
                             "category": cat, "uri": state.get(m_id, {}).get("uri", ""), "is_live": False,
@@ -249,7 +259,9 @@ async def run_sync_cycle():
                             "drm_info": {"is_protected": False, "drm_type": "", "drm_key": ""},
                             "epg_metadata": {"tvg_id": m_id, "tvg_name": label, "tvg_logo": resolve_asset_url(cat, assets), "source_xml": "Embedded"}
                         }
+
                         try:
+                            # Cek jika tanding sudah dekat atau sedang berlangsung
                             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
                             if now >= (t_obj - timedelta(minutes=15)) and not registry[m_id]["uri"]:
                                 queue.append({"id": m_id, "url": full_url, "title": label})
@@ -257,9 +269,10 @@ async def run_sync_cycle():
                     except: continue
             except: pass
             finally: await page.close()
+
         if queue:
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
-            await asyncio.gather(*(process_entry_manifest(context, item, registry, semaphore) for item in queue[:15]), return_exceptions=True)
+            await asyncio.gather(*(process_entry_manifest(context, item, registry, semaphore) for item in queue[:20]), return_exceptions=True)
         finalize_sync(registry)
         await browser.close()
 
