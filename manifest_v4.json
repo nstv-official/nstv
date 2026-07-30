@@ -66,10 +66,10 @@
         }
     },
     {
-        "id": "sys_31072026_fc_ballkani_vs_bohemians",
-        "title": "\u26bd Fc Ballkani Vs Bohemians",
+        "id": "sys_31072026_cska_sofia_vs_qarabag",
+        "title": "\u26bd Cska Sofia Vs Qarabag",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=b7f0d91f1857c443e3a905b1bb03c2f1&wsABSTime=1785488003&sys_cache=1785470005",
+        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=b7f0d91f1857c443e3a905b1bb03c2f1&wsABSTime=1785488003&sys_cache=1785470007",
         "is_live": true,
         "match_time": "01:00",
         "headers": {
@@ -85,8 +85,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_fc_ballkani_vs_bohemians",
-            "tvg_name": "Fc Ballkani Vs Bohemians",
+            "tvg_id": "sys_31072026_cska_sofia_vs_qarabag",
+            "tvg_name": "Cska Sofia Vs Qarabag",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
