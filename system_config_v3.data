@@ -651,7 +651,7 @@
     },
     {
         "id": "34",
-        "title": "HBO FAMILY MAX",
+        "title": "HBO FAMILY",
         "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -669,7 +669,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "HBO FAMILY MAX",
+            "tvg_name": "HBO FAMILY",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
@@ -1714,7 +1714,7 @@
     },
     {
         "id": "77",
-        "title": "HBO FAMILY (3️⃣✅)",
+        "title": "HBO FAMILY",
         "category": "FILM",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -1732,14 +1732,14 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Family.HD.id",
-            "tvg_name": "HBO FAMILY (3️⃣✅)",
+            "tvg_name": "HBO FAMILY",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "78",
-        "title": "HBO SIGNATURE (3️⃣✅)",
+        "title": "HBO SIGNATURE",
         "category": "FILM",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -1757,14 +1757,14 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Signature.HD.id",
-            "tvg_name": "HBO SIGNATURE (3️⃣✅)",
+            "tvg_name": "HBO SIGNATURE",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
     {
         "id": "79",
-        "title": "CINEMAX (3️⃣✅)",
+        "title": "CINEMAX",
         "category": "FILM",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -1782,7 +1782,7 @@
         },
         "epg_metadata": {
             "tvg_id": "Cinemax.HD.id",
-            "tvg_name": "CINEMAX (3️⃣✅)",
+            "tvg_name": "CINEMAX",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
