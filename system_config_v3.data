@@ -651,7 +651,7 @@
     },
     {
         "id": "34",
-        "title": "HBO FAMILY",
+        "title": "FAMILY HBO",
         "category": "HBO MAX",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -669,7 +669,7 @@
         },
         "epg_metadata": {
             "tvg_id": "",
-            "tvg_name": "HBO FAMILY",
+            "tvg_name": "FAMILY HBO",
             "tvg_logo": "",
             "source_xml": "Embedded"
         }
