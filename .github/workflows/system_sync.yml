@@ -2,7 +2,7 @@ name: System Data Sync
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,10 @@ jobs:
     
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -23,7 +23,7 @@ jobs:
           pip install -r core/requirements.txt
           python -m playwright install --with-deps chromium
 
-      - name: Execute Data Sync
+      name: Execute Data Sync
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python core/sync_worker.py
