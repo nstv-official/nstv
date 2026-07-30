@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_coleraine_vs_hjk_helsinki",
+        "title": "\u26bd Coleraine Vs Hjk Helsinki",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=de9154a48875ebc96597d4f6bf2f2ace&wsABSTime=1785485047&sys_cache=1785467048",
+        "is_live": true,
+        "match_time": "01:45",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_coleraine_vs_hjk_helsinki",
+            "tvg_name": "Coleraine Vs Hjk Helsinki",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_ferencvarosi_tc_vs_twente_fc",
         "title": "\u26bd Ferencvarosi Tc Vs Twente Fc",
         "category": "FOOTBALL",
