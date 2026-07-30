@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.2 - ROBUST SCAN & SSL BYPASS)
+# SYSTEM CONFIGURATION (V15.4 - EARLY BIRD & DYNAMIC SORTING)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -204,14 +204,33 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data lokal DAN kirim ke GitHub (v14.8 Dual-Save)."""
+    """Menyimpan data lokal DAN kirim ke GitHub (v15.4 Smart Sorting)."""
     final_list = list(registry.values())
+    now = datetime.now()
+
     def sort_logic(x):
-        is_fixed = 0 if x.get("id", "").startswith("sys_") else 1
-        is_live_prio = 0 if x.get("is_live") else 1
+        # 1. Prioritas Utama: System Channel (VTV6)
+        if x.get("id", "").startswith("sys_v6"): return (0, 0)
+
+        # 2. Prioritas Kategori Spesial (Piala Presiden, ASEAN)
         cat = x.get("category", "").upper()
-        prio_cat = 0 if "PRESIDEN" in cat else (1 if "ASEAN" in cat else 2)
-        return (is_fixed, prio_cat, is_live_prio, x.get("match_time", "99:99"))
+        prio_cat = 1 if "PRESIDEN" in cat else (2 if "ASEAN" in cat else 3)
+
+        # 3. Urutan Waktu Dinamis
+        m_time = x.get("match_time", "99:99")
+        try:
+            # Hitung selisih waktu untuk membedakan laga "Segar" vs "Basi"
+            t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
+            # Jika jam tayang sudah lewat lebih dari 95 menit, lempar ke bawah
+            is_old = 1 if now > t_obj + timedelta(minutes=95) else 0
+
+            # Laga yang baru mulai atau akan datang diurutkan berdasarkan waktu asli
+            # Tapi kita pakai selisih absolut agar yang paling dekat dengan jam sekarang ada di atas
+            time_diff = abs((now - t_obj).total_seconds())
+            return (is_old + 1, prio_cat, time_diff)
+        except:
+            return (2, prio_cat, 999999)
+
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
 
@@ -374,7 +393,9 @@ async def run_sync_cycle():
                                 t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
                                 if m_date and datetime.strptime(m_date, "%d-%m-%Y").date() > now.date():
                                     t_obj += timedelta(days=1)
-                                if now >= t_obj and now <= t_obj + timedelta(minutes=150):
+
+                                # v15.4: Early Bird Hunting (10 menit sebelum kick-off)
+                                if now >= (t_obj - timedelta(minutes=10)) and now <= t_obj + timedelta(minutes=150):
                                     is_live = True
                             except: pass
 
@@ -396,7 +417,7 @@ async def run_sync_cycle():
                                 "epg_metadata": {"tvg_id": m_id, "tvg_name": label, "tvg_logo": resolve_asset_url(cat, assets), "source_xml": "Embedded"}
                             }
                             if is_live and not existing_uri:
-                                queue.append({"id": m_id, "url": full_url, "title": label})
+                                queue.append({"id": m_id, "url": full_url, "title": label, "time": m_time})
                             elif existing_uri:
                                 # v15.0: Jika sudah ada link, tetap lapor keberadaannya
                                 pass
@@ -406,6 +427,17 @@ async def run_sync_cycle():
 
         # TAHAP 2: TURBO HUNTING (PARALLEL v15.0)
         if queue:
+            # v15.3: Urutkan antrean agar laga yang PALING BARU mulai diserbu duluan
+            def hunt_prio(x):
+                try:
+                    t_obj = datetime.strptime(x.get("time", "00:00"), "%H:%M")
+                    # Cari selisih menit dari jam sekarang (fokus ke yang baru kick-off)
+                    diff = abs((now.hour * 60 + now.minute) - (t_obj.hour * 60 + t_obj.minute))
+                    return diff
+                except: return 999
+
+            queue.sort(key=hunt_prio)
+
             print(f"[CORE] Menyerbu {len(queue)} laga LIVE secara PARALEL (Turbo: 3)...")
             semaphore = asyncio.Semaphore(MAX_CONCURRENT_TABS)
 
