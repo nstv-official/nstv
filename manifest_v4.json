@@ -22,6 +22,106 @@
         }
     },
     {
+        "id": "sys_31072026_joblife_vs_skillcamp_esport",
+        "title": "\u26bd Joblife Vs Skillcamp Esport",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel76.flv?wsSecret=9736e4fd35b9bf4288e208461f8a80a1&wsABSTime=1785478546&sys_cache=1785435350",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel76/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_joblife_vs_skillcamp_esport",
+            "tvg_name": "Joblife Vs Skillcamp Esport",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
+        "title": "\ud83c\udfbe Alex De Minaur Vs Cruz Hewitt",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433191",
+        "is_live": true,
+        "match_time": "00:40",
+        "headers": {
+            "User-Agent": "Mozilla/5.0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
+            "tvg_name": "Alex De Minaur Vs Cruz Hewitt",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_derry_city_vs_rijeka",
+        "title": "\u26bd Derry City Vs Rijeka",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel51.flv?wsSecret=be0589320dace1a721d2647696af5cbf&wsABSTime=1785478539&sys_cache=1785435341",
+        "is_live": true,
+        "match_time": "00:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel51/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_derry_city_vs_rijeka",
+            "tvg_name": "Derry City Vs Rijeka",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_the_new_saints_vs_fc_flora_tallinn",
+        "title": "\u26bd The New Saints Vs Fc Flora Tallinn",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=c6fb6b0d8e13e2d37d83fab0119c7e35&wsABSTime=1785478543&sys_cache=1785435349",
+        "is_live": true,
+        "match_time": "00:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_the_new_saints_vs_fc_flora_tallinn",
+            "tvg_name": "The New Saints Vs Fc Flora Tallinn",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_aep_paphos_vs_hajduk_split",
         "title": "\u26bd Aep Paphos Vs Hajduk Split",
         "category": "FOOTBALL",
@@ -154,8 +254,268 @@
         }
     },
     {
+        "id": "sys_31072026_fk_zalgiris_vilnius_vs_dinamo_tbilisi",
+        "title": "\u26bd Fk Zalgiris Vilnius Vs Dinamo Tbilisi",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=3833cab629a12580e7ff6eb8e99e270e&wsABSTime=1785478514&sys_cache=1785435330",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fk_zalgiris_vilnius_vs_dinamo_tbilisi",
+            "tvg_name": "Fk Zalgiris Vilnius Vs Dinamo Tbilisi",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_cs_petrocub_vs_borac_banja_luka",
+        "title": "\u26bd Cs Petrocub Vs Borac Banja Luka",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=3833cab629a12580e7ff6eb8e99e270e&wsABSTime=1785478514&sys_cache=1785435323",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_cs_petrocub_vs_borac_banja_luka",
+            "tvg_name": "Cs Petrocub Vs Borac Banja Luka",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_hb_torshavn_vs_motherwell",
+        "title": "\u26bd Hb Torshavn Vs Motherwell",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=3833cab629a12580e7ff6eb8e99e270e&wsABSTime=1785478514&sys_cache=1785435316",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_hb_torshavn_vs_motherwell",
+            "tvg_name": "Hb Torshavn Vs Motherwell",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_fk_velez_mostar_vs_dunajska_streda",
+        "title": "\u26bd Fk Velez Mostar Vs Dunajska Streda",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel17.flv?wsSecret=ab4e58aa338f8ec9feaa92bebbbeebf0&wsABSTime=1785478520&sys_cache=1785435322",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fk_velez_mostar_vs_dunajska_streda",
+            "tvg_name": "Fk Velez Mostar Vs Dunajska Streda",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_nordsjaelland_vs_gais",
+        "title": "\u26bd Nordsjaelland Vs Gais",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785435337",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nordsjaelland_vs_gais",
+            "tvg_name": "Nordsjaelland Vs Gais",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_gor_mahia_vs_garde_republicaine",
+        "title": "\u26bd Gor Mahia Vs Garde Republicaine",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=976b2d4ee4a3ed8fe526d07db7567ec1&wsABSTime=1785478525&sys_cache=1785435328",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_gor_mahia_vs_garde_republicaine",
+            "tvg_name": "Gor Mahia Vs Garde Republicaine",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_nu_senegal_vs_nu_kenya",
+        "title": "\u26bd Women Senegal Vs Women Kenya",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785435336",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_senegal_vs_nu_kenya",
+            "tvg_name": "Women Senegal Vs Women Kenya",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_apr_fc_vs_vipers",
+        "title": "\u26bd Apr Fc Vs Vipers",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=12e9c72e0d352d75f5810b3b8023ec75&wsABSTime=1785478531&sys_cache=1785435335",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_apr_fc_vs_vipers",
+            "tvg_name": "Apr Fc Vs Vipers",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_malaga_vs_al_ittihadksa",
+        "title": "\u26bd Malaga Vs Al Ittihadksa",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel51.flv?wsSecret=be0589320dace1a721d2647696af5cbf&wsABSTime=1785478539&sys_cache=1785435345",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel51/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_malaga_vs_al_ittihadksa",
+            "tvg_name": "Malaga Vs Al Ittihadksa",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_fc_10_moscow_vs_fk_kosmos",
+        "title": "\u26bd Fc 10 Moscow Vs Fk Kosmos",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel51.flv?wsSecret=be0589320dace1a721d2647696af5cbf&wsABSTime=1785478539&sys_cache=1785435344",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel51/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fc_10_moscow_vs_fk_kosmos",
+            "tvg_name": "Fc 10 Moscow Vs Fk Kosmos",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_janice_tjen_vs_anna_kalinskaya",
-        "title": "\u26bd Janice Tjen Vs Anna Kalinskaya",
+        "title": "\ud83c\udfbe Janice Tjen Vs Anna Kalinskaya",
         "category": "FOOTBALL",
         "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433192",
         "is_live": true,
@@ -171,28 +531,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_janice_tjen_vs_anna_kalinskaya",
             "tvg_name": "Janice Tjen Vs Anna Kalinskaya",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
-        "title": "\u26bd Alex De Minaur Vs Cruz Hewitt",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel57.flv?wsSecret=8edd30c4b589252ac96619879f2b1e26&wsABSTime=1785476385&sys_cache=1785433191",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_alex_de_minaur_vs_cruz_hewitt",
-            "tvg_name": "Alex De Minaur Vs Cruz Hewitt",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
