@@ -10,7 +10,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.5 - "THE SNIPER" - GUARANTEED LINKS)
+# SYSTEM CONFIGURATION (V16.2 - TOURNAMENT PRECISION & FAST HUNT)
 # ==============================================================================
 # Security: Using environment secrets for data authentication (v14.3)
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
@@ -400,9 +400,21 @@ async def run_sync_cycle():
                             except: pass
 
                         if m_id not in registry:
-                            cat = "DATA_STREAM"
-                            if "presiden" in ctx: cat = "PIALA PRESIDEN"
-                            elif any(k in ctx for k in ["asean", "aff", "indonesia"]): cat = "ASEAN FOOTBALL"
+                            # v16.2: Deteksi Akurat Turnamen & Tim
+                            is_malaysia = any(k in ctx for k in ["malaysia", "sabah", "sembilan", "jdt", "selangor", "terengganu", "kedah", "pahang", "perak", "kl city", "kucing"])
+                            is_indo_team = any(k in ctx for k in ["indonesia", "persib", "persija", "borneo", "psm", "arema", "persebaya", "persis", "dewa united", "bali united", "madura"])
+
+                            cat = "FOOTBALL"
+                            if "presiden" in ctx:
+                                if is_malaysia or "u20" in ctx: cat = "PIALA PRESIDEN MALAYSIA"
+                                elif is_indo_team: cat = "PIALA PRESIDEN INDONESIA"
+                                else: cat = "PIALA PRESIDEN"
+                            elif is_malaysia:
+                                cat = "MALAYSIA FOOTBALL"
+                            elif any(k in ctx for k in ["asean", "aff", "u19", "u16"]):
+                                cat = "ASEAN CHAMPIONSHIP"
+                            elif is_indo_team:
+                                cat = "INDONESIA FOCUS"
 
                             existing_uri = ""; existing_headers = {}
                             if m_id in state and state[m_id].get("uri"):
@@ -425,15 +437,16 @@ async def run_sync_cycle():
             except Exception as e:
                 print(f"[!] Radar Gagal di {endpoint}: {e}")
 
-        # TAHAP 2: TURBO HUNTING (PARALLEL v15.0)
+        # TAHAP 2: TURBO HUNTING (PARALLEL v16.2)
         if queue:
-            # v15.3: Urutkan antrean agar laga yang PALING BARU mulai diserbu duluan
+            # v16.2: Prioritas Hunting Ekstrim (Piala Presiden & Indo Selalu Di Depan)
             def hunt_prio(x):
+                c = x.get("category", "").upper()
+                if "INDONESIA" in c or "PRESIDEN INDONESIA" in c: return 0
+                if "ASEAN" in c: return 1
                 try:
                     t_obj = datetime.strptime(x.get("time", "00:00"), "%H:%M")
-                    # Cari selisih menit dari jam sekarang (fokus ke yang baru kick-off)
-                    diff = abs((now.hour * 60 + now.minute) - (t_obj.hour * 60 + t_obj.minute))
-                    return diff
+                    return abs((now.hour * 60 + now.minute) - (t_obj.hour * 60 + t_obj.minute)) + 10
                 except: return 999
 
             queue.sort(key=hunt_prio)
