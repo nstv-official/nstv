@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 21,
-  "latestVersionName": "2.9.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.2-release.apk",
-  "releaseNotes": "• Sinkronisasi Jam: Perbaikan jadwal di halaman Home agar sesuai dengan waktu WIB.\n• Player Cerdas (Anti-Buffer): Player kini otomatis menyesuaikan kualitas video agar tetap lancar meskipun internet melambat.\n• Pemindahan Teks Info: Info resolusi video kini berada di pojok kiri bawah agar tidak tertutup watermark.\n• Auto-Refresh Data: Daftar channel kini diperbarui otomatis setiap 60 detik.\n• Perbaikan Stabilitas: Optimasi memori untuk penggunaan di Smart TV dan STB."
+  "latestVersionCode": 22,
+  "latestVersionName": "2.9.3",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.3-release.apk",
+  "releaseNotes": "• Ultimate Smart Logo Hierarchy: Penyelamatan logo otomatis (Spesifik -> Kategori -> Default).\n• Logo Kategori: Mendukung logo otomatis untuk kategori Film, Anak-anak, Olahraga, dll.\n• Logo Default Fix: Memastikan tidak ada kotak kosong di playlist.\n• Server 1 & 2 Sync: Integrasi penuh dengan folder logos di repositori GitHub.\n• Performa: Optimasi pemuatan gambar agar lebih ringan dan responsif."
 }
