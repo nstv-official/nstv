@@ -801,7 +801,7 @@
     },
     {
         "id": "40",
-        "title": "HBO FAMILY",
+        "title": "FAMILY HBO",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
@@ -819,7 +819,7 @@
         },
         "epg_metadata": {
             "tvg_id": "HBO.Family.HD.id",
-            "tvg_name": "HBO FAMILY",
+            "tvg_name": "FAMILY HBO",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
