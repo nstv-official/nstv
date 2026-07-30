@@ -29,11 +29,7 @@
         "is_live": true,
         "match_time": "02:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -48,10 +44,10 @@
         }
     },
     {
-        "id": "sys_31072026_coleraine_vs_hjk_helsinki",
-        "title": "\u26bd Coleraine Vs Hjk Helsinki",
+        "id": "sys_31072026_fc_koper_vs_nsi_runavik",
+        "title": "\u26bd Fc Koper Vs Nsi Runavik",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=de9154a48875ebc96597d4f6bf2f2ace&wsABSTime=1785485047&sys_cache=1785467048",
+        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=b7f0d91f1857c443e3a905b1bb03c2f1&wsABSTime=1785488003&sys_cache=1785470004",
         "is_live": true,
         "match_time": "01:45",
         "headers": {
@@ -67,60 +63,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_coleraine_vs_hjk_helsinki",
-            "tvg_name": "Coleraine Vs Hjk Helsinki",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_ferencvarosi_tc_vs_twente_fc",
-        "title": "\u26bd Ferencvarosi Tc Vs Twente Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel15.flv?sys_cache=1785467027",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_ferencvarosi_tc_vs_twente_fc",
-            "tvg_name": "Ferencvarosi Tc Vs Twente Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_anderlecht_vs_hammarby",
-        "title": "\u26bd Anderlecht Vs Hammarby",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel11.flv?sys_cache=1785467032",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_anderlecht_vs_hammarby",
-            "tvg_name": "Anderlecht Vs Hammarby",
+            "tvg_id": "sys_31072026_fc_koper_vs_nsi_runavik",
+            "tvg_name": "Fc Koper Vs Nsi Runavik",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -133,11 +77,7 @@
         "is_live": true,
         "match_time": "01:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -147,80 +87,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_kaa_gent_vs_lnz_cherkasy",
             "tvg_name": "Kaa Gent Vs Lnz Cherkasy",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_cfr_cluj_vs_alashkert",
-        "title": "\u26bd Cfr Cluj Vs Alashkert",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=19eb551693ec5d5a13a2c86d5b2f99a8&wsABSTime=1785485039&sys_cache=1785467042",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_cfr_cluj_vs_alashkert",
-            "tvg_name": "Cfr Cluj Vs Alashkert",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_ao_u18_vs_lithuania_u18",
-        "title": "\u26bd Ao U18 Vs Lithuania U18",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel46.flv?wsSecret=408787fb5be982ba347cdc87d4c741b3&wsABSTime=1785478713&sys_cache=1785460714",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_ao_u18_vs_lithuania_u18",
-            "tvg_name": "Ao U18 Vs Lithuania U18",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_ludogorets_vs_hapoel_tel_aviv",
-        "title": "\u26bd Ludogorets Vs Hapoel Tel Aviv",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=32dd2e56dac4e7be2a61dd8460969a45&wsABSTime=1785485020&sys_cache=1785467021",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_ludogorets_vs_hapoel_tel_aviv",
-            "tvg_name": "Ludogorets Vs Hapoel Tel Aviv",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -243,54 +109,6 @@
         "epg_metadata": {
             "tvg_id": "sys_28072026_team_bald_reborn_vs_kw",
             "tvg_name": "Team Bald Reborn Vs Kw",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_the_new_saints_vs_fc_flora_tallinn",
-        "title": "\u26bd The New Saints Vs Fc Flora Tallinn",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=c6fb6b0d8e13e2d37d83fab0119c7e35&wsABSTime=1785478543&sys_cache=1785435349",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_the_new_saints_vs_fc_flora_tallinn",
-            "tvg_name": "The New Saints Vs Fc Flora Tallinn",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_beitar_jerusalem_vs_aek_larnaca",
-        "title": "\u26bd Beitar Jerusalem Vs Aek Larnaca",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?sys_cache=1785467018",
-        "is_live": true,
-        "match_time": "00:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_beitar_jerusalem_vs_aek_larnaca",
-            "tvg_name": "Beitar Jerusalem Vs Aek Larnaca",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
