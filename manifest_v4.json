@@ -142,26 +142,6 @@
         }
     },
     {
-        "id": "sys_nu_jiangxi_ganxing_vs_nu_heilongjiang",
-        "title": "\u26bd Women Jiangxi Ganxing Vs Women Heilongjiang",
-        "category": "DATA_STREAM",
-        "uri": "",
-        "is_live": false,
-        "match_time": "09:00",
-        "headers": {},
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_nu_jiangxi_ganxing_vs_nu_heilongjiang",
-            "tvg_name": "Women Jiangxi Ganxing Vs Women Heilongjiang",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_nu_phoenix_mercury_vs_nu_golden_state",
         "title": "\u26bd Women Phoenix Mercury Vs Women Golden State",
         "category": "DATA_STREAM",
