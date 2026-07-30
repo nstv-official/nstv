@@ -10,9 +10,9 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V15.6 - MULTI-SPORT SNIPER & STERILIZATION)
+# SYSTEM CONFIGURATION (V16.0 - GLOBAL TIME SYNC & SPORT GUARD)
 # ==============================================================================
-# Security: Using environment secrets for data authentication (v14.3)
+# Security: Using environment secrets for data authentication
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
 REPO_NAME = "nstv"
@@ -21,21 +21,22 @@ MANIFEST_PATH = "manifest_v4.json"
 # Performance Tuning
 MAX_CONCURRENT_TABS = 3
 GITHUB_RETRY_LIMIT = 5
-HUNTING_TIMEOUT = 25     # v15.6: Tambah waktu tunggu untuk Badminton/Voli
+HUNTING_TIMEOUT = 25     # Waktu tunggu untuk Badminton/Voli/Tennis
 
 # Environment Detection
 IS_CLOUD = os.getenv("GITHUB_ACTIONS") == "true"
 HEADLESS_MODE = True
 
-# Path Management (OS Adaptive)
+# Path Management
 if IS_CLOUD:
-    SESSION_DIR = "./internal_cache"
-    LOG_DIR = "./system_logs"
-    LOCAL_MANIFEST = MANIFEST_PATH
+    SESSION_DIR = "./internal_cache"; LOCAL_MANIFEST = MANIFEST_PATH
 else:
     SESSION_DIR = r"D:\NSTV_Internal_Cache"
-    LOG_DIR = r"D:\NSTV_System_Logs"
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
+
+def get_now_wib():
+    """Selalu paksa waktu ke WIB (GMT+7) (v16.0)."""
+    return datetime.utcnow() + timedelta(hours=7)
 
 # Permanent System Entries
 FIXED_ENTRIES = [
@@ -54,21 +55,17 @@ FIXED_ENTRIES = [
     }
 ]
 
-# Tim & Liga Utama (v15.6)
+# Classification Keywords
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
-
-# Olahraga Target (v15.6 - Full Support)
-TARGET_SPORTS = ["bong da", "football", "soccer", "cau long", "badminton", "bong chuyen", "volleyball", "futsal", "dua xe", "motogp"]
-
-# Nama Pemain Dunia (Sniper 2.0)
+TARGET_SPORTS = ["bong da", "football", "soccer", "cau long", "badminton", "bong chuyen", "volleyball", "futsal", "dua xe", "motogp", "tennis", "quan vot"]
 ATHLETE_KEYWORDS = ["wenyu", "supak", "ginting", "jonatan", "fajar", "riani", "setiawan", "ahsan", "ankul", "sen", "vitidsarn", "antonsen"]
-
-BLOCK_LIST = ["lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf"]
+BLOCK_LIST = ["lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf", "bestia", "galorys", "cs:go", "cs2"]
 ENDPOINTS = ["https://xoilaczzggz.tv", "https://xoilacxtu.tv"]
 DEFAULT_ASSET = "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default_logo.png"
 # ==============================================================================
 
 def remove_accents(input_str):
+    """Menghapus tanda baca Vietnam agar pencocokan teks lebih akurat."""
     s1 = "àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ"
     s0 = "aaaaaaaaaaaaaaaaaeeeeeeeeeeeiiiiiooooooooooooooooouuuuuuuuuuuyyyyyd"
     result = input_str.lower()
@@ -76,13 +73,18 @@ def remove_accents(input_str):
     return result
 
 def parse_registry_slug(slug):
+    """Mengekstrak nama tim, jam, dan tanggal (v16.0)."""
     slug_clean = slug.strip("/").split("/")[-1]
+
     time_match = re.search(r'luc-(\d{2})(\d{2})', slug_clean)
     m_time = f"{time_match.group(1)}:{time_match.group(2)}" if time_match else "LIVE"
+
     date_match = re.search(r'ngay-(\d{2})-(\d{2})-(\d{4})', slug_clean)
-    m_date = f"{date_match.group(1)}{date_match.group(2)}" if date_match else "0000"
+    m_date = f"{date_match.group(1)}{date_match.group(2)}{date_match.group(3)}" if date_match else "00000000"
+
     team_part = slug_clean.split("-luc-")[0]
     clean_label = team_part.replace("-vs-", " VS ").replace("-", " ")
+
     replacements = {
         r"\bnu\b": "Women", r"\bopmm\b": "DPMM", r"\bfc\b": "FC", r"\bpsm\b": "PSM",
         r"\barema\b": "AREMA", r"\baff\b": "AFF", r"\bbwf\b": "BWF"
@@ -90,6 +92,15 @@ def parse_registry_slug(slug):
     for pattern, repl in replacements.items():
         clean_label = re.sub(pattern, repl, clean_label, flags=re.IGNORECASE)
     return clean_label.title(), m_time, m_date
+
+def get_entry_icon(label):
+    t = label.lower()
+    if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
+    if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan"]): return "🏸"
+    if any(x in t for x in ["tennis", "quan vot"]): return "🎾"
+    if any(x in t for x in ["futsal"]): return "🏟️"
+    if any(x in t for x in ["gp", "f1", "race", "dua xe", "moto"]): return "🏎️"
+    return "⚽"
 
 def resolve_asset_url(category, assets_list):
     cat_norm = category.lower().replace(" ", "_")
@@ -99,23 +110,18 @@ def resolve_asset_url(category, assets_list):
         if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
     return DEFAULT_ASSET
 
-def get_entry_icon(label):
-    t = label.lower()
-    if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
-    if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan"]): return "🏸"
-    if any(x in t for x in ["futsal"]): return "🏟️"
-    if any(x in t for x in ["gp", "f1", "race", "dua xe", "moto"]): return "🏎️"
-    return "⚽"
-
 def check_entry_validity(m_time, m_date, now):
     if m_time == "LIVE": return True
     try:
-        if m_date != "0000":
-            day = int(m_date[:2]); month = int(m_date[2:])
-            m_date_obj = datetime(now.year, month, day)
+        if m_date != "00000000":
+            day = int(m_date[:2]); month = int(m_date[2:4]); year = int(m_date[4:])
+            m_date_obj = datetime(year, month, day)
             if m_date_obj.date() < now.date(): return False
             if m_date_obj.date() > now.date() + timedelta(days=1): return False
+
         m_time_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
+        if m_date and int(m_date[:2]) > now.day: m_time_obj += timedelta(days=1)
+
         return now - timedelta(hours=2) <= m_time_obj <= now + timedelta(hours=12)
     except: return True
 
@@ -156,24 +162,25 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    # Sniper Mode v15.6: Hanya ambil yang sudah ada Link ATAU akan mulai dlm 15 menit
-    now = datetime.now()
+    """Verified live sniper mode (v16.0)."""
+    now = get_now_wib()
     final_list = []
     for x in registry.values():
-        is_sys = x.get("id", "").startswith("sys_v6")
-        has_link = x.get("uri", "").strip() != ""
+        if x.get("id", "").startswith("sys_v6"):
+            final_list.append(x); continue
 
-        # Cek jika waktu mulai sudah mepet (<15 menit)
-        is_near = False
+        has_link = x.get("uri", "").strip() != ""
         m_time = x.get("match_time", "")
+        is_live_now = False
+
         if m_time and ":" in m_time:
             try:
                 t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-                if now >= (t_obj - timedelta(minutes=15)) and now <= t_obj + timedelta(minutes=120):
-                    is_near = True
+                if now >= (t_obj - timedelta(minutes=15)): is_live_now = True
             except: pass
 
-        if is_sys or has_link or is_near:
+        if has_link and is_live_now:
+            x["is_live"] = True
             final_list.append(x)
 
     def sort_logic(x):
@@ -183,16 +190,14 @@ def finalize_sync(registry):
         m_time = x.get("match_time", "99:99")
         try:
             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-            is_old = 1 if now > t_obj + timedelta(minutes=95) else 0
-            time_diff = abs((now - t_obj).total_seconds())
-            return (is_old + 1, prio_cat, time_diff)
+            return (1, prio_cat, abs((now - t_obj).total_seconds()))
         except: return (2, prio_cat, 999999)
 
     final_list.sort(key=sort_logic)
     content = json.dumps(final_list, indent=4)
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [SNIPER] {len(final_list)} entries synced.")
+        print(f"    [SNIPER] {len(final_list)} verified live entries synced.")
     except: pass
     commit_to_storage(content)
 
@@ -218,11 +223,10 @@ async def process_entry_manifest(context, info, registry, semaphore):
                 if links:
                     best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
                     if ".m3u8" in best["url"].lower():
-                        uri = best["url"]; headers = best["headers"]
-                        break
+                        uri = best["url"]; headers = best["headers"]; break
                 if i == 2 or i == 8:
                     for frame in page.frames:
-                        for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=HLS"]:
+                        for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=HLS", "text=Server 1"]:
                             try:
                                 btn = await frame.query_selector(s)
                                 if btn: await btn.click()
@@ -231,9 +235,6 @@ async def process_entry_manifest(context, info, registry, semaphore):
             if not uri:
                 js_uri = await page.evaluate("() => { const v = document.querySelector('video'); return (v && v.src && !v.src.includes('blob')) ? v.src : null; }")
                 if js_uri: uri = js_uri
-            if not uri and links:
-                best = sorted(links, key=lambda x: x['priority'], reverse=True)[0]
-                uri = best["url"]; headers = best["headers"]
             if uri:
                 registry[m_id]["uri"] = f"{uri}{'&' if '?' in uri else '?'}sys_cache={int(datetime.now().timestamp())}"
                 registry[m_id]["is_live"] = True
@@ -247,7 +248,8 @@ async def process_entry_manifest(context, info, registry, semaphore):
 
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
-    print(f"[SYSTEM] Memulai Siklus Sinkronisasi (V15.6 - MULTI-SPORT)...")
+    now = get_now_wib()
+    print(f"[SYSTEM] Memulai Siklus Sinkronisasi (V16.0) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
@@ -260,7 +262,6 @@ async def run_sync_cycle():
             try: await Stealth().apply_stealth_async(page)
             except: pass
         except: return
-        now = datetime.now()
         queue = []
         for endpoint in ENDPOINTS:
             try:
@@ -285,31 +286,37 @@ async def run_sync_cycle():
                         ctx = remove_accents(f"{label} {raw_text} {slug}")
                         if not check_entry_validity(m_time, m_date, now): continue
                         m_id = f"sys_{m_date}_{slug.replace('-', '_').split('_luc_')[0]}"
-                        is_live = False
-                        if m_time == "LIVE": is_live = True
+
+                        is_due = False
+                        if m_time == "LIVE": is_due = True
                         else:
                             try:
                                 t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
-                                if now >= (t_obj - timedelta(minutes=15)) and now <= t_obj + timedelta(minutes=150): is_live = True
+                                if m_date and int(m_date[:2]) > now.day: t_obj += timedelta(days=1)
+                                if now >= (t_obj - timedelta(minutes=15)): is_due = True
                             except: pass
+
                         if m_id not in registry:
                             cat = "FOOTBALL"
                             if any(k in ctx for k in ["presiden", "president"]): cat = "PIALA PRESIDEN"
-                            elif any(k in ctx for k in ["badminton", "cau long"] + ATHLETE_KEYWORDS): cat = "BADMINTON"
+                            elif any(k in ctx for k in ["badminton", "cau long", "tennis"] + ATHLETE_KEYWORDS):
+                                cat = "BADMINTON" if "badminton" in ctx or "cau long" in ctx else ("TENNIS" if "tennis" in ctx else "SPORTS")
                             elif any(k in ctx for k in ["voli", "volleyball", "bong chuyen"]): cat = "VOLLEYBALL"
                             elif "futsal" in ctx: cat = "FUTSAL"
                             elif any(k in ctx for k in ["asean", "aff", "indonesia"]): cat = "ASEAN FOOTBALL"
+
                             existing_uri = ""; existing_headers = {}
                             if m_id in state and state[m_id].get("uri"):
                                 existing_uri = state[m_id]["uri"]; existing_headers = state[m_id].get("headers", {})
+
                             registry[m_id] = {
                                 "id": m_id, "title": f"{get_entry_icon(label)} {label}",
-                                "category": cat, "uri": existing_uri, "is_live": is_live,
+                                "category": cat, "uri": existing_uri, "is_live": False,
                                 "match_time": m_time, "headers": existing_headers,
                                 "drm_info": {"is_protected": False, "drm_type": "", "drm_key": ""},
                                 "epg_metadata": {"tvg_id": m_id, "tvg_name": label, "tvg_logo": resolve_asset_url(cat, assets), "source_xml": "Embedded"}
                             }
-                            if is_live and not existing_uri:
+                            if is_due and not existing_uri:
                                 queue.append({"id": m_id, "url": full_url, "title": label, "time": m_time})
                     except: continue
             except Exception as e: print(f"[!] Radar Gagal: {e}")
