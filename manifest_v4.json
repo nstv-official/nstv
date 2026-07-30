@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_sporting_braga_vs_fk_zeleznicar",
+        "title": "\u26bd Sporting Braga Vs Fk Zeleznicar",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785467055",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_sporting_braga_vs_fk_zeleznicar",
+            "tvg_name": "Sporting Braga Vs Fk Zeleznicar",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_coleraine_vs_hjk_helsinki",
         "title": "\u26bd Coleraine Vs Hjk Helsinki",
         "category": "FOOTBALL",
