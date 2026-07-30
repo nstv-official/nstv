@@ -44,6 +44,32 @@
         }
     },
     {
+        "id": "sys_31072026_ludogorets_vs_hapoel_tel_aviv",
+        "title": "\u26bd Ludogorets Vs Hapoel Tel Aviv",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=32dd2e56dac4e7be2a61dd8460969a45&wsABSTime=1785485020&sys_cache=1785467021",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.livepingscorex.com/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_ludogorets_vs_hapoel_tel_aviv",
+            "tvg_name": "Ludogorets Vs Hapoel Tel Aviv",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_28072026_team_bald_reborn_vs_kw",
         "title": "\u26bd Team Bald Reborn Vs Kw",
         "category": "FOOTBALL",
