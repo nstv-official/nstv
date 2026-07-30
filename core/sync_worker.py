@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V16.9 - THE KRAKEN: INTELLIGENCE & FRAME FOCUS)
+# SYSTEM CONFIGURATION (V17.0 - THE KRAKEN: STABILITY & RECOVERY)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -33,7 +33,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v16.9)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v17.0)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -56,7 +56,7 @@ FIXED_ENTRIES = [
 
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
-# v16.9 Expanded Esport Killer List
+# v17.0 Expanded Esport Killer List
 BLOCK_LIST = [
     "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
@@ -98,6 +98,36 @@ def resolve_asset_url(category, assets_list):
         if "football.png" in assets_list: return f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/logos/football.png"
     return DEFAULT_ASSET
 
+async fun fetch_registry_state():
+    """Mengambil data manifest yang sudah ada di GitHub (v17.0)."""
+    if not GITHUB_TOKEN: return {}
+    api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
+    try:
+        r = requests.get(api_url, headers=headers)
+        if r.status_code == 200:
+            content = base64.b64decode(r.json()["content"]).decode("utf-8")
+            data = json.loads(content)
+            return {m["id"]: m for m in data}
+    except: pass
+    return {}
+
+def get_remote_assets():
+    """Mendapatkan daftar file logo dari GitHub (v17.0)."""
+    if not GITHUB_TOKEN: return []
+    api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/logos"
+    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+    try:
+        r = requests.get(api_url, headers=headers)
+        if r.status_code == 200:
+            return [file["name"].lower() for file in r.json() if file["name"].endswith(".png")]
+    except: pass
+    return []
+
+def check_entry_validity(m_time, m_date, now):
+    """Loloskan semua laga yang muncul di halaman depan website (v17.0)."""
+    return True
+
 def commit_to_storage(content):
     if not GITHUB_TOKEN: return False
     api_url = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{MANIFEST_PATH}"
@@ -106,7 +136,10 @@ def commit_to_storage(content):
         try:
             r = requests.get(api_url, headers=headers)
             sha = r.json().get("sha") if r.status_code == 200 else None
-            payload = {"message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}", "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")}
+            payload = {
+                "message": f"System Registry Sync {get_now_wib().strftime('%Y-%m-%d %H:%M')}",
+                "content": base64.b64encode(content.encode("utf-8")).decode("utf-8")
+            }
             if sha: payload["sha"] = sha
             res = requests.put(api_url, headers=headers, json=payload)
             if res.status_code in [200, 201]: return True
@@ -115,12 +148,11 @@ def commit_to_storage(content):
     return False
 
 def finalize_sync(registry):
-    """Menyimpan data (v16.9 - Sniper Mode: Hanya yang punya link)."""
+    """Menyimpan data hasil hunting (v17.0)."""
     now = get_now_wib()
     final_list = []
 
-    # v16.9 Sniper: Hanya loloskan yang SUDAH PUNYA LINK (URI)
-    # Jadwal mendatang tetap tersimpan di 'state' tapi tidak masuk manifest output
+    # Sniper: Hanya tampilkan yang punya Link (URI)
     for x in registry.values():
         if x.get("id", "").startswith("sys_v6"):
             final_list.append(x); continue
@@ -146,12 +178,12 @@ def finalize_sync(registry):
     content = json.dumps(final_list, indent=4)
     try:
         with open(LOCAL_MANIFEST, "w", encoding="utf-8") as f: f.write(content)
-        print(f"    [KRAKEN] {len(final_list)} active matches synced.")
+        print(f"    [KRAKEN] {len(final_list)} entries synced.")
     except Exception as e: pass
     commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """Proses perburuan link (v16.9 - Intelligence & Frame Focus)."""
+    """Proses perburuan link (v17.0 - Intelligence & Frame Focus)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -190,12 +222,8 @@ async def process_entry_manifest(context, info, registry, semaphore):
                 for i in range(15):
                     if uri: break
                     if i in [2, 5, 10]:
-                        # v16.9: FOKUS FRAME PERTAMA (Aplikasi menganggap Frame 0/Utama adalah media player)
-                        # Frame kedua biasanya simulasi skor/graph yang bikin Zonk.
                         target_frames = [page.main_frame]
-                        if len(page.frames) > 1:
-                             # Tambahkan frame pertama jika ada (biasanya index 1 adalah iframe player pertama)
-                             target_frames.append(page.frames[1])
+                        if len(page.frames) > 1: target_frames.append(page.frames[1])
 
                         for frame in target_frames:
                             for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=Server 1", "text=HLS"]:
@@ -216,7 +244,7 @@ async def process_entry_manifest(context, info, registry, semaphore):
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V16.9 (KRAKEN) - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V17.0 (KRAKEN) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
@@ -241,7 +269,6 @@ async def run_sync_cycle():
                         full_url = href if href.startswith("http") else endpoint.rstrip("/") + "/" + href.lstrip("/")
                         slug = full_url.strip("/").split("/")[-1]
 
-                        # v16.9: Agresif membuang Esport dari radar
                         if not slug or slug in seen or any(k in slug.lower() for k in BLOCK_LIST) or slug.isdigit(): continue
                         seen.add(slug)
 
@@ -261,7 +288,6 @@ async def run_sync_cycle():
                         }
 
                         try:
-                            # Cek jika tanding sudah dekat atau sedang berlangsung
                             t_obj = datetime.strptime(m_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day)
                             if now >= (t_obj - timedelta(minutes=15)) and not registry[m_id]["uri"]:
                                 queue.append({"id": m_id, "url": full_url, "title": label})
