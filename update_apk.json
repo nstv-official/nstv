@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 22,
-  "latestVersionName": "2.9.3",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.3-release.apk",
-  "releaseNotes": "• Ultimate Smart Logo Hierarchy: Penyelamatan logo otomatis (Spesifik -> Kategori -> Default).\n• Logo Kategori: Mendukung logo otomatis untuk kategori Film, Anak-anak, Olahraga, dll.\n• Logo Default Fix: Memastikan tidak ada kotak kosong di playlist.\n• Server 1 & 2 Sync: Integrasi penuh dengan folder logos di repositori GitHub.\n• Performa: Optimasi pemuatan gambar agar lebih ringan dan responsif."
+  "latestVersionCode": 23,
+  "latestVersionName": "2.9.4",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v2.9.4-release.apk",
+  "releaseNotes": "• Fix Event Click: Sekarang semua jadwal pertandingan bisa diklik untuk masuk ke Stadion Tunggu.\n• Player Super Stable: Optimasi sistem buffer dan ABR agar siaran tidak putus-putus saat internet melambat.\n• Mode Tunneling: Peningkatan performa pemutaran video khusus untuk perangkat Android TV dan STB.\n• Auto-Recovery: Sistem otomatis me-refresh siaran jika terdeteksi macet lebih dari 15 detik."
 }
