@@ -318,7 +318,7 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "Magna Channel",
+            "tvg_id": "Magna Channel.id",
             "tvg_name": "Magna Channel",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
@@ -326,7 +326,7 @@
     },
     {
         "id": "19",
-        "title": "GARUDA TV",
+        "title": "GARUDA",
         "category": "NASIONAL",
         "uri": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8",
         "user_agent": "VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
@@ -344,7 +344,7 @@
         },
         "epg_metadata": {
             "tvg_id": "tvg-url=",
-            "tvg_name": "Garuda TV",
+            "tvg_name": "Garuda",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
