@@ -110,6 +110,32 @@
         }
     },
     {
+        "id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
+        "title": "\u26bd Astana B Vs Fk Arys",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=47a1515039bc64da464cf3c67cc4438a&wsABSTime=1785556406&sys_cache=1785538409",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
+            "tvg_name": "Astana B Vs Fk Arys",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Barkchi Hisor Vs Ravshan Kulob",
         "category": "FOOTBALL",
@@ -127,32 +153,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
             "tvg_name": "Barkchi Hisor Vs Ravshan Kulob",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_zenit_st_petersburg_r_vs_fc_rodina_moscow_y_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Zenit St Petersburg R Vs Fc Rodina Moscow Y",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=47a1515039bc64da464cf3c67cc4438a&wsABSTime=1785556406&sys_cache=1785538408",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_zenit_st_petersburg_r_vs_fc_rodina_moscow_y_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Zenit St Petersburg R Vs Fc Rodina Moscow Y",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
