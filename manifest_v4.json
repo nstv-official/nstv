@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_spartak_moscow_y_vs_dinamo_moscow_y_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Spartak Moscow Y Vs Dinamo Moscow Y",
+        "id": "sys_31072026_cska_moscow_y_vs_rubin_kazan_u19_luc_2100_ngay_31_07_2026",
+        "title": "\u26bd Cska Moscow Y Vs Rubin Kazan U19",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=84d1519446a4461766c85435b10adeba&wsABSTime=1785555149&sys_cache=1785511951",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=84d1519446a4461766c85435b10adeba&wsABSTime=1785555149&sys_cache=1785511957",
         "is_live": true,
         "match_time": "21:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_spartak_moscow_y_vs_dinamo_moscow_y_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Spartak Moscow Y Vs Dinamo Moscow Y",
+            "tvg_id": "sys_31072026_cska_moscow_y_vs_rubin_kazan_u19_luc_2100_ngay_31_07_2026",
+            "tvg_name": "Cska Moscow Y Vs Rubin Kazan U19",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
