@@ -12,7 +12,7 @@ from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
 # ==============================================================================
-# SYSTEM CONFIGURATION (V18.1 - TIGOALS HUNTER & UNIVERSAL RADAR)
+# SYSTEM CONFIGURATION (V18.2 - THE GUARDIAN & AD-DESTROYER)
 # ==============================================================================
 GITHUB_TOKEN = os.getenv("GH_TOKEN")
 REPO_OWNER = "nstv-official"
@@ -175,7 +175,7 @@ def normalize_uri(uri):
     return uri.split('?')[0].split('&')[0]
 
 async def finalize_sync(registry):
-    """v18.1: Unified Stream & Anti Duplikat."""
+    """v18.2: The Guardian - Lindungi data dari update kosong."""
     now = get_now_wib()
     active_matches = []
     for x in registry.values():
@@ -185,6 +185,7 @@ async def finalize_sync(registry):
             x["is_live"] = True
             active_matches.append(x)
 
+    # DEDUP & FILTER
     unique_by_base_uri = {}
     for match in active_matches:
         base_uri = normalize_uri(match.get("uri"))
@@ -202,6 +203,13 @@ async def finalize_sync(registry):
             if get_m_score(match) > get_m_score(existing): unique_by_base_uri[base_uri] = match
 
     final_list = list(unique_by_base_uri.values())
+
+    # [GUARDIAN] v18.2: Batalkan sinkronisasi jika data baru KOSONG (Hanya VTV6)
+    # Ini melindungi data hasil tangkapan laptop agar tidak terhapus oleh Cloud yang terblokir.
+    if len(final_list) <= 1:
+        if not IS_CLOUD: print("    [GUARDIAN] Data baru kosong, membatalkan simpan untuk lindungi data lama.")
+        return
+
     final_list.sort(key=lambda x: (x.get("id", "").startswith("sys_v6")==False, "INDONESIA" not in x.get("title", "").upper(), abs((now - datetime.strptime(x.get("match_time", "00:00"), "%H:%M").replace(year=now.year, month=now.month, day=now.day)).total_seconds()) if ":" in x.get("match_time", "") else 999999))
 
     content = json.dumps(final_list, indent=4)
@@ -272,8 +280,30 @@ async def run_sync_cycle():
             try:
                 print(f"[*] Memindai: {endpoint}...")
                 await page.goto(endpoint, wait_until="load", timeout=60000)
-                await asyncio.sleep(8)
-                # Selector Universal untuk Livesports & Tigoals
+                await asyncio.sleep(5)
+
+                # v18.2: Ad-Destroyer untuk Livesports088
+                if "livesports088" in endpoint:
+                    try:
+                        # Tekan Esc atau cari tombol Close/X
+                        await page.keyboard.press("Escape")
+                        for s in ["text='X'", "text='Close'", ".close-icon", ".ad-close", "#close-button"]:
+                            btn = await page.query_selector(s)
+                            if btn: await btn.click(); break
+                        await asyncio.sleep(3)
+                    except: pass
+
+                # Selector Universal
+                nodes = await page.query_selector_all("a[href*='match'], a[href*='truc-tiep'], a[href*='html']")
+                        # Tekan Esc atau cari tombol Close/X
+                        await page.keyboard.press("Escape")
+                        for s in ["text='X'", "text='Close'", ".close-icon", ".ad-close", "#close-button"]:
+                            btn = await page.query_selector(s)
+                            if btn: await btn.click(); break
+                        await asyncio.sleep(3)
+                    except: pass
+
+                # Selector Universal
                 nodes = await page.query_selector_all("a[href*='match'], a[href*='truc-tiep'], a[href*='html']")
                 print(f"    [OK] Ditemukan {len(nodes)} elemen potensial.")
                 seen = set()
