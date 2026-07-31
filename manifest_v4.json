@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_tobol_kostanai_b_vs_shakhter_luc_2000_ngay_31_07_2026",
+        "title": "\u26bd Tobol Kostanai B Vs Shakhter",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=202ada3d0d9a848f6c54e6e60e55d8b6&wsABSTime=1785547918&sys_cache=1785529919",
+        "is_live": true,
+        "match_time": "20:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_tobol_kostanai_b_vs_shakhter_luc_2000_ngay_31_07_2026",
+            "tvg_name": "Tobol Kostanai B Vs Shakhter",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_persib_bandung_vs_tampines_rovers_luc_1930_ngay_31_07_2026",
         "title": "\u26bd Persib Bandung Vs Tampines Rovers",
         "category": "FOOTBALL",
