@@ -126,6 +126,32 @@
         }
     },
     {
+        "id": "sys_01082026_alex_de_minaur_vs_brandon_nakashima",
+        "title": "\ud83c\udfbe Alex De Minaur Vs Brandon Nakashima",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel31.flv?sys_cache=1785510770",
+        "is_live": true,
+        "match_time": "01:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/8/link/channel31/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_alex_de_minaur_vs_brandon_nakashima",
+            "tvg_name": "Alex De Minaur Vs Brandon Nakashima",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_28072026_team_bald_reborn_vs_kw",
         "title": "\u26bd Team Bald Reborn Vs Kw",
         "category": "FOOTBALL",
