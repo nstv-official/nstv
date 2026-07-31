@@ -603,8 +603,8 @@
         "id": "32",
         "title": "HBO HITS",
         "category": "HBO",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -618,13 +618,13 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "HBO.Hits.HD.id",
+            "tvg_id": "401",
             "tvg_name": "HBO HITS",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
-    {
+	{
         "id": "33",
         "title": "HBO HITS MAX",
         "category": "HBO MAX",
@@ -676,10 +676,10 @@
     },
     {
         "id": "35",
-        "title": "HBO SIGNATURE",
+        "title": "HBO Signature",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -693,8 +693,8 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "HBO.Signature.HD.id",
-            "tvg_name": "HBO SIGNATURE",
+            "tvg_id": "401",
+            "tvg_name": "HBO Signature",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -729,7 +729,7 @@
         "title": "HBO",
         "category": "HBO",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -743,7 +743,7 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "HBO.HD.id",
+            "tvg_id": "401",
             "tvg_name": "HBO",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
@@ -800,11 +800,36 @@
         }
     },
     {
-        "id": "40",
-        "title": "FAMILY HBO",
+        "id": "2",
+        "title": "HBO Boxing",
         "category": "HBO",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd",
+        "uri": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://otte.live.fly.ww.aiv-cdn.net/",
+            "Origin": "https://otte.live.fly.ww.aiv-cdn.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.hbo.boxing",
+            "tvg_name": "HBO Boxing",
+            "tvg_logo": "https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "40",
+        "title": "HBO Family",
+        "category": "HBO Group",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -818,8 +843,8 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "HBO.Family.HD.id",
-            "tvg_name": "FAMILY HBO",
+            "tvg_id": "403",
+            "tvg_name": "HBO Family",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
