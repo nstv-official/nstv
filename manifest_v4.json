@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_viet_nam_vs_singapore_luc_2000_ngay_31_07_2026",
+        "title": "\u26bd Viet Nam Vs Singapore",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785529905",
+        "is_live": true,
+        "match_time": "20:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_viet_nam_vs_singapore_luc_2000_ngay_31_07_2026",
+            "tvg_name": "Viet Nam Vs Singapore",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_greuther_furth_vs_sc_freiburg_luc_1900_ngay_31_07_2026",
         "title": "\u26bd Greuther Furth Vs Sc Freiburg",
         "category": "FOOTBALL",
@@ -29,11 +55,7 @@
         "is_live": true,
         "match_time": "19:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel4/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -55,11 +77,7 @@
         "is_live": true,
         "match_time": "18:38",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel39/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -81,11 +99,7 @@
         "is_live": true,
         "match_time": "18:38",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel24/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -107,11 +121,7 @@
         "is_live": true,
         "match_time": "18:35",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel10/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -121,136 +131,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_henan_fc_vs_dalian_yingbo_luc_1835_ngay_31_07_2026",
             "tvg_name": "Henan Fc Vs Dalian Yingbo",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
-        "title": "\u26bd Broadbeach United Vs Logan Lightning",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=763fbb2c4196fcb0058cfaaef8d9d834&wsABSTime=1785543305&sys_cache=1785500111",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel3/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
-            "tvg_name": "Broadbeach United Vs Logan Lightning",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_nu_torrens_birkalla_vs_nu_adelaide_university_luc_1730_ngay_31_07_2026",
-        "title": "\u26bd Women Torrens Birkalla Vs Women Adelaide University",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785500129",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel14/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_nu_torrens_birkalla_vs_nu_adelaide_university_luc_1730_ngay_31_07_2026",
-            "tvg_name": "Women Torrens Birkalla Vs Women Adelaide University",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_fc_koln_vs_hertha_berlin_luc_1700_ngay_31_07_2026",
-        "title": "\u26bd Fc Koln Vs Hertha Berlin",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785500086",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel6/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fc_koln_vs_hertha_berlin_luc_1700_ngay_31_07_2026",
-            "tvg_name": "Fc Koln Vs Hertha Berlin",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_brisbane_knights_vs_mitchelton_fc_luc_1500_ngay_31_07_2026",
-        "title": "\u26bd Brisbane Knights Vs Mitchelton Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel28.flv?sys_cache=1785500101",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel28/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_brisbane_knights_vs_mitchelton_fc_luc_1500_ngay_31_07_2026",
-            "tvg_name": "Brisbane Knights Vs Mitchelton Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_ac_sparta_praha_vs_fc_zlin_luc_0000_ngay_01_08_2026",
-        "title": "\u26bd Ac Sparta Praha Vs Fc Zlin",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785500078",
-        "is_live": true,
-        "match_time": "00:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel27/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_ac_sparta_praha_vs_fc_zlin_luc_0000_ngay_01_08_2026",
-            "tvg_name": "Ac Sparta Praha Vs Fc Zlin",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
