@@ -266,5 +266,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_31072026_nu_paris_fc_vs_nu_auxerre_luc_1800_ngay_31_07_2026",
+        "title": "\u26bd Women Paris Fc Vs Women Auxerre",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=661d5c65f08a656a266db85354cc66b3&wsABSTime=1785556411&sys_cache=1785538413",
+        "is_live": true,
+        "match_time": "18:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_paris_fc_vs_nu_auxerre_luc_1800_ngay_31_07_2026",
+            "tvg_name": "Women Paris Fc Vs Women Auxerre",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
