@@ -46,5 +46,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_01082026_ac_sparta_praha_vs_fc_zlin_luc_0000_ngay_01_08_2026",
+        "title": "\u26bd Ac Sparta Praha Vs Fc Zlin",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785500078",
+        "is_live": true,
+        "match_time": "00:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel27/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_ac_sparta_praha_vs_fc_zlin_luc_0000_ngay_01_08_2026",
+            "tvg_name": "Ac Sparta Praha Vs Fc Zlin",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
