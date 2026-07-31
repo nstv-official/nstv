@@ -92,6 +92,32 @@
         }
     },
     {
+        "id": "sys_31072026_alaves_vs_castellon",
+        "title": "\u26bd Alaves Vs Castellon",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=114ac84eb8026555fe3cc4de9f3b8a78&wsABSTime=1785531857&sys_cache=1785513858",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel33/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_alaves_vs_castellon",
+            "tvg_name": "Alaves Vs Castellon",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_cordoba_b_vs_sevilla_atletico",
         "title": "\u26bd Cordoba B Vs Sevilla Atletico",
         "category": "FOOTBALL",
