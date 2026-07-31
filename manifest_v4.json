@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
+        "title": "\u26bd Prospect United U20 Vs Blacktown Spartans U20",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=9ec4c8be917b75f9e38a9ddebc3706e2&wsABSTime=1785528757&sys_cache=1785510758",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
+            "tvg_name": "Prospect United U20 Vs Blacktown Spartans U20",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_nu_fencibles_united_vs_nu_auckland_united",
         "title": "\u26bd Women Fencibles United Vs Women Auckland United",
         "category": "FOOTBALL",
