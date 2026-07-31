@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_31072026_bosnia_and_herzegovina_u18_vs_great_britain_u18_luc_2030_ngay_31_07_2026",
-        "title": "\u26bd Bosnia And Herzegovina U18 Vs Great Britain U18",
+        "id": "sys_31072026_ha_lan_u18_vs_georgia_u18_luc_2030_ngay_31_07_2026",
+        "title": "\u26bd Ha Lan U18 Vs Georgia U18",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=374d9bedc4a55ba5d80fee9928db1a7a&wsABSTime=1785547938&sys_cache=1785529939",
+        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=374d9bedc4a55ba5d80fee9928db1a7a&wsABSTime=1785547938&sys_cache=1785529940",
         "is_live": true,
         "match_time": "20:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_bosnia_and_herzegovina_u18_vs_great_britain_u18_luc_2030_ngay_31_07_2026",
-            "tvg_name": "Bosnia And Herzegovina U18 Vs Great Britain U18",
+            "tvg_id": "sys_31072026_ha_lan_u18_vs_georgia_u18_luc_2030_ngay_31_07_2026",
+            "tvg_name": "Ha Lan U18 Vs Georgia U18",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
