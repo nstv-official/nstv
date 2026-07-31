@@ -126,10 +126,10 @@
         }
     },
     {
-        "id": "sys_31072026_fortuna_dusseldorf_vs_hannover_96_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd Fortuna Dusseldorf Vs Hannover 96",
+        "id": "sys_31072026_nu_czarni_sosnowiec_vs_nu_uks_lodz_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Women Czarni Sosnowiec Vs Women Uks Lodz",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=7e9edf68e6666e0a6f16e8baa2af7798&wsABSTime=1785555203&sys_cache=1785512005",
+        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=7e9edf68e6666e0a6f16e8baa2af7798&wsABSTime=1785555203&sys_cache=1785512007",
         "is_live": true,
         "match_time": "22:00",
         "headers": {
@@ -145,8 +145,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_fortuna_dusseldorf_vs_hannover_96_luc_2200_ngay_31_07_2026",
-            "tvg_name": "Fortuna Dusseldorf Vs Hannover 96",
+            "tvg_id": "sys_31072026_nu_czarni_sosnowiec_vs_nu_uks_lodz_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Women Czarni Sosnowiec Vs Women Uks Lodz",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
