@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_melbourne_knights_vs_western_united_fc_luc_1730_ngay_31_07_2026",
-        "title": "\u26bd Melbourne Knights Vs Western United Fc",
+        "id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
+        "title": "\u26bd Broadbeach United Vs Logan Lightning",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=763fbb2c4196fcb0058cfaaef8d9d834&wsABSTime=1785543305&sys_cache=1785500109",
+        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=763fbb2c4196fcb0058cfaaef8d9d834&wsABSTime=1785543305&sys_cache=1785500111",
         "is_live": true,
         "match_time": "17:30",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_melbourne_knights_vs_western_united_fc_luc_1730_ngay_31_07_2026",
-            "tvg_name": "Melbourne Knights Vs Western United Fc",
+            "tvg_id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
+            "tvg_name": "Broadbeach United Vs Logan Lightning",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
