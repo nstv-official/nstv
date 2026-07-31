@@ -126,6 +126,32 @@
         }
     },
     {
+        "id": "sys_31072026_team_resilience_vs_playtime",
+        "title": "\u26bd Team Resilience Vs Playtime",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel71.flv?wsSecret=7b1ffe592f20422e3f738b9d51375ecc&wsABSTime=1785528782&sys_cache=1785510787",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_team_resilience_vs_playtime",
+            "tvg_name": "Team Resilience Vs Playtime",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_nu_fencibles_united_vs_nu_auckland_united",
         "title": "\u26bd Women Fencibles United Vs Women Auckland United",
         "category": "FOOTBALL",
