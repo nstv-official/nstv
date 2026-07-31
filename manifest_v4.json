@@ -178,10 +178,10 @@
         }
     },
     {
-        "id": "sys_31072026_fk_gazalkent_vs_aral_nukus_luc_2000_ngay_31_07_2026",
-        "title": "\u26bd Fk Gazalkent Vs Aral Nukus",
+        "id": "sys_31072026_metallurg_bekobod_vs_fc_lochin_luc_2000_ngay_31_07_2026",
+        "title": "\u26bd Metallurg Bekobod Vs Fc Lochin",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=ae612489879334bb82372ed33fafc633&wsABSTime=1785555165&sys_cache=1785511975",
+        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=ae612489879334bb82372ed33fafc633&wsABSTime=1785555165&sys_cache=1785511976",
         "is_live": true,
         "match_time": "20:00",
         "headers": {
@@ -197,8 +197,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_fk_gazalkent_vs_aral_nukus_luc_2000_ngay_31_07_2026",
-            "tvg_name": "Fk Gazalkent Vs Aral Nukus",
+            "tvg_id": "sys_31072026_metallurg_bekobod_vs_fc_lochin_luc_2000_ngay_31_07_2026",
+            "tvg_name": "Metallurg Bekobod Vs Fc Lochin",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
