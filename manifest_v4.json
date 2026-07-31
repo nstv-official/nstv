@@ -66,6 +66,32 @@
         }
     },
     {
+        "id": "sys_31072026_fk_krasnodar_y_vs_fk_rostov_y_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Fk Krasnodar Y Vs Fk Rostov Y",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=8c268dc9af6f159fee1a3c2ddb883aa0&wsABSTime=1785556416&sys_cache=1785538418",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fk_krasnodar_y_vs_fk_rostov_y_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Fk Krasnodar Y Vs Fk Rostov Y",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_vfl_wolfsburg_vs_sc_telstar_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Vfl Wolfsburg Vs Sc Telstar",
         "category": "FOOTBALL",
