@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_zorya_vs_kolos_kovalivka_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Zorya Vs Kolos Kovalivka",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785511972",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_zorya_vs_kolos_kovalivka_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Zorya Vs Kolos Kovalivka",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_fakel_y_vs_dinamo_makhachkala_r_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Fakel Y Vs Dinamo Makhachkala R",
         "category": "FOOTBALL",
