@@ -162,6 +162,32 @@
         }
     },
     {
+        "id": "sys_31072026_sao_jose_u22_vs_pato_basquete_u22_luc_2145_ngay_31_07_2026",
+        "title": "\u26bd Sao Jose U22 Vs Pato Basquete U22",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=fade6bf7f767052164bc5493c2eb9e89&wsABSTime=1785556424&sys_cache=1785538426",
+        "is_live": true,
+        "match_time": "21:45",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_sao_jose_u22_vs_pato_basquete_u22_luc_2145_ngay_31_07_2026",
+            "tvg_name": "Sao Jose U22 Vs Pato Basquete U22",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Astana B Vs Fk Arys",
         "category": "FOOTBALL",
