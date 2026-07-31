@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_nu_feyenoord_vs_nu_o_heverlee_leuven_luc_1800_ngay_31_07_2026",
-        "title": "\u26bd Women Feyenoord Vs Women O Heverlee Leuven",
+        "id": "sys_31072026_port_darwin_fc_vs_darwin_hearts_luc_1800_ngay_31_07_2026",
+        "title": "\u26bd Port Darwin Fc Vs Darwin Hearts",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785500118",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785500119",
         "is_live": true,
         "match_time": "18:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_nu_feyenoord_vs_nu_o_heverlee_leuven_luc_1800_ngay_31_07_2026",
-            "tvg_name": "Women Feyenoord Vs Women O Heverlee Leuven",
+            "tvg_id": "sys_31072026_port_darwin_fc_vs_darwin_hearts_luc_1800_ngay_31_07_2026",
+            "tvg_name": "Port Darwin Fc Vs Darwin Hearts",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
