@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_fk_ural_u19_vs_chertanovo_moscow_r",
+        "title": "\u26bd Fk Ural U19 Vs Chertanovo Moscow R",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=ac046af9942cc8ba5f04fdbb619e5bc4&wsABSTime=1785528747&sys_cache=1785510754",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fk_ural_u19_vs_chertanovo_moscow_r",
+            "tvg_name": "Fk Ural U19 Vs Chertanovo Moscow R",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_nu_fencibles_united_vs_nu_auckland_united",
         "title": "\u26bd Women Fencibles United Vs Women Auckland United",
         "category": "FOOTBALL",
