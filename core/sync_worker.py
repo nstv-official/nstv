@@ -58,7 +58,7 @@ FIXED_ENTRIES = [
     }
 ]
 
-PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
+PRIORITY_GROUPS = ["Borneo", "juventus", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
 # v18.2 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
