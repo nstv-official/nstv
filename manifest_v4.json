@@ -202,6 +202,32 @@
         }
     },
     {
+        "id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
+        "title": "\u26bd Prospect United U20 Vs Blacktown Spartans U20",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=99fd0b50ec8319009255f68f1601bc0a&wsABSTime=1785531851&sys_cache=1785513853",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel10/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
+            "tvg_name": "Prospect United U20 Vs Blacktown Spartans U20",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
