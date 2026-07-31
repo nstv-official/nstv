@@ -100,6 +100,32 @@
         }
     },
     {
+        "id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Dnepr Mogilev Vs Naftan Novopolotsk",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?sys_cache=1785511998",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Dnepr Mogilev Vs Naftan Novopolotsk",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_fakel_y_vs_dinamo_makhachkala_r_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Fakel Y Vs Dinamo Makhachkala R",
         "category": "FOOTBALL",
