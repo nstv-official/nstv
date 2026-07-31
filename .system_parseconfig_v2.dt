@@ -1,5 +1,105 @@
 [
     {
+        "id": "51",
+        "title": "KSA Sports 4 HD",
+        "category": "OLAHRAGA",
+        "uri": "https://edge.taghtia.com/sa/17.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://edge.taghtia.com/",
+            "Origin": "https://edge.taghtia.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "KSASports4.sa",
+            "tvg_name": "KSA Sports 4 HD",
+            "tvg_logo": "https://i.imgur.com/TNZEKP6.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "52",
+        "title": "KSA Sports 2 HD",
+        "category": "OLAHRAGA",
+        "uri": "https://edge.taghtia.com/sa/10.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://edge.taghtia.com/",
+            "Origin": "https://edge.taghtia.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "KSASports2.sa",
+            "tvg_name": "KSA Sports 2 HD",
+            "tvg_logo": "https://i.imgur.com/v8ULLqg.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "53",
+        "title": "KSA Sports 1 HD",
+        "category": "OLAHRAGA",
+        "uri": "https://edge.taghtia.com/sa/9.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://edge.taghtia.com/",
+            "Origin": "https://edge.taghtia.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "KSASports1.sa",
+            "tvg_name": "KSA Sports 1 HD",
+            "tvg_logo": "https://i.imgur.com/ONKNOAp.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "54",
+        "title": "KSA Sports 3 HD",
+        "category": "OLAHRAGA",
+        "uri": "https://edge.taghtia.com/sa/16.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://edge.taghtia.com/",
+            "Origin": "https://edge.taghtia.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "KSASports3.sa",
+            "tvg_name": "KSA Sports 3 HD",
+            "tvg_logo": "https://i.imgur.com/BXfCvez.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "1",
         "title": "13 Bomb Di Jakarta",
         "category": "VOD INDO",
