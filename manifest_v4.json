@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_stade_lavallois_vs_le_havre_fc",
+        "title": "\u26bd Stade Lavallois Vs Le Havre Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785513839",
+        "is_live": true,
+        "match_time": "16:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel27/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_stade_lavallois_vs_le_havre_fc",
+            "tvg_name": "Stade Lavallois Vs Le Havre Fc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_arema_fc_vs_dpmm_fc",
         "title": "\u26bd Arema Fc Vs Dpmm Fc",
         "category": "FOOTBALL",
@@ -29,11 +55,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -55,11 +77,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -74,32 +92,6 @@
         }
     },
     {
-        "id": "sys_31072026_west_ham_united_u21_vs_al_ain_scc_u23",
-        "title": "\u26bd West Ham United U21 Vs Al Ain Scc U23",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=618aeb8df610624424f7819f5c40aa9d&wsABSTime=1785530671&sys_cache=1785512677",
-        "is_live": true,
-        "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_west_ham_united_u21_vs_al_ain_scc_u23",
-            "tvg_name": "West Ham United U21 Vs Al Ain Scc U23",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_cordoba_b_vs_sevilla_atletico",
         "title": "\u26bd Cordoba B Vs Sevilla Atletico",
         "category": "FOOTBALL",
@@ -107,11 +99,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -133,11 +121,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -159,11 +143,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel44/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -185,11 +165,7 @@
         "is_live": true,
         "match_time": "15:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -211,11 +187,7 @@
         "is_live": true,
         "match_time": "15:10",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel62/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -303,11 +275,7 @@
         "is_live": true,
         "match_time": "14:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -317,28 +285,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_howlers_sc_vs_dzongri_fc",
             "tvg_name": "Howlers Sc Vs Dzongri Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_manila_batang_quiapo_vs_bataan_risers",
-        "title": "\u26bd Manila Batang Quiapo Vs Bataan Risers",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=3c32b0276c29f08034e3855d65be74c5&wsABSTime=1785528763&sys_cache=1785510765",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_manila_batang_quiapo_vs_bataan_risers",
-            "tvg_name": "Manila Batang Quiapo Vs Bataan Risers",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
