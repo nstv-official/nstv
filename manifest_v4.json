@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_01082026_club_brugge_vs_union_sg_luc_0130_ngay_01_08_2026",
-        "title": "\u26bd Club Brugge Vs Union Sg",
+        "id": "sys_01082026_cf_os_belenenses_vs_estoril_luc_0100_ngay_01_08_2026",
+        "title": "\u26bd Cf Os Belenenses Vs Estoril",
         "category": "FOOTBALL",
         "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785555887",
         "is_live": true,
-        "match_time": "01:30",
+        "match_time": "01:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_club_brugge_vs_union_sg_luc_0130_ngay_01_08_2026",
-            "tvg_name": "Club Brugge Vs Union Sg",
+            "tvg_id": "sys_01082026_cf_os_belenenses_vs_estoril_luc_0100_ngay_01_08_2026",
+            "tvg_name": "Cf Os Belenenses Vs Estoril",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
