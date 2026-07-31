@@ -73,11 +73,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -121,11 +117,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -169,11 +161,7 @@
         "is_live": true,
         "match_time": "21:45",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -195,11 +183,7 @@
         "is_live": true,
         "match_time": "21:45",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -209,142 +193,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_rio_claro_abdc_ldb_u22_vs_corinthians_ldb_u22_luc_2145_ngay_31_07_2026",
             "tvg_name": "Rio Claro Abdc Ldb U22 Vs Corinthians Ldb U22",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Astana B Vs Fk Arys",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=47a1515039bc64da464cf3c67cc4438a&wsABSTime=1785556406&sys_cache=1785538409",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Astana B Vs Fk Arys",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Barkchi Hisor Vs Ravshan Kulob",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=9a21fba65f48aa6ca67b494861de4b75&wsABSTime=1785555162&sys_cache=1785511963",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Barkchi Hisor Vs Ravshan Kulob",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_fakel_y_vs_dinamo_makhachkala_r_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Fakel Y Vs Dinamo Makhachkala R",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=9e8b3c4b8cf9a3812850ddf400c6cc1d&wsABSTime=1785555144&sys_cache=1785511954",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fakel_y_vs_dinamo_makhachkala_r_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Fakel Y Vs Dinamo Makhachkala R",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_cska_moscow_y_vs_rubin_kazan_u19_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Cska Moscow Y Vs Rubin Kazan U19",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=84d1519446a4461766c85435b10adeba&wsABSTime=1785555149&sys_cache=1785511957",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_cska_moscow_y_vs_rubin_kazan_u19_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Cska Moscow Y Vs Rubin Kazan U19",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_mainz_05_vs_shabab_al_ahli_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Mainz 05 Vs Shabab Al Ahli",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel12.flv?sys_cache=1785511961",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_mainz_05_vs_shabab_al_ahli_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Mainz 05 Vs Shabab Al Ahli",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_28072026_yaypan_fk_vs_fardu_luc_2000_ngay_28_07_2026",
-        "title": "\u26bd Yaypan Fk Vs Fardu",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel17.flv?sys_cache=1785511944",
-        "is_live": true,
-        "match_time": "20:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_28072026_yaypan_fk_vs_fardu_luc_2000_ngay_28_07_2026",
-            "tvg_name": "Yaypan Fk Vs Fardu",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -367,32 +215,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_metallurg_bekobod_vs_fc_lochin_luc_2000_ngay_31_07_2026",
             "tvg_name": "Metallurg Bekobod Vs Fc Lochin",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_nu_paris_fc_vs_nu_auxerre_luc_1800_ngay_31_07_2026",
-        "title": "\u26bd Women Paris Fc Vs Women Auxerre",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=661d5c65f08a656a266db85354cc66b3&wsABSTime=1785556411&sys_cache=1785538413",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_nu_paris_fc_vs_nu_auxerre_luc_1800_ngay_31_07_2026",
-            "tvg_name": "Women Paris Fc Vs Women Auxerre",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
