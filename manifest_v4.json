@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_crystal_palace_vs_al_ula_fc_luc_0145_ngay_01_08_2026",
+        "title": "\u26bd Crystal Palace Vs Al Ula Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel9.flv?wsSecret=edc9e54a5fa9b4e1f5adddd1ed450935&wsABSTime=1785573884&sys_cache=1785555891",
+        "is_live": true,
+        "match_time": "01:45",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_crystal_palace_vs_al_ula_fc_luc_0145_ngay_01_08_2026",
+            "tvg_name": "Crystal Palace Vs Al Ula Fc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_cf_os_belenenses_vs_estoril_luc_0100_ngay_01_08_2026",
         "title": "\u26bd Cf Os Belenenses Vs Estoril",
         "category": "FOOTBALL",
