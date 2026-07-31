@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_22_de_julio_vs_cd_el_nacional_luc_0330_ngay_01_08_2026",
+        "title": "\u26bd De Julio Vs Cd El Nacional",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=d9643ad3e603625cc877c7d37cc2b06f&wsABSTime=1785573923&sys_cache=1785555925",
+        "is_live": true,
+        "match_time": "03:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_22_de_julio_vs_cd_el_nacional_luc_0330_ngay_01_08_2026",
+            "tvg_name": "De Julio Vs Cd El Nacional",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_los_chankas_vs_cd_comerciantes_luc_0300_ngay_01_08_2026",
         "title": "\u26bd Los Chankas Vs Cd Comerciantes",
         "category": "FOOTBALL",
