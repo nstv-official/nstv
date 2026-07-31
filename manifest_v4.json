@@ -126,6 +126,32 @@
         }
     },
     {
+        "id": "sys_31072026_ukraine_u18_vs_na_uy_u18",
+        "title": "\u26bd Ukraine U18 Vs Na Uy U18",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel45.flv?wsSecret=6506031dfeef6208f2a2a0295ca7ab45&wsABSTime=1785530685&sys_cache=1785512686",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel45/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_ukraine_u18_vs_na_uy_u18",
+            "tvg_name": "Ukraine U18 Vs Na Uy U18",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
