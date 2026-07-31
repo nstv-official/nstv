@@ -254,6 +254,32 @@
         }
     },
     {
+        "id": "sys_31072026_supak_jomkoh_ornnicha_jongsathapornparn_vs_rehan_naufal_kusharjanto_gloria_emanuelle_widjaja",
+        "title": "\u26bd Supak Jomkoh Ornnicha Jongsathapornparn Vs Rehan Naufal Kusharjanto Gloria Emanuelle Widjaja",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel54.flv?wsSecret=709df4a942989e0c49b3b6cf8935f2a2&wsABSTime=1785531876&sys_cache=1785513882",
+        "is_live": true,
+        "match_time": "15:10",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel54/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_supak_jomkoh_ornnicha_jongsathapornparn_vs_rehan_naufal_kusharjanto_gloria_emanuelle_widjaja",
+            "tvg_name": "Supak Jomkoh Ornnicha Jongsathapornparn Vs Rehan Naufal Kusharjanto Gloria Emanuelle Widjaja",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
         "title": "\u26bd Prospect United U20 Vs Blacktown Spartans U20",
         "category": "FOOTBALL",
