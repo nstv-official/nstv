@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_nu_abff_u19_vs_nu_dinamo_brest_luc_1930_ngay_31_07_2026",
-        "title": "\u26bd Women Abff U19 Vs Women Dinamo Brest",
+        "id": "sys_31072026_persib_bandung_vs_tampines_rovers_luc_1930_ngay_31_07_2026",
+        "title": "\u26bd Persib Bandung Vs Tampines Rovers",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=273ac150b76fd10e67b4b56b90177831&wsABSTime=1785547913&sys_cache=1785529914",
+        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=273ac150b76fd10e67b4b56b90177831&wsABSTime=1785547913&sys_cache=1785529915",
         "is_live": true,
         "match_time": "19:30",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_nu_abff_u19_vs_nu_dinamo_brest_luc_1930_ngay_31_07_2026",
-            "tvg_name": "Women Abff U19 Vs Women Dinamo Brest",
+            "tvg_id": "sys_31072026_persib_bandung_vs_tampines_rovers_luc_1930_ngay_31_07_2026",
+            "tvg_name": "Persib Bandung Vs Tampines Rovers",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
