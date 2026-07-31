@@ -48,32 +48,6 @@
         }
     },
     {
-        "id": "sys_31072026_laura_samson_vs_mia_ristic",
-        "title": "\u26bd Laura Samson Vs Mia Ristic",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel55.flv?wsSecret=2f2f4d3ce58832b1d69e71f3192edb2b&wsABSTime=1785531875&sys_cache=1785513877",
-        "is_live": true,
-        "match_time": "16:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel55/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_laura_samson_vs_mia_ristic",
-            "tvg_name": "Laura Samson Vs Mia Ristic",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_arema_fc_vs_dpmm_fc",
         "title": "\u26bd Arema Fc Vs Dpmm Fc",
         "category": "FOOTBALL",
@@ -227,6 +201,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_national_taiwan_arts_r_vs_chinese_taipei_r",
             "tvg_name": "National Taiwan Arts R Vs Chinese Taipei R",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_kenta_miyoshi_1995_vs_vadym_ursu",
+        "title": "\u26bd Kenta Miyoshi 1995 Vs Vadym Ursu",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel55.flv?wsSecret=2f2f4d3ce58832b1d69e71f3192edb2b&wsABSTime=1785531875&sys_cache=1785513878",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel55/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_kenta_miyoshi_1995_vs_vadym_ursu",
+            "tvg_name": "Kenta Miyoshi 1995 Vs Vadym Ursu",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
