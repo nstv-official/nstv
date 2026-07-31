@@ -48,32 +48,6 @@
         }
     },
     {
-        "id": "sys_31072026_preston_lions_vs_green_gully_fc_luc_1730_ngay_31_07_2026",
-        "title": "\u26bd Preston Lions Vs Green Gully Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel28.flv?sys_cache=1785500098",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel28/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_preston_lions_vs_green_gully_fc_luc_1730_ngay_31_07_2026",
-            "tvg_name": "Preston Lions Vs Green Gully Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_fc_koln_vs_hertha_berlin_luc_1700_ngay_31_07_2026",
         "title": "\u26bd Fc Koln Vs Hertha Berlin",
         "category": "FOOTBALL",
@@ -95,6 +69,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_fc_koln_vs_hertha_berlin_luc_1700_ngay_31_07_2026",
             "tvg_name": "Fc Koln Vs Hertha Berlin",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_brisbane_knights_vs_mitchelton_fc_luc_1500_ngay_31_07_2026",
+        "title": "\u26bd Brisbane Knights Vs Mitchelton Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel28.flv?sys_cache=1785500101",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel28/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_brisbane_knights_vs_mitchelton_fc_luc_1500_ngay_31_07_2026",
+            "tvg_name": "Brisbane Knights Vs Mitchelton Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
