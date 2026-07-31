@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_fk_krasnodar_y_vs_fk_rostov_y_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd Fk Krasnodar Y Vs Fk Rostov Y",
+        "id": "sys_31072026_fk_orsha_vs_shakhter_soligorsk_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Fk Orsha Vs Shakhter Soligorsk",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=6eccf27a362546b02a80214091957390&wsABSTime=1785555180&sys_cache=1785511984",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=6eccf27a362546b02a80214091957390&wsABSTime=1785555180&sys_cache=1785511987",
         "is_live": true,
         "match_time": "22:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_fk_krasnodar_y_vs_fk_rostov_y_luc_2200_ngay_31_07_2026",
-            "tvg_name": "Fk Krasnodar Y Vs Fk Rostov Y",
+            "tvg_id": "sys_31072026_fk_orsha_vs_shakhter_soligorsk_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Fk Orsha Vs Shakhter Soligorsk",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
