@@ -114,6 +114,32 @@
         }
     },
     {
+        "id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Dnepr Mogilev Vs Naftan Novopolotsk",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel38.flv?wsSecret=dfed7c3b2ad0308ba316b498eb5f8c40&wsABSTime=1785556420&sys_cache=1785538423",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Dnepr Mogilev Vs Naftan Novopolotsk",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_nu_czarni_sosnowiec_vs_nu_uks_lodz_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Women Czarni Sosnowiec Vs Women Uks Lodz",
         "category": "FOOTBALL",
@@ -131,32 +157,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_nu_czarni_sosnowiec_vs_nu_uks_lodz_luc_2200_ngay_31_07_2026",
             "tvg_name": "Women Czarni Sosnowiec Vs Women Uks Lodz",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_fortuna_dusseldorf_vs_hannover_96_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd Fortuna Dusseldorf Vs Hannover 96",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel38.flv?wsSecret=dfed7c3b2ad0308ba316b498eb5f8c40&wsABSTime=1785556420&sys_cache=1785538422",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fortuna_dusseldorf_vs_hannover_96_luc_2200_ngay_31_07_2026",
-            "tvg_name": "Fortuna Dusseldorf Vs Hannover 96",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
