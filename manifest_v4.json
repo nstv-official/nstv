@@ -66,6 +66,32 @@
         }
     },
     {
+        "id": "sys_31072026_fk_viktoria_zizkov_vs_1_sk_prostejov_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Fk Viktoria Zizkov Vs 1 Sk Prostejov",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel38.flv?wsSecret=579a36174593c173d019e780e92a6178&wsABSTime=1785558171&sys_cache=1785540174",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fk_viktoria_zizkov_vs_1_sk_prostejov_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Fk Viktoria Zizkov Vs 1 Sk Prostejov",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_fk_krasnodar_y_vs_fk_rostov_y_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Fk Krasnodar Y Vs Fk Rostov Y",
         "category": "FOOTBALL",
@@ -105,28 +131,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_vfl_wolfsburg_vs_sc_telstar_luc_2200_ngay_31_07_2026",
             "tvg_name": "Vfl Wolfsburg Vs Sc Telstar",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd Dnepr Mogilev Vs Naftan Novopolotsk",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel38.flv?wsSecret=dfed7c3b2ad0308ba316b498eb5f8c40&wsABSTime=1785556420&sys_cache=1785538423",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "User-Agent": "Mozilla/5.0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
-            "tvg_name": "Dnepr Mogilev Vs Naftan Novopolotsk",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
