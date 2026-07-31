@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_31072026_loudi_team_vs_xiangtan_team_luc_1838_ngay_31_07_2026",
+        "title": "\u26bd Loudi Team Vs Xiangtan Team",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785500138",
+        "is_live": true,
+        "match_time": "18:38",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel24/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_loudi_team_vs_xiangtan_team_luc_1838_ngay_31_07_2026",
+            "tvg_name": "Loudi Team Vs Xiangtan Team",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_henan_fc_vs_dalian_yingbo_luc_1835_ngay_31_07_2026",
         "title": "\u26bd Henan Fc Vs Dalian Yingbo",
         "category": "FOOTBALL",
