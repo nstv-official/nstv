@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_nu_abff_u19_vs_nu_dinamo_brest_luc_1930_ngay_31_07_2026",
+        "title": "\u26bd Women Abff U19 Vs Women Dinamo Brest",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=273ac150b76fd10e67b4b56b90177831&wsABSTime=1785547913&sys_cache=1785529914",
+        "is_live": true,
+        "match_time": "19:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_abff_u19_vs_nu_dinamo_brest_luc_1930_ngay_31_07_2026",
+            "tvg_name": "Women Abff U19 Vs Women Dinamo Brest",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_drukpa_fc_vs_bff_academy_u19_luc_1900_ngay_31_07_2026",
         "title": "\u26bd Drukpa Fc Vs Bff Academy U19",
         "category": "FOOTBALL",
