@@ -1,5 +1,80 @@
 [
     {
+        "id": "10",
+        "title": "BOLA 2",
+        "category": "EVENT BOLA",
+        "uri": "http://line.rs6ott.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://line.rs6ott.com:80/",
+            "Origin": "https://line.rs6ott.com:80"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "BOLA 2",
+            "tvg_logo": "https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "11",
+        "title": "BOLA 1",
+        "category": "EVENT BOLA",
+        "uri": "http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&extension=ts&play_token=33OqsgppFx",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://line.rs6ott.com:80/",
+            "Origin": "https://line.rs6ott.com:80"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "BOLA 1",
+            "tvg_logo": "https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "89",
+        "title": "Sky Sport Football",
+        "category": "Sports",
+        "uri": "https://kusnadipepenk.github.io/ntn/skyfut.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://kusnadipepenk.github.io/",
+            "Origin": "https://kusnadipepenk.github.io"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "",
+            "tvg_name": "Sky Sport Football",
+            "tvg_logo": "https://archive.org/download/SkySportsFootball_201708//sky sports football_thumb.jpg",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "51",
         "title": "KSA Sports 4 HD",
         "category": "OLAHRAGA",
