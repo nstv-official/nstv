@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_01082026_ud_vinto_vs_club_guabira_luc_0200_ngay_01_08_2026",
-        "title": "\u26bd Ud Vinto Vs Club Guabira",
+        "id": "sys_01082026_dundee_united_vs_rangers_luc_0200_ngay_01_08_2026",
+        "title": "\u26bd Dundee United Vs Rangers",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=9b60154ea26513f300ff9872937c7530&wsABSTime=1785573898&sys_cache=1785555899",
+        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=9b60154ea26513f300ff9872937c7530&wsABSTime=1785573898&sys_cache=1785555902",
         "is_live": true,
         "match_time": "02:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_ud_vinto_vs_club_guabira_luc_0200_ngay_01_08_2026",
-            "tvg_name": "Ud Vinto Vs Club Guabira",
+            "tvg_id": "sys_01082026_dundee_united_vs_rangers_luc_0200_ngay_01_08_2026",
+            "tvg_name": "Dundee United Vs Rangers",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
