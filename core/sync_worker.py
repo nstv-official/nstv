@@ -62,7 +62,7 @@ PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Per
 
 # v18.0 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
-    "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
+    "lol", "esports", "nba", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
     "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
@@ -110,7 +110,7 @@ def get_entry_icon(label, category):
     if "FUTSAL" in c: return "🏟️"
 
     # Fallback to keyword detection
-    if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
+    if any(x in t for x in ["voli", "v cup", "vnl", "volleyball", "bong chuyen"]): return "🏐"
     if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan", "fajar", "riani", "setiawan", "ahsan"]): return "🏸"
     if any(x in t for x in ["tennis", "quan vot", "atmane", "tabilo", "minaur", "hewitt", "kalinskaya", "tjen", "nadal", "djokovic", "alcaraz"]): return "🎾"
     if any(x in t for x in ["gp", "f1", "dua xe", "motogp"]): return "🏎️"
