@@ -342,6 +342,32 @@
         }
     },
     {
+        "id": "sys_31072026_nu_woori_wibee_vs_nu_sinhan_bank",
+        "title": "\u26bd Women Woori Wibee Vs Women Sinhan Bank",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=5d01ab84f3bd53fec03745a553352734&wsABSTime=1785531869&sys_cache=1785513870",
+        "is_live": true,
+        "match_time": "14:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel42/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_woori_wibee_vs_nu_sinhan_bank",
+            "tvg_name": "Women Woori Wibee Vs Women Sinhan Bank",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_alex_de_minaur_vs_brandon_nakashima",
         "title": "\ud83c\udfbe Alex De Minaur Vs Brandon Nakashima",
         "category": "FOOTBALL",
