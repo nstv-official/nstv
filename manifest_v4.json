@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_31072026_ktp_kotka_vs_sjk_akatemia_luc_2230_ngay_31_07_2026",
-        "title": "\u26bd Ktp Kotka Vs Sjk Akatemia",
+        "id": "sys_31072026_arges_vs_fk_csikszereda_luc_2230_ngay_31_07_2026",
+        "title": "\u26bd Arges Vs Fk Csikszereda",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=0949e9c67e62c7045b54347d0788c1d4&wsABSTime=1785558180&sys_cache=1785540181",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=0949e9c67e62c7045b54347d0788c1d4&wsABSTime=1785558180&sys_cache=1785540182",
         "is_live": true,
         "match_time": "22:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_ktp_kotka_vs_sjk_akatemia_luc_2230_ngay_31_07_2026",
-            "tvg_name": "Ktp Kotka Vs Sjk Akatemia",
+            "tvg_id": "sys_31072026_arges_vs_fk_csikszereda_luc_2230_ngay_31_07_2026",
+            "tvg_name": "Arges Vs Fk Csikszereda",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
