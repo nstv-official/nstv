@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_fc_nomme_united_vs_trans_narva_luc_2300_ngay_31_07_2026",
+        "title": "\u26bd Fc Nomme United Vs Trans Narva",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=9c1946487262c768a91bcbf929672cc9&wsABSTime=1785558200&sys_cache=1785540202",
+        "is_live": true,
+        "match_time": "23:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_fc_nomme_united_vs_trans_narva_luc_2300_ngay_31_07_2026",
+            "tvg_name": "Fc Nomme United Vs Trans Narva",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_arges_vs_fk_csikszereda_luc_2230_ngay_31_07_2026",
         "title": "\u26bd Arges Vs Fk Csikszereda",
         "category": "FOOTBALL",
@@ -121,32 +147,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_be1_nfa_vs_lietava_jonava_luc_2230_ngay_31_07_2026",
             "tvg_name": "Be1 Nfa Vs Lietava Jonava",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_nu_dan_mach_u18_vs_nu_bac_macedonia_u18_luc_2230_ngay_31_07_2026",
-        "title": "\u26bd Women Dan Mach U18 Vs Women Bac Macedonia U18",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel41.flv?wsSecret=9c1946487262c768a91bcbf929672cc9&wsABSTime=1785558200&sys_cache=1785540201",
-        "is_live": true,
-        "match_time": "22:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel41/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_nu_dan_mach_u18_vs_nu_bac_macedonia_u18_luc_2230_ngay_31_07_2026",
-            "tvg_name": "Women Dan Mach U18 Vs Women Bac Macedonia U18",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
