@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_supak_jomkoh_ornnicha_jongsathapornparn_vs_rehan_naufal_kusharjanto_gloria_emanuelle_widjaja",
+        "title": "\u26bd Supak Jomkoh Ornnicha Jongsathapornparn Vs Rehan Naufal Kusharjanto Gloria Emanuelle Widjaja",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel61.flv?wsSecret=ab331793a1b1e1e2e3dbd9f000ab1f86&wsABSTime=1785528773&sys_cache=1785510774",
+        "is_live": true,
+        "match_time": "15:10",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_supak_jomkoh_ornnicha_jongsathapornparn_vs_rehan_naufal_kusharjanto_gloria_emanuelle_widjaja",
+            "tvg_name": "Supak Jomkoh Ornnicha Jongsathapornparn Vs Rehan Naufal Kusharjanto Gloria Emanuelle Widjaja",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_fk_ural_u19_vs_chertanovo_moscow_r",
         "title": "\u26bd Fk Ural U19 Vs Chertanovo Moscow R",
         "category": "FOOTBALL",
