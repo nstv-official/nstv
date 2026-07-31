@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Astana B Vs Fk Arys",
+        "id": "sys_28072026_yaypan_fk_vs_fardu_luc_2000_ngay_28_07_2026",
+        "title": "\u26bd Yaypan Fk Vs Fardu",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel17.flv?sys_cache=1785511943",
+        "uri": "https://live2.streambylivepulse.com/live/channel17.flv?sys_cache=1785511944",
         "is_live": true,
-        "match_time": "21:00",
+        "match_time": "20:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_astana_b_vs_fk_arys_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Astana B Vs Fk Arys",
+            "tvg_id": "sys_28072026_yaypan_fk_vs_fardu_luc_2000_ngay_28_07_2026",
+            "tvg_name": "Yaypan Fk Vs Fardu",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
