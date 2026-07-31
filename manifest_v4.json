@@ -100,6 +100,32 @@
         }
     },
     {
+        "id": "sys_31072026_hanyang_university_vs_konkuk_university",
+        "title": "\u26bd Hanyang University Vs Konkuk University",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=3c32b0276c29f08034e3855d65be74c5&wsABSTime=1785528763&sys_cache=1785510764",
+        "is_live": true,
+        "match_time": "13:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_hanyang_university_vs_konkuk_university",
+            "tvg_name": "Hanyang University Vs Konkuk University",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_28072026_team_bald_reborn_vs_kw",
         "title": "\u26bd Team Bald Reborn Vs Kw",
         "category": "FOOTBALL",
