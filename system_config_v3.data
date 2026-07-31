@@ -68,13 +68,338 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "",
+            "tvg_id": "SaktiTV.id",
             "tvg_name": "sakti tv",
-            "tvg_logo": "",
+            "tvg_logo": "https://play-lh.googleusercontent.com/xKQWqO1E-nr_RPGy-KsPS-6T7x7-LViftM2Rc08oz1QuYVLI0f-e3F9iXhyde7k0blxBH_HKJbiztJrr8uMQkw",
             "source_xml": "Embedded"
         }
     },
     {
+        "id": "1",
+        "title": "Kawanua TV",
+        "category": "DAERAH",
+        "uri": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://122.248.43.242:1935/",
+            "Origin": "https://122.248.43.242:1935"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.kawanua.tv",
+            "tvg_name": "Kawanua TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "2",
+        "title": "Timor TV",
+        "category": "DAERAH",
+        "uri": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://122.248.43.242:1935/",
+            "Origin": "https://122.248.43.242:1935"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.timor.tv",
+            "tvg_name": "Timor TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "3",
+        "title": "Hanacaraka TV",
+        "category": "DAERAH",
+        "uri": "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d1vckova5fh9mt.cloudfront.net/",
+            "Origin": "https://d1vckova5fh9mt.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "HanacarakaTV.id",
+            "tvg_name": "Hanacaraka TV (V+)",
+            "tvg_logo": "https://www.mncvision.id/userfiles/image/channel/channel_90.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "4",
+        "title": "Channel Jowo (DensTV)",
+        "category": "DAERAH",
+        "uri": "https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Origin": "https://www.dens.tv",
+            "Referer": "https://op-flashcon-digdayahd-1.dens.tv/"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "Channel Jowo",
+            "tvg_name": "Channel Jowo (DensTV)",
+            "tvg_logo": "https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "5",
+        "title": "JTV",
+        "category": "DAERAH",
+        "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+            "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "JTV",
+            "tvg_name": "JTV",
+            "tvg_logo": "https://thumbor.prod.vidiocdn.com/RFPy_yTRC9PPPbHGeJlLQgt-RaE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "6",
+        "title": "IMC",
+        "category": "FILM",
+        "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+            "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "IMC.id",
+            "tvg_name": "IMC",
+            "tvg_logo": "https://images.indihometv.com/tvposter/imc.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "7",
+        "title": "CelebritiesTV",
+        "category": "FILM",
+        "uri": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://d3b0v7fggu5zwm.cloudfront.net/",
+            "Origin": "https://d3b0v7fggu5zwm.cloudfront.net"
+        },
+        "drm_info": {
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "CelebritiesTV.id",
+            "tvg_name": "CelebritiesTV",
+            "tvg_logo": "https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "8",
+        "title": "Usee Sport",
+        "category": "OLAHRAGA LOKAL",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.usee.sport",
+            "tvg_name": "Usee Sport",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "9",
+        "title": "Bali TV",
+        "category": "DAERAH",
+        "uri": "https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://cdnbal1.indihometv.com/",
+            "Origin": "https://cdnbal1.indihometv.com"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.bali.tv",
+            "tvg_name": "Bali TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "10",
+        "title": "BantenTV",
+        "category": "DAERAH",
+        "uri": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://5bf7b725107e5.streamlock.net/",
+            "Origin": "https://5bf7b725107e5.streamlock.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.bantentv",
+            "tvg_name": "BantenTV",
+            "tvg_logo": "https://i.imgur.com/tbtF40p.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "11",
+        "title": "BantenTV",
+        "category": "DAERAH",
+        "uri": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://5bf7b725107e5.streamlock.net/",
+            "Origin": "https://5bf7b725107e5.streamlock.net"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.bantentv",
+            "tvg_name": "BantenTV",
+            "tvg_logo": "https://i.imgur.com/tbtF40p.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "12",
+        "title": "ASTHA TV",
+        "category": "DAERAH",
+        "uri": "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://hgmtv.com:19360/",
+            "Origin": "https://hgmtv.com:19360"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.astha.tv",
+            "tvg_name": "ASTHA TV",
+            "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astha_TV_logo.png/512px-Astha_TV_logo.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "13",
+        "title": "JOWO",
+        "category": "DAERAH",
+        "uri": "https://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "is_live": true,
+        "match_id": "",
+        "headers": {
+            "Referer": "https://khano.nng.cloudns.us/",
+            "Origin": "https://khano.nng.cloudns.us"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": "",
+            "license_headers": {}
+        },
+        "epg_metadata": {
+            "tvg_id": "auto.jowo",
+            "tvg_name": "JOWO",
+            "tvg_logo": "https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png",
+            "source_xml": "Embedded"
+        }
+    },
+	{
         "id": "6",
         "title": "RCTI HD",
         "category": "NASIONAL",
