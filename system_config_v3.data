@@ -101,10 +101,10 @@
     },
 	{
         "id": "7",
-        "title": "SINDONEWS",
+        "title": "SindoNews",
         "category": "NASIONAL",
         "uri": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",
+        "user_agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
@@ -118,13 +118,13 @@
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "Sindo.News.TV.id",
-            "tvg_name": "SINDONEWS",
+            "tvg_id": "SindoNewsTV.id",
+            "tvg_name": "SindoNews",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
     },
-    {
+	{
         "id": "8",
         "title": "SCTV",
         "category": "NASIONAL",
@@ -426,25 +426,25 @@
     },
     {
         "id": "24",
-        "title": "INEWS MAX",
+        "title": "iNews",
         "category": "NASIONAL",
-        "uri": "https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV) AppleWebKit/537.36",
+        "uri": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",
         "is_live": true,
         "match_id": "",
         "headers": {
-            "Referer": "https://cdnbal1.indihometv.com/",
-            "Origin": "https://cdnbal1.indihometv.com"
+            "Referer": "https://d84q7nw4qf3j3.cloudfront.net/",
+            "Origin": "https://d84q7nw4qf3j3.cloudfront.net"
         },
         "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": "",
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77",
             "license_headers": {}
         },
         "epg_metadata": {
-            "tvg_id": "iNews HD - [Channel 433].id",
-            "tvg_name": "INEWS MAX 1️⃣",
+            "tvg_id": "iNews.id",
+            "tvg_name": "iNews",
             "tvg_logo": "https://githubusercontent.comnstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
