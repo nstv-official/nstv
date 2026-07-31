@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_nu_venezuela_vs_nu_el_salvador_luc_0300_ngay_01_08_2026",
-        "title": "\u26bd Women Venezuela Vs Women El Salvador",
+        "id": "sys_01082026_los_chankas_vs_cd_comerciantes_luc_0300_ngay_01_08_2026",
+        "title": "\u26bd Los Chankas Vs Cd Comerciantes",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785555905",
+        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785555906",
         "is_live": true,
         "match_time": "03:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_venezuela_vs_nu_el_salvador_luc_0300_ngay_01_08_2026",
-            "tvg_name": "Women Venezuela Vs Women El Salvador",
+            "tvg_id": "sys_01082026_los_chankas_vs_cd_comerciantes_luc_0300_ngay_01_08_2026",
+            "tvg_name": "Los Chankas Vs Cd Comerciantes",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
