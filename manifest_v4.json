@@ -192,6 +192,32 @@
         }
     },
     {
+        "id": "sys_31072026_nu_woori_wibee_vs_nu_sinhan_bank",
+        "title": "\u26bd Women Woori Wibee Vs Women Sinhan Bank",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=fd713fd30f224907853c2c1d05bc65a6&wsABSTime=1785530681&sys_cache=1785512682",
+        "is_live": true,
+        "match_time": "14:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_woori_wibee_vs_nu_sinhan_bank",
+            "tvg_name": "Women Woori Wibee Vs Women Sinhan Bank",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_manila_batang_quiapo_vs_bataan_risers",
         "title": "\u26bd Manila Batang Quiapo Vs Bataan Risers",
         "category": "FOOTBALL",
