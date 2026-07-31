@@ -29,11 +29,7 @@
         "is_live": true,
         "match_time": "15:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -55,11 +51,7 @@
         "is_live": true,
         "match_time": "15:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -74,32 +66,6 @@
         }
     },
     {
-        "id": "sys_31072026_haruki_kawabe_kokona_ishikawa_vs_yang_po_hsuan_hu_ling_fang",
-        "title": "\u26bd Haruki Kawabe Kokona Ishikawa Vs Yang Po Hsuan Hu Ling Fang",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel61.flv?wsSecret=ab331793a1b1e1e2e3dbd9f000ab1f86&wsABSTime=1785528773&sys_cache=1785510775",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_haruki_kawabe_kokona_ishikawa_vs_yang_po_hsuan_hu_ling_fang",
-            "tvg_name": "Haruki Kawabe Kokona Ishikawa Vs Yang Po Hsuan Hu Ling Fang",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
@@ -107,11 +73,7 @@
         "is_live": true,
         "match_time": "15:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel81/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -133,11 +95,7 @@
         "is_live": true,
         "match_time": "15:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel71/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -159,11 +117,7 @@
         "is_live": true,
         "match_time": "14:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -185,11 +139,7 @@
         "is_live": true,
         "match_time": "14:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -211,11 +161,7 @@
         "is_live": true,
         "match_time": "01:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/8/link/channel31/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
