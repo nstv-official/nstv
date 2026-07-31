@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_changsha_team_vs_xiangxi_team_luc_1838_ngay_31_07_2026",
+        "title": "\u26bd Changsha Team Vs Xiangxi Team",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel39.flv?wsSecret=5775e7c8cd39790211f2ba6de5345933&wsABSTime=1785543330&sys_cache=1785500136",
+        "is_live": true,
+        "match_time": "18:38",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/7/link/channel39/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_changsha_team_vs_xiangxi_team_luc_1838_ngay_31_07_2026",
+            "tvg_name": "Changsha Team Vs Xiangxi Team",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_henan_fc_vs_dalian_yingbo_luc_1835_ngay_31_07_2026",
         "title": "\u26bd Henan Fc Vs Dalian Yingbo",
         "category": "FOOTBALL",
