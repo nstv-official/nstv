@@ -178,6 +178,32 @@
         }
     },
     {
+        "id": "sys_31072026_kenta_miyoshi_1995_vs_vadym_ursu",
+        "title": "\u26bd Kenta Miyoshi 1995 Vs Vadym Ursu",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel43.flv?wsSecret=7282fb51adc20557e7faf7ada039ae09&wsABSTime=1785530695&sys_cache=1785512696",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel43/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_kenta_miyoshi_1995_vs_vadym_ursu",
+            "tvg_name": "Kenta Miyoshi 1995 Vs Vadym Ursu",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
