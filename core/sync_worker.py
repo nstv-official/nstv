@@ -37,7 +37,7 @@ else:
     LOCAL_MANIFEST = os.path.join(os.path.dirname(os.path.dirname(__file__)), MANIFEST_PATH)
 
 def get_now_wib():
-    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v18.1)."""
+    """Mengembalikan waktu WIB (Naive) untuk perbandingan yang aman (v18.2)."""
     from datetime import timezone
     return (datetime.now(timezone.utc) + timedelta(hours=7)).replace(tzinfo=None)
 
@@ -60,7 +60,7 @@ FIXED_ENTRIES = [
 
 PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Persebaya", "Indonesia", "Presiden", "Hyundai", "Asean", "AFF"]
 
-# v18.1 Massive Block List (Esport, Simulation, Ads)
+# v18.2 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
     "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
@@ -68,7 +68,7 @@ BLOCK_LIST = [
 ]
 
 # Tambahkan Tigoals sebagai sumber utama
-ENDPOINTS = ["https://idn283.livesports088.is", "https://xoilacxtu.tv"]
+ENDPOINTS = ["https://idn283.livesports088.is", "https://azabuglobal.com"]
 DEFAULT_ASSET = "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png"
 
 def remove_accents(input_str):
@@ -79,7 +79,7 @@ def remove_accents(input_str):
     return result
 
 def parse_registry_slug(slug):
-    """Mengekstrak nama tim, jam, dan tanggal (v18.1 - Multi-Pattern)."""
+    """Mengekstrak nama tim, jam, dan tanggal (v18.2 - Multi-Pattern)."""
     slug_clean = slug.strip("/").split("/")[-1]
 
     # 1. Cari Waktu: luc-1530 atau pola Xoilac
@@ -106,7 +106,7 @@ def parse_registry_slug(slug):
     return clean_label.title(), m_time, m_date
 
 def get_entry_icon(label, category):
-    """v18.1: Ikon Akurat berdasarkan Kategori dan Kamus Atlet."""
+    """v18.2: Ikon Akurat berdasarkan Kategori dan Kamus Atlet."""
     t = label.lower()
     c = category.upper()
     if "VOLLEY" in c: return "🏐"
@@ -150,6 +150,9 @@ def get_remote_assets():
             return [file["name"].lower() for file in r.json() if file["name"].endswith(".png")]
     except: pass
     return []
+
+def check_entry_validity(m_time, m_date, now):
+    return True
 
 async def commit_to_storage(content):
     if not GITHUB_TOKEN: return False
@@ -205,7 +208,6 @@ async def finalize_sync(registry):
     final_list = list(unique_by_base_uri.values())
 
     # [GUARDIAN] v18.2: Batalkan sinkronisasi jika data baru KOSONG (Hanya VTV6)
-    # Ini melindungi data hasil tangkapan laptop agar tidak terhapus oleh Cloud yang terblokir.
     if len(final_list) <= 1:
         if not IS_CLOUD: print("    [GUARDIAN] Data baru kosong, membatalkan simpan untuk lindungi data lama.")
         return
@@ -219,7 +221,7 @@ async def finalize_sync(registry):
     await commit_to_storage(content)
 
 async def process_entry_manifest(context, info, registry, semaphore):
-    """v18.1: Tigoals Hunter Engine (Atomic Sync)."""
+    """v18.2: Tigoals Hunter Engine (Atomic Sync)."""
     m_url = info["url"]; m_id = info["id"]; m_title = info.get("title", "Unknown")
     async with semaphore:
         print(f"    [>>>] Menyerbu Link: {m_title}...")
@@ -265,7 +267,7 @@ async def process_entry_manifest(context, info, registry, semaphore):
 async def run_sync_cycle():
     if not os.path.exists(SESSION_DIR): os.makedirs(SESSION_DIR)
     now = get_now_wib()
-    print(f"[SYSTEM] Memulai Siklus V18.1 (TIGOALS HUNTER) - WIB: {now.strftime('%H:%M')}...")
+    print(f"[SYSTEM] Memulai Siklus V18.2 (THE GUARDIAN) - WIB: {now.strftime('%H:%M')}...")
     state = await fetch_registry_state()
     registry = {}; assets = get_remote_assets()
     for entry in FIXED_ENTRIES: registry[entry["id"]] = entry
@@ -282,20 +284,9 @@ async def run_sync_cycle():
                 await page.goto(endpoint, wait_until="load", timeout=60000)
                 await asyncio.sleep(5)
 
-                # v18.2: Ad-Destroyer untuk Livesports088
+                # Ad-Destroyer (Livesports088)
                 if "livesports088" in endpoint:
                     try:
-                        # Tekan Esc atau cari tombol Close/X
-                        await page.keyboard.press("Escape")
-                        for s in ["text='X'", "text='Close'", ".close-icon", ".ad-close", "#close-button"]:
-                            btn = await page.query_selector(s)
-                            if btn: await btn.click(); break
-                        await asyncio.sleep(3)
-                    except: pass
-
-                # Selector Universal
-                nodes = await page.query_selector_all("a[href*='match'], a[href*='truc-tiep'], a[href*='html']")
-                        # Tekan Esc atau cari tombol Close/X
                         await page.keyboard.press("Escape")
                         for s in ["text='X'", "text='Close'", ".close-icon", ".ad-close", "#close-button"]:
                             btn = await page.query_selector(s)
@@ -337,7 +328,7 @@ async def run_sync_cycle():
                                 queue.append({"id": m_id, "url": full_url, "title": label})
                         except: pass
                     except: continue
-            except: pass
+            except Exception as e: print(f"    [!] Error radar: {e}")
             finally: await page.close()
 
         if queue:
