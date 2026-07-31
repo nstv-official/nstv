@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_31072026_west_ham_united_u21_vs_al_ain_scc_u23",
+        "title": "\u26bd West Ham United U21 Vs Al Ain Scc U23",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=618aeb8df610624424f7819f5c40aa9d&wsABSTime=1785530671&sys_cache=1785512677",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_west_ham_united_u21_vs_al_ain_scc_u23",
+            "tvg_name": "West Ham United U21 Vs Al Ain Scc U23",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
