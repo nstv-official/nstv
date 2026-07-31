@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_31072026_elche_vs_cordoba",
+        "title": "\u26bd Elche Vs Cordoba",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=94185598e9e91cfb34fed866b09c8b46&wsABSTime=1785530671&sys_cache=1785512673",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_elche_vs_cordoba",
+            "tvg_name": "Elche Vs Cordoba",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_nu_nxled_chameleons_vs_nu_galeries_highrisers",
         "title": "\u26bd Women Nxled Chameleons Vs Women Galeries Highrisers",
         "category": "FOOTBALL",
