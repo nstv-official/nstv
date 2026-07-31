@@ -67,7 +67,7 @@ BLOCK_LIST = [
     "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
 
-ENDPOINTS = ["https://xoilaczzggz.tv", "https://xoilacxtu.tv"]
+ENDPOINTS = ["https://idn283.livesports088.is", "https://xoilacxtu.tv"]
 DEFAULT_ASSET = "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png"
 
 def remove_accents(input_str):
