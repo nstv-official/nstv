@@ -20,5 +20,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/vtv6.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_31072026_greuther_furth_vs_sc_freiburg_luc_1900_ngay_31_07_2026",
+        "title": "\u26bd Greuther Furth Vs Sc Freiburg",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel4.flv?sys_cache=1785500063",
+        "is_live": true,
+        "match_time": "19:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel4/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_greuther_furth_vs_sc_freiburg_luc_1900_ngay_31_07_2026",
+            "tvg_name": "Greuther Furth Vs Sc Freiburg",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
