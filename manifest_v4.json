@@ -264,5 +264,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_31072026_meralco_bolts_vs_barangay_ginebra_luc_1830_ngay_31_07_2026",
+        "title": "\u26bd Meralco Bolts Vs Barangay Ginebra",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?sys_cache=1785529934",
+        "is_live": true,
+        "match_time": "18:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_meralco_bolts_vs_barangay_ginebra_luc_1830_ngay_31_07_2026",
+            "tvg_name": "Meralco Bolts Vs Barangay Ginebra",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
