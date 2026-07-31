@@ -100,10 +100,10 @@
         }
     },
     {
-        "id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd Dnepr Mogilev Vs Naftan Novopolotsk",
+        "id": "sys_31072026_vfl_wolfsburg_vs_sc_telstar_luc_2200_ngay_31_07_2026",
+        "title": "\u26bd Vfl Wolfsburg Vs Sc Telstar",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?sys_cache=1785511998",
+        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?sys_cache=1785512002",
         "is_live": true,
         "match_time": "22:00",
         "headers": {
@@ -119,8 +119,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_dnepr_mogilev_vs_naftan_novopolotsk_luc_2200_ngay_31_07_2026",
-            "tvg_name": "Dnepr Mogilev Vs Naftan Novopolotsk",
+            "tvg_id": "sys_31072026_vfl_wolfsburg_vs_sc_telstar_luc_2200_ngay_31_07_2026",
+            "tvg_name": "Vfl Wolfsburg Vs Sc Telstar",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
