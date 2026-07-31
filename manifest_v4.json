@@ -22,14 +22,18 @@
         }
     },
     {
-        "id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
-        "title": "\u26bd Prospect United U20 Vs Blacktown Spartans U20",
+        "id": "sys_31072026_arema_fc_vs_dpmm_fc",
+        "title": "\u26bd Arema Fc Vs Dpmm Fc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=9ec4c8be917b75f9e38a9ddebc3706e2&wsABSTime=1785528757&sys_cache=1785510758",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=1ec766c8fe31b4d1b3629fb55ca49161&wsABSTime=1785530666&sys_cache=1785512669",
         "is_live": true,
-        "match_time": "15:00",
+        "match_time": "15:30",
         "headers": {
-            "User-Agent": "Mozilla/5.0"
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
         },
         "drm_info": {
             "is_protected": false,
@@ -37,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
-            "tvg_name": "Prospect United U20 Vs Blacktown Spartans U20",
+            "tvg_id": "sys_31072026_arema_fc_vs_dpmm_fc",
+            "tvg_name": "Arema Fc Vs Dpmm Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
