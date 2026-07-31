@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_31072026_itabirito_u20_vs_athletic_club_mg_u20_luc_2000_ngay_31_07_2026",
-        "title": "\u26bd Itabirito U20 Vs Athletic Club Mg U20",
+        "id": "sys_31072026_herentals_fc_vs_telone_fc_luc_2000_ngay_31_07_2026",
+        "title": "\u26bd Herentals Fc Vs Telone Fc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=6809a81b45a560091198668910421697&wsABSTime=1785547922&sys_cache=1785529923",
+        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=6809a81b45a560091198668910421697&wsABSTime=1785547922&sys_cache=1785529924",
         "is_live": true,
         "match_time": "20:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_itabirito_u20_vs_athletic_club_mg_u20_luc_2000_ngay_31_07_2026",
-            "tvg_name": "Itabirito U20 Vs Athletic Club Mg U20",
+            "tvg_id": "sys_31072026_herentals_fc_vs_telone_fc_luc_2000_ngay_31_07_2026",
+            "tvg_name": "Herentals Fc Vs Telone Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
