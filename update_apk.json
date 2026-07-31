@@ -1,7 +1,6 @@
 {
-  "latestVersionCode": 30,
-  "latestVersionName": "3.0.0",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.0-release.apk",
-  "releaseNotes": "• Ultimate TV Edition: Optimasi tampilan khusus Smart TV & Android Box agar lebih lega.\n• Auto-Clean Home: Menghilangkan banner iklan di TV agar konten langsung terlihat.\n• Ramping & Svelte: Navigasi bawah lebih tipis dan hemat ruang.\n• Atomic Sync: Update link seketika satu-per-satu (Anti-Keblinger).\n• Indonesia Pride: Jaminan link ASEAN Championship & Piala Presiden Indonesia."
+  "latestVersionCode": 31,
+  "latestVersionName": "3.0.1",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.1-release.apk",
+  "releaseNotes": "• Tigoals Hunter: Sistem perburuan link agresif khusus untuk sumber Tigoals.\n• Live1 Interaction: Atomic Sync 2.0: Perbaikan gembok sinkronisasi agar link terkirim lebih cepat tanpa error."
 }
-
