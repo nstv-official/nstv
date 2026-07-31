@@ -62,7 +62,7 @@ PRIORITY_GROUPS = ["Borneo", "Persis", "Persib", "Persija", "Arema", "PSM", "Per
 
 # v18.2 Massive Block List (Esport, Simulation, Ads)
 BLOCK_LIST = [
-    "lol", "esports", "lck", "lpl", "gen g", "t1", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
+    "lol", "esports", "lck", "lpl", "gen g", "t1", "nba", "dota", "gaming", "valorant", "pubg", "mlbb", "pga", "golf",
     "bestia", "galorys", "zero tenacity", "level up", "spirit", "vitality", "faze", "g2", "liquid",
     "natus vincere", "cs:go", "cs2", "blast", "esl", "simul", "simulation", "score-only", "graph", "analysis"
 ]
@@ -114,7 +114,7 @@ def get_entry_icon(label, category):
     if "TENNIS" in c: return "🎾"
     if "MOTOR" in c: return "🏎️"
     if "FUTSAL" in c: return "🏟️"
-    if any(x in t for x in ["voli", "volleyball", "bong chuyen"]): return "🏐"
+    if any(x in t for x in ["voli", "v-cup", "volleyball", "bong chuyen"]): return "🏐"
     if any(x in t for x in ["badminton", "bwf", "cau long", "wenyu", "ginting", "jonatan"]): return "🏸"
     if any(x in t for x in ["tennis", "atmane", "tabilo", "minaur", "hewitt", "kalinskaya", "tjen"]): return "🎾"
     if any(x in t for x in ["gp", "f1", "dua xe", "motogp"]): return "🏎️"
@@ -245,9 +245,9 @@ async def process_entry_manifest(context, info, registry, semaphore):
                 for i in range(20):
                     if uri: break
                     if i in [3, 8, 15]:
-                        # Klik Play & Tigoals Server Buttons (Live1, Live2)
+                        # Klik Play & Tigoals Server Buttons (Live1)
                         for frame in [page.main_frame] + page.frames:
-                            for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=Live1", "text=Live2", "text=Server 1"]:
+                            for s in ["button.vjs-big-play-button", ".play-icon", "text=Play", "text=Live1", "text=Server 1"]:
                                 try:
                                     btn = await frame.query_selector(s)
                                     if btn: await btn.click()
