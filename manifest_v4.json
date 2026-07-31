@@ -100,12 +100,12 @@
         }
     },
     {
-        "id": "sys_31072026_hanyang_university_vs_konkuk_university",
-        "title": "\u26bd Hanyang University Vs Konkuk University",
+        "id": "sys_31072026_manila_batang_quiapo_vs_bataan_risers",
+        "title": "\u26bd Manila Batang Quiapo Vs Bataan Risers",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=3c32b0276c29f08034e3855d65be74c5&wsABSTime=1785528763&sys_cache=1785510764",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=3c32b0276c29f08034e3855d65be74c5&wsABSTime=1785528763&sys_cache=1785510765",
         "is_live": true,
-        "match_time": "13:30",
+        "match_time": "14:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
@@ -119,8 +119,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_31072026_hanyang_university_vs_konkuk_university",
-            "tvg_name": "Hanyang University Vs Konkuk University",
+            "tvg_id": "sys_31072026_manila_batang_quiapo_vs_bataan_risers",
+            "tvg_name": "Manila Batang Quiapo Vs Bataan Risers",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
