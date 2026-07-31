@@ -22,32 +22,6 @@
         }
     },
     {
-        "id": "sys_31072026_fc_trostianets_vs_oleksandriya_b",
-        "title": "\u26bd Fc Trostianets Vs Oleksandriya B",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=3494d29eb0348dc5988ff4ff8e79d7c9&wsABSTime=1785530661&sys_cache=1785512663",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fc_trostianets_vs_oleksandriya_b",
-            "tvg_name": "Fc Trostianets Vs Oleksandriya B",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_prospect_united_u20_vs_blacktown_spartans_u20",
         "title": "\u26bd Prospect United U20 Vs Blacktown Spartans U20",
         "category": "FOOTBALL",
@@ -131,6 +105,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_nu_fencibles_united_vs_nu_auckland_united",
             "tvg_name": "Women Fencibles United Vs Women Auckland United",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_howlers_sc_vs_dzongri_fc",
+        "title": "\u26bd Howlers Sc Vs Dzongri Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=3494d29eb0348dc5988ff4ff8e79d7c9&wsABSTime=1785530661&sys_cache=1785512664",
+        "is_live": true,
+        "match_time": "14:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.scorecastbytextz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_howlers_sc_vs_dzongri_fc",
+            "tvg_name": "Howlers Sc Vs Dzongri Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
