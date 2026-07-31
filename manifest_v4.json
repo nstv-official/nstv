@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_31072026_ktp_kotka_vs_sjk_akatemia_luc_2230_ngay_31_07_2026",
+        "title": "\u26bd Ktp Kotka Vs Sjk Akatemia",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=0949e9c67e62c7045b54347d0788c1d4&wsABSTime=1785558180&sys_cache=1785540181",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_ktp_kotka_vs_sjk_akatemia_luc_2230_ngay_31_07_2026",
+            "tvg_name": "Ktp Kotka Vs Sjk Akatemia",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_zorya_vs_kolos_kovalivka_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Zorya Vs Kolos Kovalivka",
         "category": "FOOTBALL",
