@@ -74,32 +74,6 @@
         }
     },
     {
-        "id": "sys_31072026_port_darwin_fc_vs_darwin_hearts_luc_1800_ngay_31_07_2026",
-        "title": "\u26bd Port Darwin Fc Vs Darwin Hearts",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785500119",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel14/off-tvc",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_port_darwin_fc_vs_darwin_hearts_luc_1800_ngay_31_07_2026",
-            "tvg_name": "Port Darwin Fc Vs Darwin Hearts",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
         "title": "\u26bd Broadbeach United Vs Logan Lightning",
         "category": "FOOTBALL",
@@ -121,6 +95,32 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_broadbeach_united_vs_logan_lightning_luc_1730_ngay_31_07_2026",
             "tvg_name": "Broadbeach United Vs Logan Lightning",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_31072026_nu_torrens_birkalla_vs_nu_adelaide_university_luc_1730_ngay_31_07_2026",
+        "title": "\u26bd Women Torrens Birkalla Vs Women Adelaide University",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785500129",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel14/off-tvc",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_nu_torrens_birkalla_vs_nu_adelaide_university_luc_1730_ngay_31_07_2026",
+            "tvg_name": "Women Torrens Birkalla Vs Women Adelaide University",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
