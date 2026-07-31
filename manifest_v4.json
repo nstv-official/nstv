@@ -29,11 +29,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -55,11 +51,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -74,32 +66,6 @@
         }
     },
     {
-        "id": "sys_31072026_as_monaco_vs_cercle_brugge_luc_2200_ngay_31_07_2026",
-        "title": "\u26bd As Monaco Vs Cercle Brugge",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel20.flv?sys_cache=1785511995",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_as_monaco_vs_cercle_brugge_luc_2200_ngay_31_07_2026",
-            "tvg_name": "As Monaco Vs Cercle Brugge",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_31072026_vfl_wolfsburg_vs_sc_telstar_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Vfl Wolfsburg Vs Sc Telstar",
         "category": "FOOTBALL",
@@ -107,11 +73,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -133,11 +95,7 @@
         "is_live": true,
         "match_time": "22:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -152,6 +110,28 @@
         }
     },
     {
+        "id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
+        "title": "\u26bd Barkchi Hisor Vs Ravshan Kulob",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=9a21fba65f48aa6ca67b494861de4b75&wsABSTime=1785555162&sys_cache=1785511963",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {
+            "User-Agent": "Mozilla/5.0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
+            "tvg_name": "Barkchi Hisor Vs Ravshan Kulob",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_fakel_y_vs_dinamo_makhachkala_r_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Fakel Y Vs Dinamo Makhachkala R",
         "category": "FOOTBALL",
@@ -159,11 +139,7 @@
         "is_live": true,
         "match_time": "21:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -185,11 +161,7 @@
         "is_live": true,
         "match_time": "21:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -204,6 +176,32 @@
         }
     },
     {
+        "id": "sys_31072026_spartak_moscow_y_vs_dinamo_moscow_y_luc_2100_ngay_31_07_2026",
+        "title": "\u26bd Spartak Moscow Y Vs Dinamo Moscow Y",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=47a1515039bc64da464cf3c67cc4438a&wsABSTime=1785556406&sys_cache=1785538407",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_spartak_moscow_y_vs_dinamo_moscow_y_luc_2100_ngay_31_07_2026",
+            "tvg_name": "Spartak Moscow Y Vs Dinamo Moscow Y",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_mainz_05_vs_shabab_al_ahli_luc_2100_ngay_31_07_2026",
         "title": "\u26bd Mainz 05 Vs Shabab Al Ahli",
         "category": "FOOTBALL",
@@ -211,11 +209,7 @@
         "is_live": true,
         "match_time": "21:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -230,32 +224,6 @@
         }
     },
     {
-        "id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
-        "title": "\u26bd Barkchi Hisor Vs Ravshan Kulob",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=9a21fba65f48aa6ca67b494861de4b75&wsABSTime=1785555162&sys_cache=1785511963",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_barkchi_hisor_vs_ravshan_kulob_luc_2100_ngay_31_07_2026",
-            "tvg_name": "Barkchi Hisor Vs Ravshan Kulob",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_28072026_yaypan_fk_vs_fardu_luc_2000_ngay_28_07_2026",
         "title": "\u26bd Yaypan Fk Vs Fardu",
         "category": "FOOTBALL",
@@ -263,11 +231,7 @@
         "is_live": true,
         "match_time": "20:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -289,11 +253,7 @@
         "is_live": true,
         "match_time": "20:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
