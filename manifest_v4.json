@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_31072026_be1_nfa_vs_lietava_jonava_luc_2230_ngay_31_07_2026",
+        "title": "\u26bd Be1 Nfa Vs Lietava Jonava",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=60399c25e18f4b88acae6055765cae56&wsABSTime=1785558190&sys_cache=1785540193",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=true",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_31072026_be1_nfa_vs_lietava_jonava_luc_2230_ngay_31_07_2026",
+            "tvg_name": "Be1 Nfa Vs Lietava Jonava",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_31072026_zorya_vs_kolos_kovalivka_luc_2200_ngay_31_07_2026",
         "title": "\u26bd Zorya Vs Kolos Kovalivka",
         "category": "FOOTBALL",
@@ -297,32 +323,6 @@
         "epg_metadata": {
             "tvg_id": "sys_31072026_fk_gazalkent_vs_aral_nukus_luc_2000_ngay_31_07_2026",
             "tvg_name": "Fk Gazalkent Vs Aral Nukus",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_31072026_fk_gigant_saedinie_vs_fk_krumovgrad_luc_1800_ngay_31_07_2026",
-        "title": "\u26bd Fk Gigant Saedinie Vs Fk Krumovgrad",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=60399c25e18f4b88acae6055765cae56&wsABSTime=1785558190&sys_cache=1785540192",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=true",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_31072026_fk_gigant_saedinie_vs_fk_krumovgrad_luc_1800_ngay_31_07_2026",
-            "tvg_name": "Fk Gigant Saedinie Vs Fk Krumovgrad",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
