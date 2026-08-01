@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_01082026_nantong_zhiyun_vs_heilongjiang_ice_luc_1830_ngay_01_08_2026",
-        "title": "\u26bd Nantong Zhiyun Vs Heilongjiang Ice",
+        "id": "sys_01082026_guangzhou_power_vs_dongguan_guanlian_luc_1830_ngay_01_08_2026",
+        "title": "\u26bd Guangzhou Power Vs Dongguan Guanlian",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=d3e473ecaa71acee54a428a7be009793&wsABSTime=1785631515&sys_cache=1785613516",
+        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=d3e473ecaa71acee54a428a7be009793&wsABSTime=1785631515&sys_cache=1785613517",
         "is_live": true,
         "match_time": "18:30",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nantong_zhiyun_vs_heilongjiang_ice_luc_1830_ngay_01_08_2026",
-            "tvg_name": "Nantong Zhiyun Vs Heilongjiang Ice",
+            "tvg_id": "sys_01082026_guangzhou_power_vs_dongguan_guanlian_luc_1830_ngay_01_08_2026",
+            "tvg_name": "Guangzhou Power Vs Dongguan Guanlian",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
