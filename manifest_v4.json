@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_02082026_venezuela_u23_vs_guatemala_u23_luc_0300_ngay_02_08_2026",
-        "title": "\u26bd Venezuela U23 Vs Guatemala U23",
+        "id": "sys_02082026_canada_u20_vs_jamaica_u20_luc_0300_ngay_02_08_2026",
+        "title": "\u26bd Canada U20 Vs Jamaica U20",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=770567b69cbdebdb3e796521b4841ce4&wsABSTime=1785658569&sys_cache=1785640571",
+        "uri": "https://live1.streambylivepulse.com/live/channel2.flv?wsSecret=770567b69cbdebdb3e796521b4841ce4&wsABSTime=1785658569&sys_cache=1785640572",
         "is_live": true,
         "match_time": "03:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_venezuela_u23_vs_guatemala_u23_luc_0300_ngay_02_08_2026",
-            "tvg_name": "Venezuela U23 Vs Guatemala U23",
+            "tvg_id": "sys_02082026_canada_u20_vs_jamaica_u20_luc_0300_ngay_02_08_2026",
+            "tvg_name": "Canada U20 Vs Jamaica U20",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
