@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_01082026_chengdu_rongcheng_vs_wuhan_three_towns_luc_1900_ngay_01_08_2026",
-        "title": "\u26bd Chengdu Rongcheng Vs Wuhan Three Towns",
+        "id": "sys_01082026_cardiff_city_vs_as_roma_luc_2100_ngay_01_08_2026",
+        "title": "\u26bd Cardiff City Vs As Roma",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel17.flv?sys_cache=1785613532",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785626114",
         "is_live": true,
-        "match_time": "19:00",
+        "match_time": "21:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,190 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_chengdu_rongcheng_vs_wuhan_three_towns_luc_1900_ngay_01_08_2026",
-            "tvg_name": "Chengdu Rongcheng Vs Wuhan Three Towns",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_manchester_city_vs_inter_milan_luc_1830_ngay_01_08_2026",
-        "title": "\u26bd Manchester City Vs Inter Milan",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785613497",
-        "is_live": true,
-        "match_time": "18:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_manchester_city_vs_inter_milan_luc_1830_ngay_01_08_2026",
-            "tvg_name": "Manchester City Vs Inter Milan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_annagh_united_vs_ballymena_united_fc_luc_1830_ngay_01_08_2026",
-        "title": "\u26bd Annagh United Vs Ballymena United Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=1891653facbd6d99b02cbdda8ef99630&wsABSTime=1785631518&sys_cache=1785613521",
-        "is_live": true,
-        "match_time": "18:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_annagh_united_vs_ballymena_united_fc_luc_1830_ngay_01_08_2026",
-            "tvg_name": "Annagh United Vs Ballymena United Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_jiangxi_dark_hj_vs_jiangxi_lushan_luc_1830_ngay_02_08_2026",
-        "title": "\u26bd Jiangxi Dark Hj Vs Jiangxi Lushan",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel10.flv?sys_cache=1785613526",
-        "is_live": true,
-        "match_time": "18:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_jiangxi_dark_hj_vs_jiangxi_lushan_luc_1830_ngay_02_08_2026",
-            "tvg_name": "Jiangxi Dark Hj Vs Jiangxi Lushan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_tianjin_jinmen_tiger_vs_yunnan_yukun_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd Tianjin Jinmen Tiger Vs Yunnan Yukun",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=26498e17ee016fd38b46dbd98034b266&wsABSTime=1785631500&sys_cache=1785613501",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_tianjin_jinmen_tiger_vs_yunnan_yukun_luc_1800_ngay_01_08_2026",
-            "tvg_name": "Tianjin Jinmen Tiger Vs Yunnan Yukun",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_e_braunschweig_vs_raal_la_louviere_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd E Braunschweig Vs Raal La Louviere",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=7de4570db1df85a10bb70a06c0d72b52&wsABSTime=1785631500&sys_cache=1785613507",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_e_braunschweig_vs_raal_la_louviere_luc_1800_ngay_01_08_2026",
-            "tvg_name": "E Braunschweig Vs Raal La Louviere",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_dalian_kun_city_vs_shaanxi_union_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd Dalian Kun City Vs Shaanxi Union",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=a405c217ecdf0f5d035ce66fda0dc755&wsABSTime=1785631509&sys_cache=1785613513",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_dalian_kun_city_vs_shaanxi_union_luc_1800_ngay_01_08_2026",
-            "tvg_name": "Dalian Kun City Vs Shaanxi Union",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_hillerod_fodbold_vs_esbjerg_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd Hillerod Fodbold Vs Esbjerg",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel33.flv?wsSecret=d3e473ecaa71acee54a428a7be009793&wsABSTime=1785631515&sys_cache=1785613518",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_hillerod_fodbold_vs_esbjerg_luc_1800_ngay_01_08_2026",
-            "tvg_name": "Hillerod Fodbold Vs Esbjerg",
+            "tvg_id": "sys_01082026_cardiff_city_vs_as_roma_luc_2100_ngay_01_08_2026",
+            "tvg_name": "Cardiff City Vs As Roma",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
