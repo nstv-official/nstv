@@ -74,10 +74,10 @@
         }
     },
     {
-        "id": "sys_01082026_nu_mystics_vs_nu_dallas_wings_luc_0630_ngay_01_08_2026",
-        "title": "\u26bd Women Mystics Vs Women Dallas Wings",
+        "id": "sys_01082026_nu_atlanta_dream_vs_nu_seattle_storm_luc_0630_ngay_01_08_2026",
+        "title": "\u26bd Women Atlanta Dream Vs Women Seattle Storm",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?sys_cache=1785568345",
+        "uri": "https://live2.streambylivepulse.com/live/channel25.flv?sys_cache=1785568346",
         "is_live": true,
         "match_time": "06:30",
         "headers": {
@@ -93,8 +93,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_mystics_vs_nu_dallas_wings_luc_0630_ngay_01_08_2026",
-            "tvg_name": "Women Mystics Vs Women Dallas Wings",
+            "tvg_id": "sys_01082026_nu_atlanta_dream_vs_nu_seattle_storm_luc_0630_ngay_01_08_2026",
+            "tvg_name": "Women Atlanta Dream Vs Women Seattle Storm",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
