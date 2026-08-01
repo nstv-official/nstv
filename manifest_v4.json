@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_01082026_22_de_julio_vs_cd_el_nacional_luc_0330_ngay_01_08_2026",
-        "title": "\u26bd De Julio Vs Cd El Nacional",
+        "id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
+        "title": "\u26bd Toronto Fc Ii Vs Columbus Crew B",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=d9643ad3e603625cc877c7d37cc2b06f&wsABSTime=1785573923&sys_cache=1785555925",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=652e44729b8178f0bbb8e83c6e432bb3&wsABSTime=1785586311&sys_cache=1785568312",
         "is_live": true,
-        "match_time": "03:30",
+        "match_time": "06:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,216 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_22_de_julio_vs_cd_el_nacional_luc_0330_ngay_01_08_2026",
-            "tvg_name": "De Julio Vs Cd El Nacional",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_los_chankas_vs_cd_comerciantes_luc_0300_ngay_01_08_2026",
-        "title": "\u26bd Los Chankas Vs Cd Comerciantes",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel24.flv?sys_cache=1785555906",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_los_chankas_vs_cd_comerciantes_luc_0300_ngay_01_08_2026",
-            "tvg_name": "Los Chankas Vs Cd Comerciantes",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_nu_burkina_faso_vs_nu_tanzania_luc_0300_ngay_01_08_2026",
-        "title": "\u26bd Women Burkina Faso Vs Women Tanzania",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=8c7a4ea36586e66efcf4e11dd584d513&wsABSTime=1785573908&sys_cache=1785555909",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_burkina_faso_vs_nu_tanzania_luc_0300_ngay_01_08_2026",
-            "tvg_name": "Women Burkina Faso Vs Women Tanzania",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_general_caballero_jlm_vs_benjamin_aceval_luc_0300_ngay_01_08_2026",
-        "title": "\u26bd General Caballero Jlm Vs Benjamin Aceval",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=dc80810180dffa088950da35c57d3ba9&wsABSTime=1785573912&sys_cache=1785555918",
-        "is_live": true,
-        "match_time": "03:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_general_caballero_jlm_vs_benjamin_aceval_luc_0300_ngay_01_08_2026",
-            "tvg_name": "General Caballero Jlm Vs Benjamin Aceval",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_taylor_fritz_vs_alex_michelsen_luc_0210_ngay_01_08_2026",
-        "title": "\u26bd Taylor Fritz Vs Alex Michelsen",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel31.flv?sys_cache=1785555931",
-        "is_live": true,
-        "match_time": "02:10",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel31/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_taylor_fritz_vs_alex_michelsen_luc_0210_ngay_01_08_2026",
-            "tvg_name": "Taylor Fritz Vs Alex Michelsen",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_bodo_glimt_vs_lillestrom_luc_0200_ngay_01_08_2026",
-        "title": "\u26bd Bodo Glimt Vs Lillestrom",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=51ff42867cc7cd076ff25fdd441b9483&wsABSTime=1785573893&sys_cache=1785555895",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_bodo_glimt_vs_lillestrom_luc_0200_ngay_01_08_2026",
-            "tvg_name": "Bodo Glimt Vs Lillestrom",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_dundee_united_vs_rangers_luc_0200_ngay_01_08_2026",
-        "title": "\u26bd Dundee United Vs Rangers",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=9b60154ea26513f300ff9872937c7530&wsABSTime=1785573898&sys_cache=1785555902",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_dundee_united_vs_rangers_luc_0200_ngay_01_08_2026",
-            "tvg_name": "Dundee United Vs Rangers",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_crystal_palace_vs_al_ula_fc_luc_0145_ngay_01_08_2026",
-        "title": "\u26bd Crystal Palace Vs Al Ula Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel9.flv?wsSecret=edc9e54a5fa9b4e1f5adddd1ed450935&wsABSTime=1785573884&sys_cache=1785555891",
-        "is_live": true,
-        "match_time": "01:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_crystal_palace_vs_al_ula_fc_luc_0145_ngay_01_08_2026",
-            "tvg_name": "Crystal Palace Vs Al Ula Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_cf_os_belenenses_vs_estoril_luc_0100_ngay_01_08_2026",
-        "title": "\u26bd Cf Os Belenenses Vs Estoril",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785555887",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_cf_os_belenenses_vs_estoril_luc_0100_ngay_01_08_2026",
-            "tvg_name": "Cf Os Belenenses Vs Estoril",
+            "tvg_id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
+            "tvg_name": "Toronto Fc Ii Vs Columbus Crew B",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
