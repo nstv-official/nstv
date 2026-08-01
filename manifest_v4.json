@@ -98,5 +98,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_01082026_nu_zenit_petersburg_vs_nu_krasnodar_fk_luc_1800_ngay_01_08_2026",
+        "title": "\u26bd Women Zenit Petersburg Vs Women Krasnodar Fk",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=a405c217ecdf0f5d035ce66fda0dc755&wsABSTime=1785631509&sys_cache=1785613511",
+        "is_live": true,
+        "match_time": "18:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_nu_zenit_petersburg_vs_nu_krasnodar_fk_luc_1800_ngay_01_08_2026",
+            "tvg_name": "Women Zenit Petersburg Vs Women Krasnodar Fk",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
