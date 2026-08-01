@@ -222,14 +222,18 @@
         }
     },
     {
-        "id": "sys_01082026_winnipeg_sea_bears_vs_ottawa_blackjacks_luc_0700_ngay_01_08_2026",
-        "title": "\u26bd Winnipeg Sea Bears Vs Ottawa Blackjacks",
+        "id": "sys_01082026_nu_campinas_basquete_u23_vs_nu_sampaio_luc_0700_ngay_01_08_2026",
+        "title": "\u26bd Women Campinas Basquete U23 Vs Women Sampaio",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=1f9d991b21d93fd46d5afa33fac3fc16&wsABSTime=1785586343&sys_cache=1785568350",
+        "uri": "https://live1.streambylivepulse.com/live/channel42.flv?wsSecret=5c6176f2b7817e1fed8cb865f520891e&wsABSTime=1785591137&sys_cache=1785573139",
         "is_live": true,
         "match_time": "07:00",
         "headers": {
-            "User-Agent": "Mozilla/5.0"
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
         },
         "drm_info": {
             "is_protected": false,
@@ -237,8 +241,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_winnipeg_sea_bears_vs_ottawa_blackjacks_luc_0700_ngay_01_08_2026",
-            "tvg_name": "Winnipeg Sea Bears Vs Ottawa Blackjacks",
+            "tvg_id": "sys_01082026_nu_campinas_basquete_u23_vs_nu_sampaio_luc_0700_ngay_01_08_2026",
+            "tvg_name": "Women Campinas Basquete U23 Vs Women Sampaio",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
