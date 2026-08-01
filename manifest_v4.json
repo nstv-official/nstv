@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_nu_northern_tigers_vs_nu_hills_united_luc_1530_ngay_01_08_2026",
-        "title": "\u26bd Women Northern Tigers Vs Women Hills United",
+        "id": "sys_01082026_persija_jakarta_vs_psms_medan_luc_1530_ngay_01_08_2026",
+        "title": "\u26bd Persija Jakarta Vs Psms Medan",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=318e5bb2ac1e8cb7810ae8dfdf5fc613&wsABSTime=1785619306&sys_cache=1785601307",
+        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=318e5bb2ac1e8cb7810ae8dfdf5fc613&wsABSTime=1785619306&sys_cache=1785601308",
         "is_live": true,
         "match_time": "15:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_northern_tigers_vs_nu_hills_united_luc_1530_ngay_01_08_2026",
-            "tvg_name": "Women Northern Tigers Vs Women Hills United",
+            "tvg_id": "sys_01082026_persija_jakarta_vs_psms_medan_luc_1530_ngay_01_08_2026",
+            "tvg_name": "Persija Jakarta Vs Psms Medan",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
