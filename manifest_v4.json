@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_01082026_cardiff_city_vs_as_roma_luc_2100_ngay_01_08_2026",
-        "title": "\u26bd Cardiff City Vs As Roma",
+        "id": "sys_02082026_girona_vs_arsenal_luc_0100_ngay_02_08_2026",
+        "title": "\u26bd Girona Vs Arsenal",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785626114",
+        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785626115",
         "is_live": true,
-        "match_time": "21:00",
+        "match_time": "01:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_cardiff_city_vs_as_roma_luc_2100_ngay_01_08_2026",
-            "tvg_name": "Cardiff City Vs As Roma",
+            "tvg_id": "sys_02082026_girona_vs_arsenal_luc_0100_ngay_02_08_2026",
+            "tvg_name": "Girona Vs Arsenal",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
