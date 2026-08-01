@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_01082026_persija_jakarta_vs_psms_medan_luc_1530_ngay_01_08_2026",
-        "title": "\u26bd Persija Jakarta Vs Psms Medan",
+        "id": "sys_01082026_akron_togliatti_vs_rubin_kazan_luc_1800_ngay_01_08_2026",
+        "title": "\u26bd Akron Togliatti Vs Rubin Kazan",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=318e5bb2ac1e8cb7810ae8dfdf5fc613&wsABSTime=1785619306&sys_cache=1785601308",
+        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785613496",
         "is_live": true,
-        "match_time": "15:30",
+        "match_time": "18:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,164 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_persija_jakarta_vs_psms_medan_luc_1530_ngay_01_08_2026",
-            "tvg_name": "Persija Jakarta Vs Psms Medan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_shaanxi_union_u20_vs_zhejiang_fc_u21_luc_1530_ngay_01_08_2026",
-        "title": "\u26bd Shaanxi Union U20 Vs Zhejiang Fc U21",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?sys_cache=1785601314",
-        "is_live": true,
-        "match_time": "15:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_shaanxi_union_u20_vs_zhejiang_fc_u21_luc_1530_ngay_01_08_2026",
-            "tvg_name": "Shaanxi Union U20 Vs Zhejiang Fc U21",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_redlands_united_vs_caboolture_fc_luc_1500_ngay_01_08_2026",
-        "title": "\u26bd Redlands United Vs Caboolture Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=2bedb53a3e839a3b8924399f4c4ddce2&wsABSTime=1785619290&sys_cache=1785601291",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel30/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_redlands_united_vs_caboolture_fc_luc_1500_ngay_01_08_2026",
-            "tvg_name": "Redlands United Vs Caboolture Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_pine_hills_vs_grange_thistle_sc_luc_1500_ngay_01_08_2026",
-        "title": "\u26bd Pine Hills Vs Grange Thistle Sc",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel31.flv?wsSecret=e48e371de3a405b668b5d0c9bf78ef74&wsABSTime=1785619290&sys_cache=1785601296",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_pine_hills_vs_grange_thistle_sc_luc_1500_ngay_01_08_2026",
-            "tvg_name": "Pine Hills Vs Grange Thistle Sc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_levante_vs_albacete_luc_1500_ngay_01_08_2026",
-        "title": "\u26bd Levante Vs Albacete",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=4da9f5900377f3140adb38aa990b371b&wsABSTime=1785619298&sys_cache=1785601299",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_levante_vs_albacete_luc_1500_ngay_01_08_2026",
-            "tvg_name": "Levante Vs Albacete",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_monaro_panthers_vs_oconnor_knights_luc_1445_ngay_01_08_2026",
-        "title": "\u26bd Monaro Panthers Vs Oconnor Knights",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel29.flv?wsSecret=3881ffc0735d33ac2f229be6f19808de&wsABSTime=1785619285&sys_cache=1785601287",
-        "is_live": true,
-        "match_time": "14:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_monaro_panthers_vs_oconnor_knights_luc_1445_ngay_01_08_2026",
-            "tvg_name": "Monaro Panthers Vs Oconnor Knights",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_white_city_vs_croydon_kings_luc_1430_ngay_01_08_2026",
-        "title": "\u26bd White City Vs Croydon Kings",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=f56df442aee4681e443aa2010c8ff66a&wsABSTime=1785619281&sys_cache=1785601283",
-        "is_live": true,
-        "match_time": "14:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_white_city_vs_croydon_kings_luc_1430_ngay_01_08_2026",
-            "tvg_name": "White City Vs Croydon Kings",
+            "tvg_id": "sys_01082026_akron_togliatti_vs_rubin_kazan_luc_1800_ngay_01_08_2026",
+            "tvg_name": "Akron Togliatti Vs Rubin Kazan",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
