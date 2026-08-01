@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_02082026_nu_nigeria_vs_nu_zambia_luc_0300_ngay_02_08_2026",
+        "title": "\u26bd Women Nigeria Vs Women Zambia",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel21.flv?sys_cache=1785640576",
+        "is_live": true,
+        "match_time": "03:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_nu_nigeria_vs_nu_zambia_luc_0300_ngay_02_08_2026",
+            "tvg_name": "Women Nigeria Vs Women Zambia",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_fc_porto_vs_scu_torreense_luc_0215_ngay_02_08_2026",
         "title": "\u26bd Fc Porto Vs Scu Torreense",
         "category": "FOOTBALL",
