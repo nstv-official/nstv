@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_02082026_rancho_santana_fc_vs_export_sebaco_fc_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Rancho Santana Fc Vs Export Sebaco Fc",
+        "id": "sys_02082026_new_york_city_b_vs_philadelphia_union_ii_luc_0600_ngay_02_08_2026",
+        "title": "\u26bd New York City B Vs Philadelphia Union Ii",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=77f7bb267386cdc71f1ef85f22b4fc7b&wsABSTime=1785671078&sys_cache=1785653080",
+        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=77f7bb267386cdc71f1ef85f22b4fc7b&wsABSTime=1785671078&sys_cache=1785653081",
         "is_live": true,
         "match_time": "06:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_rancho_santana_fc_vs_export_sebaco_fc_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Rancho Santana Fc Vs Export Sebaco Fc",
+            "tvg_id": "sys_02082026_new_york_city_b_vs_philadelphia_union_ii_luc_0600_ngay_02_08_2026",
+            "tvg_name": "New York City B Vs Philadelphia Union Ii",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
