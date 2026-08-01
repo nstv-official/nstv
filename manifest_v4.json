@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_01082026_fc_slovan_liberec_vs_fk_teplice_luc_2200_ngay_01_08_2026",
+        "title": "\u26bd Fc Slovan Liberec Vs Fk Teplice",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=5551e47ef35dcbebaec56d89044a9b29&wsABSTime=1785644131&sys_cache=1785626133",
+        "is_live": true,
+        "match_time": "22:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_fc_slovan_liberec_vs_fk_teplice_luc_2200_ngay_01_08_2026",
+            "tvg_name": "Fc Slovan Liberec Vs Fk Teplice",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_tranmere_rovers_vs_rochdale_luc_2100_ngay_01_08_2026",
         "title": "\u26bd Tranmere Rovers Vs Rochdale",
         "category": "FOOTBALL",
