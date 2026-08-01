@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_dynamo_makhachkala_vs_lokomotiv_moscow_luc_2230_ngay_01_08_2026",
+        "title": "\u26bd Dynamo Makhachkala Vs Lokomotiv Moscow",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=e9ae99ee74cb2a18029cb847d106e332&wsABSTime=1785644140&sys_cache=1785626141",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_dynamo_makhachkala_vs_lokomotiv_moscow_luc_2230_ngay_01_08_2026",
+            "tvg_name": "Dynamo Makhachkala Vs Lokomotiv Moscow",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_lahti_vs_jaro_luc_2200_ngay_01_08_2026",
         "title": "\u26bd Lahti Vs Jaro",
         "category": "FOOTBALL",
