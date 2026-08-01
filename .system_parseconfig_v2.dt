@@ -1,26 +1,20 @@
 [
     {
-  "id": "27",
-  "title": "TESTING",
-  "category": "Sports",
-  "uri": "https://live2.streambylivepulse.com/live/channel27.m3u8",
+  "id": "1",
+  "title": "TEST LIVE",
+  "category": "SPORTS",
+  "uri": "https://live1.streambylivepulse.com/live/channel17/playlist.m3u8?wsSecret=1999ae0c21483214543b6ce0eaea6684&wsABSTime=1785603774",
   "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
   "is_live": true,
   "match_id": "",
   "headers": {
     "Referer": "https://xl365.textliveupdaterz.com/",
-    "Origin": "https://xl365.textliveupdaterz.com",
-    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    "Origin": "https://xl365.textliveupdaterz.com"
   },
   "drm_info": {
     "is_protected": false,
     "drm_type": "",
     "drm_key": ""
-  },
-  "epg_metadata": {
-    "tvg_id": "",
-    "tvg_name": "Channel 27",
-    "tvg_logo": ""
   }
 },
 {
