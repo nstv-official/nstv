@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_01082026_akron_togliatti_vs_rubin_kazan_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd Akron Togliatti Vs Rubin Kazan",
+        "id": "sys_01082026_manchester_city_vs_inter_milan_luc_1830_ngay_01_08_2026",
+        "title": "\u26bd Manchester City Vs Inter Milan",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785613496",
+        "uri": "https://live2.streambylivepulse.com/live/channel9.flv?sys_cache=1785613497",
         "is_live": true,
-        "match_time": "18:00",
+        "match_time": "18:30",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_akron_togliatti_vs_rubin_kazan_luc_1800_ngay_01_08_2026",
-            "tvg_name": "Akron Togliatti Vs Rubin Kazan",
+            "tvg_id": "sys_01082026_manchester_city_vs_inter_milan_luc_1830_ngay_01_08_2026",
+            "tvg_name": "Manchester City Vs Inter Milan",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
