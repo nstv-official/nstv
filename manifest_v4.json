@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_san_marcos_vs_municipal_iquique_luc_0730_ngay_01_08_2026",
-        "title": "\u26bd San Marcos Vs Municipal Iquique",
+        "id": "sys_01082026_nomads_vs_nelson_suburbs_luc_0730_ngay_01_08_2026",
+        "title": "\u26bd Nomads Vs Nelson Suburbs",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=7ae20ea8a189661a16ed051a2036fdbb&wsABSTime=1785591109&sys_cache=1785573111",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=7ae20ea8a189661a16ed051a2036fdbb&wsABSTime=1785591109&sys_cache=1785573112",
         "is_live": true,
         "match_time": "07:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_san_marcos_vs_municipal_iquique_luc_0730_ngay_01_08_2026",
-            "tvg_name": "San Marcos Vs Municipal Iquique",
+            "tvg_id": "sys_01082026_nomads_vs_nelson_suburbs_luc_0730_ngay_01_08_2026",
+            "tvg_name": "Nomads Vs Nelson Suburbs",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
