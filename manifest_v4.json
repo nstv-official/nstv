@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_diriangen_vs_unan_managua_luc_0700_ngay_01_08_2026",
-        "title": "\u26bd Diriangen Vs Unan Managua",
+        "id": "sys_01082026_libertad_fc_vs_orense_sc_luc_0700_ngay_01_08_2026",
+        "title": "\u26bd Libertad Fc Vs Orense Sc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=d2510797238b3f26c42bd7c45f8a4244&wsABSTime=1785586332&sys_cache=1785568333",
+        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=d2510797238b3f26c42bd7c45f8a4244&wsABSTime=1785586332&sys_cache=1785568334",
         "is_live": true,
         "match_time": "07:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_diriangen_vs_unan_managua_luc_0700_ngay_01_08_2026",
-            "tvg_name": "Diriangen Vs Unan Managua",
+            "tvg_id": "sys_01082026_libertad_fc_vs_orense_sc_luc_0700_ngay_01_08_2026",
+            "tvg_name": "Libertad Fc Vs Orense Sc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
