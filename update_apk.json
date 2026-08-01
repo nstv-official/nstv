@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 32,
-  "latestVersionName": "3.0.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.2-release.apk",
+  "latestVersionCode": 33,
+  "latestVersionName": "3.0.3",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.3-release.apk",
   "releaseNotes": "• The Guardian: Sistem perlindungan data agar daftar pertandingan tidak hilang-muncul.\n• Ad-Destroyer: Robot kini lebih agresif menembus iklan pop-up pada sumber Livesports088.\n• Data Freshness: Menjamin link dari laptop Anda tidak terhapus oleh sinkronisasi cloud yang gagal.\n• UI Stability: Perbaikan navigasi dan tampilan TV yang lebih responsif."
 }
