@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_02082026_bandeirante_vs_marilia_ac_luc_0500_ngay_02_08_2026",
-        "title": "\u26bd Bandeirante Vs Marilia Ac",
+        "id": "sys_02082026_cruz_azul_hidalgo_vs_venados_fc_yucatan_luc_0445_ngay_02_08_2026",
+        "title": "\u26bd Cruz Azul Hidalgo Vs Venados Fc Yucatan",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785653066",
+        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785653067",
         "is_live": true,
-        "match_time": "05:00",
+        "match_time": "04:45",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_bandeirante_vs_marilia_ac_luc_0500_ngay_02_08_2026",
-            "tvg_name": "Bandeirante Vs Marilia Ac",
+            "tvg_id": "sys_02082026_cruz_azul_hidalgo_vs_venados_fc_yucatan_luc_0445_ngay_02_08_2026",
+            "tvg_name": "Cruz Azul Hidalgo Vs Venados Fc Yucatan",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
