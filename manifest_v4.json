@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_01082026_nu_dominican_republic_vs_nu_costa_rica_luc_0600_ngay_01_08_2026",
+        "title": "\u26bd Women Dominican Republic Vs Women Costa Rica",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=0f747c4d7ad9314a374785b264d3034a&wsABSTime=1785586320&sys_cache=1785568321",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_nu_dominican_republic_vs_nu_costa_rica_luc_0600_ngay_01_08_2026",
+            "tvg_name": "Women Dominican Republic Vs Women Costa Rica",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_fernando_mora_vs_12_de_junio_vh_luc_0530_ngay_01_08_2026",
         "title": "\u26bd Fernando Mora Vs 12 De Junio Vh",
         "category": "FOOTBALL",
