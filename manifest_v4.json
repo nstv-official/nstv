@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_01082026_saint_etienne_vs_venezia_luc_2300_ngay_01_08_2026",
-        "title": "\u26bd Saint Etienne Vs Venezia",
+        "id": "sys_02082026_estudiantes_cuarto_vs_banfield_luc_0130_ngay_02_08_2026",
+        "title": "\u26bd Estudiantes Cuarto Vs Banfield",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel12.flv?wsSecret=e9ae99ee74cb2a18029cb847d106e332&wsABSTime=1785644140&sys_cache=1785626142",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785640541",
         "is_live": true,
-        "match_time": "23:00",
+        "match_time": "01:30",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,190 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_saint_etienne_vs_venezia_luc_2300_ngay_01_08_2026",
-            "tvg_name": "Saint Etienne Vs Venezia",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_fc_voluntari_vs_uta_arad_luc_2230_ngay_01_08_2026",
-        "title": "\u26bd Fc Voluntari Vs Uta Arad",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel10.flv?wsSecret=a7ccf67e89ad2d3f5cdfe478d6ddc08e&wsABSTime=1785644143&sys_cache=1785626145",
-        "is_live": true,
-        "match_time": "22:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_fc_voluntari_vs_uta_arad_luc_2230_ngay_01_08_2026",
-            "tvg_name": "Fc Voluntari Vs Uta Arad",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_ks_wieczysta_krakow_vs_lech_poznan_luc_2230_ngay_01_08_2026",
-        "title": "\u26bd Ks Wieczysta Krakow Vs Lech Poznan",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=b4510c3ae4320262985c05e3be74252e&wsABSTime=1785644149&sys_cache=1785626150",
-        "is_live": true,
-        "match_time": "22:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_ks_wieczysta_krakow_vs_lech_poznan_luc_2230_ngay_01_08_2026",
-            "tvg_name": "Ks Wieczysta Krakow Vs Lech Poznan",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_lahti_vs_jaro_luc_2200_ngay_01_08_2026",
-        "title": "\u26bd Lahti Vs Jaro",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel4.flv?sys_cache=1785626128",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_lahti_vs_jaro_luc_2200_ngay_01_08_2026",
-            "tvg_name": "Lahti Vs Jaro",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_fc_slovan_liberec_vs_fk_teplice_luc_2200_ngay_01_08_2026",
-        "title": "\u26bd Fc Slovan Liberec Vs Fk Teplice",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=5551e47ef35dcbebaec56d89044a9b29&wsABSTime=1785644131&sys_cache=1785626133",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_fc_slovan_liberec_vs_fk_teplice_luc_2200_ngay_01_08_2026",
-            "tvg_name": "Fc Slovan Liberec Vs Fk Teplice",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_waldhof_mannheim_vs_eintracht_frankfurt_luc_2200_ngay_01_08_2026",
-        "title": "\u26bd Waldhof Mannheim Vs Eintracht Frankfurt",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=6e3b22095ed0a534a8e11e42d920f2fb&wsABSTime=1785644131&sys_cache=1785626138",
-        "is_live": true,
-        "match_time": "22:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_waldhof_mannheim_vs_eintracht_frankfurt_luc_2200_ngay_01_08_2026",
-            "tvg_name": "Waldhof Mannheim Vs Eintracht Frankfurt",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_tranmere_rovers_vs_rochdale_luc_2100_ngay_01_08_2026",
-        "title": "\u26bd Tranmere Rovers Vs Rochdale",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=da2e540757cf7a9a087c5c76167cbc7a&wsABSTime=1785644118&sys_cache=1785626120",
-        "is_live": true,
-        "match_time": "21:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_tranmere_rovers_vs_rochdale_luc_2100_ngay_01_08_2026",
-            "tvg_name": "Tranmere Rovers Vs Rochdale",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_girona_vs_arsenal_luc_0100_ngay_02_08_2026",
-        "title": "\u26bd Girona Vs Arsenal",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel14.flv?sys_cache=1785626115",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel14/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_girona_vs_arsenal_luc_0100_ngay_02_08_2026",
-            "tvg_name": "Girona Vs Arsenal",
+            "tvg_id": "sys_02082026_estudiantes_cuarto_vs_banfield_luc_0130_ngay_02_08_2026",
+            "tvg_name": "Estudiantes Cuarto Vs Banfield",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
