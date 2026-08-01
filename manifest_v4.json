@@ -100,10 +100,10 @@
         }
     },
     {
-        "id": "sys_01082026_nu_zenit_petersburg_vs_nu_krasnodar_fk_luc_1800_ngay_01_08_2026",
-        "title": "\u26bd Women Zenit Petersburg Vs Women Krasnodar Fk",
+        "id": "sys_01082026_shanghai_jiading_vs_guangxi_hengchen_luc_1800_ngay_01_08_2026",
+        "title": "\u26bd Shanghai Jiading Vs Guangxi Hengchen",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=a405c217ecdf0f5d035ce66fda0dc755&wsABSTime=1785631509&sys_cache=1785613511",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=a405c217ecdf0f5d035ce66fda0dc755&wsABSTime=1785631509&sys_cache=1785613512",
         "is_live": true,
         "match_time": "18:00",
         "headers": {
@@ -119,8 +119,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_zenit_petersburg_vs_nu_krasnodar_fk_luc_1800_ngay_01_08_2026",
-            "tvg_name": "Women Zenit Petersburg Vs Women Krasnodar Fk",
+            "tvg_id": "sys_01082026_shanghai_jiading_vs_guangxi_hengchen_luc_1800_ngay_01_08_2026",
+            "tvg_name": "Shanghai Jiading Vs Guangxi Hengchen",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
