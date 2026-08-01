@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_01082026_nu_north_carolina_vs_nu_orlando_pride_luc_0700_ngay_01_08_2026",
-        "title": "\u26bd Women North Carolina Vs Women Orlando Pride",
+        "id": "sys_01082026_minnesota_utd_ii_vs_portland_timbers_r_luc_0700_ngay_01_08_2026",
+        "title": "\u26bd Minnesota Utd Ii Vs Portland Timbers R",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=3b0b47bbf3df18fa74de8d2ede478bd2&wsABSTime=1785586337&sys_cache=1785568340",
+        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=3b0b47bbf3df18fa74de8d2ede478bd2&wsABSTime=1785586337&sys_cache=1785568341",
         "is_live": true,
         "match_time": "07:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_north_carolina_vs_nu_orlando_pride_luc_0700_ngay_01_08_2026",
-            "tvg_name": "Women North Carolina Vs Women Orlando Pride",
+            "tvg_id": "sys_01082026_minnesota_utd_ii_vs_portland_timbers_r_luc_0700_ngay_01_08_2026",
+            "tvg_name": "Minnesota Utd Ii Vs Portland Timbers R",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
