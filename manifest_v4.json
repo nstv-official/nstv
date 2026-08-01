@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_the_cove_fc_vs_cumberland_fc_luc_1430_ngay_01_08_2026",
-        "title": "\u26bd The Cove Fc Vs Cumberland Fc",
+        "id": "sys_01082026_white_city_vs_croydon_kings_luc_1430_ngay_01_08_2026",
+        "title": "\u26bd White City Vs Croydon Kings",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=f56df442aee4681e443aa2010c8ff66a&wsABSTime=1785619281&sys_cache=1785601282",
+        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=f56df442aee4681e443aa2010c8ff66a&wsABSTime=1785619281&sys_cache=1785601283",
         "is_live": true,
         "match_time": "14:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_the_cove_fc_vs_cumberland_fc_luc_1430_ngay_01_08_2026",
-            "tvg_name": "The Cove Fc Vs Cumberland Fc",
+            "tvg_id": "sys_01082026_white_city_vs_croydon_kings_luc_1430_ngay_01_08_2026",
+            "tvg_name": "White City Vs Croydon Kings",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
