@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_01082026_pine_hills_vs_grange_thistle_sc_luc_1500_ngay_01_08_2026",
+        "title": "\u26bd Pine Hills Vs Grange Thistle Sc",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel31.flv?wsSecret=e48e371de3a405b668b5d0c9bf78ef74&wsABSTime=1785619290&sys_cache=1785601296",
+        "is_live": true,
+        "match_time": "15:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_pine_hills_vs_grange_thistle_sc_luc_1500_ngay_01_08_2026",
+            "tvg_name": "Pine Hills Vs Grange Thistle Sc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_monaro_panthers_vs_oconnor_knights_luc_1445_ngay_01_08_2026",
         "title": "\u26bd Monaro Panthers Vs Oconnor Knights",
         "category": "FOOTBALL",
