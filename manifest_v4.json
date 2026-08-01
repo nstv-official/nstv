@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_01082026_ks_wieczysta_krakow_vs_lech_poznan_luc_2230_ngay_01_08_2026",
+        "title": "\u26bd Ks Wieczysta Krakow Vs Lech Poznan",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=b4510c3ae4320262985c05e3be74252e&wsABSTime=1785644149&sys_cache=1785626150",
+        "is_live": true,
+        "match_time": "22:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_ks_wieczysta_krakow_vs_lech_poznan_luc_2230_ngay_01_08_2026",
+            "tvg_name": "Ks Wieczysta Krakow Vs Lech Poznan",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_lahti_vs_jaro_luc_2200_ngay_01_08_2026",
         "title": "\u26bd Lahti Vs Jaro",
         "category": "FOOTBALL",
