@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_02082026_manta_fc_vs_mushuc_runa_luc_0200_ngay_02_08_2026",
+        "title": "\u26bd Manta Fc Vs Mushuc Runa",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=72e9e627c75ff4ec58361fd7047b8648&wsABSTime=1785658560&sys_cache=1785640562",
+        "is_live": true,
+        "match_time": "02:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_manta_fc_vs_mushuc_runa_luc_0200_ngay_02_08_2026",
+            "tvg_name": "Manta Fc Vs Mushuc Runa",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_gimnasia_mendoza_vs_union_santa_fe_luc_0130_ngay_02_08_2026",
         "title": "\u26bd Gimnasia Mendoza Vs Union Santa Fe",
         "category": "FOOTBALL",
