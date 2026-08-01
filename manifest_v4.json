@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_nu_northern_tigers_vs_nu_hills_united_luc_1530_ngay_01_08_2026",
+        "title": "\u26bd Women Northern Tigers Vs Women Hills United",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel5.flv?wsSecret=318e5bb2ac1e8cb7810ae8dfdf5fc613&wsABSTime=1785619306&sys_cache=1785601307",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel5/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_nu_northern_tigers_vs_nu_hills_united_luc_1530_ngay_01_08_2026",
+            "tvg_name": "Women Northern Tigers Vs Women Hills United",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_redlands_united_vs_caboolture_fc_luc_1500_ngay_01_08_2026",
         "title": "\u26bd Redlands United Vs Caboolture Fc",
         "category": "FOOTBALL",
