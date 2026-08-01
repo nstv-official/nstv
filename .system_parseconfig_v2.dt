@@ -1,5 +1,29 @@
 [
     {
+  "id": "27",
+  "title": "TESTING",
+  "category": "Sports",
+  "uri": "https://live2.streambylivepulse.com/live/channel27-1785549944.ts?txspiseq=101952306132003296394",
+  "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+  "is_live": true,
+  "match_id": "",
+  "headers": {
+    "Referer": "https://xl365.textliveupdaterz.com/",
+    "Origin": "https://xl365.textliveupdaterz.com",
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+  },
+  "drm_info": {
+    "is_protected": false,
+    "drm_type": "",
+    "drm_key": ""
+  },
+  "epg_metadata": {
+    "tvg_id": "",
+    "tvg_name": "Channel 27",
+    "tvg_logo": ""
+  }
+},
+{
         "id": "1",
         "title": "13 Bomb Di Jakarta",
         "category": "VOD INDO",
