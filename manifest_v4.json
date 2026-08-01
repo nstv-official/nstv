@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
-        "title": "\u26bd Toronto Fc Ii Vs Columbus Crew B",
+        "id": "sys_01082026_fernando_mora_vs_12_de_junio_vh_luc_0530_ngay_01_08_2026",
+        "title": "\u26bd Fernando Mora Vs 12 De Junio Vh",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=652e44729b8178f0bbb8e83c6e432bb3&wsABSTime=1785586311&sys_cache=1785568312",
+        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=652e44729b8178f0bbb8e83c6e432bb3&wsABSTime=1785586311&sys_cache=1785568313",
         "is_live": true,
-        "match_time": "06:00",
+        "match_time": "05:30",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
-            "tvg_name": "Toronto Fc Ii Vs Columbus Crew B",
+            "tvg_id": "sys_01082026_fernando_mora_vs_12_de_junio_vh_luc_0530_ngay_01_08_2026",
+            "tvg_name": "Fernando Mora Vs 12 De Junio Vh",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
