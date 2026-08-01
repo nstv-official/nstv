@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_01082026_annagh_united_vs_ballymena_united_fc_luc_1830_ngay_01_08_2026",
+        "title": "\u26bd Annagh United Vs Ballymena United Fc",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=1891653facbd6d99b02cbdda8ef99630&wsABSTime=1785631518&sys_cache=1785613521",
+        "is_live": true,
+        "match_time": "18:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel35/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_annagh_united_vs_ballymena_united_fc_luc_1830_ngay_01_08_2026",
+            "tvg_name": "Annagh United Vs Ballymena United Fc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_tianjin_jinmen_tiger_vs_yunnan_yukun_luc_1800_ngay_01_08_2026",
         "title": "\u26bd Tianjin Jinmen Tiger Vs Yunnan Yukun",
         "category": "FOOTBALL",
