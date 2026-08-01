@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_02082026_estudiantes_cuarto_vs_banfield_luc_0130_ngay_02_08_2026",
-        "title": "\u26bd Estudiantes Cuarto Vs Banfield",
+        "id": "sys_02082026_leicester_city_vs_genoa_luc_0130_ngay_02_08_2026",
+        "title": "\u26bd Leicester City Vs Genoa",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785640541",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785640542",
         "is_live": true,
         "match_time": "01:30",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_estudiantes_cuarto_vs_banfield_luc_0130_ngay_02_08_2026",
-            "tvg_name": "Estudiantes Cuarto Vs Banfield",
+            "tvg_id": "sys_02082026_leicester_city_vs_genoa_luc_0130_ngay_02_08_2026",
+            "tvg_name": "Leicester City Vs Genoa",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
