@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_01082026_m_zacatecas_vs_tlaxcala_fc_luc_0800_ngay_01_08_2026",
-        "title": "\u26bd M Zacatecas Vs Tlaxcala Fc",
+        "id": "sys_01082026_puebla_vs_club_guadalajara_luc_0800_ngay_01_08_2026",
+        "title": "\u26bd Puebla Vs Club Guadalajara",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=3fd525766f5cb4eac581ef876a99930e&wsABSTime=1785591114&sys_cache=1785573116",
+        "uri": "https://live1.streambylivepulse.com/live/channel35.flv?wsSecret=3fd525766f5cb4eac581ef876a99930e&wsABSTime=1785591114&sys_cache=1785573117",
         "is_live": true,
         "match_time": "08:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_01082026_m_zacatecas_vs_tlaxcala_fc_luc_0800_ngay_01_08_2026",
-            "tvg_name": "M Zacatecas Vs Tlaxcala Fc",
+            "tvg_id": "sys_01082026_puebla_vs_club_guadalajara_luc_0800_ngay_01_08_2026",
+            "tvg_name": "Puebla Vs Club Guadalajara",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
