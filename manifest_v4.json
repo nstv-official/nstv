@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_01082026_shaanxi_union_u20_vs_zhejiang_fc_u21_luc_1530_ngay_01_08_2026",
+        "title": "\u26bd Shaanxi Union U20 Vs Zhejiang Fc U21",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?sys_cache=1785601314",
+        "is_live": true,
+        "match_time": "15:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_shaanxi_union_u20_vs_zhejiang_fc_u21_luc_1530_ngay_01_08_2026",
+            "tvg_name": "Shaanxi Union U20 Vs Zhejiang Fc U21",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_redlands_united_vs_caboolture_fc_luc_1500_ngay_01_08_2026",
         "title": "\u26bd Redlands United Vs Caboolture Fc",
         "category": "FOOTBALL",
@@ -121,32 +147,6 @@
         "epg_metadata": {
             "tvg_id": "sys_01082026_levante_vs_albacete_luc_1500_ngay_01_08_2026",
             "tvg_name": "Levante Vs Albacete",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_nu_cairns_dolphins_vs_nu_townsville_flames_luc_1500_ngay_01_08_2026",
-        "title": "\u26bd Women Cairns Dolphins Vs Women Townsville Flames",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel29.flv?sys_cache=1785601313",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel29/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_cairns_dolphins_vs_nu_townsville_flames_luc_1500_ngay_01_08_2026",
-            "tvg_name": "Women Cairns Dolphins Vs Women Townsville Flames",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
