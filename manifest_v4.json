@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_02082026_leicester_city_vs_genoa_luc_0130_ngay_02_08_2026",
-        "title": "\u26bd Leicester City Vs Genoa",
+        "id": "sys_02082026_nk_publikum_celje_vs_maribor_luc_0115_ngay_02_08_2026",
+        "title": "\u26bd Nk Publikum Celje Vs Maribor",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785640542",
+        "uri": "https://live2.streambylivepulse.com/live/channel6.flv?sys_cache=1785640543",
         "is_live": true,
-        "match_time": "01:30",
+        "match_time": "01:15",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_leicester_city_vs_genoa_luc_0130_ngay_02_08_2026",
-            "tvg_name": "Leicester City Vs Genoa",
+            "tvg_id": "sys_02082026_nk_publikum_celje_vs_maribor_luc_0115_ngay_02_08_2026",
+            "tvg_name": "Nk Publikum Celje Vs Maribor",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
