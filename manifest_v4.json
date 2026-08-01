@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_concepcion_vs_audax_italiano_luc_0700_ngay_01_08_2026",
+        "title": "\u26bd Concepcion Vs Audax Italiano",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=b976904d1fc7b49e2ce381c5f9ac3000&wsABSTime=1785591100&sys_cache=1785573102",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_concepcion_vs_audax_italiano_luc_0700_ngay_01_08_2026",
+            "tvg_name": "Concepcion Vs Audax Italiano",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_libertad_fc_vs_orense_sc_luc_0700_ngay_01_08_2026",
         "title": "\u26bd Libertad Fc Vs Orense Sc",
         "category": "FOOTBALL",
@@ -29,11 +55,7 @@
         "is_live": true,
         "match_time": "07:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -55,11 +77,7 @@
         "is_live": true,
         "match_time": "07:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -81,11 +99,7 @@
         "is_live": true,
         "match_time": "07:00",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel42/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -107,11 +121,7 @@
         "is_live": true,
         "match_time": "06:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -121,110 +131,6 @@
         "epg_metadata": {
             "tvg_id": "sys_01082026_nu_atlanta_dream_vs_nu_seattle_storm_luc_0630_ngay_01_08_2026",
             "tvg_name": "Women Atlanta Dream Vs Women Seattle Storm",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_real_tomayapo_vs_academia_del_balompie_boliviano_luc_0600_ngay_01_08_2026",
-        "title": "\u26bd Real Tomayapo Vs Academia Del Balompie Boliviano",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel11.flv?wsSecret=ad977f28094bb5fdf46aa90da8e2c749&wsABSTime=1785586314&sys_cache=1785568318",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel11/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_real_tomayapo_vs_academia_del_balompie_boliviano_luc_0600_ngay_01_08_2026",
-            "tvg_name": "Real Tomayapo Vs Academia Del Balompie Boliviano",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_nu_dominican_republic_vs_nu_costa_rica_luc_0600_ngay_01_08_2026",
-        "title": "\u26bd Women Dominican Republic Vs Women Costa Rica",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel13.flv?wsSecret=0f747c4d7ad9314a374785b264d3034a&wsABSTime=1785586320&sys_cache=1785568321",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_nu_dominican_republic_vs_nu_costa_rica_luc_0600_ngay_01_08_2026",
-            "tvg_name": "Women Dominican Republic Vs Women Costa Rica",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_01082026_fernando_mora_vs_12_de_junio_vh_luc_0530_ngay_01_08_2026",
-        "title": "\u26bd Fernando Mora Vs 12 De Junio Vh",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel7.flv?wsSecret=652e44729b8178f0bbb8e83c6e432bb3&wsABSTime=1785586311&sys_cache=1785568313",
-        "is_live": true,
-        "match_time": "05:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_fernando_mora_vs_12_de_junio_vh_luc_0530_ngay_01_08_2026",
-            "tvg_name": "Fernando Mora Vs 12 De Junio Vh",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_comercial_sp_vs_uniao_sao_joao_luc_0200_ngay_02_08_2026",
-        "title": "\u26bd Comercial Sp Vs Uniao Sao Joao",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=0ca24bd0e51dc19bedb4e3d607accf58&wsABSTime=1785586325&sys_cache=1785568329",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_comercial_sp_vs_uniao_sao_joao_luc_0200_ngay_02_08_2026",
-            "tvg_name": "Comercial Sp Vs Uniao Sao Joao",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
