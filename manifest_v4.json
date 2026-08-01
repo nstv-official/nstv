@@ -126,6 +126,32 @@
         }
     },
     {
+        "id": "sys_02082026_loudoun_united_vs_hartford_athletic_luc_0600_ngay_02_08_2026",
+        "title": "\u26bd Loudoun United Vs Hartford Athletic",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel37.flv?wsSecret=02db06c0fecdbf8dbe268f5909832a0f&wsABSTime=1785671094&sys_cache=1785653095",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_loudoun_united_vs_hartford_athletic_luc_0600_ngay_02_08_2026",
+            "tvg_name": "Loudoun United Vs Hartford Athletic",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_atletico_mineiro_vs_esporte_clube_juventude_luc_0530_ngay_02_08_2026",
         "title": "\u26bd Atletico Mineiro Vs Esporte Clube Juventude",
         "category": "FOOTBALL",
