@@ -88,32 +88,6 @@
         }
     },
     {
-        "id": "sys_01082026_new_york_city_vs_toronto_fc_luc_0630_ngay_01_08_2026",
-        "title": "\u26bd New York City Vs Toronto Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=b976904d1fc7b49e2ce381c5f9ac3000&wsABSTime=1785591100&sys_cache=1785573103",
-        "is_live": true,
-        "match_time": "06:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_01082026_new_york_city_vs_toronto_fc_luc_0630_ngay_01_08_2026",
-            "tvg_name": "New York City Vs Toronto Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_01082026_nu_atlanta_dream_vs_nu_seattle_storm_luc_0630_ngay_01_08_2026",
         "title": "\u26bd Women Atlanta Dream Vs Women Seattle Storm",
         "category": "FOOTBALL",
@@ -131,6 +105,32 @@
         "epg_metadata": {
             "tvg_id": "sys_01082026_nu_atlanta_dream_vs_nu_seattle_storm_luc_0630_ngay_01_08_2026",
             "tvg_name": "Women Atlanta Dream Vs Women Seattle Storm",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
+        "title": "\u26bd Toronto Fc Ii Vs Columbus Crew B",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=b976904d1fc7b49e2ce381c5f9ac3000&wsABSTime=1785591100&sys_cache=1785573104",
+        "is_live": true,
+        "match_time": "06:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_toronto_fc_ii_vs_columbus_crew_b_luc_0600_ngay_01_08_2026",
+            "tvg_name": "Toronto Fc Ii Vs Columbus Crew B",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
