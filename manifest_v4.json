@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_01082026_concepcion_vs_audax_italiano_luc_0700_ngay_01_08_2026",
+        "title": "\u26bd Concepcion Vs Audax Italiano",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel15.flv?wsSecret=0ca24bd0e51dc19bedb4e3d607accf58&wsABSTime=1785586325&sys_cache=1785568327",
+        "is_live": true,
+        "match_time": "07:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel15/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_01082026_concepcion_vs_audax_italiano_luc_0700_ngay_01_08_2026",
+            "tvg_name": "Concepcion Vs Audax Italiano",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_01082026_real_tomayapo_vs_academia_del_balompie_boliviano_luc_0600_ngay_01_08_2026",
         "title": "\u26bd Real Tomayapo Vs Academia Del Balompie Boliviano",
         "category": "FOOTBALL",
