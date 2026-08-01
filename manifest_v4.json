@@ -74,10 +74,10 @@
         }
     },
     {
-        "id": "sys_02082026_dominican_u23_vs_mexico_u23_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Dominican U23 Vs Mexico U23",
+        "id": "sys_02082026_cusco_fc_vs_utc_cajamarca_luc_0600_ngay_02_08_2026",
+        "title": "\u26bd Cusco Fc Vs Utc Cajamarca",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=9ccd629d15409be8eb516ac2d30e0ada&wsABSTime=1785671086&sys_cache=1785653087",
+        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=9ccd629d15409be8eb516ac2d30e0ada&wsABSTime=1785671086&sys_cache=1785653088",
         "is_live": true,
         "match_time": "06:00",
         "headers": {
@@ -93,8 +93,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_dominican_u23_vs_mexico_u23_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Dominican U23 Vs Mexico U23",
+            "tvg_id": "sys_02082026_cusco_fc_vs_utc_cajamarca_luc_0600_ngay_02_08_2026",
+            "tvg_name": "Cusco Fc Vs Utc Cajamarca",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
