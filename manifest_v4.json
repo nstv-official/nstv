@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_02082026_gravatt_hawks_vs_ac_carina_luc_1400_ngay_02_08_2026",
+        "title": "\u26bd Gravatt Hawks Vs Ac Carina",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=251d58bad95d23ce45e9c3dffdfda5a6&wsABSTime=1785700493&sys_cache=1785682495",
+        "is_live": true,
+        "match_time": "14:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_gravatt_hawks_vs_ac_carina_luc_1400_ngay_02_08_2026",
+            "tvg_name": "Gravatt Hawks Vs Ac Carina",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_sydney_olympic_vs_a_p_i_a_leichhardt_luc_1300_ngay_02_08_2026",
         "title": "\u26bd Sydney Olympic Vs A P I A Leichhardt",
         "category": "FOOTBALL",
