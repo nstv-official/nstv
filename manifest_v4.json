@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_02082026_fc_kharkiv_u21_vs_veres_rivne_u21_luc_1700_ngay_02_08_2026",
+        "title": "\u26bd Fc Kharkiv U21 Vs Veres Rivne U21",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=17a4df153264ff6fdf873e208be06c8f&wsABSTime=1785714402&sys_cache=1785696409",
+        "is_live": true,
+        "match_time": "17:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_fc_kharkiv_u21_vs_veres_rivne_u21_luc_1700_ngay_02_08_2026",
+            "tvg_name": "Fc Kharkiv U21 Vs Veres Rivne U21",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_nu_portland_fire_vs_nu_los_angeles_sparks_luc_0230_ngay_03_08_2026",
         "title": "\u26bd Women Portland Fire Vs Women Los Angeles Sparks",
         "category": "FOOTBALL",
