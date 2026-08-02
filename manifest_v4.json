@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_03082026_nu_utah_royals_vs_nu_portland_thorns_luc_0610_ngay_03_08_2026",
-        "title": "\u26bd Women Utah Royals Vs Women Portland Thorns",
+        "id": "sys_03082026_leones_del_norte_vs_barcelona_sc_luc_0610_ngay_03_08_2026",
+        "title": "\u26bd Leones Del Norte Vs Barcelona Sc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=f422dbf41f3ce0eb6f5dae8c5dc061cc&wsABSTime=1785757089&sys_cache=1785739090",
+        "uri": "https://live1.streambylivepulse.com/live/channel30.flv?wsSecret=f422dbf41f3ce0eb6f5dae8c5dc061cc&wsABSTime=1785757089&sys_cache=1785739091",
         "is_live": true,
         "match_time": "06:10",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_03082026_nu_utah_royals_vs_nu_portland_thorns_luc_0610_ngay_03_08_2026",
-            "tvg_name": "Women Utah Royals Vs Women Portland Thorns",
+            "tvg_id": "sys_03082026_leones_del_norte_vs_barcelona_sc_luc_0610_ngay_03_08_2026",
+            "tvg_name": "Leones Del Norte Vs Barcelona Sc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
