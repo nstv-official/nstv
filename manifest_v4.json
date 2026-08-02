@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_02082026_sibir_novosibirsk_vs_rodina_moskva_ii_luc_1700_ngay_02_08_2026",
-        "title": "\u26bd Sibir Novosibirsk Vs Rodina Moskva Ii",
+        "id": "sys_02082026_shanghai_port_u20_vs_henan_fc_u20_luc_1700_ngay_02_08_2026",
+        "title": "\u26bd Shanghai Port U20 Vs Henan Fc U20",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=d0579708f34191c160077ea903cb6578&wsABSTime=1785714402&sys_cache=1785696404",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=d0579708f34191c160077ea903cb6578&wsABSTime=1785714402&sys_cache=1785696405",
         "is_live": true,
         "match_time": "17:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_sibir_novosibirsk_vs_rodina_moskva_ii_luc_1700_ngay_02_08_2026",
-            "tvg_name": "Sibir Novosibirsk Vs Rodina Moskva Ii",
+            "tvg_id": "sys_02082026_shanghai_port_u20_vs_henan_fc_u20_luc_1700_ngay_02_08_2026",
+            "tvg_name": "Shanghai Port U20 Vs Henan Fc U20",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
