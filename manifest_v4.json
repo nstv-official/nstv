@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_03082026_olimpija_ljubljana_vs_nk_aluminij_luc_0115_ngay_03_08_2026",
+        "title": "\u26bd Olimpija Ljubljana Vs Nk Aluminij",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=ef408c5aa196c36aef02a540b8f919d9&wsABSTime=1785744147&sys_cache=1785726152",
+        "is_live": true,
+        "match_time": "01:15",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_olimpija_ljubljana_vs_nk_aluminij_luc_0115_ngay_03_08_2026",
+            "tvg_name": "Olimpija Ljubljana Vs Nk Aluminij",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_ind_del_valle_vs_deportivo_cuenca_luc_0100_ngay_03_08_2026",
         "title": "\u26bd Ind Del Valle Vs Deportivo Cuenca",
         "category": "FOOTBALL",
