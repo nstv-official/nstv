@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_02082026_fk_ural_2_vs_akron_togliatti_2_luc_1500_ngay_02_08_2026",
-        "title": "\u26bd Fk Ural 2 Vs Akron Togliatti 2",
+        "id": "sys_02082026_qingdao_island_vs_qingdao_manatee_luc_1700_ngay_02_08_2026",
+        "title": "\u26bd Qingdao Island Vs Qingdao Manatee",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=cc132891d3210d8338e45c39cbe284e8&wsABSTime=1785700502&sys_cache=1785682508",
+        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=474d0bbb77864a57975b7d17a15f426f&wsABSTime=1785714397&sys_cache=1785696398",
         "is_live": true,
-        "match_time": "15:00",
+        "match_time": "17:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,190 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_fk_ural_2_vs_akron_togliatti_2_luc_1500_ngay_02_08_2026",
-            "tvg_name": "Fk Ural 2 Vs Akron Togliatti 2",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_d_vladivostok_vs_dynamo_bryansk_luc_1500_ngay_02_08_2026",
-        "title": "\u26bd D Vladivostok Vs Dynamo Bryansk",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel4.flv?wsSecret=99a9b124233d5fe056e4eec0089e9885&wsABSTime=1785700508&sys_cache=1785682510",
-        "is_live": true,
-        "match_time": "15:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_d_vladivostok_vs_dynamo_bryansk_luc_1500_ngay_02_08_2026",
-            "tvg_name": "D Vladivostok Vs Dynamo Bryansk",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_nu_ws_wanderers_b_vs_nu_mt_druitt_rangers_luc_1400_ngay_02_08_2026",
-        "title": "\u26bd Women Ws Wanderers B Vs Women Mt Druitt Rangers",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=59ca0793906b5efdff4d8bd7cda23ef7&wsABSTime=1785700489&sys_cache=1785682492",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_nu_ws_wanderers_b_vs_nu_mt_druitt_rangers_luc_1400_ngay_02_08_2026",
-            "tvg_name": "Women Ws Wanderers B Vs Women Mt Druitt Rangers",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_gravatt_hawks_vs_ac_carina_luc_1400_ngay_02_08_2026",
-        "title": "\u26bd Gravatt Hawks Vs Ac Carina",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=251d58bad95d23ce45e9c3dffdfda5a6&wsABSTime=1785700493&sys_cache=1785682495",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_gravatt_hawks_vs_ac_carina_luc_1400_ngay_02_08_2026",
-            "tvg_name": "Gravatt Hawks Vs Ac Carina",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_souths_united_vs_southside_eagles_luc_1400_ngay_02_08_2026",
-        "title": "\u26bd Souths United Vs Southside Eagles",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=7bce16fb7aed6689fc6f40ab9a8aa234&wsABSTime=1785700494&sys_cache=1785682499",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_souths_united_vs_southside_eagles_luc_1400_ngay_02_08_2026",
-            "tvg_name": "Souths United Vs Southside Eagles",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_nu_unsw_fc_vs_nu_manly_utd_luc_1400_ngay_02_08_2026",
-        "title": "\u26bd Women Unsw Fc Vs Women Manly Utd",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=8c01224af4d4553cd87b293dd008ac17&wsABSTime=1785700502&sys_cache=1785682505",
-        "is_live": true,
-        "match_time": "14:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_nu_unsw_fc_vs_nu_manly_utd_luc_1400_ngay_02_08_2026",
-            "tvg_name": "Women Unsw Fc Vs Women Manly Utd",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_sydney_olympic_vs_a_p_i_a_leichhardt_luc_1300_ngay_02_08_2026",
-        "title": "\u26bd Sydney Olympic Vs A P I A Leichhardt",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=aa8b4a3f65f7e2af359fc05f07c7168d&wsABSTime=1785700486&sys_cache=1785682488",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_sydney_olympic_vs_a_p_i_a_leichhardt_luc_1300_ngay_02_08_2026",
-            "tvg_name": "Sydney Olympic Vs A P I A Leichhardt",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_canterbury_rams_vs_southland_sharks_luc_1300_ngay_02_08_2026",
-        "title": "\u26bd Canterbury Rams Vs Southland Sharks",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?sys_cache=1785682518",
-        "is_live": true,
-        "match_time": "13:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel26/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_canterbury_rams_vs_southland_sharks_luc_1300_ngay_02_08_2026",
-            "tvg_name": "Canterbury Rams Vs Southland Sharks",
+            "tvg_id": "sys_02082026_qingdao_island_vs_qingdao_manatee_luc_1700_ngay_02_08_2026",
+            "tvg_name": "Qingdao Island Vs Qingdao Manatee",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
@@ -237,11 +55,7 @@
         "is_live": true,
         "match_time": "02:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
@@ -263,11 +77,7 @@
         "is_live": true,
         "match_time": "01:30",
         "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
+            "User-Agent": "Mozilla/5.0"
         },
         "drm_info": {
             "is_protected": false,
