@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_03082026_nu_unam_pumas_vs_nu_leon_luc_0100_ngay_03_08_2026",
-        "title": "\u26bd Women Unam Pumas Vs Women Leon",
+        "id": "sys_03082026_ind_del_valle_vs_deportivo_cuenca_luc_0100_ngay_03_08_2026",
+        "title": "\u26bd Ind Del Valle Vs Deportivo Cuenca",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel20.flv?sys_cache=1785726139",
+        "uri": "https://live2.streambylivepulse.com/live/channel20.flv?sys_cache=1785726141",
         "is_live": true,
         "match_time": "01:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_03082026_nu_unam_pumas_vs_nu_leon_luc_0100_ngay_03_08_2026",
-            "tvg_name": "Women Unam Pumas Vs Women Leon",
+            "tvg_id": "sys_03082026_ind_del_valle_vs_deportivo_cuenca_luc_0100_ngay_03_08_2026",
+            "tvg_name": "Ind Del Valle Vs Deportivo Cuenca",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
