@@ -228,5 +228,31 @@
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
+    },
+    {
+        "id": "sys_03082026_nu_slovenia_u18_vs_nu_montenegro_u18_luc_0130_ngay_03_08_2026",
+        "title": "\u26bd Women Slovenia U18 Vs Women Montenegro U18",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel49.flv?wsSecret=65770037535c022fe0d9ece20cf11d1b&wsABSTime=1785700516&sys_cache=1785682522",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel49/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_nu_slovenia_u18_vs_nu_montenegro_u18_luc_0130_ngay_03_08_2026",
+            "tvg_name": "Women Slovenia U18 Vs Women Montenegro U18",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
     }
 ]
