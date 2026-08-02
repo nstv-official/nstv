@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_03082026_juventus_sp_vs_primavera_luc_0200_ngay_03_08_2026",
-        "title": "\u26bd Juventus Sp Vs Primavera",
+        "id": "sys_03082026_barranquilla_fc_vs_atletico_fc_luc_0500_ngay_03_08_2026",
+        "title": "\u26bd Barranquilla Fc Vs Atletico Fc",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=b90cf911361541563dbea3ae4e46cd87&wsABSTime=1785744165&sys_cache=1785726167",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=dbfa9687dfa4ae9a7400a2f82f900ed6&wsABSTime=1785757064&sys_cache=1785739065",
         "is_live": true,
-        "match_time": "02:00",
+        "match_time": "05:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel21/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,216 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_03082026_juventus_sp_vs_primavera_luc_0200_ngay_03_08_2026",
-            "tvg_name": "Juventus Sp Vs Primavera",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_palmeiras_vs_fortaleza_luc_0200_ngay_03_08_2026",
-        "title": "\u26bd Palmeiras Vs Fortaleza",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785726172",
-        "is_live": true,
-        "match_time": "02:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_palmeiras_vs_fortaleza_luc_0200_ngay_03_08_2026",
-            "tvg_name": "Palmeiras Vs Fortaleza",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_ascoli_vs_lazio_luc_0145_ngay_03_08_2026",
-        "title": "\u26bd Ascoli Vs Lazio",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=6de7f896e6135186d2467d8c95a60beb&wsABSTime=1785744160&sys_cache=1785726162",
-        "is_live": true,
-        "match_time": "01:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_ascoli_vs_lazio_luc_0145_ngay_03_08_2026",
-            "tvg_name": "Ascoli Vs Lazio",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_fc_rapid_1923_vs_cfr_cluj_luc_0130_ngay_03_08_2026",
-        "title": "\u26bd Fc Rapid 1923 Vs Cfr Cluj",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=6cb8ea133d540f56ca519c980d240069&wsABSTime=1785744149&sys_cache=1785726153",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_fc_rapid_1923_vs_cfr_cluj_luc_0130_ngay_03_08_2026",
-            "tvg_name": "Fc Rapid 1923 Vs Cfr Cluj",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_temperley_vs_gimnasia_ytiro_luc_0130_ngay_03_08_2026",
-        "title": "\u26bd Temperley Vs Gimnasia Ytiro",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel20.flv?wsSecret=1ca4308a64787f40d8f4f2234b13ae9a&wsABSTime=1785744155&sys_cache=1785726157",
-        "is_live": true,
-        "match_time": "01:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_temperley_vs_gimnasia_ytiro_luc_0130_ngay_03_08_2026",
-            "tvg_name": "Temperley Vs Gimnasia Ytiro",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_ad_tarma_vs_dep_garcilaso_luc_0115_ngay_03_08_2026",
-        "title": "\u26bd Ad Tarma Vs Dep Garcilaso",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel8.flv?wsSecret=f84ba208d0c8c2199a8e8047e4657bc4&wsABSTime=1785744143&sys_cache=1785726149",
-        "is_live": true,
-        "match_time": "01:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel8/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_ad_tarma_vs_dep_garcilaso_luc_0115_ngay_03_08_2026",
-            "tvg_name": "Ad Tarma Vs Dep Garcilaso",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_olimpija_ljubljana_vs_nk_aluminij_luc_0115_ngay_03_08_2026",
-        "title": "\u26bd Olimpija Ljubljana Vs Nk Aluminij",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=ef408c5aa196c36aef02a540b8f919d9&wsABSTime=1785744147&sys_cache=1785726152",
-        "is_live": true,
-        "match_time": "01:15",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_olimpija_ljubljana_vs_nk_aluminij_luc_0115_ngay_03_08_2026",
-            "tvg_name": "Olimpija Ljubljana Vs Nk Aluminij",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_ind_del_valle_vs_deportivo_cuenca_luc_0100_ngay_03_08_2026",
-        "title": "\u26bd Ind Del Valle Vs Deportivo Cuenca",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel20.flv?sys_cache=1785726141",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_ind_del_valle_vs_deportivo_cuenca_luc_0100_ngay_03_08_2026",
-            "tvg_name": "Ind Del Valle Vs Deportivo Cuenca",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_03082026_partizan_belgrade_vs_fk_imt_belgrad_luc_0100_ngay_03_08_2026",
-        "title": "\u26bd Partizan Belgrade Vs Fk Imt Belgrad",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel16.flv?sys_cache=1785726145",
-        "is_live": true,
-        "match_time": "01:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_partizan_belgrade_vs_fk_imt_belgrad_luc_0100_ngay_03_08_2026",
-            "tvg_name": "Partizan Belgrade Vs Fk Imt Belgrad",
+            "tvg_id": "sys_03082026_barranquilla_fc_vs_atletico_fc_luc_0500_ngay_03_08_2026",
+            "tvg_name": "Barranquilla Fc Vs Atletico Fc",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
