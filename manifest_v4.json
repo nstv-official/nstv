@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_03082026_veraguas_fc_vs_cd_universitario_luc_0615_ngay_03_08_2026",
+        "title": "\u26bd Veraguas Fc Vs Cd Universitario",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel3.flv?wsSecret=1d9315be2f5ca5a17b1462fd7c55a625&wsABSTime=1785757093&sys_cache=1785739095",
+        "is_live": true,
+        "match_time": "06:15",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel3/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_veraguas_fc_vs_cd_universitario_luc_0615_ngay_03_08_2026",
+            "tvg_name": "Veraguas Fc Vs Cd Universitario",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_leones_del_norte_vs_barcelona_sc_luc_0610_ngay_03_08_2026",
         "title": "\u26bd Leones Del Norte Vs Barcelona Sc",
         "category": "FOOTBALL",
