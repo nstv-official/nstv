@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_02082026_shenzhen_juniors_vs_wuxi_wugo_luc_1800_ngay_02_08_2026",
+        "title": "\u26bd Shenzhen Juniors Vs Wuxi Wugo",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=4e0afe6932806febdc680212566e3044&wsABSTime=1785714430&sys_cache=1785696434",
+        "is_live": true,
+        "match_time": "18:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_shenzhen_juniors_vs_wuxi_wugo_luc_1800_ngay_02_08_2026",
+            "tvg_name": "Shenzhen Juniors Vs Wuxi Wugo",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_daejeon_citizen_vs_gwangju_fc_luc_1730_ngay_02_08_2026",
         "title": "\u26bd Daejeon Citizen Vs Gwangju Fc",
         "category": "FOOTBALL",
