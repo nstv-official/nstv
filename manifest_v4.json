@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_03082026_ascoli_vs_lazio_luc_0145_ngay_03_08_2026",
+        "title": "\u26bd Ascoli Vs Lazio",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=6de7f896e6135186d2467d8c95a60beb&wsABSTime=1785744160&sys_cache=1785726162",
+        "is_live": true,
+        "match_time": "01:45",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_ascoli_vs_lazio_luc_0145_ngay_03_08_2026",
+            "tvg_name": "Ascoli Vs Lazio",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_fc_rapid_1923_vs_cfr_cluj_luc_0130_ngay_03_08_2026",
         "title": "\u26bd Fc Rapid 1923 Vs Cfr Cluj",
         "category": "FOOTBALL",
