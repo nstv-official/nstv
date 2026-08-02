@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_02082026_dc_united_vs_nashville_luc_0630_ngay_02_08_2026",
-        "title": "\u26bd Dc United Vs Nashville",
+        "id": "sys_02082026_nu_apia_l_tigers_vs_nu_bulls_academy_luc_1350_ngay_02_08_2026",
+        "title": "\u26bd Women Apia L Tigers Vs Women Bulls Academy",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel1.flv?wsSecret=5377c5695c3e9525e52d674179849f0a&wsABSTime=1785671094&sys_cache=1785653099",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=aa8b4a3f65f7e2af359fc05f07c7168d&wsABSTime=1785700486&sys_cache=1785682487",
         "is_live": true,
-        "match_time": "06:30",
+        "match_time": "13:50",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel1/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,190 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_dc_united_vs_nashville_luc_0630_ngay_02_08_2026",
-            "tvg_name": "Dc United Vs Nashville",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_queretaro_fc_vs_tigres_uanl_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Queretaro Fc Vs Tigres Uanl",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=f9bf1a8cf84a48fe1f51ed68f3920dc4&wsABSTime=1785671073&sys_cache=1785653075",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_queretaro_fc_vs_tigres_uanl_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Queretaro Fc Vs Tigres Uanl",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_new_york_city_b_vs_philadelphia_union_ii_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd New York City B Vs Philadelphia Union Ii",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel28.flv?wsSecret=77f7bb267386cdc71f1ef85f22b4fc7b&wsABSTime=1785671078&sys_cache=1785653081",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_new_york_city_b_vs_philadelphia_union_ii_luc_0600_ngay_02_08_2026",
-            "tvg_name": "New York City B Vs Philadelphia Union Ii",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_cusco_fc_vs_utc_cajamarca_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Cusco Fc Vs Utc Cajamarca",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=9ccd629d15409be8eb516ac2d30e0ada&wsABSTime=1785671086&sys_cache=1785653088",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel32/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_cusco_fc_vs_utc_cajamarca_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Cusco Fc Vs Utc Cajamarca",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_miami_fc_vs_detroit_city_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Miami Fc Vs Detroit City",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=4b5d89734826c375fe305c6f26be57ce&wsABSTime=1785671086&sys_cache=1785653092",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel34/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_miami_fc_vs_detroit_city_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Miami Fc Vs Detroit City",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_loudoun_united_vs_hartford_athletic_luc_0600_ngay_02_08_2026",
-        "title": "\u26bd Loudoun United Vs Hartford Athletic",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel37.flv?wsSecret=02db06c0fecdbf8dbe268f5909832a0f&wsABSTime=1785671094&sys_cache=1785653095",
-        "is_live": true,
-        "match_time": "06:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel37/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_loudoun_united_vs_hartford_athletic_luc_0600_ngay_02_08_2026",
-            "tvg_name": "Loudoun United Vs Hartford Athletic",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_atletico_mineiro_vs_esporte_clube_juventude_luc_0530_ngay_02_08_2026",
-        "title": "\u26bd Atletico Mineiro Vs Esporte Clube Juventude",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel25.flv?wsSecret=ecb077736327c1b005acf2a5d7631c6d&wsABSTime=1785671069&sys_cache=1785653071",
-        "is_live": true,
-        "match_time": "05:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_atletico_mineiro_vs_esporte_clube_juventude_luc_0530_ngay_02_08_2026",
-            "tvg_name": "Atletico Mineiro Vs Esporte Clube Juventude",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_cruz_azul_hidalgo_vs_venados_fc_yucatan_luc_0445_ngay_02_08_2026",
-        "title": "\u26bd Cruz Azul Hidalgo Vs Venados Fc Yucatan",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel27.flv?sys_cache=1785653067",
-        "is_live": true,
-        "match_time": "04:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel27/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_cruz_azul_hidalgo_vs_venados_fc_yucatan_luc_0445_ngay_02_08_2026",
-            "tvg_name": "Cruz Azul Hidalgo Vs Venados Fc Yucatan",
+            "tvg_id": "sys_02082026_nu_apia_l_tigers_vs_nu_bulls_academy_luc_1350_ngay_02_08_2026",
+            "tvg_name": "Women Apia L Tigers Vs Women Bulls Academy",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
