@@ -74,6 +74,32 @@
         }
     },
     {
+        "id": "sys_02082026_mohammedan_sc_vs_samaleshwari_sc_luc_1730_ngay_02_08_2026",
+        "title": "\u26bd Mohammedan Sc Vs Samaleshwari Sc",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?sys_cache=1785696427",
+        "is_live": true,
+        "match_time": "17:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_mohammedan_sc_vs_samaleshwari_sc_luc_1730_ngay_02_08_2026",
+            "tvg_name": "Mohammedan Sc Vs Samaleshwari Sc",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_qingdao_island_vs_qingdao_manatee_luc_1700_ngay_02_08_2026",
         "title": "\u26bd Qingdao Island Vs Qingdao Manatee",
         "category": "FOOTBALL",
