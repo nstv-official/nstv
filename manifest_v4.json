@@ -100,6 +100,32 @@
         }
     },
     {
+        "id": "sys_02082026_burnley_vs_torino_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Burnley Vs Torino",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=b814b3c8fa3e54c43595fa6adb38e1b5&wsABSTime=1785728703&sys_cache=1785710704",
+        "is_live": true,
+        "match_time": "21:00",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel34/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_burnley_vs_torino_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Burnley Vs Torino",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_nu_portland_fire_vs_nu_los_angeles_sparks_luc_0230_ngay_03_08_2026",
         "title": "\u26bd Women Portland Fire Vs Women Los Angeles Sparks",
         "category": "FOOTBALL",
