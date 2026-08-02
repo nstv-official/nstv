@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_03082026_fc_rapid_1923_vs_cfr_cluj_luc_0130_ngay_03_08_2026",
+        "title": "\u26bd Fc Rapid 1923 Vs Cfr Cluj",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=6cb8ea133d540f56ca519c980d240069&wsABSTime=1785744149&sys_cache=1785726153",
+        "is_live": true,
+        "match_time": "01:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_fc_rapid_1923_vs_cfr_cluj_luc_0130_ngay_03_08_2026",
+            "tvg_name": "Fc Rapid 1923 Vs Cfr Cluj",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_ad_tarma_vs_dep_garcilaso_luc_0115_ngay_03_08_2026",
         "title": "\u26bd Ad Tarma Vs Dep Garcilaso",
         "category": "FOOTBALL",
