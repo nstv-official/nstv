@@ -22,32 +22,6 @@
         }
     },
     {
-        "id": "sys_03082026_america_de_cali_vs_boyaca_chico_luc_0545_ngay_03_08_2026",
-        "title": "\u26bd America De Cali Vs Boyaca Chico",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=a2e8fa756b57e88c341a49ea4037ea3a&wsABSTime=1785757073&sys_cache=1785739075",
-        "is_live": true,
-        "match_time": "05:45",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_03082026_america_de_cali_vs_boyaca_chico_luc_0545_ngay_03_08_2026",
-            "tvg_name": "America De Cali Vs Boyaca Chico",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
         "id": "sys_03082026_internacional_rs_vs_corinthians_sp_luc_0530_ngay_03_08_2026",
         "title": "\u26bd Internacional Rs Vs Corinthians Sp",
         "category": "FOOTBALL",
@@ -69,6 +43,32 @@
         "epg_metadata": {
             "tvg_id": "sys_03082026_internacional_rs_vs_corinthians_sp_luc_0530_ngay_03_08_2026",
             "tvg_name": "Internacional Rs Vs Corinthians Sp",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": "sys_03082026_metropolitanos_fc_vs_puerto_cabello_luc_0530_ngay_03_08_2026",
+        "title": "\u26bd Metropolitanos Fc Vs Puerto Cabello",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=a2e8fa756b57e88c341a49ea4037ea3a&wsABSTime=1785757073&sys_cache=1785739075",
+        "is_live": true,
+        "match_time": "05:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_metropolitanos_fc_vs_puerto_cabello_luc_0530_ngay_03_08_2026",
+            "tvg_name": "Metropolitanos Fc Vs Puerto Cabello",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
