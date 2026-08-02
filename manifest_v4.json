@@ -74,10 +74,10 @@
         }
     },
     {
-        "id": "sys_02082026_waterford_united_vs_shelbourne_luc_2100_ngay_02_08_2026",
-        "title": "\u26bd Waterford United Vs Shelbourne",
+        "id": "sys_02082026_paide_linnameeskond_vs_fc_kuressaare_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Paide Linnameeskond Vs Fc Kuressaare",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=78d81743d95db51882f3731c43abd84d&wsABSTime=1785728694&sys_cache=1785710695",
+        "uri": "https://live1.streambylivepulse.com/live/channel22.flv?wsSecret=78d81743d95db51882f3731c43abd84d&wsABSTime=1785728694&sys_cache=1785710696",
         "is_live": true,
         "match_time": "21:00",
         "headers": {
@@ -93,8 +93,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_waterford_united_vs_shelbourne_luc_2100_ngay_02_08_2026",
-            "tvg_name": "Waterford United Vs Shelbourne",
+            "tvg_id": "sys_02082026_paide_linnameeskond_vs_fc_kuressaare_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Paide Linnameeskond Vs Fc Kuressaare",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
