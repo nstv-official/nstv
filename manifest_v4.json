@@ -48,6 +48,32 @@
         }
     },
     {
+        "id": "sys_02082026_navbahor_namangan_vs_xorazm_urganch_luc_2130_ngay_02_08_2026",
+        "title": "\u26bd Navbahor Namangan Vs Xorazm Urganch",
+        "category": "FOOTBALL",
+        "uri": "https://live1.streambylivepulse.com/live/channel27.flv?wsSecret=ae0863d8971a72a7b37b0492509042c2&wsABSTime=1785728721&sys_cache=1785710724",
+        "is_live": true,
+        "match_time": "21:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_02082026_navbahor_namangan_vs_xorazm_urganch_luc_2130_ngay_02_08_2026",
+            "tvg_name": "Navbahor Namangan Vs Xorazm Urganch",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_02082026_ac_oulu_vs_ilves_tampere_luc_2100_ngay_02_08_2026",
         "title": "\u26bd Ac Oulu Vs Ilves Tampere",
         "category": "FOOTBALL",
