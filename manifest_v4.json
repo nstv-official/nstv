@@ -22,15 +22,15 @@
         }
     },
     {
-        "id": "sys_02082026_shenzhen_juniors_vs_wuxi_wugo_luc_1800_ngay_02_08_2026",
-        "title": "\u26bd Shenzhen Juniors Vs Wuxi Wugo",
+        "id": "sys_02082026_ac_oulu_vs_ilves_tampere_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Ac Oulu Vs Ilves Tampere",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel23.flv?wsSecret=4e0afe6932806febdc680212566e3044&wsABSTime=1785714430&sys_cache=1785696434",
+        "uri": "https://live2.streambylivepulse.com/live/channel5.flv?sys_cache=1785710687",
         "is_live": true,
-        "match_time": "18:00",
+        "match_time": "21:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
             "sec-ch-ua-mobile": "?0"
@@ -41,216 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_shenzhen_juniors_vs_wuxi_wugo_luc_1800_ngay_02_08_2026",
-            "tvg_name": "Shenzhen Juniors Vs Wuxi Wugo",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_suzhou_dongwu_vs_meizhou_hakka_luc_1800_ngay_02_08_2026",
-        "title": "\u26bd Suzhou Dongwu Vs Meizhou Hakka",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785696438",
-        "is_live": true,
-        "match_time": "18:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_suzhou_dongwu_vs_meizhou_hakka_luc_1800_ngay_02_08_2026",
-            "tvg_name": "Suzhou Dongwu Vs Meizhou Hakka",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_daejeon_citizen_vs_gwangju_fc_luc_1730_ngay_02_08_2026",
-        "title": "\u26bd Daejeon Citizen Vs Gwangju Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel1.flv?sys_cache=1785696418",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_daejeon_citizen_vs_gwangju_fc_luc_1730_ngay_02_08_2026",
-            "tvg_name": "Daejeon Citizen Vs Gwangju Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_ulsan_hyundai_vs_fc_anyang_luc_1730_ngay_02_08_2026",
-        "title": "\u26bd Ulsan Hyundai Vs Fc Anyang",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel8.flv?sys_cache=1785696423",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_ulsan_hyundai_vs_fc_anyang_luc_1730_ngay_02_08_2026",
-            "tvg_name": "Ulsan Hyundai Vs Fc Anyang",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_gimpo_fc_vs_gyeongnam_fc_luc_1730_ngay_02_08_2026",
-        "title": "\u26bd Gimpo Fc Vs Gyeongnam Fc",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel7.flv?sys_cache=1785696428",
-        "is_live": true,
-        "match_time": "17:30",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_gimpo_fc_vs_gyeongnam_fc_luc_1730_ngay_02_08_2026",
-            "tvg_name": "Gimpo Fc Vs Gyeongnam Fc",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_qingdao_island_vs_qingdao_manatee_luc_1700_ngay_02_08_2026",
-        "title": "\u26bd Qingdao Island Vs Qingdao Manatee",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel14.flv?wsSecret=474d0bbb77864a57975b7d17a15f426f&wsABSTime=1785714397&sys_cache=1785696398",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_qingdao_island_vs_qingdao_manatee_luc_1700_ngay_02_08_2026",
-            "tvg_name": "Qingdao Island Vs Qingdao Manatee",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_shanghai_port_u20_vs_henan_fc_u20_luc_1700_ngay_02_08_2026",
-        "title": "\u26bd Shanghai Port U20 Vs Henan Fc U20",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel16.flv?wsSecret=d0579708f34191c160077ea903cb6578&wsABSTime=1785714402&sys_cache=1785696405",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel16/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_shanghai_port_u20_vs_henan_fc_u20_luc_1700_ngay_02_08_2026",
-            "tvg_name": "Shanghai Port U20 Vs Henan Fc U20",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_fc_kharkiv_u21_vs_veres_rivne_u21_luc_1700_ngay_02_08_2026",
-        "title": "\u26bd Fc Kharkiv U21 Vs Veres Rivne U21",
-        "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel18.flv?wsSecret=17a4df153264ff6fdf873e208be06c8f&wsABSTime=1785714402&sys_cache=1785696409",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel18/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_fc_kharkiv_u21_vs_veres_rivne_u21_luc_1700_ngay_02_08_2026",
-            "tvg_name": "Fc Kharkiv U21 Vs Veres Rivne U21",
-            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": "sys_02082026_kryvbas_u21_vs_karpaty_u21_luc_1700_ngay_02_08_2026",
-        "title": "\u26bd Kryvbas U21 Vs Karpaty U21",
-        "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel11.flv?sys_cache=1785696412",
-        "is_live": true,
-        "match_time": "17:00",
-        "headers": {
-            "sec-ch-ua-platform": "\"Windows\"",
-            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
-            "sec-ch-ua-mobile": "?0"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "sys_02082026_kryvbas_u21_vs_karpaty_u21_luc_1700_ngay_02_08_2026",
-            "tvg_name": "Kryvbas U21 Vs Karpaty U21",
+            "tvg_id": "sys_02082026_ac_oulu_vs_ilves_tampere_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Ac Oulu Vs Ilves Tampere",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
