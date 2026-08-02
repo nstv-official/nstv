@@ -22,12 +22,12 @@
         }
     },
     {
-        "id": "sys_02082026_nu_apia_l_tigers_vs_nu_bulls_academy_luc_1350_ngay_02_08_2026",
-        "title": "\u26bd Women Apia L Tigers Vs Women Bulls Academy",
+        "id": "sys_02082026_sydney_olympic_vs_a_p_i_a_leichhardt_luc_1300_ngay_02_08_2026",
+        "title": "\u26bd Sydney Olympic Vs A P I A Leichhardt",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=aa8b4a3f65f7e2af359fc05f07c7168d&wsABSTime=1785700486&sys_cache=1785682487",
+        "uri": "https://live1.streambylivepulse.com/live/channel19.flv?wsSecret=aa8b4a3f65f7e2af359fc05f07c7168d&wsABSTime=1785700486&sys_cache=1785682488",
         "is_live": true,
-        "match_time": "13:50",
+        "match_time": "13:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/7/link/channel19/off-tvc?is_off_add=false",
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_nu_apia_l_tigers_vs_nu_bulls_academy_luc_1350_ngay_02_08_2026",
-            "tvg_name": "Women Apia L Tigers Vs Women Bulls Academy",
+            "tvg_id": "sys_02082026_sydney_olympic_vs_a_p_i_a_leichhardt_luc_1300_ngay_02_08_2026",
+            "tvg_name": "Sydney Olympic Vs A P I A Leichhardt",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
