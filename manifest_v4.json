@@ -152,10 +152,10 @@
         }
     },
     {
-        "id": "sys_02082026_fc_murom_vs_fk_kosmos_luc_2100_ngay_02_08_2026",
-        "title": "\u26bd Fc Murom Vs Fk Kosmos",
+        "id": "sys_02082026_nu_social_atletico_vs_nu_talleres_cordoba_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Women Social Atletico Vs Women Talleres Cordoba",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=95f30fe1001aa6863059c45feb851987&wsABSTime=1785728710&sys_cache=1785710715",
+        "uri": "https://live1.streambylivepulse.com/live/channel26.flv?wsSecret=95f30fe1001aa6863059c45feb851987&wsABSTime=1785728710&sys_cache=1785710716",
         "is_live": true,
         "match_time": "21:00",
         "headers": {
@@ -171,8 +171,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_fc_murom_vs_fk_kosmos_luc_2100_ngay_02_08_2026",
-            "tvg_name": "Fc Murom Vs Fk Kosmos",
+            "tvg_id": "sys_02082026_nu_social_atletico_vs_nu_talleres_cordoba_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Women Social Atletico Vs Women Talleres Cordoba",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
