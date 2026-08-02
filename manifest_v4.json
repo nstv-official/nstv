@@ -204,12 +204,12 @@
         }
     },
     {
-        "id": "sys_03082026_nu_minnesota_lynx_vs_nu_indiana_fever_luc_0000_ngay_03_08_2026",
-        "title": "\u26bd Women Minnesota Lynx Vs Women Indiana Fever",
+        "id": "sys_02082026_canterbury_rams_vs_southland_sharks_luc_1300_ngay_02_08_2026",
+        "title": "\u26bd Canterbury Rams Vs Southland Sharks",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?sys_cache=1785682517",
+        "uri": "https://live2.streambylivepulse.com/live/channel26.flv?sys_cache=1785682518",
         "is_live": true,
-        "match_time": "00:00",
+        "match_time": "13:00",
         "headers": {
             "sec-ch-ua-platform": "\"Windows\"",
             "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel26/off-tvc?is_off_add=false",
@@ -223,8 +223,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_03082026_nu_minnesota_lynx_vs_nu_indiana_fever_luc_0000_ngay_03_08_2026",
-            "tvg_name": "Women Minnesota Lynx Vs Women Indiana Fever",
+            "tvg_id": "sys_02082026_canterbury_rams_vs_southland_sharks_luc_1300_ngay_02_08_2026",
+            "tvg_name": "Canterbury Rams Vs Southland Sharks",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
