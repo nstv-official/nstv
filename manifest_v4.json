@@ -22,6 +22,32 @@
         }
     },
     {
+        "id": "sys_03082026_internacional_rs_vs_corinthians_sp_luc_0530_ngay_03_08_2026",
+        "title": "\u26bd Internacional Rs Vs Corinthians Sp",
+        "category": "FOOTBALL",
+        "uri": "https://live2.streambylivepulse.com/live/channel17.flv?sys_cache=1785739074",
+        "is_live": true,
+        "match_time": "05:30",
+        "headers": {
+            "sec-ch-ua-platform": "\"Windows\"",
+            "referer": "https://xlz.textliveupdaterz.com/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "sec-ch-ua": "\"Not=A?Brand\";v=\"99\", \"HeadlessChrome\";v=\"151\", \"Chromium\";v=\"151\"",
+            "sec-ch-ua-mobile": "?0"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "sys_03082026_internacional_rs_vs_corinthians_sp_luc_0530_ngay_03_08_2026",
+            "tvg_name": "Internacional Rs Vs Corinthians Sp",
+            "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
+            "source_xml": "Embedded"
+        }
+    },
+    {
         "id": "sys_03082026_deportivo_saprissa_vs_ad_san_carlos_luc_0500_ngay_03_08_2026",
         "title": "\u26bd Deportivo Saprissa Vs Ad San Carlos",
         "category": "FOOTBALL",
