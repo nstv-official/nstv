@@ -100,10 +100,10 @@
         }
     },
     {
-        "id": "sys_02082026_bate_2_borisov_vs_fk_minsk_b_luc_2100_ngay_02_08_2026",
-        "title": "\u26bd Bate 2 Borisov Vs Fk Minsk B",
+        "id": "sys_02082026_zenit_ii_vs_dynamo_moscow_b_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Zenit Ii Vs Dynamo Moscow B",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=b814b3c8fa3e54c43595fa6adb38e1b5&wsABSTime=1785728703&sys_cache=1785710705",
+        "uri": "https://live1.streambylivepulse.com/live/channel34.flv?wsSecret=b814b3c8fa3e54c43595fa6adb38e1b5&wsABSTime=1785728703&sys_cache=1785710706",
         "is_live": true,
         "match_time": "21:00",
         "headers": {
@@ -119,8 +119,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_bate_2_borisov_vs_fk_minsk_b_luc_2100_ngay_02_08_2026",
-            "tvg_name": "Bate 2 Borisov Vs Fk Minsk B",
+            "tvg_id": "sys_02082026_zenit_ii_vs_dynamo_moscow_b_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Zenit Ii Vs Dynamo Moscow B",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
