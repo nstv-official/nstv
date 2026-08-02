@@ -22,10 +22,10 @@
         }
     },
     {
-        "id": "sys_03082026_barranquilla_fc_vs_atletico_fc_luc_0500_ngay_03_08_2026",
-        "title": "\u26bd Barranquilla Fc Vs Atletico Fc",
+        "id": "sys_03082026_deportivo_saprissa_vs_ad_san_carlos_luc_0500_ngay_03_08_2026",
+        "title": "\u26bd Deportivo Saprissa Vs Ad San Carlos",
         "category": "FOOTBALL",
-        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=dbfa9687dfa4ae9a7400a2f82f900ed6&wsABSTime=1785757064&sys_cache=1785739065",
+        "uri": "https://live1.streambylivepulse.com/live/channel21.flv?wsSecret=dbfa9687dfa4ae9a7400a2f82f900ed6&wsABSTime=1785757064&sys_cache=1785739066",
         "is_live": true,
         "match_time": "05:00",
         "headers": {
@@ -41,8 +41,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_03082026_barranquilla_fc_vs_atletico_fc_luc_0500_ngay_03_08_2026",
-            "tvg_name": "Barranquilla Fc Vs Atletico Fc",
+            "tvg_id": "sys_03082026_deportivo_saprissa_vs_ad_san_carlos_luc_0500_ngay_03_08_2026",
+            "tvg_name": "Deportivo Saprissa Vs Ad San Carlos",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
