@@ -126,8 +126,8 @@
         }
     },
     {
-        "id": "sys_02082026_fc_tver_vs_fc_cherepovets_luc_2100_ngay_02_08_2026",
-        "title": "\u26bd Fc Tver Vs Fc Cherepovets",
+        "id": "sys_02082026_siauliai_b_vs_bfa_vilnius_luc_2100_ngay_02_08_2026",
+        "title": "\u26bd Siauliai B Vs Bfa Vilnius",
         "category": "FOOTBALL",
         "uri": "https://live1.streambylivepulse.com/live/channel32.flv?wsSecret=130db3bdb8fdd14349bf6636b7d62374&wsABSTime=1785728707&sys_cache=1785710709",
         "is_live": true,
@@ -145,8 +145,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_fc_tver_vs_fc_cherepovets_luc_2100_ngay_02_08_2026",
-            "tvg_name": "Fc Tver Vs Fc Cherepovets",
+            "tvg_id": "sys_02082026_siauliai_b_vs_bfa_vilnius_luc_2100_ngay_02_08_2026",
+            "tvg_name": "Siauliai B Vs Bfa Vilnius",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
