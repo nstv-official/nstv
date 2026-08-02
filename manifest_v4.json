@@ -48,10 +48,10 @@
         }
     },
     {
-        "id": "sys_02082026_changchun_yatai_vs_shijiazhuang_gongfu_luc_1800_ngay_02_08_2026",
-        "title": "\u26bd Changchun Yatai Vs Shijiazhuang Gongfu",
+        "id": "sys_02082026_suzhou_dongwu_vs_meizhou_hakka_luc_1800_ngay_02_08_2026",
+        "title": "\u26bd Suzhou Dongwu Vs Meizhou Hakka",
         "category": "FOOTBALL",
-        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785696437",
+        "uri": "https://live2.streambylivepulse.com/live/channel23.flv?sys_cache=1785696438",
         "is_live": true,
         "match_time": "18:00",
         "headers": {
@@ -67,8 +67,8 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "sys_02082026_changchun_yatai_vs_shijiazhuang_gongfu_luc_1800_ngay_02_08_2026",
-            "tvg_name": "Changchun Yatai Vs Shijiazhuang Gongfu",
+            "tvg_id": "sys_02082026_suzhou_dongwu_vs_meizhou_hakka_luc_1800_ngay_02_08_2026",
+            "tvg_name": "Suzhou Dongwu Vs Meizhou Hakka",
             "tvg_logo": "https://raw.githubusercontent.com/nstv-official/nstv/main/logos/default.png",
             "source_xml": "Embedded"
         }
