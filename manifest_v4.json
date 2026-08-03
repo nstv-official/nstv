@@ -24,6 +24,30 @@
         }
     },
     {
+        "id": 3,
+        "title": "lanus-vs-instituto-ac-cordoba - Server Live 3",
+        "category": "ARGENTINA: LIGA PROFESIONAL",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dde97b9148ea9d1cc49ca9b73058ea7edb8791d002b51722318e4c74a6f4301024896eb6b90e3207c46e2868c7c3ed2b931a79214535a600d7b84a9d705543b1a444bc586b7cf02b65132efb1b30c0dc1ee49de83bcd63c4336c3b17f95df4582555cf9b0e7911e9b14273896844e3d131013b74cca45e012df5eb6078c2969ce2df76a0f3b0b49149ae782025d2654aa51441852e4cc1455ca07ee0ef359e645fcf771fee8cf871498699d8f962eaf30db4c27973e5bd7b90a4290fd9c80edc0%26cid%3DrQpS4r8hqebvLIIYI94Cq260803%26_v%3D2%26_r%3Di8I_xP%26_vis%3D67dcbc2d60613c593c9df5282112f4bcf8db33ae495620d12acd57343f9349d7%26_vvs%3D019a26283cee93e059e6b2d41db1c0561cd01570327494f6c0ed5f2c6215001c%26_vas%3D5baef581de0adfb69bdaeb7f2e3d7b1482ab285a9c88d63ed6d5df6319659401/app/c430203.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_live_3.id",
+            "tvg_name": "lanus-vs-instituto-ac-cordoba S3",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+	{
         "id": 2,
         "title": "Kolombia: Primera A - Server Live 2",
         "category": "KOLOMBIA: PRIMERA A",
