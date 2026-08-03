@@ -70,5 +70,28 @@
             "tvg_logo": "https://livesports088.isfavicon.ico",
             "source_xml": "Embedded"
         }
+    }{
+        "id": 4,
+        "title": "Nasional Bank Open Day 1 - Server Live 4",
+        "category": "ATP 1000",
+        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D9ef0e1e0d8e2de5b62cfa2f5423287fe8d3b86a4b475f443d1e0948dd0a132770178631c0b1501417cfc126bf759065c02afadb55d268a58df0fa4e8f2472079e776858d4411929e2ed92f8d0124e7083799c0d7ee20cf97bfa46d367e23eedc998df696e38356c2d8e2d2dbf2f109dd02726c35fa8e97629975787843307a279f7e9d8c8ac81fa4337b1565de5bc02049108d60df138d5c2f92ae9850b0f31a%26cid%3DRmuVdhjMenKRTCgdNMKPn260803%26_v%3D2%26_r%3DiRzhEx%26_vis%3Df8d433246965ffc5e02b91ffec3055e53cd1ba1190b3bb20177f7a5dcee4e9fd%26_vvs%3D4ee39d3a24d124f3ec2f2ee5979fbd14b62a393b64e8e076b251833356e54d30%26_vas%3Dfab915651592e9302afa96aa1df4b3960cd406cd9fa516ce882b99385f750ef8/app/c430261.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_live_4.id",
+            "tvg_name": "Nasional Bank Open Day 1 S4",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
     }
 ]
