@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "title": "voly - Server Live 1",
-        "category": "KOREA CUP",
-        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D88bf90251f3495cbf59a4d24cb8bd65eb5a594d33b5616a4d450d86b8a852378a0b80986432d6c2c54c1db2bb260491cd104c69c856580b3a91280626a0af855f0f2ad88a8864c135d2e82a7b77a7e24e4c9cc2391f24394a2e8f5a26eb2a6e68b11a95e08701edb1bf11316b64a53da881beec4009a420bdc8efe1575f5ebfc0b2c07b3a012532a265eefcd5d75392ae47e660466600e7070d0ecbf85174b65%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DWiOph6%26_vis%3D12374831899b5bec2be0374c41b031e24bb405adb650a76eef3144cef5fa8358%26_vvs%3Ddcb8c583e3282c970dcb94953c53708571acaeb25867525c1ef54e7543468386%26_vas%3D8cce4c522e50f2beb53c440ca99c1a3b44762b971d5d6b806ac7179c45b40c6b/app/c430237.m3u8",
+        "title": "KAMBOJA TIMOR LESTE - Server Live 1",
+        "category": "ASEAN CUP",
+        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3De0069cdf17a66f5112aea2697d435f92f27d94dea9b646be135d46efe91c4148902947912db440bdd7999c2f3dcb92cf48d789e56bd662763c46abe869178b6342db3dd6af9346e6265868961dfc6270ef4bd25d973693956fe2520afa103de94be34ff5ce8b662d3e7528b7abd05ab44e7be59d5b7554e370232058a0d6a502b0b4643c25c47ea9618dceec601fad3f507cafc572f297685c1a145864ba7b767ec3594aaf0b77d65c40bceb69470d43d068bafee2afcd2375e7a383496b807f53c5a7ec9a04baddb1dec5814ba9dcf2bc70b1fef2a8a4da44bee037db3ca358811babd0d1dbb9316d48659cefbe184b4879eddf96cec60f453b39861b939358c72b3adb0f7a417aae0cfae0ba4305761c5a883a746c2820824ddb376b0398fa7a2bbd646cd97098c6378427f19251f0%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DfVQHhX%26_vis%3D0d6a985d05b263813488aa7293074c17880d025fec24c9500ae6810bf93a2611%26_vvs%3D8969e13c08f037017d1f2e756801cde4c233391443f191bdefea912e28f95d3a%26_vas%3De6ad242d9cc2cc274699894599569ba1bc4fc0f219e56d3a80567b96f1e51bdc/transcode/c430246_480p.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
         "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTEmbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
             "Origin": "https://ppdd19.plaifrdcikf.shop"
         },
         "drm_info": {
@@ -18,7 +18,7 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "voly S1",
+            "tvg_name": "KAMBOJA TIMOR LESTE S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
