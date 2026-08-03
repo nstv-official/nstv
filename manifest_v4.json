@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "tes - Server Live 1",
-        "category": "INDONESIA TV",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dbdac66eda7497a76b48672b09803510aa75852320093c6cdfecaf69497701264b08df62e557cf4b377597efa36733964bc9c6e71a52429e5ff31f53574b4dfb97296e2a9e1e1198d2200233b12ff5ea9e27580fe14480b4229eaa1b88b4e257f8ca0ddeea6c17721fa7c61344e9895e838d72acebd0ca2634837835bb1b0aee2668c0fbd5090e1e10769083a8eea58c7725d7ae657c215646129e7fb18ac26c3%26cid%3DPnYP5LzEXK_jqEQrvKGqZ260803%26_v%3D2%26_r%3DwIns-F%26_vis%3Df16db65e73354e70f6196d466f2602fed8fac570a061606b4e1129f3032b250d%26_vvs%3D0aa9c53f2fa271038a180b973e075a13c7a613e91c36dffb8e9e387ce5ec88ab%26_vas%3Dd95d6d65a1872ebacfdcad70c33a1ef49e8fffbb29f6fa795077fd4009feb9cb/app/c430197.m3u8",
+        "title": "walter-ferretti-vs-matagalpa - Server Live 1",
+        "category": "WALTER-FERRETTI-VS-MATAGALPA",
+        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D2b623cbaaae9ab6e8e92bb66da06d5d310b65a6d7922957057aefec69beb888a95389cab11a7261c4ac43d7f6d17146d934eeaa69be609a00cbb77a2c177188a8fa3741739bb1bb218488bb6559f612418045cdf8110f06ac9c77efbf5ea504e23f07f8fdcb3b33d5c9f9df1cf3729b01b108fdd134d8a2cd8258ec5022db5ba620cdcd78207e34a5b840d3ef60f123ea79c7fa07d3af433b9d5f6320016822f%26cid%3DH88DycR9ep1mhCixyMO8k260803%26_v%3D2%26_r%3DkSqi_G%26_vis%3D090b7af61eebfc6a37bde41c0fa86a00a06a858b2d3dfc0c9823540e0b2e3449%26_vvs%3Dbbba3f11735917acfa636e3daf4e734bae036bc769dc6d7ffda94c0d371b630d%26_vas%3Dd9e2eb7ae90677503fee5152698c159daafd16bfc85514f91aa638cdd1c317eb/app/c430160.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
@@ -17,9 +17,33 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "idn283_live_1.id",
-            "tvg_name": "tes S1",
-            "tvg_logo": "https://livesports088.is",
+            "tvg_id": "idn283_multi_1.id",
+            "tvg_name": "walter-ferretti-vs-matagalpa S1",
+            "tvg_logo": "https://livesports088.isfavicon.ico",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Kolombia: Primera A - Server Live 2",
+        "category": "KOLOMBIA: PRIMERA A",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D8538a2ce50562b4e3d9a91b5450f8985bda6af7fb4226339236c53fffceaab3ffdab35d9f072ae0f34346ec858cf38f8941dba67fe4c0d48253e29b0d2d2b667f8ebd6388ebf9b50f5b1d80cbf808007e61ad3d57b8738619c0ad3e5a58ff8c58f7bc02e377ba9eb7a44c160b120b70f79ef26e53b797fe7577cdd051a1fee9501c96345523b7af5161ec2797ad363a9af345880b1417cc59807d66e81544eb8%26cid%3D45C431vP39LviMXTmWdfW260803%26_v%3D2%26_r%3Dw82MVk%26_vis%3Df63857ead781e69c240fa4ec1273f84c11beff87811066d0112222a227446fa5%26_vvs%3Dff56f15b3b55e1505874930c5b4209303d499f5594803584c0ecceeb05d52996%26_vas%3D69c3cddd8fb34ced7fc17b4e8c1b2e879bb694fff98cb784acd13108ff063ac2/app/c430206.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_2.id",
+            "tvg_name": "Kolombia: Primera A S2",
+            "tvg_logo": "https://livesports088.isfavicon.ico",
             "source_xml": "Embedded"
         }
     }
