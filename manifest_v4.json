@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "basket - Server Live 1",
-        "category": "NBA",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dbf1f48bc34dc72ba6e0617c406bba9273743581d868a19f7e3315bcc45f455383fd451cf818c4a02c3a5125053ce0e8f3b16aaa9b4a2b2058bbb72c3c60ec5597cd17a20d4a7bdeebb96cc197ec3c376f80b7ffc6ba378dfa6d0006e78be42c10479d30dcd128ad7357bc8688e361d6eb03dd347d7baa2ff7cb095ecb6fcb0dab7cd2a310d78a28e65e5ced7ccb7e860419850c89e4cfaf1bb34b02d881bc0f9%26cid%3DOFfF4FbxynNZIKDPPuEyf260803%26_v%3D2%26_r%3DuNrmEI%26_vis%3D3110eee0fc6f757fb21d5dc0789768c940501946aa4e70592a7421208384ee4a%26_vvs%3D121f0aab092db9176aa3257b299aeee6fb49d71a023a0ad9c7541597450eb07f%26_vas%3D54fe79abfc1c8e485d698383e62895dfc750240e128c2fcc1b474f5d6d31a04d/app/c430236.m3u8",
+        "title": "voly - Server Live 1",
+        "category": "KOREA CUP",
+        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D88bf90251f3495cbf59a4d24cb8bd65eb5a594d33b5616a4d450d86b8a852378a0b80986432d6c2c54c1db2bb260491cd104c69c856580b3a91280626a0af855f0f2ad88a8864c135d2e82a7b77a7e24e4c9cc2391f24394a2e8f5a26eb2a6e68b11a95e08701edb1bf11316b64a53da881beec4009a420bdc8efe1575f5ebfc0b2c07b3a012532a265eefcd5d75392ae47e660466600e7070d0ecbf85174b65%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DWiOph6%26_vis%3D12374831899b5bec2be0374c41b031e24bb405adb650a76eef3144cef5fa8358%26_vvs%3Ddcb8c583e3282c970dcb94953c53708571acaeb25867525c1ef54e7543468386%26_vas%3D8cce4c522e50f2beb53c440ca99c1a3b44762b971d5d6b806ac7179c45b40c6b/app/c430237.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
         "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTEmbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
         },
         "drm_info": {
             "is_protected": false,
@@ -18,7 +18,7 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "basket S1",
+            "tvg_name": "voly S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
