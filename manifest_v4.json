@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "ferretti-vs-matagalpa - Server Live 1",
-        "category": "WALTER-FERRETTI-VS-MATAGALPA",
-        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D2b623cbaaae9ab6e8e92bb66da06d5d310b65a6d7922957057aefec69beb888a95389cab11a7261c4ac43d7f6d17146d934eeaa69be609a00cbb77a2c177188a8fa3741739bb1bb218488bb6559f612418045cdf8110f06ac9c77efbf5ea504e23f07f8fdcb3b33d5c9f9df1cf3729b01b108fdd134d8a2cd8258ec5022db5ba620cdcd78207e34a5b840d3ef60f123ea79c7fa07d3af433b9d5f6320016822f%26cid%3DH88DycR9ep1mhCixyMO8k260803%26_v%3D2%26_r%3DkSqi_G%26_vis%3D090b7af61eebfc6a37bde41c0fa86a00a06a858b2d3dfc0c9823540e0b2e3449%26_vvs%3Dbbba3f11735917acfa636e3daf4e734bae036bc769dc6d7ffda94c0d371b630d%26_vas%3Dd9e2eb7ae90677503fee5152698c159daafd16bfc85514f91aa638cdd1c317eb/app/c430160.m3u8",
+        "title": "basket - Server Live 1",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740435321.ts",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
         "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
         },
         "drm_info": {
             "is_protected": false,
@@ -18,46 +18,22 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "walter-ferretti-vs-matagalpa S1",
-            "tvg_logo": "https://livesports088.isfavicon.ico",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 3,
-        "title": "lanus-vs-instituto-ac-cordoba - Server Live 3",
-        "category": "ARGENTINA: LIGA PROFESIONAL",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dde97b9148ea9d1cc49ca9b73058ea7edb8791d002b51722318e4c74a6f4301024896eb6b90e3207c46e2868c7c3ed2b931a79214535a600d7b84a9d705543b1a444bc586b7cf02b65132efb1b30c0dc1ee49de83bcd63c4336c3b17f95df4582555cf9b0e7911e9b14273896844e3d131013b74cca45e012df5eb6078c2969ce2df76a0f3b0b49149ae782025d2654aa51441852e4cc1455ca07ee0ef359e645fcf771fee8cf871498699d8f962eaf30db4c27973e5bd7b90a4290fd9c80edc0%26cid%3DrQpS4r8hqebvLIIYI94Cq260803%26_v%3D2%26_r%3Di8I_xP%26_vis%3D67dcbc2d60613c593c9df5282112f4bcf8db33ae495620d12acd57343f9349d7%26_vvs%3D019a26283cee93e059e6b2d41db1c0561cd01570327494f6c0ed5f2c6215001c%26_vas%3D5baef581de0adfb69bdaeb7f2e3d7b1482ab285a9c88d63ed6d5df6319659401/app/c430203.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
-        "is_live": true,
-        "match_id": "IDN283_20260803",
-        "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "idn283_live_3.id",
-            "tvg_name": "lanus-vs-instituto-ac-cordoba S3",
+            "tvg_name": "basket S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
     },
-	{
+    {
         "id": 2,
-        "title": "Kolombia: Primera A - Server Live 2",
-        "category": "KOLOMBIA: PRIMERA A",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D8538a2ce50562b4e3d9a91b5450f8985bda6af7fb4226339236c53fffceaab3ffdab35d9f072ae0f34346ec858cf38f8941dba67fe4c0d48253e29b0d2d2b667f8ebd6388ebf9b50f5b1d80cbf808007e61ad3d57b8738619c0ad3e5a58ff8c58f7bc02e377ba9eb7a44c160b120b70f79ef26e53b797fe7577cdd051a1fee9501c96345523b7af5161ec2797ad363a9af345880b1417cc59807d66e81544eb8%26cid%3D45C431vP39LviMXTmWdfW260803%26_v%3D2%26_r%3Dw82MVk%26_vis%3Df63857ead781e69c240fa4ec1273f84c11beff87811066d0112222a227446fa5%26_vvs%3Dff56f15b3b55e1505874930c5b4209303d499f5594803584c0ecceeb05d52996%26_vas%3D69c3cddd8fb34ced7fc17b4e8c1b2e879bb694fff98cb784acd13108ff063ac2/app/c430206.m3u8",
+        "title": "basket - Server Live 2",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740431281.ts",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
         "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
         },
         "drm_info": {
             "is_protected": false,
@@ -66,21 +42,22 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_2.id",
-            "tvg_name": "Kolombia: Primera A S2",
-            "tvg_logo": "https://livesports088.isfavicon.ico",
+            "tvg_name": "basket S2",
+            "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
-    }{
-        "id": 4,
-        "title": "Nasional Bank Open Day 1 - Server Live 4",
-        "category": "ATP 1000",
-        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D9ef0e1e0d8e2de5b62cfa2f5423287fe8d3b86a4b475f443d1e0948dd0a132770178631c0b1501417cfc126bf759065c02afadb55d268a58df0fa4e8f2472079e776858d4411929e2ed92f8d0124e7083799c0d7ee20cf97bfa46d367e23eedc998df696e38356c2d8e2d2dbf2f109dd02726c35fa8e97629975787843307a279f7e9d8c8ac81fa4337b1565de5bc02049108d60df138d5c2f92ae9850b0f31a%26cid%3DRmuVdhjMenKRTCgdNMKPn260803%26_v%3D2%26_r%3DiRzhEx%26_vis%3Df8d433246965ffc5e02b91ffec3055e53cd1ba1190b3bb20177f7a5dcee4e9fd%26_vvs%3D4ee39d3a24d124f3ec2f2ee5979fbd14b62a393b64e8e076b251833356e54d30%26_vas%3Dfab915651592e9302afa96aa1df4b3960cd406cd9fa516ce882b99385f750ef8/app/c430261.m3u8",
+    },
+    {
+        "id": 3,
+        "title": "basket - Server Live 3",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/c430236.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
         "headers": {
             "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
         },
         "drm_info": {
             "is_protected": false,
@@ -88,8 +65,224 @@
             "drm_key": ""
         },
         "epg_metadata": {
-            "tvg_id": "idn283_live_4.id",
-            "tvg_name": "Nasional Bank Open Day 1 S4",
+            "tvg_id": "idn283_multi_3.id",
+            "tvg_name": "basket S3",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 4,
+        "title": "basket - Server Live 4",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740447401.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_4.id",
+            "tvg_name": "basket S4",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 5,
+        "title": "basket - Server Live 5",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740459481.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_5.id",
+            "tvg_name": "basket S5",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 6,
+        "title": "basket - Server Live 6",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740467261.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_6.id",
+            "tvg_name": "basket S6",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 7,
+        "title": "basket - Server Live 7",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740443422.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_7.id",
+            "tvg_name": "basket S7",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 8,
+        "title": "basket - Server Live 8",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740463501.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_8.id",
+            "tvg_name": "basket S8",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 9,
+        "title": "basket - Server Live 9",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740451441.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_9.id",
+            "tvg_name": "basket S9",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 10,
+        "title": "basket - Server Live 10",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740427262.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_10.id",
+            "tvg_name": "basket S10",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 11,
+        "title": "basket - Server Live 11",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740455441.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_11.id",
+            "tvg_name": "basket S11",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
+    },
+    {
+        "id": 12,
+        "title": "basket - Server Live 12",
+        "category": "NBA",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3Dfb20ca3e95eccf4203d8a7f64bc518473a3b4bd961da9f0d3644fec2b367648615c1cfac91d9a32dd387940dd0b3933a9669102616693c1fe2ab1afc9b468579895aa050c06e2a0379b07cc4bb25253761955a689d09c5f7986ac8b836131b2f892baa2adadf41f298e64ecbb7e4d3cf267d486b924f144fe73ff9d046bea667dd520ac50214828f7d79692071141246af7afdc9e4751b7aa58547afd2ca021d%26cid%3DsUnNfpHPijeOgYSxhAdkW260803%26_v%3D2%26_r%3DjwTKdf%26_vis%3D7933e13248fcd3efe0c664b4d60250b9db97ee61e874cab598418ee15aefc57b%26_vvs%3Ddde0a5253925d068dd89ccf4c73b937e1247858eb66f4d93ccc2c52299be5e16%26_vas%3Dcc4d2898f818912f75cc4c061cb64c37b40a0d848372ae65d244c2a9c77b5f74/app/hyo03-s.spplyo258.com_c430236-1785740439361.ts",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/live.html?_pa=bWF0Y2hJZD03MjIwOTImbXRUZXh0PWJhc2tldGJhbGwmc2l0ZUtleT04dGlnb2FscyZza3B0TnVtPTNyZA%3D%3D&_pb=4",
+            "Origin": "https://cxyznt3-cf.sbbol1011play.sbs"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_12.id",
+            "tvg_name": "basket S12",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
