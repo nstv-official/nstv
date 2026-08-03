@@ -22,5 +22,31 @@
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
+    },
+    [
+    {
+        "id": 1,
+        "title": "National Bank Open: Day 2 - Server Live 1",
+        "category": "ATP 1000",
+        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D669f175cd1840bc972a97bb0dbc2b222a46958ec5e0f10f1e7e2d572f5366571955c6209be60fe933577c050814cca09695c339e4c3e85f39c7ddf8687ef9a7c07e334275db770024aa69f63cdb901814c9fc03ff113d3d217ffb03822948c42bba9a986e1355bde7884d27b8fdbc1164a8107963584886527c83d6c96d0398707f613a69337b00f3f37e4fa0110deca8198507f56b9726c19fc7233af96e20916a559c6e98abd365ef50bc03c5ef121f4b920e2223f77dc3449b065346528eb%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DYJHt1u%26_vis%3D874af87decbb3abeedb2dbd3979a842a839f57c4f554cc0fcd931be8f7bbe02e%26_vvs%3D6aabe6600defa856edb132763d7b418f46353528d8cebf7b75d1019b18ac5ad8%26_vas%3D584da293580ffdc9c63fe38c3de6f875795aa19f39a3287463f4214ce6e16c31/app/c430234.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260803",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_1.id",
+            "tvg_name": "National Bank Open: Day 2 S1",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
+        }
     }
+]
 ]
