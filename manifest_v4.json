@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Indonesia VS Vietnam - Server Live 1",
-        "category": "PIALA AFF",
-        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3Dc1a8974398745dbe20bb5b5481826b3fc7bd398145ec17cb98dad4346d823e88e54fd50529dcfed6cdbe33a5aa14a19aa3576be30502cc2350059dc9ec87583725f0cc762af58e65e532ede4ff645921f2b269b95de7319c0f1ed93f6855b7ce3741d5e95266256626b4b183041ba1be840b9592237dca6e4764da2778b0bcc2%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DzpgyzW%26_vis%3De42b27f3598428b3c262f16f9570b94d867f08bc35c930c492d9273111b0cb72%26_vvs%3Dfc5201bc09b4fcb3593286fe0e86ec9b34470074114f8f1d3b62d7f0a1d056f2%26_vas%3Dc3c889fff061a2c273d3b9b79c2221ec38728f4e88d9edc4335bdd3ad8fcf3b6/transcode/c430247_480p.m3u8",
+        "title": "york-city-vs-crawley-town - Server Live 1",
+        "category": "INGGRIS: PREMIER LEAGUE CUP",
+        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D5b2f01e5e559e5b75f5b31a7f1d35bb4e6a906d821d90d50fff8e2753fee04608bf8a254a38e5e6d170ad2cc483ed759f160d3fd70642b7bf6c826a1915dfd993232db0dc4fd759f7ea1b9679c0c6f9297adb92c593f8446643ee486165406e6d0a6d0dc900301ffafa248b3592d42c99acf39f8f0caf86f16e8abda2fc03c730e6ed320b50ef30a2abe5b4ec20b70c3ff709d8660e0f45d7496611bad7c366f%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3Dgy7ui0%26_vis%3Db9c869eb515f6753c18e86e0c0eda7095bfdd5fe337b0623c6a033f38e5ffa66%26_vvs%3D12fb8e29ed97bfbb92c4c2b5453cfa6240c3cd4586820e4fd890d08204a811af%26_vas%3D6ab17ec6d0796d14d4c7cb90b30eb24754ab0f9e85aeebbdde622067bf701235/app/c430123.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
-        "match_id": "IDN283_20260803",
+        "match_id": "IDN283_20260804",
         "headers": {
             "Referer": "https://ppdd19.plaifrdcikf.shop/",
             "Origin": "https://ppdd19.plaifrdcikf.shop"
@@ -18,35 +18,33 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "Indonesia VS Vietnam S1",
+            "tvg_name": "york-city-vs-crawley-town S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
     },
-    [
     {
-        "id": 1,
-        "title": "National Bank Open: Day 2 - Server Live 1",
-        "category": "ATP 1000",
-        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3D669f175cd1840bc972a97bb0dbc2b222a46958ec5e0f10f1e7e2d572f5366571955c6209be60fe933577c050814cca09695c339e4c3e85f39c7ddf8687ef9a7c07e334275db770024aa69f63cdb901814c9fc03ff113d3d217ffb03822948c42bba9a986e1355bde7884d27b8fdbc1164a8107963584886527c83d6c96d0398707f613a69337b00f3f37e4fa0110deca8198507f56b9726c19fc7233af96e20916a559c6e98abd365ef50bc03c5ef121f4b920e2223f77dc3449b065346528eb%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DYJHt1u%26_vis%3D874af87decbb3abeedb2dbd3979a842a839f57c4f554cc0fcd931be8f7bbe02e%26_vvs%3D6aabe6600defa856edb132763d7b418f46353528d8cebf7b75d1019b18ac5ad8%26_vas%3D584da293580ffdc9c63fe38c3de6f875795aa19f39a3287463f4214ce6e16c31/app/c430234.m3u8",
+        "id": 2,
+        "title": "york-city-vs-crawley-town - Server Live 2",
+        "category": "INGGRIS: PREMIER LEAGUE CUP",
+        "uri": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a257caa6d895f881/1785786000822/e09105bdc994912fe95f3965ca2edbce32c8ca9876effde968c2ba5ac6252f4e/gNj4uO9_CS7c3ZqAH4KHFI6i3ZHDqoJ7E9bkESxaHwY-1785786000-1.3.1.1-m6ulnmae.jVYJCZP4VuM1pGMcMzvT9xM9Q.gPpwA69p5qldi4ZmIM9ftDBaNCIUcAJRAuN6.UIjyR2FhP6ld.1WUjKXxou_JGCYbRM_4y_omv8YOOOBAqdO3BjaQ.W1JK9q9pePvWlqYMqUm3lbV6vjiObcsjEY1CnzBWF7OpfUm4BIvAgFSOoTiv40tVxh2OadvAkL5guTMk6zvCFeSzvFL4k7nLW9O7cMf1rzoGTct7hqzDrtl5k2b7iAOQtPSCtGJsiQ.SavHXiUFu7yV1yxXqWmIq5zWHKkMnlb143JlNrVWi3WiL2qMPDztyvV.KfB1HlTsWAT3tCwSXc6ENi69qCRyGdd5Lr0NotIddQEhnUgpBgPcRSEhWNAyETcWlTHvUDI2Z4NPoPaNiK3sL_yWINDLb9BE2b3UbbYLUNBGrI8b.Xp9AHfTR5di.GbbzGh3kMgD1HRxjU3ESN8KdqzJjyNJIoAHPGoXiWRR_OWNtlraLoLxrbN__fdGJ9bcbNcTyuJos1vHBTL7jBgYlHMK_uGQmOj0JAHX34jQQbcgAlQGNygKkjkEuLXVN10ummOE9jtIxAYHBzcXWL5c2OPoYP.bchqRMHQkv26eGP3tUvTiYHJU2O0PWo_kH.sCNkC3M3aRUA8VTP49tLNu8v2m690G2vYqsBJixAW1xb5V4v9xt1wGcjhjC_CMDaCOIlbu4ni9KVg04G3hrPxsY1WhSj6zr.ifC4I2xyppdfpowQXW_q.kdq0gOxRrFYz7zir2CRFLEFjq1ZWIg9FokYbIt2Y_kuz8UKkdNSZ9Eh6F.ayeUyTZrVBOmViaT8ox",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
-        "match_id": "IDN283_20260803",
+        "match_id": "IDN283_20260804",
         "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
+            "Referer": "https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/pat/a257caa6d895f881/1785786000822/e09105bdc994912fe95f3965ca2edbce32c8ca9876effde968c2ba5ac6252f4e/gNj4uO9_CS7c3ZqAH4KHFI6i3ZHDqoJ7E9bkESxaHwY-1785786000-1.3.1.1-m6ulnmae.jVYJCZP4VuM1pGMcMzvT9xM9Q.gPpwA69p5qldi4ZmIM9ftDBaNCIUcAJRAuN6.UIjyR2FhP6ld.1WUjKXxou_JGCYbRM_4y_omv8YOOOBAqdO3BjaQ.W1JK9q9pePvWlqYMqUm3lbV6vjiObcsjEY1CnzBWF7OpfUm4BIvAgFSOoTiv40tVxh2OadvAkL5guTMk6zvCFeSzvFL4k7nLW9O7cMf1rzoGTct7hqzDrtl5k2b7iAOQtPSCtGJsiQ.SavHXiUFu7yV1yxXqWmIq5zWHKkMnlb143JlNrVWi3WiL2qMPDztyvV.KfB1HlTsWAT3tCwSXc6ENi69qCRyGdd5Lr0NotIddQEhnUgpBgPcRSEhWNAyETcWlTHvUDI2Z4NPoPaNiK3sL_yWINDLb9BE2b3UbbYLUNBGrI8b.Xp9AHfTR5di.GbbzGh3kMgD1HRxjU3ESN8KdqzJjyNJIoAHPGoXiWRR_OWNtlraLoLxrbN__fdGJ9bcbNcTyuJos1vHBTL7jBgYlHMK_uGQmOj0JAHX34jQQbcgAlQGNygKkjkEuLXVN10ummOE9jtIxAYHBzcXWL5c2OPoYP.bchqRMHQkv26eGP3tUvTiYHJU2O0PWo_kH.sCNkC3M3aRUA8VTP49tLNu8v2m690G2vYqsBJixAW1xb5V4v9xt1wGcjhjC_CMDaCOIlbu4ni9KVg04G3hrPxsY1WhSj6zr.ifC4I2xyppdfpowQXW_q.kdq0gOxRrFYz7zir2CRFLEFjq1ZWIg9FokYbIt2Y_kuz8UKkdNSZ9Eh6F.ayeUyTZrVBOmViaT8ox",
+            "Origin": "https://challenges.cloudflare.com"
         },
         "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
+            "is_protected": true,
+            "drm_type": "clearkey",
+            "drm_key": "auto_detect_required_check_console"
         },
         "epg_metadata": {
-            "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "National Bank Open: Day 2 S1",
+            "tvg_id": "idn283_multi_2.id",
+            "tvg_name": "york-city-vs-crawley-town S2",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
     }
-]
 ]
