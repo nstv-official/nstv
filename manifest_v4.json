@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "KAMBOJA TIMOR LESTE - Server Live 1",
-        "category": "ASEAN CUP",
-        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3De0069cdf17a66f5112aea2697d435f92f27d94dea9b646be135d46efe91c4148902947912db440bdd7999c2f3dcb92cf48d789e56bd662763c46abe869178b6342db3dd6af9346e6265868961dfc6270ef4bd25d973693956fe2520afa103de94be34ff5ce8b662d3e7528b7abd05ab44e7be59d5b7554e370232058a0d6a502b0b4643c25c47ea9618dceec601fad3f507cafc572f297685c1a145864ba7b767ec3594aaf0b77d65c40bceb69470d43d068bafee2afcd2375e7a383496b807f53c5a7ec9a04baddb1dec5814ba9dcf2bc70b1fef2a8a4da44bee037db3ca358811babd0d1dbb9316d48659cefbe184b4879eddf96cec60f453b39861b939358c72b3adb0f7a417aae0cfae0ba4305761c5a883a746c2820824ddb376b0398fa7a2bbd646cd97098c6378427f19251f0%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DfVQHhX%26_vis%3D0d6a985d05b263813488aa7293074c17880d025fec24c9500ae6810bf93a2611%26_vvs%3D8969e13c08f037017d1f2e756801cde4c233391443f191bdefea912e28f95d3a%26_vas%3De6ad242d9cc2cc274699894599569ba1bc4fc0f219e56d3a80567b96f1e51bdc/transcode/c430246_480p.m3u8",
+        "title": "Indonesia VS Vietnam - Server Live 1",
+        "category": "PIALA AFF",
+        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3Dc1a8974398745dbe20bb5b5481826b3fc7bd398145ec17cb98dad4346d823e88e54fd50529dcfed6cdbe33a5aa14a19aa3576be30502cc2350059dc9ec87583725f0cc762af58e65e532ede4ff645921f2b269b95de7319c0f1ed93f6855b7ce3741d5e95266256626b4b183041ba1be840b9592237dca6e4764da2778b0bcc2%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DzpgyzW%26_vis%3De42b27f3598428b3c262f16f9570b94d867f08bc35c930c492d9273111b0cb72%26_vvs%3Dfc5201bc09b4fcb3593286fe0e86ec9b34470074114f8f1d3b62d7f0a1d056f2%26_vas%3Dc3c889fff061a2c273d3b9b79c2221ec38728f4e88d9edc4335bdd3ad8fcf3b6/transcode/c430247_480p.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260803",
@@ -18,7 +18,7 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "KAMBOJA TIMOR LESTE S1",
+            "tvg_name": "Indonesia VS Vietnam S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
