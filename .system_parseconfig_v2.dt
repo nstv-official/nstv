@@ -1,7 +1,7 @@
 [
     {
         "id": "1.1",
-        "title": "TEST LIVE",
+        "title": "LIVE",
         "category": "SPORTS",
         "uri": "https://live1.streambylivepulse.com/live/channel17/playlist.m3u8?wsSecret=1999ae0c21483214543b6ce0eaea6684&wsABSTime=1785603774",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
@@ -15,6 +15,29 @@
         "is_protected": false,
         "drm_type": "",
         "drm_key": ""
+        }
+    },{
+        "id": 1.11,
+        "title": "VNL Live 1",
+        "category": "VOLLEYBALL NATIONS LEAGUE",
+        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D073b047f82be0d50a9a5a57d670a8d48f7d76189882833aa8caaf76258d56bd314e7eb2b8be1ab891801af92f2c0c7926f2ae50e7f4a45f9117e10e42b17ca4b1869c4012ce437c42903c7f14d7799c0dc751140065e2f0d5df20bce121e4ef5f2a2c45dbf5ab44371c97c2cf0eccf79fe54841c34f4cd2810d6fe6ee7fbc9ca5733f13f17fc0c5778586944e5560dee315b8cf6f9de6da00d1dda0c035a931c%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DxAj62H%26_vis%3D62505b18db38fc7318d967761fe30a212aada55e2b4de5077cd8ac69a62b4d83%26_vvs%3D9d9f94e1fa6e4cb04d23076369248a2ca9e8d070b109d77d3861b1bf10e85ce1%26_vas%3D08d68ed315165129903f38c89ab07ddfd457e56a70b70f68223b16c19105ee2f/app/c430307.m3u8",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
+        "is_live": true,
+        "match_id": "IDN283_20260804",
+        "headers": {
+            "Referer": "https://ppdd19.plaifrdcikf.shop/",
+            "Origin": "https://ppdd19.plaifrdcikf.shop"
+        },
+        "drm_info": {
+            "is_protected": false,
+            "drm_type": "",
+            "drm_key": ""
+        },
+        "epg_metadata": {
+            "tvg_id": "idn283_multi_1.id",
+            "tvg_name": "VNL S1",
+            "tvg_logo": "https://livesports088.is",
+            "source_xml": "Embedded"
         }
     },
     {
