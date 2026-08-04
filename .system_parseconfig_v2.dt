@@ -43,7 +43,7 @@
     },
     {
         "id": 1.13",
-        "title": "Round Of 32 - Server Live 1",
+        "title": "BWF - Server Live 1",
         "category": "BWF INDONESIA OPEN",
         "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3Dd2bee5b98520cdcc71d86d5013fe7b77eda587929ad552a0a5d1b9fab942a8fbe3bf81b1a3929a1dfe56df722470bb050fe10e2294eb9ac5b355e7fe84eb1cee9ce0e062612c963884f4e8070eecfbc848305d9e32823203b61256511cb159218570f854e65f0c12306de77c1bef7693bc86a8dc9d5209610d57f56475ccfbc9580376b077eaf2e73dbe8b5a8846fd64168ad4aa33cc1524a7d0dc7028864abd%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DcjSZW2%26_vis%3D1a7b303f6d7687852ecc199bb53a94a962f12c52062859daaf0c91c44f7e2470%26_vvs%3Debd9a7586b652dac19a38236d60e005835e38546db15177d6918392bb8674f18%26_vas%3D2e46593282883ca2399a14e137d7064cb074475a073b17cc3e0e5e40b1e0c147/app/c430316.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
@@ -61,7 +61,7 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "Round Of 32 S1",
+            "tvg_name": "BWF S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
