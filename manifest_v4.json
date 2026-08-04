@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "huracan-vs-atletico-tucuman - Server Live 1",
-        "category": "ARGENTINA: LIGA PROFESIONAL",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D5b68e0a84659a0c0541fda677ad1b67232acbdd4a406f5c056561be1da480ba468a5127777618b8917a0b6000e76fe228df45a0ae13cc75e836f04d6104aa2eb97e69061b9e11fbfa2e383474d24dc5ea6dc3d8a8fd6990e613157bc0175b0c663ef92134e2b404fe8b4a0d875c4750c34f7f5b4cc988aaf74fd4e340c0e657ae8236cbe351ce2df39495af6a5d4ff64cf8adcc20ee31413c91ea16e452e092e%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DVAzIrY%26_vis%3D27c810c8464f6c25394d68b67a50261289ba1e6f432ebe2a77cc9b6fc9e30801%26_vvs%3D8d8c75e7d4ff86ff866bbcd352b20defb937c8b3d2a0a9d09a9c02b5efb4189d%26_vas%3D22f1406c92e1cdade77f65869b603f935297ed6fe270709577e5a3558e846b80/app/c430257.m3u8",
+        "title": "canada-vs-france - Server Live 1",
+        "category": "VOLLEYBALL NATIONS LEAGUE",
+        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D9758075581c3ee7b6c5012f04d1aecaf10b80f463e30f3fed265d6d233220c742c070837c4b1cd0bbe367d07467b6529407955c6a6c7e760435a150ea29bb0f9477ac2dc6f80aef8590aeae1c5a22c01e09faf9fb6cf58c8487b577e04a27e85c2f172e2910982575551d0676fd8ca55a45a906066f132136536cc3b245f616510e1fb90acc06306fb1dde8e5fbf8a525a015c48a4b4c18508105c0525c0ba5f%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3D7jwm9e%26_vis%3Dab0434f1247f738a455ac22234fab83b166cc6a4ccb26959879cfdab4f181d93%26_vvs%3D5abb2c569e5aba1372330f8517c7f6302624084d267a802773a6764805900d17%26_vas%3D01c02868b65989177788436eadcb9a723a3c865830c2c2c178a0ccf7bef00a0b/app/c430307.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
         "match_id": "IDN283_20260804",
@@ -18,31 +18,7 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "huracan-vs-atletico-tucuman S1",
-            "tvg_logo": "https://livesports088.is",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 2,
-        "title": "bucaramanga-vs-cucuta - Server Live 2",
-        "category": "KOLOMBIA: PRIMERA A",
-        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3Dc45d9b4581be16de1ac3a0cd78dad7ed272ec7c681633db55791d95dfd0c9175b5eeaedf053bcea87e333fff0e3c36122c96a8947f0d2bb7caed45e1464777b380872a614d4f4e9d49bcba515862088d35f2646a13ea8efd1225d796e58e053696237114f4aa601c9f16782d5be1f1a216d9ff4127fd36d1312ab43209a9de768b2d432dc1bdd541c14158d4ce4bfae5edf9067929fdf1da3f65906565ed8cd7%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DyLeGtL%26_vis%3D2596ee1815a5a1765003cfe1621b992beb41d898f7c740be067e8cd84da1773e%26_vvs%3D7ae0b51fbf5c03c1dd911cc166464080f8b6411862dc0de60f474e7dc38602ad%26_vas%3D36203af7ce6307261c1a166dbc4826833ee81123134a2ea80d0ecf0c3665bbea/app/c430259.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
-        "is_live": true,
-        "match_id": "IDN283_20260804",
-        "headers": {
-            "Referer": "https://ppdd19.plaifrdcikf.shop/",
-            "Origin": "https://ppdd19.plaifrdcikf.shop"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "idn283_multi_2.id",
-            "tvg_name": "bucaramanga-vs-cucuta S2",
+            "tvg_name": "canada-vs-france S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
