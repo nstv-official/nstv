@@ -9685,9 +9685,9 @@
             "title": "BABYTV TURKIYE 1080P GEOBLOCKED",
             "category": "TURKEY",
             "uri": "https://saran-live.ercdn.net/babytv/index.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                 "Referer": "https://saran-live.ercdn.net/",
                 "Origin": "https://saran-live.ercdn.net"
             },
@@ -9701,7 +9701,7 @@
                     "type": "primary",
                     "uri": "https://saran-live.ercdn.net/babytv/index.m3u8",
                     "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                         "Referer": "https://saran-live.ercdn.net/",
                         "Origin": "https://saran-live.ercdn.net"
                     },
@@ -10242,6 +10242,46 @@
         },
         {
             "id": 257,
+            "title": "BBC EARTH TURKIYE 720P",
+            "category": "TURKEY",
+            "uri": "http://194.156.236.23:8004/play/a018",
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "headers": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Referer": "http://194.156.236.23:8004/",
+                "Origin": "http://194.156.236.23:8004"
+            },
+            "drm_info": {
+                "is_protected": false,
+                "drm_type": "org.w3.clearkey",
+                "drm_key": ""
+            },
+            "sources": [
+                {
+                    "type": "primary",
+                    "uri": "http://194.156.236.23:8004/play/a018",
+                    "headers": {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                        "Referer": "http://194.156.236.23:8004/",
+                        "Origin": "http://194.156.236.23:8004"
+                    },
+                    "drm_info": {
+                        "is_protected": false,
+                        "drm_type": "org.w3.clearkey",
+                        "drm_key": ""
+                    }
+                }
+            ],
+            "is_live": true,
+            "epg_metadata": {
+                "tvg_id": "BBCEarth.uk@Turkiye",
+                "tvg_name": "BBC EARTH TURKIYE 720P",
+                "tvg_logo": "https://i.imgur.com/nGSsUd4.png",
+                "source_xml": "Embedded"
+            }
+        },
+        {
+            "id": 258,
             "title": "BBC FOUR HD 720P GEOBLOCKED",
             "category": "UNITED KINGDOM",
             "uri": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
@@ -10281,7 +10321,7 @@
             }
         },
         {
-            "id": 258,
+            "id": 259,
             "title": "BBC FOURCBEEBIES 720P",
             "category": "UNITED KINGDOM",
             "uri": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
@@ -10321,7 +10361,7 @@
             }
         },
         {
-            "id": 259,
+            "id": 260,
             "title": "BBC LIFESTYLE",
             "category": "ENTERTAINMENT & LIFESTYLE",
             "uri": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd",
@@ -10361,7 +10401,7 @@
             }
         },
         {
-            "id": 260,
+            "id": 261,
             "title": "BBC TRAVEL",
             "category": "GERMANY",
             "uri": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
@@ -10401,7 +10441,7 @@
             }
         },
         {
-            "id": 261,
+            "id": 262,
             "title": "BBS BUDDHIST BROADCASTING 1080P",
             "category": "KOREA",
             "uri": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
@@ -10441,7 +10481,7 @@
             }
         },
         {
-            "id": 262,
+            "id": 263,
             "title": "BCS STARCROSS TV 576P",
             "category": "NIGERIA",
             "uri": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
@@ -10481,7 +10521,7 @@
             }
         },
         {
-            "id": 263,
+            "id": 264,
             "title": "BEIN SPORTS 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/100",
@@ -10521,7 +10561,7 @@
             }
         },
         {
-            "id": 264,
+            "id": 265,
             "title": "BEIN SPORTS 1 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510908",
@@ -10561,7 +10601,7 @@
             }
         },
         {
-            "id": 265,
+            "id": 266,
             "title": "BEIN SPORTS 1 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
@@ -10601,7 +10641,7 @@
             }
         },
         {
-            "id": 266,
+            "id": 267,
             "title": "BEIN SPORTS 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/101",
@@ -10641,7 +10681,7 @@
             }
         },
         {
-            "id": 267,
+            "id": 268,
             "title": "BEIN SPORTS 2 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909",
@@ -10681,7 +10721,7 @@
             }
         },
         {
-            "id": 268,
+            "id": 269,
             "title": "BEIN SPORTS 2 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
@@ -10721,7 +10761,7 @@
             }
         },
         {
-            "id": 269,
+            "id": 270,
             "title": "BEIN SPORTS 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/102",
@@ -10761,7 +10801,7 @@
             }
         },
         {
-            "id": 270,
+            "id": 271,
             "title": "BEIN SPORTS 3 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910",
@@ -10801,7 +10841,7 @@
             }
         },
         {
-            "id": 271,
+            "id": 272,
             "title": "BEIN SPORTS 3 INDONESIA",
             "category": "SPORTS",
             "uri": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
@@ -10841,7 +10881,7 @@
             }
         },
         {
-            "id": 272,
+            "id": 273,
             "title": "BEIN SPORTS 4",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/103",
@@ -10881,7 +10921,7 @@
             }
         },
         {
-            "id": 273,
+            "id": 274,
             "title": "BEIN SPORTS 4 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510911",
@@ -10921,7 +10961,7 @@
             }
         },
         {
-            "id": 274,
+            "id": 275,
             "title": "BEIN SPORTS 5",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/104",
@@ -10961,7 +11001,7 @@
             }
         },
         {
-            "id": 275,
+            "id": 276,
             "title": "BEIN SPORTS 5 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510912",
@@ -11001,7 +11041,7 @@
             }
         },
         {
-            "id": 276,
+            "id": 277,
             "title": "BEIN SPORTS 6",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/105",
@@ -11041,7 +11081,7 @@
             }
         },
         {
-            "id": 277,
+            "id": 278,
             "title": "BEIN SPORTS 6 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510913",
@@ -11081,7 +11121,7 @@
             }
         },
         {
-            "id": 278,
+            "id": 279,
             "title": "BEIN SPORTS 7",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/106",
@@ -11121,7 +11161,7 @@
             }
         },
         {
-            "id": 279,
+            "id": 280,
             "title": "BEIN SPORTS 7 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510914",
@@ -11161,7 +11201,7 @@
             }
         },
         {
-            "id": 280,
+            "id": 281,
             "title": "BEIN SPORTS 8",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/107",
@@ -11201,7 +11241,7 @@
             }
         },
         {
-            "id": 281,
+            "id": 282,
             "title": "BEIN SPORTS 8 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510915",
@@ -11241,7 +11281,7 @@
             }
         },
         {
-            "id": 282,
+            "id": 283,
             "title": "BEIN SPORTS 9",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/108",
@@ -11281,7 +11321,7 @@
             }
         },
         {
-            "id": 283,
+            "id": 284,
             "title": "BEIN SPORTS 9 ARAB UK",
             "category": "BEIN SPORTS",
             "uri": "https://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510916",
@@ -11321,7 +11361,7 @@
             }
         },
         {
-            "id": 284,
+            "id": 285,
             "title": "BEIN SPORTS ENG 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/110",
@@ -11361,7 +11401,7 @@
             }
         },
         {
-            "id": 285,
+            "id": 286,
             "title": "BEIN SPORTS ENG 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/111",
@@ -11401,7 +11441,7 @@
             }
         },
         {
-            "id": 286,
+            "id": 287,
             "title": "BEIN SPORTS ENG 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/267769",
@@ -11441,7 +11481,7 @@
             }
         },
         {
-            "id": 287,
+            "id": 288,
             "title": "BEIN SPORTS EX 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/290037",
@@ -11481,7 +11521,7 @@
             }
         },
         {
-            "id": 288,
+            "id": 289,
             "title": "BEIN SPORTS FR 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/144",
@@ -11521,7 +11561,7 @@
             }
         },
         {
-            "id": 289,
+            "id": 290,
             "title": "BEIN SPORTS FR 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/145",
@@ -11561,7 +11601,7 @@
             }
         },
         {
-            "id": 290,
+            "id": 291,
             "title": "BEIN SPORTS GLOBAL",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/16779",
@@ -11601,7 +11641,7 @@
             }
         },
         {
-            "id": 291,
+            "id": 292,
             "title": "BEIN SPORTS MAX 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/296991",
@@ -11641,7 +11681,7 @@
             }
         },
         {
-            "id": 292,
+            "id": 293,
             "title": "BEIN SPORTS MAX 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/199001",
@@ -11681,7 +11721,7 @@
             }
         },
         {
-            "id": 293,
+            "id": 294,
             "title": "BEIN SPORTS NEW",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/1266",
@@ -11721,7 +11761,7 @@
             }
         },
         {
-            "id": 294,
+            "id": 295,
             "title": "BEIN SPORTS PH 1",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282772",
@@ -11761,7 +11801,7 @@
             }
         },
         {
-            "id": 295,
+            "id": 296,
             "title": "BEIN SPORTS PH 2",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/282773",
@@ -11801,7 +11841,7 @@
             }
         },
         {
-            "id": 296,
+            "id": 297,
             "title": "BEIN SPORTS PH 3",
             "category": "BEIN SPORTS",
             "uri": "https://013tv.com:8080/vtprotonium/CuUWPf5b7jywB68SxZ5/299259",
@@ -11841,7 +11881,7 @@
             }
         },
         {
-            "id": 297,
+            "id": 298,
             "title": "BEIN SPORTS XTRA 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
@@ -11881,7 +11921,7 @@
             }
         },
         {
-            "id": 298,
+            "id": 299,
             "title": "BEIN SPORTS XTRA EN ESPANOL 1080P",
             "category": "WORLDCUP 2026",
             "uri": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
@@ -11921,7 +11961,7 @@
             }
         },
         {
-            "id": 299,
+            "id": 300,
             "title": "BENDICION CHANNEL 720P",
             "category": "COLOMBIA",
             "uri": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
@@ -11961,7 +12001,7 @@
             }
         },
         {
-            "id": 300,
+            "id": 301,
             "title": "BENGUTURK TV 1080P",
             "category": "TURKEY",
             "uri": "http://185.234.111.229:8000/play/a05u",
@@ -12001,7 +12041,7 @@
             }
         },
         {
-            "id": 301,
+            "id": 302,
             "title": "BERITA RTM",
             "category": "MALAYSIA",
             "uri": "https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8",
@@ -12041,7 +12081,7 @@
             }
         },
         {
-            "id": 302,
+            "id": 303,
             "title": "BERITA SATU",
             "category": "INDIHOME",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd",
@@ -12081,7 +12121,7 @@
             }
         },
         {
-            "id": 303,
+            "id": 304,
             "title": "BFM2 1080P",
             "category": "FRANCE",
             "uri": "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
@@ -12121,7 +12161,7 @@
             }
         },
         {
-            "id": 304,
+            "id": 305,
             "title": "BIJOY TV 720P",
             "category": "BANGLADESH",
             "uri": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
@@ -12161,7 +12201,7 @@
             }
         },
         {
-            "id": 305,
+            "id": 306,
             "title": "BIR TV 720P",
             "category": "TURKEY",
             "uri": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
@@ -12201,7 +12241,7 @@
             }
         },
         {
-            "id": 306,
+            "id": 307,
             "title": "BITME 1080P",
             "category": "MEXICO",
             "uri": "https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8",
@@ -12241,7 +12281,7 @@
             }
         },
         {
-            "id": 307,
+            "id": 308,
             "title": "BLACK 576P",
             "category": "RUSSIA",
             "uri": "http://stream.mcquack.net/263/index.m3u8",
@@ -12281,7 +12321,7 @@
             }
         },
         {
-            "id": 308,
+            "id": 309,
             "title": "BLOOMBERGHT 720P",
             "category": "TURKEY",
             "uri": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
@@ -12321,7 +12361,7 @@
             }
         },
         {
-            "id": 309,
+            "id": 310,
             "title": "BN CHANNEL CHANNELFEED",
             "category": "INDONESIA CHANNELS",
             "uri": "https://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8",
@@ -12361,7 +12401,7 @@
             }
         },
         {
-            "id": 310,
+            "id": 311,
             "title": "BOOMERANG",
             "category": "INDIHOME",
             "uri": "https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd",
@@ -12401,7 +12441,7 @@
             }
         },
         {
-            "id": 311,
+            "id": 312,
             "title": "BOONNIYOM TV",
             "category": "THAILAND",
             "uri": "https://live.x2.co.th/live/bntv.m3u8",
@@ -12441,7 +12481,7 @@
             }
         },
         {
-            "id": 312,
+            "id": 313,
             "title": "BRIDE TV 576P",
             "category": "NIGERIA",
             "uri": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
@@ -12481,7 +12521,7 @@
             }
         },
         {
-            "id": 313,
+            "id": 314,
             "title": "BRTV 720P GEOBLOCKED",
             "category": "TURKEY",
             "uri": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
@@ -12521,7 +12561,7 @@
             }
         },
         {
-            "id": 314,
+            "id": 315,
             "title": "BS ANIMAX",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15",
@@ -12561,7 +12601,7 @@
             }
         },
         {
-            "id": 315,
+            "id": 316,
             "title": "BS ASAHI",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03",
@@ -12601,7 +12641,7 @@
             }
         },
         {
-            "id": 316,
+            "id": 317,
             "title": "BS FISHING VISION",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25",
@@ -12641,7 +12681,7 @@
             }
         },
         {
-            "id": 317,
+            "id": 318,
             "title": "BS FUJI",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06",
@@ -12681,7 +12721,7 @@
             }
         },
         {
-            "id": 318,
+            "id": 319,
             "title": "BS NTV",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02",
@@ -12721,7 +12761,7 @@
             }
         },
         {
-            "id": 319,
+            "id": 320,
             "title": "BS TBS",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04",
@@ -12761,7 +12801,7 @@
             }
         },
         {
-            "id": 320,
+            "id": 321,
             "title": "BS TV TOKYO",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05",
@@ -12801,7 +12841,7 @@
             }
         },
         {
-            "id": 321,
+            "id": 322,
             "title": "BTN TV 1080P",
             "category": "KOREA",
             "uri": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
@@ -12841,7 +12881,7 @@
             }
         },
         {
-            "id": 322,
+            "id": 323,
             "title": "BTV BANGLADESH",
             "category": "WORLDCUP 2026",
             "uri": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
@@ -12881,7 +12921,7 @@
             }
         },
         {
-            "id": 323,
+            "id": 324,
             "title": "BTV V",
             "category": "INDONESIA CHANNELS",
             "uri": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd",
@@ -12921,7 +12961,7 @@
             }
         },
         {
-            "id": 324,
+            "id": 325,
             "title": "BU TEJO SOWAN JAKARTA",
             "category": "VOD INDO",
             "uri": "https://pixeldrain.com/api/file/tzav6YZV?download",
@@ -12961,7 +13001,7 @@
             }
         },
         {
-            "id": 325,
+            "id": 326,
             "title": "BUENISIMA RADIO TV",
             "category": "COLOMBIA",
             "uri": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
@@ -13001,7 +13041,7 @@
             }
         },
         {
-            "id": 326,
+            "id": 327,
             "title": "BURSA AS TV 900P",
             "category": "TURKEY",
             "uri": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
@@ -13041,7 +13081,7 @@
             }
         },
         {
-            "id": 327,
+            "id": 328,
             "title": "CAN TV 720P",
             "category": "TURKEY",
             "uri": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
@@ -13081,7 +13121,7 @@
             }
         },
         {
-            "id": 328,
+            "id": 329,
             "title": "CAO BẰNG TV 720P",
             "category": "VIETNAM",
             "uri": "https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8",
@@ -13121,7 +13161,7 @@
             }
         },
         {
-            "id": 329,
+            "id": 330,
             "title": "CAPE TOWN TV 576P",
             "category": "SOUTH AFRICA",
             "uri": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
@@ -13161,7 +13201,7 @@
             }
         },
         {
-            "id": 330,
+            "id": 331,
             "title": "CARTOON CHANNEL PH 720P GEOBLOCKED",
             "category": "PHILIPPINES",
             "uri": "https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv",
@@ -13201,7 +13241,7 @@
             }
         },
         {
-            "id": 331,
+            "id": 332,
             "title": "CARTOON NETWORK",
             "category": "JAPAN",
             "uri": "https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25",
@@ -13241,7 +13281,7 @@
             }
         },
         {
-            "id": 332,
+            "id": 333,
             "title": "CARUBANTV",
             "category": "LOCAL CHANNELS",
             "uri": "https://stream.carubantv.id/hls/0/stream.m3u8",
@@ -13277,46 +13317,6 @@
                 "tvg_id": "auto.carubantv",
                 "tvg_name": "CARUBANTV",
                 "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png",
-                "source_xml": "Embedded"
-            }
-        },
-        {
-            "id": 333,
-            "title": "CAY TV 720P",
-            "category": "TURKEY",
-            "uri": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
-            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Referer": "https://edge1.socialsmart.tv/",
-                "Origin": "https://edge1.socialsmart.tv"
-            },
-            "drm_info": {
-                "is_protected": false,
-                "drm_type": "org.w3.clearkey",
-                "drm_key": ""
-            },
-            "sources": [
-                {
-                    "type": "primary",
-                    "uri": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://edge1.socialsmart.tv/",
-                        "Origin": "https://edge1.socialsmart.tv"
-                    },
-                    "drm_info": {
-                        "is_protected": false,
-                        "drm_type": "org.w3.clearkey",
-                        "drm_key": ""
-                    }
-                }
-            ],
-            "is_live": true,
-            "epg_metadata": {
-                "tvg_id": "CayTV.tr@SD",
-                "tvg_name": "CAY TV 720P",
-                "tvg_logo": "https://i.imgur.com/ndupxwu.png",
                 "source_xml": "Embedded"
             }
         },
