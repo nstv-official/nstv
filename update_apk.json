@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 34,
-  "latestVersionName": "3.0.4",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.4-release.apk",
-  "releaseNotes": "• Real-Time Manual Sync: Deteksi perubahan manifest manual setiap 15 detik.\n• Silent Update: Pembaruan data di latar belakang tanpa memunculkan loading spinner.\n• Performance: Optimasi penggunaan CPU/RAM untuk TV saat melakukan fast refresh."
+  "latestVersionCode": 35,
+  "latestVersionName": "3.0.5",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.5-release.apk",
+  "releaseNotes": "• Auto-Expire System: Status LIVE otomatis mati (Abu-abu) setelah 2.5 jam penayangan.\n• Pure Real-Time: Sinkronisasi manual file manifest setiap 15 detik.\n• Stadium Sync: Deteksi link di layar Stadion Tunggu kini lebih responsif (15 detik).\n• Data Security: Proteksi playlist agar tidak menampilkan siaran basi."
 }
