@@ -1,13 +1,13 @@
 [
     {
         "id": 1,
-        "title": "JAPAN vs SLOVENIA - Server Live 1",
-        "category": "VNL",
-        "uri": "https://xxyznt1-cf.sbbol1011play.sbs/auth%3Db00c49b132c74d7f410a1a84e2c99d0e2527c609f415101fe72381884ac9222afe66610b17dea54bf574c27a25d9142b524f680aa51fea1c14c7fb97e9090f9b88cda87f83ea302df9813176953a0461857403fda2b6323418082a13aeafdc3aa865f5da779e65aa2f3047c2c5281fc4ceb62c5e03cd9645ff8ce5040a61b62a92cc2ca11bb103d77e6f0759004da5f3abfd1fcad4dae90c52a3ed336d529ee3f70f07b784db7e3964fed3e4f3f9e3b0ba85419577295a1393af0dc5d43e3e1ddbf357ced590176cf26d7799458b2343%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DwpSEo3%26_vis%3D39f7396118506b71b0cef6b0243f0557e6f9cefa951e09ca8045a03d3dd9cffd%26_vvs%3Df79d5f5bfe7b132760bb9cfa9483ddb592d2c66f8472b5e02f445e7b2d35ab1e%26_vas%3Dddbe1ae677d3f9bf767b9d21d69a7d7f7dd79753af46e6a9079ae8eae82d25fb/app/c430528.m3u8",
+        "title": "-hradec-kralove-vs-besiktas - Server Live 1",
+        "category": "EROPA: EUROPA LEAGUE",
+        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D6eaabcf271729cf48d9059b06a56ef160d9c6bf8d7b7499e9ea614782fe19a3ed0d54b9a77336152ff683f4d6cd938e67e4c282ff79ed73d843e82e55be80899046b5fbd90dc94088c81b5e0e42274a5612dbc73da754195a860d188028390dbda0b6667965e78f34378494777c2c22a6866ae36602a779875c0f30295250aba74ec294cbb84810164f2bccdfe81928f8993c8cdc7694a6cf63f44e6fc63ccda%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DE89aKr%26_vis%3D56b86c1c4524d2932972d42c2907712242b880f4e524347e6e27f3a76814f4ff%26_vvs%3D077c32899045ccb4083a2f5856d48d8d93f9a5b7817f9482fd517c04ddb57c88%26_vas%3Dddb0e995592a3247125eac8568bcf9bedc5eac2201b8dcabaf94b9bff58c8a9d/app/c430560.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
-        "event_seen_at": 1786024089.6893005,
-        "match_id": "IDN283_20260806",
+        "event_seen_at": 1786041764.9374983,
+        "match_id": "IDN283_20260807",
         "headers": {
             "Referer": "https://ppdd19.playaindg12.xyz/",
             "Origin": "https://ppdd19.playaindg12.xyz"
@@ -19,38 +19,13 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "JAPAN vs SLOVENIA S1",
+            "tvg_name": "-hradec-kralove-vs-besiktas S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 2,
-        "title": "PERSIB BANDUNG vs PERSEBAYA - Server Live 1",
-        "category": "POALA PRESIDEN",
-        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D34ef5849b242292a9e8917db21a6a41a62ecc31db4cc8f614e7d342bad218044614b39eebf1e2dcaf7cb5baaf2e878253920985e2089cb7d4ed7ff857d15d3014d935fab13c53545eedb3758721df6ef25ce57aab256a38b4542d44cc0afe1080b0b394a21b0225e91e98f51cda4289d30a307d15bd45d83e7d5a7a680d0148b82b231aa0ea85a2edafce7f39ef71553a8095162f2f42955eda50bd7321911ad%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DJBanYY%26_vis%3D35868a6654d33fea33b9da646fb27ddd6203af0fc51f96934fd69c3234b54bd4%26_vvs%3D7f53dd7e04248769d2a12810908d02bd0027ff83a96c096fc1e5a01fcafa68e5%26_vas%3Dd42e97024155a188955b93e67679d405dc2ac7fe390fa7b939a9a5615c03c09e/transcode/c430583_480p.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
-        "is_live": true,
-        "event_seen_at": 1786021302.107841,
-        "match_id": "IDN283_20260806",
-        "headers": {
-            "Referer": "https://ppdd19.playaindg12.xyz/",
-            "Origin": "https://ppdd19.playaindg12.xyz"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "PERSIB BANDUNG vs PERSEBAYA S1",
-            "tvg_logo": "https://livesports088.is",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 3,
         "title": "canada-vs-france - Server Live 1",
         "category": "VOLLEYBALL NATIONS LEAGUE",
         "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D073b047f82be0d50a9a5a57d670a8d48f7d76189882833aa8caaf76258d56bd314e7eb2b8be1ab891801af92f2c0c7926f2ae50e7f4a45f9117e10e42b17ca4b1869c4012ce437c42903c7f14d7799c0dc751140065e2f0d5df20bce121e4ef5f2a2c45dbf5ab44371c97c2cf0eccf79fe54841c34f4cd2810d6fe6ee7fbc9ca5733f13f17fc0c5778586944e5560dee315b8cf6f9de6da00d1dda0c035a931c%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DxAj62H%26_vis%3D62505b18db38fc7318d967761fe30a212aada55e2b4de5077cd8ac69a62b4d83%26_vvs%3D9d9f94e1fa6e4cb04d23076369248a2ca9e8d070b109d77d3861b1bf10e85ce1%26_vas%3D08d68ed315165129903f38c89ab07ddfd457e56a70b70f68223b16c19105ee2f/app/c430307.m3u8",
