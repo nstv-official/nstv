@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "quarter-finals - Server Live 1",
-        "category": "BWF SINGAPURA OPEN",
-        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3Df937f50879b7b24687a5b43b3be802113635ab0a35f73d23eced3d8db989e0ce5e987935b4c9858b2f13e0983c3995590a0fb309052a67a905fb11ad9f6110b7809fe5c728dd540ec6d53fc1a585907fced952cb419fdb3a91787f1824bd699fc217d26e270e105edfc7e02ab00a9c241bfea1d44fc328bf1e690cb99863118356ef9346a0e1a9a5505918e733a6546512e70e46aed0c0c6ea3f1b86418eb96f%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DwUzwET%26_vis%3D31bc4ada376b608989a3577782216dbb84048ec4718ab911713a34a053f8ce73%26_vvs%3D3ccc74fcdef258929e6457aa714ff54d1e16c8053ca5d7b3e92aee3441120cdc%26_vas%3Dbd4c0339f5e8997836be98955ce9974042b1c3d55c7fd9239b2b997380832aec/app/c430706.m3u8",
+        "title": "Sirkuit Nasional DKI Jakarta Semi Final U17-U19 Dewasa - Server Live 1",
+        "category": "SIRKUIT NASIONAL A DKI JAKARTA",
+        "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D27e38eb38c45c57d88ef8b4f9ddfaf90276420b640043d44fd092e2356163671af1154bb16dd48d698af3c0ec5839aaea9e10f16645daeac7f855f6f255bca53cb344a9f49d85d85569e0bc6158de848efe21aaefa959869aff2fef55caee7454a6503606e0914ba039b7770bbdac6b132fa4ca9680e5374e36b7ded1ed4971a54c8327576e691126aa49bdb33c03392d81fc5d0744dad3598067b5affbaa301%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DKWP5v9%26_vis%3D0becd7cce936d710e68c98f7db7df1ee0f640331d25d5714ca39aaa4cd5f43c1%26_vvs%3Df38d80e84074c20eca905a45b4910a1cc7a2f451f3bc3e693361ed174ee01ae0%26_vas%3De5ad36a6b3329477568ece537d0d05b73cd53dc09a7155c50e291f063cef21fc/app/c430715.m3u8",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
         "is_live": true,
-        "event_seen_at": 1786069998.1535158,
+        "event_seen_at": 1786098207.3018596,
         "match_id": "IDN283_20260807",
         "headers": {
             "Referer": "https://ppdd19.playaindg12.xyz/",
@@ -19,63 +19,13 @@
         },
         "epg_metadata": {
             "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "quarter-finals S1",
+            "tvg_name": "Sirkuit Nasional DKI Jakarta Semi Final U17-U19 Dewasa S1",
             "tvg_logo": "https://livesports088.is",
             "source_xml": "Embedded"
         }
     },
     {
         "id": 2,
-        "title": "chicago fire vs necaxa - Server Live 1",
-        "category": "NORTH CENTRAL AMERICA LEAGUES CUP",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D694708fd656d8d8861eecc491a4950d8033dc0b9b072771ded316c47ed053e6c3646a793bff4cc2e4f5791a66779fc117e2545e952ee1a65ecd9316b5bdc7354424761256941648f189217035c3ba6fcb339b7b189e7e8cf1330dc727b01e63909de26ef7cea75f222c70949965305eccf46390e02030126efbb65f6a893c4716b2c3e421cf57cb1768121641bfc289e20890ef0aa1ae57b9ca46e254d67f713%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DNtEA5G%26_vis%3D028e442fb03d4ea8fdaec1b28b422393d55af7e08b840f44b962badb5daad27d%26_vvs%3D1f378a0124ebc0be0faa666eb515c6c86f7e4609de49b3b1af224850669bca11%26_vas%3D8cce5a19fd182708f7b49d431a61e6cc0bae075942f820edb24cc9275b9f62e8/app/c430593.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
-        "is_live": true,
-        "event_seen_at": 1786064078.1753974,
-        "match_id": "IDN283_20260807",
-        "headers": {
-            "Referer": "https://ppdd19.playaindg12.xyz/",
-            "Origin": "https://ppdd19.playaindg12.xyz"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "chicago fire vs necaxa S1",
-            "tvg_logo": "https://livesports088.is",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 3,
-        "title": "cdsyc cruz azul vs philadelphia union - Server Live 1",
-        "category": "NORTH CENTRAL AMERICA LEAGUES CUP",
-        "uri": "https://cxyznt3-cf.sbbol1011play.sbs/auth%3D6e268e6557783bb7e029e254d7fb8cf79ee9db6089cf9b2b661bff3078a17b16f1a25b99b90cd521ec66c2de5e444a6a643d237ce757ede059d16d7e104f1ca7776dcdc159a7e2ab1114e07f689439559cc43d74be6a2f3c123b8c3b53c74f9ba8a3e7f47220c01a8dab32e12bf921ac17660142c795c70bf21fbdadc513feea945bf0b939184437ae72096b908a69f390c9975fcbe8924a2d578c8bbe57e524%26cid%3DUABzVv1hzjY_82M5q1DjW260806%26_v%3D2%26_r%3DsXrR-N%26_vis%3D3027a320888966abbe8a675e501240d8385edfafa2a53b1e7c5e615da15d4ad3%26_vvs%3D0564251077441c1036c5f995f5c9167d85880af652d3570e6646708856f65f2e%26_vas%3D9ccb4c86bd3b31a9e3d443417e24935c071f8d99fbf15dc71781d6e0d79953b5/transcode/c430581_480p.m3u8",
-        "user_agent": "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 VLC/3.0 ExoPlayer/2.18",
-        "is_live": true,
-        "event_seen_at": 1786063927.675487,
-        "match_id": "IDN283_20260807",
-        "headers": {
-            "Referer": "https://ppdd19.playaindg12.xyz/",
-            "Origin": "https://ppdd19.playaindg12.xyz"
-        },
-        "drm_info": {
-            "is_protected": false,
-            "drm_type": "",
-            "drm_key": ""
-        },
-        "epg_metadata": {
-            "tvg_id": "idn283_multi_1.id",
-            "tvg_name": "cdsyc cruz azul vs philadelphia union S1",
-            "tvg_logo": "https://livesports088.is",
-            "source_xml": "Embedded"
-        }
-    },
-    {
-        "id": 4,
         "title": "canada-vs-france - Server Live 1",
         "category": "VOLLEYBALL NATIONS LEAGUE",
         "uri": "https://xyzna2-cf.sbbol1011play.sbs/auth%3D073b047f82be0d50a9a5a57d670a8d48f7d76189882833aa8caaf76258d56bd314e7eb2b8be1ab891801af92f2c0c7926f2ae50e7f4a45f9117e10e42b17ca4b1869c4012ce437c42903c7f14d7799c0dc751140065e2f0d5df20bce121e4ef5f2a2c45dbf5ab44371c97c2cf0eccf79fe54841c34f4cd2810d6fe6ee7fbc9ca5733f13f17fc0c5778586944e5560dee315b8cf6f9de6da00d1dda0c035a931c%26cid%3DDc6c_JgUxX5pVbN7uiqWu260803%26_v%3D2%26_r%3DxAj62H%26_vis%3D62505b18db38fc7318d967761fe30a212aada55e2b4de5077cd8ac69a62b4d83%26_vvs%3D9d9f94e1fa6e4cb04d23076369248a2ca9e8d070b109d77d3861b1bf10e85ce1%26_vas%3D08d68ed315165129903f38c89ab07ddfd457e56a70b70f68223b16c19105ee2f/app/c430307.m3u8",
