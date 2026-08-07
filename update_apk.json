@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 35,
-  "latestVersionName": "3.0.5",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.5-release.apk",
-  "releaseNotes": "• Auto-Expire System: Status LIVE otomatis mati (Abu-abu) setelah 2.5 jam penayangan.\n• Pure Real-Time: Sinkronisasi manual file manifest setiap 15 detik.\n• Stadium Sync: Deteksi link di layar Stadion Tunggu kini lebih responsif (15 detik).\n• Data Security: Proteksi playlist agar tidak menampilkan siaran basi."
+  "latestVersionCode": 36,
+  "latestVersionName": "3.0.6",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.6-release.apk",
+  "releaseNotes": "• Fix Status LIVE: Perbaikan logika Auto-Expire agar status Merah muncul tepat waktu saat link diperbarui.\n• Smart Memory: Pembersihan otomatis catatan siaran lama dari memori HP/TV.\n• Precision Expiry: Sistem sekarang melacak umur siaran berdasarkan link video yang unik.\n• UI Performance: Refresh data lebih ringan dan stabil."
 }
