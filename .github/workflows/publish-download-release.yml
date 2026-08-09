@@ -1,0 +1,122 @@
+name: Publish NSTV APK to Download Site
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "update_apk.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+
+      - name: Read release metadata
+        id: metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          VERSION="$(jq -r '.latestVersionName' update_apk.json)"
+          APK_URL="$(jq -r '.updateUrl' update_apk.json)"
+          APK_NAME="$(basename "${APK_URL%%\?*}")"
+          NOTES="$(jq -r '.releaseNotes // ""' update_apk.json)"
+
+          if [[ -z "$VERSION" || "$VERSION" == "null" ]]; then
+            echo "latestVersionName tidak ditemukan."
+            exit 1
+          fi
+
+          if [[ -z "$APK_URL" || "$APK_URL" == "null" ]]; then
+            echo "updateUrl tidak ditemukan."
+            exit 1
+          fi
+
+          if [[ -z "$APK_NAME" || "$APK_NAME" == "null" ]]; then
+            echo "Nama APK tidak dapat ditentukan dari updateUrl."
+            exit 1
+          fi
+
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "apk_url=$APK_URL" >> "$GITHUB_OUTPUT"
+          echo "apk_name=$APK_NAME" >> "$GITHUB_OUTPUT"
+          printf '%s' "$NOTES" > release-notes.txt
+
+      - name: Download APK from source repository
+        shell: bash
+        env:
+          APK_URL: ${{ steps.metadata.outputs.apk_url }}
+          APK_NAME: ${{ steps.metadata.outputs.apk_name }}
+        run: |
+          set -euo pipefail
+
+          # Tunggu sebentar jika update_apk.json sudah ter-commit
+          # sebelum file APK selesai tersedia di GitHub.
+          for attempt in {1..12}; do
+            if curl -fL --retry 2 --retry-delay 2 --silent --show-error "$APK_URL" -o "$APK_NAME"; then
+              break
+            fi
+
+            if [[ "$attempt" == "12" ]]; then
+              echo "Gagal mengambil APK setelah beberapa percobaan."
+              exit 1
+            fi
+
+            echo "APK belum tersedia, mencoba lagi dalam 10 detik..."
+            sleep 10
+          done
+
+          if [[ ! -s "$APK_NAME" ]]; then
+            echo "File APK kosong atau tidak ditemukan."
+            exit 1
+          fi
+
+          file "$APK_NAME"
+          ls -lh "$APK_NAME"
+
+      - name: Publish or update GitHub Release in new-releases
+        env:
+          GH_TOKEN: ${{ secrets.NEW_RELEASES_TOKEN }}
+          VERSION: ${{ steps.metadata.outputs.version }}
+          APK_NAME: ${{ steps.metadata.outputs.apk_name }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${GH_TOKEN:-}" ]]; then
+            echo "Secret NEW_RELEASES_TOKEN belum dikonfigurasi."
+            echo "Buat fine-grained token dengan Contents: Read and write pada nstv-official/new-releases, lalu simpan sebagai Actions secret NEW_RELEASES_TOKEN di repo nstv."
+            exit 1
+          fi
+
+          TAG="v${VERSION}"
+
+          if gh release view "$TAG" --repo nstv-official/new-releases >/dev/null 2>&1; then
+            echo "Release $TAG sudah ada. Memperbarui asset..."
+            gh release upload "$TAG" "$APK_NAME" \
+              --repo nstv-official/new-releases \
+              --clobber
+            gh release edit "$TAG" \
+              --repo nstv-official/new-releases \
+              --title "NSTV v${VERSION}" \
+              --notes-file release-notes.txt \
+              --latest
+          else
+            echo "Membuat release $TAG..."
+            gh release create "$TAG" "$APK_NAME" \
+              --repo nstv-official/new-releases \
+              --target main \
+              --title "NSTV v${VERSION}" \
+              --notes-file release-notes.txt \
+              --latest
+          fi
+
+          echo "Release $TAG berhasil dipublikasikan ke new-releases."
