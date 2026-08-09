@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 36,
-  "latestVersionName": "3.0.6",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.6-release.apk",
-  "releaseNotes": "• Fix Status LIVE: Perbaikan logika Auto-Expire agar status Merah muncul tepat waktu saat link diperbarui.\n• Smart Memory: Pembersihan otomatis catatan siaran lama dari memori HP/TV.\n• Precision Expiry: Sistem sekarang melacak umur siaran berdasarkan link video yang unik.\n• UI Performance: Refresh data lebih ringan dan stabil."
+  "latestVersionCode": 37,
+  "latestVersionName": "3.0.7",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.7-release.apk",
+  "releaseNotes": "• Professional DRM Fix: Memperbaiki layar hitam pada channel TV Nasional (RCTI, Indosiar, MNC, GTV).\n• ClearKey Engine 2.0: Injeksi kunci lokal yang lebih stabil menggunakan LocalMediaDrmCallback.\n• Zero Network Overhead: Kunci lisensi dikirim langsung ke player tanpa melalui request HTTP palsu.\n• Enhanced Stability: Perbaikan error 'unknown protocol: data' yang menyebabkan kegagalan putar."
 }
