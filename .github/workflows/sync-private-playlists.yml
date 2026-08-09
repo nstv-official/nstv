@@ -19,14 +19,36 @@ jobs:
       - name: Checkout source repository
         uses: actions/checkout@v4
 
-      - name: Validate private repository token
+      - name: Check private repository secret
         env:
           PRIVATE_DATA_TOKEN: ${{ secrets.PRIVATE_DATA_TOKEN }}
         run: |
-          if [ -z "$PRIVATE_DATA_TOKEN" ]; then
-            echo "PRIVATE_DATA_TOKEN is not configured."
+          set -euo pipefail
+          if [ -z "${PRIVATE_DATA_TOKEN:-}" ]; then
+            echo "PRIVATE_DATA_TOKEN is empty or unavailable to this workflow."
+            echo "Check that it exists under the nstv repository Actions secrets and that this workflow is running from the nstv repository itself."
             exit 1
           fi
+          echo "PRIVATE_DATA_TOKEN is available to the workflow (value hidden)."
+
+      - name: Verify access to private repository
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_DATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          status=$(curl -sS -o repo.json -w "%{http_code}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/nstv-official/nstv-private-data")
+
+          if [ "$status" != "200" ]; then
+            echo "GitHub API access failed with HTTP $status."
+            echo "The token may not have access to nstv-private-data."
+            exit 1
+          fi
+
+          echo "Private repository access verified."
 
       - name: Sync playlist files to private repository
         env:
@@ -50,19 +72,22 @@ jobs:
 
             local api_url="https://api.github.com/repos/${OWNER}/${TARGET_REPO}/contents/${target_path}"
             local sha=""
+            local response
 
-            response=$(curl -fsSL \
+            response=$(curl -sS \
               -H "Accept: application/vnd.github+json" \
               -H "Authorization: Bearer ${GH_TOKEN}" \
               -H "X-GitHub-Api-Version: 2022-11-28" \
-              "${api_url}?ref=${BRANCH}" || true)
+              "${api_url}?ref=${BRANCH}")
 
             if echo "$response" | jq -e '.sha' >/dev/null 2>&1; then
               sha=$(echo "$response" | jq -r '.sha')
             fi
 
+            local content
             content=$(base64 -w 0 "$source_path")
 
+            local payload
             payload=$(jq -n \
               --arg message "$message" \
               --arg content "$content" \
