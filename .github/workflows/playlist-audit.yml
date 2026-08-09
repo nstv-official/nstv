@@ -1,0 +1,46 @@
+name: Playlist cleanup and URL audit
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "system_config_v3.data"
+      - ".github/scripts/normalize_playlist.py"
+      - ".github/scripts/check_playlist_urls.py"
+      - ".github/workflows/playlist-audit.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Normalize channel IDs
+        run: python3 .github/scripts/normalize_playlist.py system_config_v3.data
+
+      - name: Check stream URLs
+        run: python3 .github/scripts/check_playlist_urls.py system_config_v3.data
+
+      - name: Commit normalized playlist
+        run: |
+          if git diff --quiet -- system_config_v3.data; then
+            echo "No ID changes needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add system_config_v3.data
+          git commit -m "Fix playlist ID sequence"
+          git push
+
+      - name: Upload URL audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: playlist-url-audit
+          path: |
+            playlist_url_audit.csv
+            playlist_url_audit.json
+            playlist_dead_channels.txt
