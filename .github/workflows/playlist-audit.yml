@@ -7,6 +7,7 @@ on:
       - "system_config_v3.data"
       - ".github/scripts/normalize_playlist.py"
       - ".github/scripts/check_playlist_urls.py"
+      - ".github/scripts/mark_dead_channels.py"
       - ".github/workflows/playlist-audit.yml"
 
 permissions:
@@ -24,16 +25,19 @@ jobs:
       - name: Check stream URLs
         run: python3 .github/scripts/check_playlist_urls.py system_config_v3.data
 
-      - name: Commit normalized playlist
+      - name: Mark dead channels
+        run: python3 .github/scripts/mark_dead_channels.py
+
+      - name: Commit playlist cleanup
         run: |
           if git diff --quiet -- system_config_v3.data; then
-            echo "No ID changes needed."
+            echo "No playlist changes needed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add system_config_v3.data
-          git commit -m "Fix playlist ID sequence"
+          git commit -m "Clean playlist IDs and mark dead URLs"
           git push
 
       - name: Upload URL audit
