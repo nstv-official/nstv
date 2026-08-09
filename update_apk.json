@@ -2,5 +2,6 @@
   "latestVersionCode": 37,
   "latestVersionName": "3.0.7",
   "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.7-release.apk",
+  "apkSizeBytes": 17393586,
   "releaseNotes": "• Professional DRM Fix: Memperbaiki layar hitam pada channel TV Nasional (RCTI, Indosiar, MNC, GTV).\n• ClearKey Engine 2.0: Injeksi kunci lokal yang lebih stabil menggunakan LocalMediaDrmCallback.\n• Zero Network Overhead: Kunci lisensi dikirim langsung ke player tanpa melalui request HTTP palsu.\n• Enhanced Stability: Perbaikan error 'unknown protocol: data' yang menyebabkan kegagalan putar."
 }
