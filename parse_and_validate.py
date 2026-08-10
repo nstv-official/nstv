@@ -4,19 +4,19 @@ from urllib.parse import urlparse
 import requests
 
 # URL SUMBER M3U DARI GITHUB BODYSLAM
-SOURCE_URL = "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv-ott.m3u"
 # OUTPUT FILE DI REPO NSTV
 OUTPUT_FILE = ".system_config_v1.dt"
 
 # --- ATUR URUTAN KATEGORI DI SINI ---
-CATEGORY_ORDER = ["NASIONAL", "OLAHRAGA"]
+CATEGORY_ORDER = ["INDIHOME", "Indonesia Channels", "Premium Movies"]
 
 # DAFTAR KATA TERLARANG (Akan dibuang sepenuhnya)
 BANNED_KEYWORDS = [
-    "ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A", "NEWS", "KIDS", "DOCUMENTARY", "HIBURAN", "DAERAH"
-    "DUNIA INDIA NON SUB", "MAGELIFE INFORMATION", "MUSIC", "WORLD TV",
-    "DUNIA TAIWAN ETC", "DUNIA SINGAPORE", "DUNIA JEPANG NON SUB", "DUNIA CHINA NON SUB",
-    "DUNIA BRUNEI", "DUNIA MALAYSIA", "DUNIA AMERICA NON SUB", "DUNIA THAILAND ETC", "AGAMA"
+    "ORDER", "ORDER DISINI", "PESAN DI", "BELI", "W.A", "News", "Kids", "Documentary", "Hiburan", "Daerah"
+    "DUNIA India NON SUB", "MAGELIFE INFORMATION", "Music", "WORLD TV",
+    "DUNIA Taiwan ETC", "DUNIA Sigapore", "DUNIA Jepang NON SUB", "DUNIA China NON SUB",
+    "DUNIA Brunai", "DUNIA Malaysia", "DUNIA America NON SUB", "DUNIA Thailand ETC", "Agama"
 ]
 
 def clean_channel_name(name):
