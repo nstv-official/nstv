@@ -1,7 +1,6 @@
 {
-  "latestVersionCode": 37,
-  "latestVersionName": "3.0.7",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.0.7-release.apk",
-  "apkSizeBytes": 17393586,
-  "releaseNotes": "• Professional DRM Fix: Memperbaiki layar hitam pada channel TV Nasional (RCTI, Indosiar, MNC, GTV).\n• ClearKey Engine 2.0: Injeksi kunci lokal yang lebih stabil menggunakan LocalMediaDrmCallback.\n• Zero Network Overhead: Kunci lisensi dikirim langsung ke player tanpa melalui request HTTP palsu.\n• Enhanced Stability: Perbaikan error 'unknown protocol: data' yang menyebabkan kegagalan putar."
+  "latestVersionCode": 41,
+  "latestVersionName": "3.1.1",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.1-release.apk",
+  "releaseNotes": "• New Infrastructure: Dukungan penuh Cloudflare Workers untuk akses data lebih cepat.\n• Visual Status: Indikator titik hijau berkedip (Blinking) untuk pertandingan LIVE.\n• Fixed Live Status: Perbaikan bug status LIVE yang tersangkut pada instalasi baru.\n• UI Cleanup: Menghapus label merah redundan pada Server 1 & 2."
 }
