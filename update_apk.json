@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 45,
-  "latestVersionName": "3.1.5",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.5-release.apk",
-  "releaseNotes": "• DASH Ultimate Fix: Solusi tuntas untuk siaran HBO & SPORT yang ndut-ndutan atau loading terus.\n• Enhanced Buffer: Nafas video lebih panjang khusus untuk link premium IndiHome.\n• Smart DRM 2.0: Deteksi otomatis proteksi ClearKey meskipun flag di JSON tidak disetel.\n• Master Normalization: Pengurutan daftar channel otomatis berdasarkan Kategori dan Judul."
+  "latestVersionCode": 46,
+  "latestVersionName": "3.1.6",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.6-release.apk",
+  "releaseNotes": "• Content Management: Dukungan fitur is_enabled untuk menyembunyikan channel bermasalah.\n• Diagnostic Pro: Notifikasi gangguan ISP/WiFi lebih akurat (Anti-Pusing).\n• WiFi Stability: Peningkatan daya tahan loading pada jaringan WiFi dengan sistem retry otomatis.\n• Performance Fix: Optimasi player untuk menangani link yang tidak stabil."
 }
