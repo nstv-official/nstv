@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 41,
-  "latestVersionName": "3.1.1",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.1-release.apk",
-  "releaseNotes": "• New Infrastructure: Dukungan penuh Cloudflare Workers untuk akses data lebih cepat.\n• Visual Status: Indikator titik hijau berkedip (Blinking) untuk pertandingan LIVE.\n• Fixed Live Status: Perbaikan bug status LIVE yang tersangkut pada instalasi baru.\n• UI Cleanup: Menghapus label merah redundan pada Server 1 & 2."
+  "latestVersionCode": 42,
+  "latestVersionName": "3.1.2",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.2-release.apk",
+  "releaseNotes": "• Smart Connectivity Guard: Cek status link secara otomatis (HTTP 200 OK) untuk menjamin kejujuran status LIVE.\n• Visual Status 2.0: Indikator titik hijau berkedip yang lebih responsif.\n• UI Cleanup: Menghapus label LIVE merah pada Server 1 & 2 agar tampilan lebih lega.\n• Infrastructure: Migrasi penuh ke Cloudflare Workers untuk kecepatan data maksimal.\n• Absolute Expiry: Perbaikan status LIVE yang tersangkut pada perangkat baru."
 }
