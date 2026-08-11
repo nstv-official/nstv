@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 42,
-  "latestVersionName": "3.1.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.2-release.apk",
-  "releaseNotes": "• Smart Connectivity Guard: Cek status link secara otomatis (HTTP 200 OK) untuk menjamin kejujuran status LIVE.\n• Visual Status 2.0: Indikator titik hijau berkedip yang lebih responsif.\n• UI Cleanup: Menghapus label LIVE merah pada Server 1 & 2 agar tampilan lebih lega.\n• Infrastructure: Migrasi penuh ke Cloudflare Workers untuk kecepatan data maksimal.\n• Absolute Expiry: Perbaikan status LIVE yang tersangkut pada perangkat baru."
+  "latestVersionCode": 43,
+  "latestVersionName": "3.1.3",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.3-release.apk",
+  "releaseNotes": "• Deep Health Guard: Verifikasi isi & ukuran link asli (Anti-Zonk 2.0).\n• Anti-Stuck Playback: Deteksi otomatis loading 99% macet dalam 8 detik.\n• Strict Server Filter: Isolasi daftar channel terkait hanya pada server yang sama.\n• UI Refresh: Pengurutan daftar channel berdasarkan Kategori (A-Z) dan Judul (A-Z)."
 }
