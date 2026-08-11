@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 44,
-  "latestVersionName": "3.1.4",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.4-release.apk",
-  "releaseNotes": "• Deep Health Guard: Verifikasi isi & ukuran link asli (Anti-Zonk 2.0).\n• Anti-Stuck Playback: Deteksi otomatis loading 99% macet dalam 8 detik.\n• Strict Server Filter: Isolasi daftar channel terkait hanya pada server yang sama.\n• UI Refresh: Pengurutan daftar channel berdasarkan Kategori (A-Z) dan Judul (A-Z)."
+  "latestVersionCode": 45,
+  "latestVersionName": "3.1.5",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.5-release.apk",
+  "releaseNotes": "• DASH Ultimate Fix: Solusi tuntas untuk siaran HBO & SPORT yang ndut-ndutan atau loading terus.\n• Enhanced Buffer: Nafas video lebih panjang khusus untuk link premium IndiHome.\n• Smart DRM 2.0: Deteksi otomatis proteksi ClearKey meskipun flag di JSON tidak disetel.\n• Master Normalization: Pengurutan daftar channel otomatis berdasarkan Kategori dan Judul."
 }
