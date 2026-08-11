@@ -3,6 +3,9 @@ name: Cleanup Server 1 categories
 on:
   push:
     branches: [main]
+    paths:
+      - '.system_config_v1.dt'
+      - '.github/workflows/cleanup-server1-categories.yml'
   workflow_dispatch:
 
 permissions:
@@ -15,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Remove selected categories from Server 1 data
+      - name: Remove permanently blocked categories from Server 1 data
         env:
           TARGETS: >-
             EUFA EROPA LEAGUE|UEFA EUROPA LEAGUE|SUPERCOPA DE ESPANA|SUPERCOPA DE ESPAÑA|SERIE A|OLAHRAGA UFC|OLahraga UFC|UFC
@@ -47,13 +50,13 @@ jobs:
           print(f'Channels removed: {len(removed)}')
           for cid, title, category in removed:
               print(f'REMOVE id={cid!r} category={category!r} title={title!r}')
-          if not removed:
-              print('No requested Server 1 categories found. Nothing to change.')
-              raise SystemExit(0)
 
-          data['channels'] = kept
-          path.write_text(json.dumps(data, ensure_ascii=False, indent=4) + '\n', encoding='utf-8')
-          print(f'New channel count: {len(kept)}')
+          if removed:
+              data['channels'] = kept
+              path.write_text(json.dumps(data, ensure_ascii=False, indent=4) + '\n', encoding='utf-8')
+              print(f'New channel count: {len(kept)}')
+          else:
+              print('Blacklist already clean. Nothing to change.')
           PY
 
       - name: Commit cleanup
@@ -61,9 +64,9 @@ jobs:
           git config user.name "nstv-official"
           git config user.email "officialnstv@gmail.com"
           if git diff --quiet -- .system_config_v1.dt; then
-            echo "No changes to commit."
+            echo "No cleanup changes needed."
             exit 0
           fi
           git add .system_config_v1.dt
-          git commit -m "cleanup: remove selected Server 1 categories"
+          git commit -m "cleanup: enforce Server 1 category blacklist"
           git push
