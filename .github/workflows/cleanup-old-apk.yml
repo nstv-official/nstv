@@ -1,0 +1,53 @@
+name: Cleanup Old APK Releases
+
+on:
+  push:
+    paths:
+      - 'releases/*.apk'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Keep only the newest APK
+        shell: bash
+        run: |
+          set -e
+
+          mapfile -t apks < <(git ls-files 'releases/*.apk' | sort -V)
+
+          echo "APK yang terdeteksi:"
+          printf '%s\n' "${apks[@]}"
+
+          # Jika hanya ada 0 atau 1 APK, tidak ada yang perlu dibersihkan.
+          if [ "${#apks[@]}" -le 1 ]; then
+            echo "Tidak ada APK lama yang perlu dihapus."
+            exit 0
+          fi
+
+          newest="${apks[${#apks[@]}-1]}"
+          echo "APK terbaru yang dipertahankan: $newest"
+
+          for apk in "${apks[@]:0:${#apks[@]}-1}"; do
+            echo "Menghapus APK lama: $apk"
+            rm -f "$apk"
+          done
+
+          if git diff --quiet -- releases; then
+            echo "Tidak ada perubahan."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A releases
+          git commit -m "chore: keep only newest APK release"
+          git push
