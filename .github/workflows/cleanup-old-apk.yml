@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'releases/*.apk'
+      - '.github/workflows/cleanup-old-apk.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,7 +29,6 @@ jobs:
           echo "APK yang terdeteksi:"
           printf '%s\n' "${apks[@]}"
 
-          # Jika hanya ada 0 atau 1 APK, tidak ada yang perlu dibersihkan.
           if [ "${#apks[@]}" -le 1 ]; then
             echo "Tidak ada APK lama yang perlu dihapus."
             exit 0
