@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 46,
-  "latestVersionName": "3.1.6",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.6-release.apk",
-  "releaseNotes": "• Content Management: Dukungan fitur is_enabled untuk menyembunyikan channel bermasalah.\n• Diagnostic Pro: Notifikasi gangguan ISP/WiFi lebih akurat (Anti-Pusing).\n• WiFi Stability: Peningkatan daya tahan loading pada jaringan WiFi dengan sistem retry otomatis.\n• Performance Fix: Optimasi player untuk menangani link yang tidak stabil."
+  "latestVersionCode": 47,
+  "latestVersionName": "3.1.7",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.7-release.apk",
+  "releaseNotes": "• Hotfix Build: Perbaikan penting untuk memastikan update otomatis berjalan lancar.\n• Content Management: Dukungan fitur is_enabled untuk menyembunyikan channel bermasalah.\n• Diagnostic Pro: Notifikasi gangguan ISP/WiFi lebih akurat (Anti-Pusing).\n• WiFi Stability: Peningkatan daya tahan loading pada jaringan WiFi dengan sistem retry otomatis.\n• Performance Fix: Optimasi player untuk menangani link yang tidak stabil."
 }
