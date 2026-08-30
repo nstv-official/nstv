@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 48,
-  "latestVersionName": "3.1.8",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.8-release.apk",
+  "latestVersionCode": 49,
+  "latestVersionName": "3.1.9",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.1.9-release.apk",
   "releaseNotes": "• Hotfix Build: Perbaikan penting untuk memastikan update otomatis berjalan lancar.\n• MANUAL UPDATE: Hanya di website resmi NSTV. 🔥https://nstv-official.github.io/new-releases/\n• Diagnostic Pro: Notifikasi gangguan ISP/WiFi lebih akurat (Anti-Pusing).\n• WiFi Stability: Peningkatan daya tahan loading pada jaringan WiFi dengan sistem retry otomatis.\n• Performance Fix: Optimasi player untuk menangani link yang tidak stabil."
 }
