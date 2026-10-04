@@ -2,5 +2,6 @@
   "latestVersionCode": 62,
   "latestVersionName": "3.3.2",
   "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.2-release.apk",
-  "releaseNotes": "• Saweria Integration: Tombol donasi di halaman Dukungan membuka halaman Saweria di dalam aplikasi, siap untuk input donasi."
+  "apkSha256": "0ba91700391fc2cf39f9f96663cd7ed638020024fbc75d6b9517e33cc08f193c",
+  "releaseNotes": "• Saweria Integration: Tombol donasi di halaman Dukungan membuka halaman Saweria di dalam aplikasi, siap untuk input donasi.\n• Supporter Wall: Kartu donasi terbaru serta daftar pendukung lain di halaman Dukungan.\n• Donation Ticker: Popup donatur bergantian di bawah halaman playlist dan teks berjalan di dasar player.\n• Notch Safe: Judul halaman dan bilah atas otomatis menghindari lubang kamera/poni perangkat."
 }
