@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 62,
-  "latestVersionName": "3.3.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.2-release.apk",
-  "apkSha256": "0ba91700391fc2cf39f9f96663cd7ed638020024fbc75d6b9517e33cc08f193c",
-  "releaseNotes": "• Saweria Integration: Tombol donasi di halaman Dukungan membuka halaman Saweria di dalam aplikasi, siap untuk input donasi.\n• Supporter Wall: Kartu donasi terbaru serta daftar pendukung lain di halaman Dukungan.\n• Donation Ticker: Popup donatur bergantian di bawah halaman playlist dan teks berjalan di dasar player.\n• Notch Safe: Judul halaman dan bilah atas otomatis menghindari lubang kamera/poni perangkat."
+  "latestVersionCode": 64,
+  "latestVersionName": "3.3.4",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.4-release.apk",
+  "apkSha256": "f2c0dc7a8cdead17837e8a9e9cc51a3cdcaae5853a970320b42e0c60c3fd4778",
+  "releaseNotes": "• Player: resolver proxy runtime - INDO (dan proxy tvratu/vidsemar lainnya) kini diproses: manifest proxy dibaca, URL HLS Akamai langsung diekstrak lalu diputar. Indo lancar sampai 1080p, tanpa BAD_HTTP & tanpa stutter CDN lemah.\n• Config: INDO primary dipindah ke proxy ber-resolver; Indiv diturunkan jadi jaring pengaman."
 }
