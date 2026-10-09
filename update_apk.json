@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 64,
-  "latestVersionName": "3.3.4",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.4-release.apk",
-  "apkSha256": "f2c0dc7a8cdead17837e8a9e9cc51a3cdcaae5853a970320b42e0c60c3fd4778",
-  "releaseNotes": "• Player: resolver proxy runtime - INDO (dan proxy tvratu/vidsemar lainnya) kini diproses: manifest proxy dibaca, URL HLS Akamai langsung diekstrak lalu diputar. Indo lancar sampai 1080p, tanpa BAD_HTTP & tanpa stutter CDN lemah.\n• Config: INDO primary dipindah ke proxy ber-resolver; Indiv diturunkan jadi jaring pengaman."
+  "latestVersionCode": 65,
+  "latestVersionName": "3.3.5",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.5-release.apk",
+  "apkSha256": "c6b7d94d2b3d8251f383fe408544796f27d76f6c8e1e799d4c23d5f395f41828",
+  "releaseNotes": "• FILM: 8 kanal (AXN, BUDDY STAR, Celestial Classic, Celestial Movies, HITS, HITS MOVIES, HITS NOW, STUDIO UNIVERSAL) plus UNIQUES & Z Bioskop — content-id Widevine diperbarui, layar hijau hilang.\n• NASIONAL: IDX primary dipindah ke cloudfront berlisensi (sebelumnya load 0%); SCTV primary dipindah ke resolver tvratu (mirror calistaiptv mati/404).\n• INDOSIAR: batas resolusi video <=720p khusus kanal ini untuk mengatasi gambar beku di perangkat L3; kanal lain tidak terpengaruh.\n• DUKUNGAN: ditambahkan form \"Saran untuk NSTV\" tepat di bawah Donasi Terbaru.\n• Versi dipertahankan v3.3.5 (versionCode 65) agar pengguna v3.3.4 dapat auto-update tanpa error downgrade."
 }
