@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 65,
-  "latestVersionName": "3.3.5",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.5-release.apk",
-  "apkSha256": "c6b7d94d2b3d8251f383fe408544796f27d76f6c8e1e799d4c23d5f395f41828",
-  "releaseNotes": "• FILM: 8 kanal (AXN, BUDDY STAR, Celestial Classic, Celestial Movies, HITS, HITS MOVIES, HITS NOW, STUDIO UNIVERSAL) plus UNIQUES & Z Bioskop — content-id Widevine diperbarui, layar hijau hilang.\n• NASIONAL: IDX primary dipindah ke cloudfront berlisensi (sebelumnya load 0%); SCTV primary dipindah ke resolver tvratu (mirror calistaiptv mati/404).\n• INDOSIAR: batas resolusi video <=720p khusus kanal ini untuk mengatasi gambar beku di perangkat L3; kanal lain tidak terpengaruh.\n• DUKUNGAN: ditambahkan form \"Saran untuk NSTV\" tepat di bawah Donasi Terbaru.\n• Versi dipertahankan v3.3.5 (versionCode 65) agar pengguna v3.3.4 dapat auto-update tanpa error downgrade."
+  "latestVersionCode": 66,
+  "latestVersionName": "3.3.6",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.6-release.apk",
+  "apkSha256": "0dd481640a5899fce13ad3a7d805e4b19eec5e297e2d5f1d50e0771cd8bafbde",
+  "releaseNotes": "• PLAYER: detektor 'video freeze, audio lanjut' (stall khusus-video) — bila frame video berhenti dirender sementara audio terus jalan, pemutar otomatis re-sync ke live edge lalu pindah ke sumber cadangan. Hanya aktif setelah video benar-benar pernah tampil, sehingga kanal normal tidak terpengaruh.\n• PLAYER: watchdog lebih toleran pada kanal live-TS tunggal (tanpa cadangan) — butuh 2x berturut buffering (~22s) sebelum berhenti, mengatasi 'harus klik play ulang' setelah rebuffer sesaat.\n• SKOR & JADWAL: kartu empty-state saat tidak ada pertandingan di liga pilihan, dan jendela jadwal diperlebar hingga hari berikutnya.\n• Versi dinaikkan ke v3.3.6 (versionCode 66) agar pengguna v3.3.5 mendapat update otomatis."
 }
