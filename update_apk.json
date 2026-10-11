@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 67,
-  "latestVersionName": "3.3.7",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.7-release.apk",
-  "apkSha256": "500f5a2cd37577a68dbfe519b300cacfd40bd8aee75985bd624fdd9d1ecf00c7",
-  "releaseNotes": "• PLAYER OLAHRAGA (/server2): kebijakan 'bertahan di satu kanal' — saat stream macet, pemutar TIDAK lagi lompat ke sumber/pertandingan lain; ia re-sync ke live edge pada kanal yang sama (siaran tidak tertinggal) hingga 8x, baru menyerah. Jatah re-sync direset tiap tayangan terbukti hidup.\n• PLAYER: detektor 'video beku, audio lanjut' pada kanal tunggal juga memakai re-sync (up to 3x) sebelum menyatakan mati.\n• Versi dinaikkan ke v3.3.7 (versionCode 67)."
+  "latestVersionCode": 68,
+  "latestVersionName": "3.3.8",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.8-release.apk",
+  "apkSha256": "a9ba1c1e3fe01ae185f2ec8e45a3c2fd5d0a14a3a288347d0533380fc94ea956",
+  "releaseNotes": "• PLAYER: perbaikan 'diam beku' pada kanal olahraga (mis. BeIN Sports) yang sebelumnya TIDAK pulih sendiri — kini watchdog mendeksi posisi DIAM walau pemutar siap (bukan cuma 'audio lanjut, video beku'), lalu replay otomatis pada kanal yang SAMA (kanal resolver di-resolve ulang, persis klik-ulang manual), tanpa pernah lompat ke pertandingan/channel lain hingga 6x; jatah pemulihan direset tiap siaran terbukti sehat.\n• UI: tampil penanda 'Menstabilkan siaran...' (spinner) saat tayangan tersendat/memulihkan, jadi tidak terlihat seperti aplikasi mati.\n• KEBIJAKAN: kanal olahraga /server2 TIDAK memakai fallback silang-sumber (mencegah lompat ke konten lain, contoh Indosiar->TSPORTS); 'Indosiar - Server 3' fallback dikosongkan lagi.\n• Versi dinaikkan ke v3.3.8 (versionCode 68)."
 }
