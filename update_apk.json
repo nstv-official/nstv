@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 68,
-  "latestVersionName": "3.3.8",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.8-release.apk",
-  "apkSha256": "a9ba1c1e3fe01ae185f2ec8e45a3c2fd5d0a14a3a288347d0533380fc94ea956",
-  "releaseNotes": "• PLAYER: perbaikan 'diam beku' pada kanal olahraga (mis. BeIN Sports) yang sebelumnya TIDAK pulih sendiri — kini watchdog mendeksi posisi DIAM walau pemutar siap (bukan cuma 'audio lanjut, video beku'), lalu replay otomatis pada kanal yang SAMA (kanal resolver di-resolve ulang, persis klik-ulang manual), tanpa pernah lompat ke pertandingan/channel lain hingga 6x; jatah pemulihan direset tiap siaran terbukti sehat.\n• UI: tampil penanda 'Menstabilkan siaran...' (spinner) saat tayangan tersendat/memulihkan, jadi tidak terlihat seperti aplikasi mati.\n• KEBIJAKAN: kanal olahraga /server2 TIDAK memakai fallback silang-sumber (mencegah lompat ke konten lain, contoh Indosiar->TSPORTS); 'Indosiar - Server 3' fallback dikosongkan lagi.\n• Versi dinaikkan ke v3.3.8 (versionCode 68)."
+  "latestVersionCode": 69,
+  "latestVersionName": "3.3.9",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.9-release.apk",
+  "apkSha256": "e392382a8dfda7e3b36f6bd588e0ea519f029e02efa07bfda08e74c8948bc0ef",
+  "releaseNotes": "• PERBAIKAN REGRESI v3.3.8: deteksi 'beku-total' ternyata salah menilai stream live bertipe jendela-fix (SCTV, kanal film/TV nasional) sebagai beku, sehingga pemutar di-replay nonstop — menyebabkan kanal film stuck 0%, audio hilang (TVN Movies, Bioskop), dan spinner 'Menstabilkan siaran...' muncul walau siaran normal.\n• PLAYER: pemicu pemulihan kini berbasis FRAME video berhenti (andal untuk semua tipe stream); cabang 'posisi diam' hanya aktif bila posisi stream itu pernah terbukti maju (kasus BeIN Sports). Siaran normal tidak akan pernah di-replay lagi.\n• UI: indikator 'Menstabilkan siaran...' hanya tampil untuk kanal yang posisinya memang bertipe maju lalu berhenti >= 3 detik; lompatan jendela live tidak lagi dianggap tersendat.\n• Auto-replay kanal olahraga tetap hingga 6x dengan jatah direset tiap siaran sehat (posisi ATAU frame bergerak).\n• Versi dinaikkan ke v3.3.9 (versionCode 69)."
 }
