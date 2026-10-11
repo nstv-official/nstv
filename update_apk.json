@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 69,
-  "latestVersionName": "3.3.9",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.9-release.apk",
-  "apkSha256": "e392382a8dfda7e3b36f6bd588e0ea519f029e02efa07bfda08e74c8948bc0ef",
-  "releaseNotes": "• PERBAIKAN REGRESI v3.3.8: deteksi 'beku-total' ternyata salah menilai stream live bertipe jendela-fix (SCTV, kanal film/TV nasional) sebagai beku, sehingga pemutar di-replay nonstop — menyebabkan kanal film stuck 0%, audio hilang (TVN Movies, Bioskop), dan spinner 'Menstabilkan siaran...' muncul walau siaran normal.\n• PLAYER: pemicu pemulihan kini berbasis FRAME video berhenti (andal untuk semua tipe stream); cabang 'posisi diam' hanya aktif bila posisi stream itu pernah terbukti maju (kasus BeIN Sports). Siaran normal tidak akan pernah di-replay lagi.\n• UI: indikator 'Menstabilkan siaran...' hanya tampil untuk kanal yang posisinya memang bertipe maju lalu berhenti >= 3 detik; lompatan jendela live tidak lagi dianggap tersendat.\n• Auto-replay kanal olahraga tetap hingga 6x dengan jatah direset tiap siaran sehat (posisi ATAU frame bergerak).\n• Versi dinaikkan ke v3.3.9 (versionCode 69)."
+  "latestVersionCode": 70,
+  "latestVersionName": "3.3.10",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.10-release.apk",
+  "apkSha256": "590ef79f0554164052aaa6861094e48c2b4844bca6ec75dc2cc0aff391560c5d",
+  "releaseNotes": "• PLAYER: tambah penanganan 'EOF live' — panel Xtream tertentu (mis. INDOSIAR BOLA 1 / lancartech) memotong sesi MPEG-TS secara berkala (burst beberapa MB lalu tutup koneksi). Sebelumnya pemutar menganggap media selesai: tayangan berhenti total (gambar+audio) tanpa indikator dan hanya jalan lagi bila diklik ulang. Kini pemutar otomatis menyambung ulang dari URL asli (token sekali-pakai di-refresh lewat redirect baru), meniru perilaku OTT Navigator — tanpa pernah pindah kanal/sumber.\n• UI: tab 'Event GP' di halaman Skor & Jadwal DIGANTI menjadi 'DEVELOPER NOTES' — menampilkan catatan/pesan developer langsung dari notes.txt di repo GitHub; tombol refresh di halaman itu memuat ulang catatan.\n• Tetap membawa semua perbaikan v3.3.9: deteksi beku berbasis frame (bukan posisi), indikator 'Menstabilkan siaran...' hanya untuk kanal bertipe posisi-maju, auto-replay kanal olahraga hingga 6x.\n• Versi v3.3.10 (versionCode 70)."
 }
