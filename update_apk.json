@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 66,
-  "latestVersionName": "3.3.6",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.6-release.apk",
-  "apkSha256": "0dd481640a5899fce13ad3a7d805e4b19eec5e297e2d5f1d50e0771cd8bafbde",
-  "releaseNotes": "• PLAYER: detektor 'video freeze, audio lanjut' (stall khusus-video) — bila frame video berhenti dirender sementara audio terus jalan, pemutar otomatis re-sync ke live edge lalu pindah ke sumber cadangan. Hanya aktif setelah video benar-benar pernah tampil, sehingga kanal normal tidak terpengaruh.\n• PLAYER: watchdog lebih toleran pada kanal live-TS tunggal (tanpa cadangan) — butuh 2x berturut buffering (~22s) sebelum berhenti, mengatasi 'harus klik play ulang' setelah rebuffer sesaat.\n• SKOR & JADWAL: kartu empty-state saat tidak ada pertandingan di liga pilihan, dan jendela jadwal diperlebar hingga hari berikutnya.\n• Versi dinaikkan ke v3.3.6 (versionCode 66) agar pengguna v3.3.5 mendapat update otomatis."
+  "latestVersionCode": 67,
+  "latestVersionName": "3.3.7",
+  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.7-release.apk",
+  "apkSha256": "500f5a2cd37577a68dbfe519b300cacfd40bd8aee75985bd624fdd9d1ecf00c7",
+  "releaseNotes": "• PLAYER OLAHRAGA (/server2): kebijakan 'bertahan di satu kanal' — saat stream macet, pemutar TIDAK lagi lompat ke sumber/pertandingan lain; ia re-sync ke live edge pada kanal yang sama (siaran tidak tertinggal) hingga 8x, baru menyerah. Jatah re-sync direset tiap tayangan terbukti hidup.\n• PLAYER: detektor 'video beku, audio lanjut' pada kanal tunggal juga memakai re-sync (up to 3x) sebelum menyatakan mati.\n• Versi dinaikkan ke v3.3.7 (versionCode 67)."
 }
