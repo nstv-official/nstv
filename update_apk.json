@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 70,
-  "latestVersionName": "3.3.10",
-  "updateUrl": "https://github.com/nstv-official/nstv/raw/main/releases/NSTV_v3.3.10-release.apk",
-  "apkSha256": "590ef79f0554164052aaa6861094e48c2b4844bca6ec75dc2cc0aff391560c5d",
-  "releaseNotes": "• PLAYER: tambah penanganan 'EOF live' — panel Xtream tertentu (mis. INDOSIAR BOLA 1 / lancartech) memotong sesi MPEG-TS secara berkala (burst beberapa MB lalu tutup koneksi). Sebelumnya pemutar menganggap media selesai: tayangan berhenti total (gambar+audio) tanpa indikator dan hanya jalan lagi bila diklik ulang. Kini pemutar otomatis menyambung ulang dari URL asli (token sekali-pakai di-refresh lewat redirect baru), meniru perilaku OTT Navigator — tanpa pernah pindah kanal/sumber.\n• UI: tab 'Event GP' di halaman Skor & Jadwal DIGANTI menjadi 'DEVELOPER NOTES' — menampilkan catatan/pesan developer langsung dari notes.txt di repo GitHub; tombol refresh di halaman itu memuat ulang catatan.\n• Tetap membawa semua perbaikan v3.3.9: deteksi beku berbasis frame (bukan posisi), indikator 'Menstabilkan siaran...' hanya untuk kanal bertipe posisi-maju, auto-replay kanal olahraga hingga 6x.\n• Versi v3.3.10 (versionCode 70)."
+  "latestVersionCode": 71,
+  "latestVersionName": "3.4.0",
+  "updateUrl": "https://github.com/nstv-official/nstv/releases/download/v3.4.0/NSTV_v3.4.0-release.apk",
+  "apkSha256": "29347d75a41329a77c6f3fc01c7893bfcc7ccbcf220a59e4573c90b5f0b6f6fd",
+  "releaseNotes": "\u2022 PLAYER: intigrasi libVLC untuk kanal HTTP-FLV (xoilac). SALURAN FLV kini dapat diputar dengan benar — sebelumnya ExoPlayer tidak mendukung format FLV sehingga tayangan tidak muncul. ExoPlayer tetap digunakan untuk HLS/DASH/TS/DRM. Pemutaran FLV dilengkapi watchdog untuk deteksi macet dan retry otomatis hingga 3x.\n\u2022 UI: Watermark NSTV ditambahkan pada pemutar video \u2014 di bar hitam atas (potret) dan overlay pojok kanan-atas (layar penuh), ukuran kecil agar tidak menutupi logo stasiun asli.\n\u2022 UI: Pemutar potret diturunkan agar tidak menutupi kamera depan (punch-hole) \u2014 menggunakan max(statusBar, displayCutout).\n\u2022 UI: Tab DEVELOPER NOTES di Skor & Jadwal diberi ikon segitiga kuning beranimasi (efek flip) sebagai penanda perhatian.\n\u2022 UI: Warna teks tab terpilih diubah dari hitam ke putih lembut (alpha 0.95) \u2014 tetap terbaca di latar merah, tidak menyilaukan.\n\u2022 APK: compileSdk naik ke 36 (persyaratan libVLC); ABI dibatasi ke arm64-v8a + armeabi-v7a.\n\u2022 Versi v3.4.0 (versionCode 71)."
 }
