@@ -1,21 +1,33 @@
 
-{
-  "title": "Informasi Developer NSTV",
-  "version_notice": {
-    "title": "⚠️ INFORMASI PEMBARUAN",
-    "content": "Mohon maaf atas ketidaknyamanan yang mungkin terjadi akibat pembaruan besar-besaran pada aplikasi NSTV.\n\nNSTV masih dalam tahap pengembangan dan penyempurnaan untuk menghadirkan pengalaman menonton yang lebih baik, stabil, dan optimal dalam jangka panjang.\n\nKami sangat menghargai dukungan Anda. Untuk membantu perkembangan NSTV, silakan klik tombol DUKUNGAN pada menu di pojok kanan bawah aplikasi."
-  },
-  "channel_notice": {
-    "title": "📢 INFORMASI PENTING — STATUS CHANNEL",
-    "content": "Untuk sementara, channel pada Server 1 dan Server 2 belum tersedia secara 24/7. Beberapa channel mungkin mengalami OFFLINE pada waktu tertentu karena keterbatasan teknis dan ketersediaan layanan.\n\nMohon pengertian dan kesabarannya. Kami akan terus berupaya melakukan perbaikan dan penyempurnaan secara bertahap."
-  },
-  "disclaimer": {
-    "title": "⚖️ DISCLAIMER",
-    "content": "Semua nama produk, logo, dan merek dagang merupakan hak milik masing-masing pemiliknya. Nama perusahaan, produk, dan layanan yang tercantum dalam aplikasi ini digunakan semata-mata untuk tujuan identifikasi."
-  },
-  "website": {
-    "title": "🌐 KUNJUNGI NSTV",
-    "url": "https://apkpure.com/p/com.nstv.app"
-  },
-  "footer": "Terima kasih atas dukungan dan kepercayaan Anda. 🙏\n— NSTV Team"
-}
+⚠️ INFORMASI PEMBARUAN NSTV
+
+Mohon maaf atas ketidaknyamanan yang mungkin terjadi akibat pembaruan besar-besaran pada aplikasi NSTV.
+
+Saat ini, NSTV masih dalam tahap pengembangan dan penyempurnaan untuk menghadirkan pengalaman menonton yang lebih baik, stabil, dan optimal dalam jangka panjang.
+
+Kami sangat menghargai dukungan Anda. Untuk membantu perkembangan NSTV, silakan klik tombol DUKUNGAN pada menu di pojok kanan bawah aplikasi.
+
+━━━━━━━━━━━━━━━━━━━━
+📢 INFORMASI PENTING — STATUS CHANNEL
+━━━━━━━━━━━━━━━━━━━━
+
+Untuk sementara, channel pada Server 1 dan Server 2 belum tersedia secara 24/7. Beberapa channel mungkin mengalami OFFLINE pada waktu tertentu karena keterbatasan teknis dan ketersediaan layanan.
+
+Mohon pengertian dan kesabarannya. Kami akan terus berupaya melakukan perbaikan dan penyempurnaan secara bertahap.
+
+━━━━━━━━━━━━━━━━━━━━
+⚖️ DISCLAIMER
+━━━━━━━━━━━━━━━━━━━━
+
+Semua nama produk, logo, dan merek dagang merupakan hak milik masing-masing pemiliknya. Nama perusahaan, produk, dan layanan yang tercantum dalam aplikasi ini digunakan semata-mata untuk tujuan identifikasi.
+
+━━━━━━━━━━━━━━━━━━━━
+🌐 KUNJUNGI NSTV
+━━━━━━━━━━━━━━━━━━━━
+
+https://apkpure.com/p/com.nstv.app
+
+Terima kasih atas dukungan dan kepercayaan Anda.
+
+Salam,
+NSTV Team 🙏
