@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 73,
-  "latestVersionName": "3.4.2",
-  "updateUrl": "https://github.com/nstv-official/nstv/releases/download/v3.4.2/NSTV_v3.4.2-release.apk",
-  "apkSha256": "5bb4b6285dd1164c718ba806a333d20a9eaf1149147d90a623bf9d49f8ef9e5b",
-  "updateUrlArm64": "https://github.com/nstv-official/nstv/releases/download/v3.4.2/NSTV_v3.4.2-arm64-v8-release.apk",
-  "apkSha256Arm64": "5a000d4903e95ad63acd554fe5fef8780a43d9fa877490e9c78c11f53d57794b",
-  "releaseNotes": "\u2022 NYAMAN NONTON (buffer & layar hitam hilang): pada kanal nasional (mis. MNCTV) tayangan tersendat + layar hitam berulang tiap ~24 detik. Penyebabnya bukan CDN, melainkan pengawas internal yang salah membaca posisi play live (yang memang tidak maju-mulus) sebagai 'beku', lalu menghentikan dan menyalakan ulang stream. Usia frame tidak lagi dihitung selama buffering, vonis 'beku' wajib dikonfirmasi dua kali, dan kanal ber-fallback tidak langsung lompat mirror hanya karena sekali buffering.\n\u2022 LIVE-EDGE: kanal live tidak lagi dipaksa nempel 8 detik di belakang live-edge. Kanal DASH memakai delay bawaan manifest (Vision+ menyarankan 20 detik), HLS/TS 20 detik \u2014 sama seperti perilaku OTT Navigator di URL yang sama. Kanal EVENT LIVE/olahraga TETAP 8 detik agar tidak ketinggalan siaran.\n\u2022 AUDIO MP2: kanal ber-audio MP2 (mis. Bioskop Indonesia, tvN Movies, Warner TV) kini bersuara di HP/TABLET yang tidak punya decoder MP2 \u2014 otomatis diputar lewat mesin VLC. Android TV/STB yang punya decoder MP2 tetap memakai ExoPlayer, kanal DRM tidak pernah dialihkan.\n\u2022 TV/STB: HOME muat penuh satu layar (tinggi kartu menyesuaikan resolusi TV), banner EVENT LIVE dipersempit sehingga kartu kanal langsung terlihat, LIVE TV tampil 6 kartu sejajar, dan tombol remot KIRI/KANAN berpindah kanal saat layar penuh.\n\u2022 OTA CERDAS ABI: HP/tablet dan TV box 64-bit sekarang otomatis mengunduh varian arm64 yang ±40 MB lebih ramping; perangkat 32-bit tetap menerima APK universal supaya install tidak gagal.\n\u2022 EVENT LIVE: tombol diagnostik '/event' dihapus dari halaman.\n\u2022 Versi v3.4.2 (versionCode 73)."
+  "latestVersionCode": 74,
+  "latestVersionName": "3.4.3",
+  "updateUrl": "https://github.com/nstv-official/nstv/releases/download/v3.4.3/NSTV_v3.4.3-release.apk",
+  "apkSha256": "2985387f2bccfa4b47fdf8c5786f4cfdc5db58fd1e0a80c0fc81b1a583945dbe",
+  "updateUrlArm64": "https://github.com/nstv-official/nstv/releases/download/v3.4.3/NSTV_v3.4.3-arm64-v8-release.apk",
+  "apkSha256Arm64": "6ee976363b2fd409eeed128185a2499cf64fe6a4a1670b8db67fdc02c8e1327e",
+  "releaseNotes": ""
 }
