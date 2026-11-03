@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9001,
+    "title": "Promo: Karya Baja Mandiri",
+    "banner_mobile_url": "https://raw.githubusercontent.com/nstv-official/nstv/main/iklan/kbm-2026_11.jpg",
+    "banner_tv_url": "",
+    "action_target": "sponsor",
+    "target_id": 0,
+    "link_url": "https://wa.me/6285124640295?text=Halo%20KBM%20Canopy%2C%20saya%20melihat%20promosi%20di%20aplikasi%20NSTV",
+    "active": true,
+    "start_date": "2026-11-01",
+    "end_date": "",
+    "priority": 10
+  }
+]
